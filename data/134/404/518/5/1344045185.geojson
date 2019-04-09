@@ -1,0 +1,69 @@
+{
+  "id": 1344045185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.77604,23.73684,98.77604,23.73684",
+    "geom:latitude":23.73684,
+    "geom:longitude":98.77604,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Tai-luan",
+    "gn:country_code":"MM",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295071,
+    "gn:latitude":23.73684,
+    "gn:longitude":98.77604,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tai-luan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295071
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2ea0c03458130ba0e904fb40bd0ca99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1344045185,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344045185,
+    "wof:lastmodified":1536897560,
+    "wof:name":"Tai-luan",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.77604,
+    23.73684,
+    98.77604,
+    23.73684
+],
+  "geometry": {"coordinates":[98.77603999999999,23.73684],"type":"Point"}
+}

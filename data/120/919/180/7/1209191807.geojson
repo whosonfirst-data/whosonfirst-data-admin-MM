@@ -1,0 +1,63 @@
+{
+  "id": 1209191807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.68333,19.63333,96.68333,19.63333",
+    "geom:latitude":19.63333,
+    "geom:longitude":96.68333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014010",
+    "gn:asciiname":"Maungto",
+    "gn:country_code":"MM",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310243,
+    "gn:latitude":19.63333,
+    "gn:longitude":96.68333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Maungto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310243
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"af1f7fabdbc9eabeb2f8e9fc92937c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209191807
+        }
+    ],
+    "wof:id":1209191807,
+    "wof:lastmodified":1536294908,
+    "wof:name":"Maungto",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.68333,
+    19.63333,
+    96.68333,
+    19.63333
+],
+  "geometry": {"coordinates":[96.68333,19.63333],"type":"Point"}
+}

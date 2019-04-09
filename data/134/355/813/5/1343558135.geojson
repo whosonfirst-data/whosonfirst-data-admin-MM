@@ -1,0 +1,69 @@
+{
+  "id": 1343558135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.47232,20.5204,96.47232,20.5204",
+    "geom:latitude":20.5204,
+    "geom:longitude":96.47232,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010023",
+    "gn:asciiname":"Nyaunggyinbingon",
+    "gn:country_code":"MM",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303442,
+    "gn:latitude":20.5204,
+    "gn:longitude":96.47232,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaunggyinbingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303442
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a5ec9df50c346618d864c5d373c0a8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1343558135,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343558135,
+    "wof:lastmodified":1536602188,
+    "wof:name":"Nyaunggyinbingon",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.47232,
+    20.5204,
+    96.47232,
+    20.5204
+],
+  "geometry": {"coordinates":[96.47232,20.5204],"type":"Point"}
+}

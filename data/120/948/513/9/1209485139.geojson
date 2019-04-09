@@ -1,0 +1,63 @@
+{
+  "id": 1209485139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.19253,19.39939,95.19253,19.39939",
+    "geom:latitude":19.39939,
+    "geom:longitude":95.19253,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009012",
+    "gn:asciiname":"Letpanzeik",
+    "gn:country_code":"MM",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313871,
+    "gn:latitude":19.39939,
+    "gn:longitude":95.19253,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Letpanzeik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313871
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1178698ff1663ad3837b8b3a557e715f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209485139
+        }
+    ],
+    "wof:id":1209485139,
+    "wof:lastmodified":1536285660,
+    "wof:name":"Letpanzeik",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.19253,
+    19.39939,
+    95.19253,
+    19.39939
+],
+  "geometry": {"coordinates":[95.19253,19.39939],"type":"Point"}
+}

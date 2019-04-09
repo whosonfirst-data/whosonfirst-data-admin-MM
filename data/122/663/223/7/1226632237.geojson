@@ -1,0 +1,73 @@
+{
+  "id": 1226632237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.73049,16.00793,97.73049,16.00793",
+    "geom:latitude":16.00793,
+    "geom:longitude":97.73049,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011005",
+    "gn:asciiname":"Kalawthut",
+    "gn:country_code":"MM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321262,
+    "gn:latitude":16.00793,
+    "gn:longitude":97.73049,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kalawthut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpankala",
+        "Kalawthut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321262
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"85746a0905e6e7e563de69685762a02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1226632237,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1226632237,
+    "wof:lastmodified":1537665509,
+    "wof:name":"Kalawthut",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.73049,
+    16.00793,
+    97.73049,
+    16.00793
+],
+  "geometry": {"coordinates":[97.73049,16.00793],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344021863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.88721,17.80045,96.88721,17.80045",
+    "geom:latitude":17.80045,
+    "geom:longitude":96.88721,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Saze Kywede",
+    "gn:country_code":"MM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297605,
+    "gn:latitude":17.80045,
+    "gn:longitude":96.88721,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Saze Kyw\u00e8d\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saz\u0113",
+        "Saze Kyw\u00e8d\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297605
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5e5bad598a708b4798e8701113205ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1344021863,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1344021863,
+    "wof:lastmodified":1537665377,
+    "wof:name":"Saze Kywede",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.88721,
+    17.80045,
+    96.88721,
+    17.80045
+],
+  "geometry": {"coordinates":[96.88721,17.80045],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209887897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.16672,18.14025,97.16672,18.14025",
+    "geom:latitude":18.14025,
+    "geom:longitude":97.16672,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Thekhosede",
+    "gn:country_code":"MM",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291695,
+    "gn:latitude":18.14025,
+    "gn:longitude":97.16672,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thekhosede",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thekhasede",
+        "Thekhosede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291695
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"12846646541288c15f34cb0ad390b599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1209887897,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1209887897,
+    "wof:lastmodified":1537665345,
+    "wof:name":"Thekhosede",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.16672,
+    18.14025,
+    97.16672,
+    18.14025
+],
+  "geometry": {"coordinates":[97.16672,18.14025],"type":"Point"}
+}

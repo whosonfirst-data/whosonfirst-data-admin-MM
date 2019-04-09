@@ -1,0 +1,63 @@
+{
+  "id": 1209693373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.04569,22.30671,99.04569,22.30671",
+    "geom:latitude":22.30671,
+    "geom:longitude":99.04569,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Man Keawn",
+    "gn:country_code":"MM",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311463,
+    "gn:latitude":22.30671,
+    "gn:longitude":99.04569,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Keawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311463
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"63e3975b56b9262dc163f4f529dd9095",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693373
+        }
+    ],
+    "wof:id":1209693373,
+    "wof:lastmodified":1536279161,
+    "wof:name":"Man Keawn",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.04569,
+    22.30671,
+    99.04569,
+    22.30671
+],
+  "geometry": {"coordinates":[99.04568999999999,22.30671],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209514045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.46915,17.88208,97.46915,17.88208",
+    "geom:latitude":17.88208,
+    "geom:longitude":97.46915,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Menyuhta",
+    "gn:country_code":"MM",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309655,
+    "gn:latitude":17.88208,
+    "gn:longitude":97.46915,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Menyuhta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309655
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cbca7a7f4c60857668c3a9d44b349c71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209514045
+        }
+    ],
+    "wof:id":1209514045,
+    "wof:lastmodified":1536284790,
+    "wof:name":"Menyuhta",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.46915,
+    17.88208,
+    97.46915,
+    17.88208
+],
+  "geometry": {"coordinates":[97.46915,17.88208],"type":"Point"}
+}

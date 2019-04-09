@@ -1,0 +1,73 @@
+{
+  "id": 1276340759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.44555,25.47322,97.44555,25.47322",
+    "geom:latitude":25.47322,
+    "geom:longitude":97.44555,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001001",
+    "gn:asciiname":"Simalhka",
+    "gn:country_code":"MM",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296335,
+    "gn:latitude":25.47322,
+    "gn:longitude":97.44555,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Simalhka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanunka",
+        "Simalhka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296335
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ba473125b79ee1a3f77632d299f14c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1276340759,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276340759,
+    "wof:lastmodified":1537665369,
+    "wof:name":"Simalhka",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.44555,
+    25.47322,
+    97.44555,
+    25.47322
+],
+  "geometry": {"coordinates":[97.44555,25.47322],"type":"Point"}
+}

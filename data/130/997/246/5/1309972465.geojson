@@ -1,0 +1,69 @@
+{
+  "id": 1309972465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.26847,17.04229,96.26847,17.04229",
+    "geom:latitude":17.04229,
+    "geom:longitude":96.26847,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Gyongyongya",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325523,
+    "gn:latitude":17.04229,
+    "gn:longitude":96.26847,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gyongyongya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325523
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"00c36200c80af7b631a9de55289b4b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1309972465,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1309972465,
+    "wof:lastmodified":1536691152,
+    "wof:name":"Gyongyongya",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.26847,
+    17.04229,
+    96.26847,
+    17.04229
+],
+  "geometry": {"coordinates":[96.26846999999999,17.04229],"type":"Point"}
+}

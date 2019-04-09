@@ -1,0 +1,74 @@
+{
+  "id": 1310581721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.33222,23.01861,98.33222,23.01861",
+    "geom:latitude":23.01861,
+    "geom:longitude":98.33222,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Na-hio",
+    "gn:country_code":"MM",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307464,
+    "gn:latitude":23.01861,
+    "gn:longitude":98.33222,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Na-hio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hkai-hio",
+        "Nahio Hkai-hio",
+        "Na-hio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307464
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bc99632bc59024381ce0f4f758483a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1310581721,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310581721,
+    "wof:lastmodified":1537665425,
+    "wof:name":"Na-hio",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.33222,
+    23.01861,
+    98.33222,
+    23.01861
+],
+  "geometry": {"coordinates":[98.33222000000001,23.01861],"type":"Point"}
+}

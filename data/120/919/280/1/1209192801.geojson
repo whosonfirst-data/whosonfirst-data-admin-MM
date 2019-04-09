@@ -1,0 +1,70 @@
+{
+  "id": 1209192801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.01975,22.04197,96.01975,22.04197",
+    "geom:latitude":22.04197,
+    "geom:longitude":96.01975,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005001",
+    "gn:asciiname":"Mingun",
+    "gn:country_code":"MM",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309185,
+    "gn:latitude":22.04197,
+    "gn:longitude":96.01975,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mingun",
+    "gn:population":400,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0433\u0443\u043d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309185,
+        "wk:page":"Mingun"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"56f85eaa9cbca91bfe476159105d777e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209192801
+        }
+    ],
+    "wof:id":1209192801,
+    "wof:lastmodified":1537665436,
+    "wof:name":"Mingun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.01975,
+    22.04197000000001,
+    96.01975,
+    22.04197000000001
+],
+  "geometry": {"coordinates":[96.01975,22.04197000000001],"type":"Point"}
+}

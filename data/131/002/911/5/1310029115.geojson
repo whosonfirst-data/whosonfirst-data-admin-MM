@@ -1,0 +1,69 @@
+{
+  "id": 1310029115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.10807,27.51349,98.10807,27.51349",
+    "geom:latitude":27.51349,
+    "geom:longitude":98.10807,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001017",
+    "gn:asciiname":"Mabungawng",
+    "gn:country_code":"MM",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312700,
+    "gn:latitude":27.51349,
+    "gn:longitude":98.10807,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mabungawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312700
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"11d7a19fc96c9045504fa72a2d3a7291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1310029115,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1310029115,
+    "wof:lastmodified":1536606377,
+    "wof:name":"Mabungawng",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.10807,
+    27.51349,
+    98.10807,
+    27.51349
+],
+  "geometry": {"coordinates":[98.10807,27.51349],"type":"Point"}
+}

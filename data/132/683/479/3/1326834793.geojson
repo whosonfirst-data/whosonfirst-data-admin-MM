@@ -1,0 +1,69 @@
+{
+  "id": 1326834793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.59368,19.20965,96.59368,19.20965",
+    "geom:latitude":19.20965,
+    "geom:longitude":96.59368,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Leiktho Kyaunggon",
+    "gn:country_code":"MM",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314316,
+    "gn:latitude":19.20965,
+    "gn:longitude":96.59368,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Leiktho Kyaunggon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314316
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"835d2cd1dc05aebfe9fcaadf251be479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1326834793,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1326834793,
+    "wof:lastmodified":1537043263,
+    "wof:name":"Leiktho Kyaunggon",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.59368,
+    19.20965,
+    96.59368,
+    19.20965
+],
+  "geometry": {"coordinates":[96.59368000000001,19.20965],"type":"Point"}
+}

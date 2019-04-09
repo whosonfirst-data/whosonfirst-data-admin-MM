@@ -1,0 +1,69 @@
+{
+  "id": 1309702235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.07246,22.10032,96.07246,22.10032",
+    "geom:latitude":22.10032,
+    "geom:longitude":96.07246,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010009",
+    "gn:asciiname":"Bumeindaya",
+    "gn:country_code":"MM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327903,
+    "gn:latitude":22.10032,
+    "gn:longitude":96.07246,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bumeindaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327903
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4d4b3a9da21cab8165af203b01c11a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1309702235,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1309702235,
+    "wof:lastmodified":1537077364,
+    "wof:name":"Bumeindaya",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.07246,
+    22.10032,
+    96.07246,
+    22.10032
+],
+  "geometry": {"coordinates":[96.07246000000001,22.10032],"type":"Point"}
+}

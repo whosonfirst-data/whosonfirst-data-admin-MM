@@ -1,0 +1,69 @@
+{
+  "id": 1259660383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.09659,11.98312,99.09659,11.98312",
+    "geom:latitude":11.98312,
+    "geom:longitude":99.09659,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006008",
+    "gn:asciiname":"Kyauktalon",
+    "gn:country_code":"MM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316602,
+    "gn:latitude":11.98312,
+    "gn:longitude":99.09659,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyauktalon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316602
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"74db9d51f6047eaa18ce0faa41f04814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1259660383,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1259660383,
+    "wof:lastmodified":1536600718,
+    "wof:name":"Kyauktalon",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.09659,
+    11.98312,
+    99.09659,
+    11.98312
+],
+  "geometry": {"coordinates":[99.09659000000001,11.98312],"type":"Point"}
+}

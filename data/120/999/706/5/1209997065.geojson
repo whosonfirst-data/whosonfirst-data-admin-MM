@@ -1,0 +1,73 @@
+{
+  "id": 1209997065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.23123,20.57873,99.23123,20.57873",
+    "geom:latitude":20.57873,
+    "geom:longitude":99.23123,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D002",
+    "gn:admin3_code":"MMR016006",
+    "gn:asciiname":"Wan Hkoe-te",
+    "gn:country_code":"MM",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289544,
+    "gn:latitude":20.57873,
+    "gn:longitude":99.23123,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hk\u00f6-t\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Hk\u0113-t\u0113",
+        "W\u0101n Hk\u00f6-t\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289544
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"66ee1d5dffc30ea482f21a8fc79d8747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1209997065,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1209997065,
+    "wof:lastmodified":1537665333,
+    "wof:name":"Wan Hkoe-te",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.23123,
+    20.57873,
+    99.23123,
+    20.57873
+],
+  "geometry": {"coordinates":[99.23123,20.57873],"type":"Point"}
+}

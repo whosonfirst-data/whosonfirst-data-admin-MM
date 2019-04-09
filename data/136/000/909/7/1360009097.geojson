@@ -1,0 +1,70 @@
+{
+  "id": 1360009097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.36728,26.66434,98.36728,26.66434",
+    "geom:latitude":26.66434,
+    "geom:longitude":98.36728,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Mehke",
+    "gn:country_code":"MM",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309820,
+    "gn:latitude":26.66434,
+    "gn:longitude":98.36728,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mehke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309820,
+        "wk:page":"Mehke"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"08cb9b80bb75f21811ebb06e1b284f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1360009097,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1360009097,
+    "wof:lastmodified":1537568481,
+    "wof:name":"Mehke",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.36728,
+    26.66434000000001,
+    98.36728,
+    26.66434000000001
+],
+  "geometry": {"coordinates":[98.36727999999999,26.66434000000001],"type":"Point"}
+}

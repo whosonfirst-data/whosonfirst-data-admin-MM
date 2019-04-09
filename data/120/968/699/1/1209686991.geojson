@@ -1,0 +1,67 @@
+{
+  "id": 1209686991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.97758,17.49468,96.97758,17.49468",
+    "geom:latitude":17.49468,
+    "geom:longitude":96.97758,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011009",
+    "gn:asciiname":"Kyauktaga",
+    "gn:country_code":"MM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316642,
+    "gn:latitude":17.49468,
+    "gn:longitude":96.97758,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyauktaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyautaga",
+        "Kyauktaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316642
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5cca74a6996154913c754d20525c81eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209686991
+        }
+    ],
+    "wof:id":1209686991,
+    "wof:lastmodified":1537665479,
+    "wof:name":"Kyauktaga",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.97758,
+    17.49468,
+    96.97758,
+    17.49468
+],
+  "geometry": {"coordinates":[96.97758,17.49468],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243296221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.96933,24.48505,96.96933,24.48505",
+    "geom:latitude":24.48505,
+    "geom:longitude":96.96933,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Tawbakawng",
+    "gn:country_code":"MM",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293601,
+    "gn:latitude":24.48505,
+    "gn:longitude":96.96933,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawbakawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293601,
+        "wk:page":"Tawbakawng"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c4de3e34865684b5a722d4f8ab9ccb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1243296221,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243296221,
+    "wof:lastmodified":1537568456,
+    "wof:name":"Tawbakawng",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.96933,
+    24.48505,
+    96.96933,
+    24.48505
+],
+  "geometry": {"coordinates":[96.96933,24.48505],"type":"Point"}
+}

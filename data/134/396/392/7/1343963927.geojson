@@ -1,0 +1,73 @@
+{
+  "id": 1343963927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.88733,25.8573,96.88733,25.8573",
+    "geom:latitude":25.8573,
+    "geom:longitude":96.88733,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Kawnan Ga",
+    "gn:country_code":"MM",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319827,
+    "gn:latitude":25.8573,
+    "gn:longitude":96.88733,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawn\u0101n Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larawntu Ga",
+        "Kawn\u0101n Ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319827
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c9214bdeb959cb1b18bb8b6324415aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1343963927,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343963927,
+    "wof:lastmodified":1537665500,
+    "wof:name":"Kawnan Ga",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.88733,
+    25.8573,
+    96.88733,
+    25.8573
+],
+  "geometry": {"coordinates":[96.88733000000001,25.8573],"type":"Point"}
+}

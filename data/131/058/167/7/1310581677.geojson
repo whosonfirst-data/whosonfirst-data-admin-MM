@@ -1,0 +1,69 @@
+{
+  "id": 1310581677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.83782,21.97444,98.83782,21.97444",
+    "geom:latitude":21.97444,
+    "geom:longitude":98.83782,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Wan Pa-laue",
+    "gn:country_code":"MM",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287453,
+    "gn:latitude":21.97444,
+    "gn:longitude":98.83782,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pa-la\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287453
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8a75c9706b152b4031a59d2216f58b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1310581677,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310581677,
+    "wof:lastmodified":1536806849,
+    "wof:name":"Wan Pa-laue",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.83782,
+    21.97444,
+    98.83782,
+    21.97444
+],
+  "geometry": {"coordinates":[98.83781999999999,21.97444],"type":"Point"}
+}

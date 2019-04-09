@@ -1,0 +1,63 @@
+{
+  "id": 1209603793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.33742,23.03056,95.33742,23.03056",
+    "geom:latitude":23.03056,
+    "geom:longitude":95.33742,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Pegon",
+    "gn:country_code":"MM",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300479,
+    "gn:latitude":23.03056,
+    "gn:longitude":95.33742,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300479
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e8058996260405629c81457b484795ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209603793
+        }
+    ],
+    "wof:id":1209603793,
+    "wof:lastmodified":1536282079,
+    "wof:name":"Pegon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.33742,
+    23.03056,
+    95.33742,
+    23.03056
+],
+  "geometry": {"coordinates":[95.33741999999999,23.03056],"type":"Point"}
+}

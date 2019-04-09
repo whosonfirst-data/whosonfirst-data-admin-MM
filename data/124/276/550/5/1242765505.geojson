@@ -1,0 +1,69 @@
+{
+  "id": 1242765505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.48762,22.63587,98.48762,22.63587",
+    "geom:latitude":22.63587,
+    "geom:longitude":98.48762,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Man Namkawn",
+    "gn:country_code":"MM",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311072,
+    "gn:latitude":22.63587,
+    "gn:longitude":98.48762,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Namkawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311072
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2c6152133642f0dbf4e3e3810c22da23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1242765505,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242765505,
+    "wof:lastmodified":1536793325,
+    "wof:name":"Man Namkawn",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.48762,
+    22.63587,
+    98.48762,
+    22.63587
+],
+  "geometry": {"coordinates":[98.48762000000001,22.63587],"type":"Point"}
+}

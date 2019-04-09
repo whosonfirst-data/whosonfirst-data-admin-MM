@@ -1,0 +1,67 @@
+{
+  "id": 1343449509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.81145,21.5516,95.81145,21.5516",
+    "geom:latitude":21.5516,
+    "geom:longitude":95.81145,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyunbogon",
+    "gn:country_code":"MM",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315643,
+    "gn:latitude":21.5516,
+    "gn:longitude":95.81145,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Kyunbogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315643
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ab7dba19ba61344bf03be751088a3165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1343449509,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343449509,
+    "wof:lastmodified":1536762329,
+    "wof:name":"Kyunbogon",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.81145,
+    21.5516,
+    95.81145,
+    21.5516
+],
+  "geometry": {"coordinates":[95.81144999999999,21.5516],"type":"Point"}
+}

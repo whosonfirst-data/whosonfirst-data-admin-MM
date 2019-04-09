@@ -1,0 +1,69 @@
+{
+  "id": 1226308687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.11065,20.16838,96.11065,20.16838",
+    "geom:latitude":20.16838,
+    "geom:longitude":96.11065,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D001",
+    "gn:admin3_code":"MMR018003",
+    "gn:asciiname":"Myaukhmyaik",
+    "gn:country_code":"MM",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308166,
+    "gn:latitude":20.16838,
+    "gn:longitude":96.11065,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Myaukhmyaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308166
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7434131c7a3fec81793401243d2c0add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1226308687,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1226308687,
+    "wof:lastmodified":1536842013,
+    "wof:name":"Myaukhmyaik",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.11065,
+    20.16838,
+    96.11065,
+    20.16838
+],
+  "geometry": {"coordinates":[96.11065000000001,20.16838],"type":"Point"}
+}

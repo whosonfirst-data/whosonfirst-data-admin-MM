@@ -1,0 +1,73 @@
+{
+  "id": 1242838223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.18241,18.61333,95.18241,18.61333",
+    "geom:latitude":18.61333,
+    "geom:longitude":95.18241,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008006",
+    "gn:asciiname":"Kanthonzingyi",
+    "gn:country_code":"MM",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320459,
+    "gn:latitude":18.61333,
+    "gn:longitude":95.18241,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanthonzingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kathonzingyi",
+        "Kanthonzingyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320459
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"911974a33d95f1953f33f45d991fd5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1242838223,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1242838223,
+    "wof:lastmodified":1537665504,
+    "wof:name":"Kanthonzingyi",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.18241,
+    18.61333,
+    95.18241,
+    18.61333
+],
+  "geometry": {"coordinates":[95.18241,18.61333],"type":"Point"}
+}

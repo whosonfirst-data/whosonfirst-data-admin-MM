@@ -1,0 +1,73 @@
+{
+  "id": 1242872791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.53619,18.17474,97.53619,18.17474",
+    "geom:latitude":18.17474,
+    "geom:longitude":97.53619,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Bawbookyo",
+    "gn:country_code":"MM",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328382,
+    "gn:latitude":18.17474,
+    "gn:longitude":97.53619,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bawbookyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bawbookya",
+        "Bawbookyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328382
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c2c3542356d747f1c5c24d6ab84ed14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1242872791,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1242872791,
+    "wof:lastmodified":1537665546,
+    "wof:name":"Bawbookyo",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.53619,
+    18.17474,
+    97.53619,
+    18.17474
+],
+  "geometry": {"coordinates":[97.53619,18.17474],"type":"Point"}
+}

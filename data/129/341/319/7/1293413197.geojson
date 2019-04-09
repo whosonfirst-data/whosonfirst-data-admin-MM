@@ -1,0 +1,69 @@
+{
+  "id": 1293413197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.07706,25.48507,96.07706,25.48507",
+    "geom:latitude":25.48507,
+    "geom:longitude":96.07706,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Nampin",
+    "gn:country_code":"MM",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306495,
+    "gn:latitude":25.48507,
+    "gn:longitude":96.07706,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nampin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306495
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2024d87822f23d2a46d1ce05e1a47d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1293413197,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293413197,
+    "wof:lastmodified":1536893922,
+    "wof:name":"Nampin",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.07706,
+    25.48507,
+    96.07706,
+    25.48507
+],
+  "geometry": {"coordinates":[96.07706,25.48507],"type":"Point"}
+}

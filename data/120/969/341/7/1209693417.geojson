@@ -1,0 +1,63 @@
+{
+  "id": 1209693417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.48395,22.48899,98.48395,22.48899",
+    "geom:latitude":22.48899,
+    "geom:longitude":98.48395,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Man Longmung",
+    "gn:country_code":"MM",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311276,
+    "gn:latitude":22.48899,
+    "gn:longitude":98.48395,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Longmung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311276
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"52c0c715bab8cb86883d9a19caefdb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693417
+        }
+    ],
+    "wof:id":1209693417,
+    "wof:lastmodified":1536279160,
+    "wof:name":"Man Longmung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.48395,
+    22.48899,
+    98.48395,
+    22.48899
+],
+  "geometry": {"coordinates":[98.48394999999999,22.48899],"type":"Point"}
+}

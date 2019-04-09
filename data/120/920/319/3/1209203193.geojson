@@ -1,0 +1,63 @@
+{
+  "id": 1209203193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.26933,22.59617,95.26933,22.59617",
+    "geom:latitude":22.59617,
+    "geom:longitude":95.26933,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005010",
+    "gn:asciiname":"Kyakat",
+    "gn:country_code":"MM",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317312,
+    "gn:latitude":22.59617,
+    "gn:longitude":95.26933,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyakat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317312
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e7bb1b9044e5a5509bb8e08ac46a2534",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209203193
+        }
+    ],
+    "wof:id":1209203193,
+    "wof:lastmodified":1536294540,
+    "wof:name":"Kyakat",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.26933,
+    22.59617,
+    95.26933,
+    22.59617
+],
+  "geometry": {"coordinates":[95.26933,22.59617],"type":"Point"}
+}

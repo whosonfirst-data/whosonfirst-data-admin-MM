@@ -1,0 +1,69 @@
+{
+  "id": 1343380741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.38254,21.63649,95.38254,21.63649",
+    "geom:latitude":21.63649,
+    "geom:longitude":95.38254,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010017",
+    "gn:asciiname":"Kaingywathit",
+    "gn:country_code":"MM",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321415,
+    "gn:latitude":21.63649,
+    "gn:longitude":95.38254,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaingywathit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321415
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"30823b72b818d5fa044e1bbf6b5f4a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1343380741,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343380741,
+    "wof:lastmodified":1536859907,
+    "wof:name":"Kaingywathit",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.38254,
+    21.63649,
+    95.38254,
+    21.63649
+],
+  "geometry": {"coordinates":[95.38254000000001,21.63649],"type":"Point"}
+}

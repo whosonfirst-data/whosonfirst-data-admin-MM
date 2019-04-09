@@ -1,0 +1,69 @@
+{
+  "id": 1226119927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.19755,23.10725,97.19755,23.10725",
+    "geom:latitude":23.10725,
+    "geom:longitude":97.19755,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015015",
+    "gn:asciiname":"Ru-pang",
+    "gn:country_code":"MM",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298674,
+    "gn:latitude":23.10725,
+    "gn:longitude":97.19755,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ru-pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298674
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eec133f81bdb86f7471e3b901e20ffb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1226119927,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226119927,
+    "wof:lastmodified":1536615789,
+    "wof:name":"Ru-pang",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.19755,
+    23.10725,
+    97.19755,
+    23.10725
+],
+  "geometry": {"coordinates":[97.19755000000001,23.10725],"type":"Point"}
+}

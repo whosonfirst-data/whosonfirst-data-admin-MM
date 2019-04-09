@@ -1,0 +1,73 @@
+{
+  "id": 1309993761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.57104,22.78493,97.57104,22.78493",
+    "geom:latitude":22.78493,
+    "geom:longitude":97.57104,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Na-sang",
+    "gn:country_code":"MM",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305870,
+    "gn:latitude":22.78493,
+    "gn:longitude":97.57104,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Na-sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na-song",
+        "Na-sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305870
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e82d7f9077676247e54ba1dbb38bc9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1309993761,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309993761,
+    "wof:lastmodified":1537665418,
+    "wof:name":"Na-sang",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.57104,
+    22.78493,
+    97.57104,
+    22.78493
+],
+  "geometry": {"coordinates":[97.57104,22.78493],"type":"Point"}
+}

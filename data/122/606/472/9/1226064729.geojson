@@ -1,0 +1,69 @@
+{
+  "id": 1226064729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.09686,20.57671,96.09686,20.57671",
+    "geom:latitude":20.57671,
+    "geom:longitude":96.09686,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010024",
+    "gn:asciiname":"Natmyaung",
+    "gn:country_code":"MM",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305743,
+    "gn:latitude":20.57671,
+    "gn:longitude":96.09686,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Natmyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305743
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4abdbe33585fb934dd5aec49d7515ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1226064729,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226064729,
+    "wof:lastmodified":1536698108,
+    "wof:name":"Natmyaung",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.09686,
+    20.57671,
+    96.09686,
+    20.57671
+],
+  "geometry": {"coordinates":[96.09686000000001,20.57671],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326926069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.08397,20.69659,96.08397,20.69659",
+    "geom:latitude":20.69659,
+    "geom:longitude":96.08397,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010024",
+    "gn:asciiname":"Pan-ainghla",
+    "gn:country_code":"MM",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302224,
+    "gn:latitude":20.69659,
+    "gn:longitude":96.08397,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pan-ainghla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302224
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"13866e23b6a2ca8941c455428354e7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1326926069,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326926069,
+    "wof:lastmodified":1536914152,
+    "wof:name":"Pan-ainghla",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.08397,
+    20.69659,
+    96.08397,
+    20.69659
+],
+  "geometry": {"coordinates":[96.08396999999999,20.69659],"type":"Point"}
+}

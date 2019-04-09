@@ -1,0 +1,75 @@
+{
+  "id": 1242659577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.64879,18.23064,95.64879,18.23064",
+    "geom:latitude":18.23064,
+    "geom:longitude":95.64879,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008014",
+    "gn:asciiname":"Gyobingauk",
+    "gn:country_code":"MM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325606,
+    "gn:latitude":18.23064,
+    "gn:longitude":95.64879,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gyobingauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyobingauk",
+        "Gobingauk",
+        "Gyobingauk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325606,
+        "wk:page":"Gyobingauk"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"388f276b4d62e46989e6d4ff8a5f5fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1242659577,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1242659577,
+    "wof:lastmodified":1537665531,
+    "wof:name":"Gyobingauk",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.64879,
+    18.23064,
+    95.64879,
+    18.23064
+],
+  "geometry": {"coordinates":[95.64879000000001,18.23064],"type":"Point"}
+}

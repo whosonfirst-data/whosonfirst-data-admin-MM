@@ -1,0 +1,73 @@
+{
+  "id": 1293362179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.10403,17.7356,97.10403,17.7356",
+    "geom:latitude":17.7356,
+    "geom:longitude":97.10403,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Mephaung-bya",
+    "gn:country_code":"MM",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309629,
+    "gn:latitude":17.7356,
+    "gn:longitude":97.10403,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00e8phaung-bya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e8paung-bya",
+        "M\u00e8phaung-bya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309629
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4da2f0a2cc3f5b4f59b43d4d3d8c3a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1293362179,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1293362179,
+    "wof:lastmodified":1537665439,
+    "wof:name":"Mephaung-bya",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.10403,
+    17.7356,
+    97.10403,
+    17.7356
+],
+  "geometry": {"coordinates":[97.10402999999999,17.7356],"type":"Point"}
+}

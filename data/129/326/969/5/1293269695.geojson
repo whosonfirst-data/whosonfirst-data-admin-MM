@@ -1,0 +1,73 @@
+{
+  "id": 1293269695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.53846,22.23706,97.53846,22.23706",
+    "geom:latitude":22.23706,
+    "geom:longitude":97.53846,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Hsai-punhsunkwi",
+    "gn:country_code":"MM",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323325,
+    "gn:latitude":22.23706,
+    "gn:longitude":97.53846,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hsai-punhsunkwi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsai-punheunkwi",
+        "Hsai-punhsunkwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323325
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8f4811daae9857730b733f66fe5aa03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1293269695,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293269695,
+    "wof:lastmodified":1537665520,
+    "wof:name":"Hsai-punhsunkwi",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.53846,
+    22.23706,
+    97.53846,
+    22.23706
+],
+  "geometry": {"coordinates":[97.53846,22.23706],"type":"Point"}
+}

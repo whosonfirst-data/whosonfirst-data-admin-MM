@@ -1,0 +1,73 @@
+{
+  "id": 1226029463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.99472,23.33507,95.99472,23.33507",
+    "geom:latitude":23.33507,
+    "geom:longitude":95.99472,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010012",
+    "gn:asciiname":"Ngayinbyo",
+    "gn:country_code":"MM",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304337,
+    "gn:latitude":23.33507,
+    "gn:longitude":95.99472,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngayinbyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngalinbyu",
+        "Ngayinbyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304337
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a4ffc453069fca9e8f4be9cf6a86ffed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1226029463,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226029463,
+    "wof:lastmodified":1537665410,
+    "wof:name":"Ngayinbyo",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.99472,
+    23.33507,
+    95.99472,
+    23.33507
+],
+  "geometry": {"coordinates":[95.99472,23.33507],"type":"Point"}
+}

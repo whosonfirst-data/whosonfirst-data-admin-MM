@@ -1,0 +1,69 @@
+{
+  "id": 1343268709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.90857,17.11763,94.90857,17.11763",
+    "geom:latitude":17.11763,
+    "geom:longitude":94.90857,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017003",
+    "gn:asciiname":"Myetto",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307911,
+    "gn:latitude":17.11763,
+    "gn:longitude":94.90857,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myetto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307911
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1fdc3d1dc96a873b56397511cdbc0c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1343268709,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1343268709,
+    "wof:lastmodified":1537021957,
+    "wof:name":"Myetto",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.90857,
+    17.11763,
+    94.90857,
+    17.11763
+],
+  "geometry": {"coordinates":[94.90857,17.11763],"type":"Point"}
+}

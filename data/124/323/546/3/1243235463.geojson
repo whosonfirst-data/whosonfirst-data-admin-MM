@@ -1,0 +1,69 @@
+{
+  "id": 1243235463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.48279,17.21161,96.48279,17.21161",
+    "geom:latitude":17.21161,
+    "geom:longitude":96.48279,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007001",
+    "gn:asciiname":"Wunlothaik",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480815,
+    "gn:latitude":17.21161,
+    "gn:longitude":96.48279,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wunlothaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480815
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2be28e5ca4c1011dd140d35d220009f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1243235463,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243235463,
+    "wof:lastmodified":1536610176,
+    "wof:name":"Wunlothaik",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.48279,
+    17.21161,
+    96.48279,
+    17.21161
+],
+  "geometry": {"coordinates":[96.48278999999999,17.21161],"type":"Point"}
+}

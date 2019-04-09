@@ -1,0 +1,73 @@
+{
+  "id": 1309827827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.02869,19.61747,97.02869,19.61747",
+    "geom:latitude":19.61747,
+    "geom:longitude":97.02869,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Hpe-hso-daw",
+    "gn:country_code":"MM",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323517,
+    "gn:latitude":19.61747,
+    "gn:longitude":97.02869,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpe-hso-daw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hp\u00e8-hs\u00f6-daw",
+        "Hpe-hso-daw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323517
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"da31cda1a6ddad8883ef4e957fbce844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1309827827,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1309827827,
+    "wof:lastmodified":1537665521,
+    "wof:name":"Hpe-hso-daw",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.02869,
+    19.61747,
+    97.02869,
+    19.61747
+],
+  "geometry": {"coordinates":[97.02869,19.61747],"type":"Point"}
+}

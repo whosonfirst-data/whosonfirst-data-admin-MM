@@ -1,0 +1,73 @@
+{
+  "id": 1226219851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.76562,21.79835,97.76562,21.79835",
+    "geom:latitude":21.79835,
+    "geom:longitude":97.76562,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Nam-un",
+    "gn:country_code":"MM",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306328,
+    "gn:latitude":21.79835,
+    "gn:longitude":97.76562,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nam-un",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam nu",
+        "Nam-un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306328
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c0e34b2208edecbf3fa44a97ed8c4340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1226219851,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226219851,
+    "wof:lastmodified":1537665420,
+    "wof:name":"Nam-un",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.76562,
+    21.79835,
+    97.76562,
+    21.79835
+],
+  "geometry": {"coordinates":[97.76562,21.79835],"type":"Point"}
+}

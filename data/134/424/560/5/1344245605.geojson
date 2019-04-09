@@ -1,0 +1,69 @@
+{
+  "id": 1344245605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.53821,22.39128,95.53821,22.39128",
+    "geom:latitude":22.39128,
+    "geom:longitude":95.53821,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005006",
+    "gn:asciiname":"Mugangale",
+    "gn:country_code":"MM",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308404,
+    "gn:latitude":22.39128,
+    "gn:longitude":95.53821,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mugangale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308404
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ce82920c9ca9d822fb2773cc56c4b169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1344245605,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1344245605,
+    "wof:lastmodified":1536605445,
+    "wof:name":"Mugangale",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.53821,
+    22.39128,
+    95.53821,
+    22.39128
+],
+  "geometry": {"coordinates":[95.53821000000001,22.39128],"type":"Point"}
+}

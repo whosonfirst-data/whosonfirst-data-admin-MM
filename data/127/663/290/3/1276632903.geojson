@@ -1,0 +1,73 @@
+{
+  "id": 1276632903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.46421,23.67084,98.46421,23.67084",
+    "geom:latitude":23.67084,
+    "geom:longitude":98.46421,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Pu-hsi-htao",
+    "gn:country_code":"MM",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310755,
+    "gn:latitude":23.67084,
+    "gn:longitude":98.46421,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n P\u016b-hsi-htao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n P\u014d-hsi-htao",
+        "M\u0101n P\u016b-hsi-htao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310755
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d7ee3ff8206322f99e2788c288451d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1276632903,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276632903,
+    "wof:lastmodified":1537665446,
+    "wof:name":"Man Pu-hsi-htao",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.46421,
+    23.67084,
+    98.46421,
+    23.67084
+],
+  "geometry": {"coordinates":[98.46420999999999,23.67084],"type":"Point"}
+}

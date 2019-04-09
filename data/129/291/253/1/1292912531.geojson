@@ -1,0 +1,99 @@
+{
+  "id": 1292912531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.19062,20.59,93.19062,20.59",
+    "geom:latitude":20.59,
+    "geom:longitude":93.19062,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D005",
+    "gn:admin3_code":"MMR012003",
+    "gn:asciiname":"Mrauk U",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307658,
+    "gn:latitude":20.59,
+    "gn:longitude":93.19062,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mrauk U",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mrohaung"
+    ],
+    "name:eng_x_preferred":[
+        "Mrauk U"
+    ],
+    "name:fra_x_preferred":[
+        "Mrauk U"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u103c\u1031\u102c\u1000\u103a\u200c\u1026\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mya_x_variant":[
+        "\u1019\u103c\u1031\u102c\u1000\u103a\u1026\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Myauk U"
+    ],
+    "name:por_x_preferred":[
+        "Mrauk-U"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044c\u044f\u0443-\u0423"
+    ],
+    "name:und_x_variant":[
+        "Myonaung",
+        "Myohaung",
+        "Mrauk-oo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307658,
+        "wk:page":"Mrauk_U"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f678e1179e4ad82ef8784deee53058c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046765,
+            "locality_id":1292912531,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1292912531,
+    "wof:lastmodified":1537665426,
+    "wof:name":"Mrauk U",
+    "wof:parent_id":1092046765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.19062,
+    20.59,
+    93.19062,
+    20.59
+],
+  "geometry": {"coordinates":[93.19062,20.59],"type":"Point"}
+}

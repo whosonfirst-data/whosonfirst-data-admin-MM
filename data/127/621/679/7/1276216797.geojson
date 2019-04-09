@@ -1,0 +1,69 @@
+{
+  "id": 1276216797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.27628,20.65489,96.27628,20.65489",
+    "geom:latitude":20.65489,
+    "geom:longitude":96.27628,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010024",
+    "gn:asciiname":"Paungdaw",
+    "gn:country_code":"MM",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300978,
+    "gn:latitude":20.65489,
+    "gn:longitude":96.27628,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paungdaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300978
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7a335b29f188818f83a1d43b57447d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1276216797,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276216797,
+    "wof:lastmodified":1536935957,
+    "wof:name":"Paungdaw",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.27628,
+    20.65489,
+    96.27628,
+    20.65489
+],
+  "geometry": {"coordinates":[96.27628,20.65489],"type":"Point"}
+}

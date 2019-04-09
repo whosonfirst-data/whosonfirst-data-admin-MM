@@ -1,0 +1,73 @@
+{
+  "id": 1276315149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.74384,17.346,96.74384,17.346",
+    "geom:latitude":17.346,
+    "geom:longitude":96.74384,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007002",
+    "gn:asciiname":"Kalachaung",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321376,
+    "gn:latitude":17.346,
+    "gn:longitude":96.74384,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kalachaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalagyaung",
+        "Kalachaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321376
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4a5e9685a4b0514eb3420005d4d8f6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1276315149,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1276315149,
+    "wof:lastmodified":1537665509,
+    "wof:name":"Kalachaung",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.74384,
+    17.346,
+    96.74384,
+    17.346
+],
+  "geometry": {"coordinates":[96.74384000000001,17.346],"type":"Point"}
+}

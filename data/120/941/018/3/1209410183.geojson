@@ -1,0 +1,63 @@
+{
+  "id": 1209410183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.3195,24.43961,96.3195,24.43961",
+    "geom:latitude":24.43961,
+    "geom:longitude":96.3195,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005021",
+    "gn:asciiname":"Hpawat",
+    "gn:country_code":"MM",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323562,
+    "gn:latitude":24.43961,
+    "gn:longitude":96.3195,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpawat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323562
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4ac8d9c00ac738012bd13b1d05fef5bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209410183
+        }
+    ],
+    "wof:id":1209410183,
+    "wof:lastmodified":1536287863,
+    "wof:name":"Hpawat",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.3195,
+    24.43961,
+    96.3195,
+    24.43961
+],
+  "geometry": {"coordinates":[96.31950000000001,24.43961],"type":"Point"}
+}

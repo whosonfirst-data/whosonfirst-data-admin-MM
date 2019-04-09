@@ -1,0 +1,72 @@
+{
+  "id": 1242952163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.33851,16.99977,97.33851,16.99977",
+    "geom:latitude":16.99977,
+    "geom:longitude":97.33851,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011007",
+    "gn:asciiname":"Thayagon",
+    "gn:country_code":"MM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292200,
+    "gn:latitude":16.99977,
+    "gn:longitude":97.33851,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thayagon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thaygon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292200
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"afbdd289540aa97d383c2b0ad8248c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1242952163,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1242952163,
+    "wof:lastmodified":1537665347,
+    "wof:name":"Thayagon",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.33851,
+    16.99977,
+    97.33851,
+    16.99977
+],
+  "geometry": {"coordinates":[97.33851,16.99977],"type":"Point"}
+}

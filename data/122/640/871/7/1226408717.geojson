@@ -1,0 +1,70 @@
+{
+  "id": 1226408717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.25831,16.6611,96.25831,16.6611",
+    "geom:latitude":16.6611,
+    "geom:longitude":96.25831,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013024",
+    "gn:asciiname":"Thilawa",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291543,
+    "gn:latitude":16.6611,
+    "gn:longitude":96.25831,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thilawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291543,
+        "wk:page":"Thilawa_Port"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d8da182da0d1ca3e87622b4c9250b0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1226408717,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1226408717,
+    "wof:lastmodified":1537568454,
+    "wof:name":"Thilawa",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.25831,
+    16.6611,
+    96.25831,
+    16.6611
+],
+  "geometry": {"coordinates":[96.25830999999999,16.6611],"type":"Point"}
+}

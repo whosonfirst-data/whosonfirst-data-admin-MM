@@ -1,0 +1,63 @@
+{
+  "id": 1209611797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.10114,21.2479,96.10114,21.2479",
+    "geom:latitude":21.2479,
+    "geom:longitude":96.10114,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010031",
+    "gn:asciiname":"Tanbingon",
+    "gn:country_code":"MM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294672,
+    "gn:latitude":21.2479,
+    "gn:longitude":96.10114,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tanbingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294672
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9efc6131eaf12ec87d982aaca1cca1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209611797
+        }
+    ],
+    "wof:id":1209611797,
+    "wof:lastmodified":1536281823,
+    "wof:name":"Tanbingon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.10114,
+    21.2479,
+    96.10114,
+    21.2479
+],
+  "geometry": {"coordinates":[96.10114,21.2479],"type":"Point"}
+}

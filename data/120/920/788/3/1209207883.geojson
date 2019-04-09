@@ -1,0 +1,67 @@
+{
+  "id": 1209207883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.71887,16.73302,97.71887,16.73302",
+    "geom:latitude":16.73302,
+    "geom:longitude":97.71887,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003001",
+    "gn:asciiname":"Kobashu",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318844,
+    "gn:latitude":16.73302,
+    "gn:longitude":97.71887,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kobashu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobasnu",
+        "Kobashu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318844
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bc9d47e63af000a76a117adb7592eeb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209207883
+        }
+    ],
+    "wof:id":1209207883,
+    "wof:lastmodified":1537665492,
+    "wof:name":"Kobashu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.71887,
+    16.73302,
+    97.71887,
+    16.73302
+],
+  "geometry": {"coordinates":[97.71887,16.73302],"type":"Point"}
+}

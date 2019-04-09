@@ -1,0 +1,69 @@
+{
+  "id": 1310580241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.41705,16.95483,97.41705,16.95483",
+    "geom:latitude":16.95483,
+    "geom:longitude":97.41705,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011007",
+    "gn:asciiname":"Kyaban",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317504,
+    "gn:latitude":16.95483,
+    "gn:longitude":97.41705,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317504
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a21033b2564074dccd82cbb4ca4fbd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1310580241,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1310580241,
+    "wof:lastmodified":1536808799,
+    "wof:name":"Kyaban",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.41705,
+    16.95483,
+    97.41705,
+    16.95483
+],
+  "geometry": {"coordinates":[97.41705,16.95483],"type":"Point"}
+}

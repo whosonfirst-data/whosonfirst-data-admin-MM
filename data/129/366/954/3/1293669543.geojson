@@ -1,0 +1,69 @@
+{
+  "id": 1293669543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.27487,22.70337,97.27487,22.70337",
+    "geom:latitude":22.70337,
+    "geom:longitude":97.27487,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Pangmaklang",
+    "gn:country_code":"MM",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301785,
+    "gn:latitude":22.70337,
+    "gn:longitude":97.27487,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u0101ngmakl\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301785
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ee0dde638ba02e33d2ec85a1d38f6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1293669543,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293669543,
+    "wof:lastmodified":1537020947,
+    "wof:name":"Pangmaklang",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.27487,
+    22.70337,
+    97.27487,
+    22.70337
+],
+  "geometry": {"coordinates":[97.27487000000001,22.70337],"type":"Point"}
+}

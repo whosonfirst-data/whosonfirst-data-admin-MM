@@ -1,0 +1,73 @@
+{
+  "id": 1225816561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.84971,16.05716,97.84971,16.05716",
+    "geom:latitude":16.05716,
+    "geom:longitude":97.84971,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Nyeinchanmyaing",
+    "gn:country_code":"MM",
+    "gn:dem":72,
+    "gn:elevation":"37.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11548694,
+    "gn:latitude":16.05716,
+    "gn:longitude":97.84971,
+    "gn:modification_date":"2017-09-27",
+    "gn:name":"Nyeinchanmyaing",
+    "gn:population":189,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11548694
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f4adecb2116032d11fb02a1e88fbc8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1225816561,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1225816561,
+    "wof:lastmodified":1537053565,
+    "wof:name":"Nyeinchanmyaing",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:population":189,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.84971,
+    16.05716,
+    97.84971,
+    16.05716
+],
+  "geometry": {"coordinates":[97.84971,16.05716],"type":"Point"}
+}

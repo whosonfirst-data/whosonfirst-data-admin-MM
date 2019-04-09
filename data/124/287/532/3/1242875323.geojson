@@ -1,0 +1,69 @@
+{
+  "id": 1242875323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.78528,16.46958,94.78528,16.46958",
+    "geom:latitude":16.46958,
+    "geom:longitude":94.78528,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017014",
+    "gn:asciiname":"Pyinbon",
+    "gn:country_code":"MM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299109,
+    "gn:latitude":16.46958,
+    "gn:longitude":94.78528,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyinb\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299109
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4fb7ac9b88d6522ed476e56126d46cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1242875323,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1242875323,
+    "wof:lastmodified":1536633488,
+    "wof:name":"Pyinbon",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.78528,
+    16.46958,
+    94.78528,
+    16.46958
+],
+  "geometry": {"coordinates":[94.78528,16.46958],"type":"Point"}
+}

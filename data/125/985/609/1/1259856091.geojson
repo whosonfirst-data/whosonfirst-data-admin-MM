@@ -1,0 +1,69 @@
+{
+  "id": 1259856091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.1455,14.38874,98.1455,14.38874",
+    "geom:latitude":14.38874,
+    "geom:longitude":98.1455,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006004",
+    "gn:asciiname":"Wumpo",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286052,
+    "gn:latitude":14.38874,
+    "gn:longitude":98.1455,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wumpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286052
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fe25ce244b0de5b43388c818b9fc7c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1259856091,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1259856091,
+    "wof:lastmodified":1536817835,
+    "wof:name":"Wumpo",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.1455,
+    14.38874,
+    98.1455,
+    14.38874
+],
+  "geometry": {"coordinates":[98.1455,14.38874],"type":"Point"}
+}

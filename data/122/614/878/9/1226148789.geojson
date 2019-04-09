@@ -1,0 +1,70 @@
+{
+  "id": 1226148789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.12278,24.14924,97.12278,24.14924",
+    "geom:latitude":24.14924,
+    "geom:longitude":97.12278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Thanbankyun",
+    "gn:country_code":"MM",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292572,
+    "gn:latitude":24.14924,
+    "gn:longitude":97.12278,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thanbankyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292572,
+        "wk:page":"Thanbankyun"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"47c79f38b8b030b95a127fe94d1b6a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1226148789,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226148789,
+    "wof:lastmodified":1537568455,
+    "wof:name":"Thanbankyun",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.12278,
+    24.14924,
+    97.12278,
+    24.14924
+],
+  "geometry": {"coordinates":[97.12278000000001,24.14924],"type":"Point"}
+}

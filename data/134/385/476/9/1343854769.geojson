@@ -1,0 +1,69 @@
+{
+  "id": 1343854769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.09754,21.47073,96.09754,21.47073",
+    "geom:latitude":21.47073,
+    "geom:longitude":96.09754,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D003",
+    "gn:admin3_code":"MMR010015",
+    "gn:asciiname":"Lamainggon",
+    "gn:country_code":"MM",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314956,
+    "gn:latitude":21.47073,
+    "gn:longitude":96.09754,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lamainggon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314956
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"796a6378b71d99109f02a0b3f5bd3621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1343854769,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343854769,
+    "wof:lastmodified":1536674834,
+    "wof:name":"Lamainggon",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.09754,
+    21.47073,
+    96.09754,
+    21.47073
+],
+  "geometry": {"coordinates":[96.09754,21.47073],"type":"Point"}
+}

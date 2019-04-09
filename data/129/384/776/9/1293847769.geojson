@@ -1,0 +1,73 @@
+{
+  "id": 1293847769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.75736,17.84233,95.75736,17.84233",
+    "geom:latitude":17.84233,
+    "geom:longitude":95.75736,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008008",
+    "gn:asciiname":"Tarzu",
+    "gn:country_code":"MM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294331,
+    "gn:latitude":17.84233,
+    "gn:longitude":95.75736,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tarzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazu",
+        "Tarzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294331
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6c27d747da62ea1dd84a6bc1afe2600f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1293847769,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1293847769,
+    "wof:lastmodified":1537665359,
+    "wof:name":"Tarzu",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.75736,
+    17.84233,
+    95.75736,
+    17.84233
+],
+  "geometry": {"coordinates":[95.75736000000001,17.84233],"type":"Point"}
+}

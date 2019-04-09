@@ -1,0 +1,69 @@
+{
+  "id": 1309769525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.44516,16.67382,96.44516,16.67382",
+    "geom:latitude":16.67382,
+    "geom:longitude":96.44516,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013025",
+    "gn:asciiname":"Kyawin",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463234,
+    "gn:latitude":16.67382,
+    "gn:longitude":96.44516,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyawin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463234
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7ae5397a9a52f42ec36c0d91ca870a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1309769525,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1309769525,
+    "wof:lastmodified":1536982794,
+    "wof:name":"Kyawin",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.44516,
+    16.67382000000001,
+    96.44516,
+    16.67382000000001
+],
+  "geometry": {"coordinates":[96.44516,16.67382000000001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260057623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38161,20.88366,100.38161,20.88366",
+    "geom:latitude":20.88366,
+    "geom:longitude":100.38161,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016009",
+    "gn:asciiname":"Wan Hsenhawng",
+    "gn:country_code":"MM",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847551,
+    "gn:latitude":20.88366,
+    "gn:longitude":100.38161,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsenhawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847551
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"62c665d287a0fd419ab3e808d6cd012e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047397,
+            "locality_id":1260057623,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260057623,
+    "wof:lastmodified":1537024278,
+    "wof:name":"Wan Hsenhawng",
+    "wof:parent_id":1092047397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38161,
+    20.88366,
+    100.38161,
+    20.88366
+],
+  "geometry": {"coordinates":[100.38160999999999,20.88366],"type":"Point"}
+}

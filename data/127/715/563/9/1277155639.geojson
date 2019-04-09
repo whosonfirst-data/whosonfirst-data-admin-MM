@@ -1,0 +1,67 @@
+{
+  "id": 1277155639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.70349,21.76369,95.70349,21.76369",
+    "geom:latitude":21.76369,
+    "geom:longitude":95.70349,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taungledaw",
+    "gn:country_code":"MM",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293881,
+    "gn:latitude":21.76369,
+    "gn:longitude":95.70349,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Taungledaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293881
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"776be7a9179d466eb87e839c6b0c36a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1277155639,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1277155639,
+    "wof:lastmodified":1536662649,
+    "wof:name":"Taungledaw",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.70349,
+    21.76369,
+    95.70349,
+    21.76369
+],
+  "geometry": {"coordinates":[95.70349,21.76369],"type":"Point"}
+}

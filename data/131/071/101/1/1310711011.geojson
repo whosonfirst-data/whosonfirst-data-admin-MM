@@ -1,0 +1,69 @@
+{
+  "id": 1310711011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.33193,20.66636,93.33193,20.66636",
+    "geom:latitude":20.66636,
+    "geom:longitude":93.33193,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D005",
+    "gn:admin3_code":"MMR012005",
+    "gn:asciiname":"Nganetke",
+    "gn:country_code":"MM",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304553,
+    "gn:latitude":20.66636,
+    "gn:longitude":93.33193,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nganetke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304553
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"83217b2a31c350f5559fd33727c249a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046765,
+            "locality_id":1310711011,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1310711011,
+    "wof:lastmodified":1536618172,
+    "wof:name":"Nganetke",
+    "wof:parent_id":1092046765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.33193,
+    20.66636,
+    93.33193,
+    20.66636
+],
+  "geometry": {"coordinates":[93.33193,20.66636],"type":"Point"}
+}

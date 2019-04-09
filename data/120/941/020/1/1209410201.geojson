@@ -1,0 +1,63 @@
+{
+  "id": 1209410201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.7613,24.28443,94.7613,24.28443",
+    "geom:latitude":24.28443,
+    "geom:longitude":94.7613,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Thadagon",
+    "gn:country_code":"MM",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292831,
+    "gn:latitude":24.28443,
+    "gn:longitude":94.7613,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thadagon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292831
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"efd3f9c062a2f7965d1e1e1cc62f2569",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209410201
+        }
+    ],
+    "wof:id":1209410201,
+    "wof:lastmodified":1536287862,
+    "wof:name":"Thadagon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.7613,
+    24.28443,
+    94.7613,
+    24.28443
+],
+  "geometry": {"coordinates":[94.76130000000001,24.28443],"type":"Point"}
+}

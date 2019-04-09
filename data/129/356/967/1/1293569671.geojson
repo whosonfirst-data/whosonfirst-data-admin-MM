@@ -1,0 +1,69 @@
+{
+  "id": 1293569671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.19411,22.16204,98.19411,22.16204",
+    "geom:latitude":22.16204,
+    "geom:longitude":98.19411,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015003",
+    "gn:asciiname":"Hkaimawn",
+    "gn:country_code":"MM",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325029,
+    "gn:latitude":22.16204,
+    "gn:longitude":98.19411,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hkaimawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325029
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d423b95bc530cc4b9ed87eef33afeae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1293569671,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293569671,
+    "wof:lastmodified":1536668672,
+    "wof:name":"Hkaimawn",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.19411,
+    22.16204,
+    98.19411,
+    22.16204
+],
+  "geometry": {"coordinates":[98.19410999999999,22.16204],"type":"Point"}
+}

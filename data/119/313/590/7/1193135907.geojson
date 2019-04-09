@@ -1,0 +1,69 @@
+{
+  "id": 1193135907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.95632,18.82994,96.95632,18.82994",
+    "geom:latitude":18.82994,
+    "geom:longitude":96.95632,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Kaliki",
+    "gn:country_code":"MM",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321202,
+    "gn:latitude":18.82994,
+    "gn:longitude":96.95632,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaliki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321202
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec32a814a19dbe65cc4b6363dc53d9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1193135907,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1193135907,
+    "wof:lastmodified":1536370788,
+    "wof:name":"Kaliki",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.95632,
+    18.82994,
+    96.95632,
+    18.82994
+],
+  "geometry": {"coordinates":[96.95632000000001,18.82994],"type":"Point"}
+}

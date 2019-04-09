@@ -1,0 +1,69 @@
+{
+  "id": 1310002539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.42686,20.94087,96.42686,20.94087",
+    "geom:latitude":20.94087,
+    "geom:longitude":96.42686,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010030",
+    "gn:asciiname":"Kungezon",
+    "gn:country_code":"MM",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317882,
+    "gn:latitude":20.94087,
+    "gn:longitude":96.42686,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kungezon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317882
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a8df5dcb1bc72c0cf68595ec5da1b895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1310002539,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310002539,
+    "wof:lastmodified":1536647228,
+    "wof:name":"Kungezon",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.42686,
+    20.94087,
+    96.42686,
+    20.94087
+],
+  "geometry": {"coordinates":[96.42686,20.94087],"type":"Point"}
+}

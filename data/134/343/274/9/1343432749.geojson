@@ -1,0 +1,73 @@
+{
+  "id": 1343432749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.77291,17.25079,96.77291,17.25079",
+    "geom:latitude":17.25079,
+    "geom:longitude":96.77291,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007002",
+    "gn:asciiname":"Kalagyaunggyi",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321344,
+    "gn:latitude":17.25079,
+    "gn:longitude":96.77291,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kalagyaunggyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalachaunggyi",
+        "Kalagyaunggyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321344
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d49771fa93727bcfe0d361e5afdeab2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1343432749,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1343432749,
+    "wof:lastmodified":1537665509,
+    "wof:name":"Kalagyaunggyi",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.77291,
+    17.25079,
+    96.77291,
+    17.25079
+],
+  "geometry": {"coordinates":[96.77291,17.25079],"type":"Point"}
+}

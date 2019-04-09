@@ -1,0 +1,73 @@
+{
+  "id": 1209778273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.27465,19.77365,96.27465,19.77365",
+    "geom:latitude":19.77365,
+    "geom:longitude":96.27465,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D001",
+    "gn:admin3_code":"MMR018001",
+    "gn:asciiname":"Muntigwin Ashe",
+    "gn:country_code":"MM",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308329,
+    "gn:latitude":19.77365,
+    "gn:longitude":96.27465,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Muntigwin Ashe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mundigwin Ashe",
+        "Muntigwin Ashe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308329
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ae69b5cfa938737096462e14d21e1005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1209778273,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1209778273,
+    "wof:lastmodified":1537665429,
+    "wof:name":"Muntigwin Ashe",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.27465,
+    19.77365,
+    96.27465,
+    19.77365
+],
+  "geometry": {"coordinates":[96.27464999999999,19.77365],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309700175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.63456,21.55557,98.63456,21.55557",
+    "geom:latitude":21.55557,
+    "geom:longitude":98.63456,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Wan Longsak",
+    "gn:country_code":"MM",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288309,
+    "gn:latitude":21.55557,
+    "gn:longitude":98.63456,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Longsak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288309
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7819574769baef352c8ba9df7b36b021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1309700175,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309700175,
+    "wof:lastmodified":1537080303,
+    "wof:name":"Wan Longsak",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.63456,
+    21.55557,
+    98.63456,
+    21.55557
+],
+  "geometry": {"coordinates":[98.63455999999999,21.55557],"type":"Point"}
+}

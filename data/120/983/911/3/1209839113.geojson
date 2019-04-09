@@ -1,0 +1,69 @@
+{
+  "id": 1209839113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.52062,27.43408,97.52062,27.43408",
+    "geom:latitude":27.43408,
+    "geom:longitude":97.52062,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001016",
+    "gn:asciiname":"Namkadawk",
+    "gn:country_code":"MM",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306899,
+    "gn:latitude":27.43408,
+    "gn:longitude":97.52062,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namkadawk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306899
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b2f89001a7c4d398e4dd75270c4ed3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1209839113,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209839113,
+    "wof:lastmodified":1536393526,
+    "wof:name":"Namkadawk",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.52062,
+    27.43408,
+    97.52062,
+    27.43408
+],
+  "geometry": {"coordinates":[97.52061999999999,27.43408],"type":"Point"}
+}

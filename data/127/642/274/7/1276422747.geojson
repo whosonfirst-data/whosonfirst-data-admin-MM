@@ -1,0 +1,73 @@
+{
+  "id": 1276422747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.74461,18.32726,96.74461,18.32726",
+    "geom:latitude":18.32726,
+    "geom:longitude":96.74461,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Donto",
+    "gn:country_code":"MM",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326282,
+    "gn:latitude":18.32726,
+    "gn:longitude":96.74461,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Donto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f4ndo",
+        "Donto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326282
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"44ef089c6def8dc4eb8c33edd171573d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1276422747,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1276422747,
+    "wof:lastmodified":1537665534,
+    "wof:name":"Donto",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.74461,
+    18.32726,
+    96.74461,
+    18.32726
+],
+  "geometry": {"coordinates":[96.74460999999999,18.32726],"type":"Point"}
+}

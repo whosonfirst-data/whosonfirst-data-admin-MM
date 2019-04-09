@@ -1,0 +1,69 @@
+{
+  "id": 1226719901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.85454,20.49124,94.85454,20.49124",
+    "geom:latitude":20.49124,
+    "geom:longitude":94.85454,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009002",
+    "gn:asciiname":"Nyaungbintha",
+    "gn:country_code":"MM",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303664,
+    "gn:latitude":20.49124,
+    "gn:longitude":94.85454,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaungbintha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303664
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2f9e111e3d8dc8b7675edfdd49e45efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1226719901,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1226719901,
+    "wof:lastmodified":1536752836,
+    "wof:name":"Nyaungbintha",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.85454,
+    20.49124,
+    94.85454,
+    20.49124
+],
+  "geometry": {"coordinates":[94.85454,20.49124],"type":"Point"}
+}

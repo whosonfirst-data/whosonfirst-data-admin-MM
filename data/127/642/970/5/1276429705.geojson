@@ -1,0 +1,71 @@
+{
+  "id": 1276429705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.84587,21.89116,95.84587,21.89116",
+    "geom:latitude":21.89116,
+    "geom:longitude":95.84587,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taukyit",
+    "gn:country_code":"MM",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294177,
+    "gn:latitude":21.89116,
+    "gn:longitude":95.84587,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Taukyit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taungyit",
+        "Taukyit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294177
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"838c5a63000fdc71170f4e39b3d40948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1276429705,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276429705,
+    "wof:lastmodified":1537665358,
+    "wof:name":"Taukyit",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.84587,
+    21.89116,
+    95.84587,
+    21.89116
+],
+  "geometry": {"coordinates":[95.84587000000001,21.89116],"type":"Point"}
+}

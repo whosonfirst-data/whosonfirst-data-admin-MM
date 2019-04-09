@@ -1,0 +1,69 @@
+{
+  "id": 1226255329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.58333,23.93333,93.58333,23.93333",
+    "geom:latitude":23.93333,
+    "geom:longitude":93.58333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Chikha",
+    "gn:country_code":"MM",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327229,
+    "gn:latitude":23.93333,
+    "gn:longitude":93.58333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chikha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327229
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"19ff8a0c3fe700d5f474576ab03902ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1226255329,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1226255329,
+    "wof:lastmodified":1536920386,
+    "wof:name":"Chikha",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.58333,
+    23.93333,
+    93.58333,
+    23.93333
+],
+  "geometry": {"coordinates":[93.58333,23.93333],"type":"Point"}
+}

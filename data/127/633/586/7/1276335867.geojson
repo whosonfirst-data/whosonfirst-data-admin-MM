@@ -1,0 +1,69 @@
+{
+  "id": 1276335867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.35329,15.79351,95.35329,15.79351",
+    "geom:latitude":15.79351,
+    "geom:longitude":95.35329,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017023",
+    "gn:asciiname":"Tarahpigon",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294378,
+    "gn:latitude":15.79351,
+    "gn:longitude":95.35329,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tarahpig\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294378
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"89b000def43f2ddc0fa8a24ec1cee696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1276335867,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1276335867,
+    "wof:lastmodified":1536775721,
+    "wof:name":"Tarahpigon",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.35329,
+    15.79351,
+    95.35329,
+    15.79351
+],
+  "geometry": {"coordinates":[95.35329,15.79351],"type":"Point"}
+}

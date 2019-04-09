@@ -1,0 +1,70 @@
+{
+  "id": 1259968235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.93677,24.67414,94.93677,24.67414",
+    "geom:latitude":24.67414,
+    "geom:longitude":94.93677,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Nawngpuse",
+    "gn:country_code":"MM",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305020,
+    "gn:latitude":24.67414,
+    "gn:longitude":94.93677,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawngpuse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305020,
+        "wk:page":"Nawngpuse"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0bb1884b4453d952cbe2ad6fc82a5524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1259968235,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259968235,
+    "wof:lastmodified":1537568472,
+    "wof:name":"Nawngpuse",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.93677,
+    24.67414,
+    94.93677,
+    24.67414
+],
+  "geometry": {"coordinates":[94.93677,24.67414],"type":"Point"}
+}

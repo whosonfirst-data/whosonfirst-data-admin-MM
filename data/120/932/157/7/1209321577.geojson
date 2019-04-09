@@ -1,0 +1,63 @@
+{
+  "id": 1209321577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.09447,16.17138,95.09447,16.17138",
+    "geom:latitude":16.17138,
+    "geom:longitude":95.09447,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D004",
+    "gn:admin3_code":"MMR017018",
+    "gn:asciiname":"Lamutabin",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314912,
+    "gn:latitude":16.17138,
+    "gn:longitude":95.09447,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lamutabin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314912
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"083edce2482d4b461b9a827b330b411f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209321577
+        }
+    ],
+    "wof:id":1209321577,
+    "wof:lastmodified":1536290675,
+    "wof:name":"Lamutabin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.09447,
+    16.17138,
+    95.09447,
+    16.17138
+],
+  "geometry": {"coordinates":[95.09447,16.17138],"type":"Point"}
+}

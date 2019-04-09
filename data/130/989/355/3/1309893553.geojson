@@ -1,0 +1,73 @@
+{
+  "id": 1309893553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.18078,20.63624,97.18078,20.63624",
+    "geom:latitude":20.63624,
+    "geom:longitude":97.18078,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014003",
+    "gn:asciiname":"Kon Sati",
+    "gn:country_code":"MM",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318220,
+    "gn:latitude":20.63624,
+    "gn:longitude":97.18078,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kon Sati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kansa",
+        "Kon Sati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318220
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec290a052f8c6c54bb25374e5e5b552b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1309893553,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309893553,
+    "wof:lastmodified":1537665490,
+    "wof:name":"Kon Sati",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.18078,
+    20.63624,
+    97.18078,
+    20.63624
+],
+  "geometry": {"coordinates":[97.18078,20.63624],"type":"Point"}
+}

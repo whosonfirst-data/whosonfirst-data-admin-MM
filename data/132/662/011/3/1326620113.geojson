@@ -1,0 +1,69 @@
+{
+  "id": 1326620113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.54073,21.92113,96.54073,21.92113",
+    "geom:latitude":21.92113,
+    "geom:longitude":96.54073,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010008",
+    "gn:asciiname":"Pawpyin",
+    "gn:country_code":"MM",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300802,
+    "gn:latitude":21.92113,
+    "gn:longitude":96.54073,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pawpyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300802
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9a52618c7bc968688038f831ee54c3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1326620113,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326620113,
+    "wof:lastmodified":1536856104,
+    "wof:name":"Pawpyin",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.54073,
+    21.92113,
+    96.54073,
+    21.92113
+],
+  "geometry": {"coordinates":[96.54073,21.92113],"type":"Point"}
+}

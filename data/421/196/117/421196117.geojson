@@ -1,0 +1,90 @@
+{
+  "id": 421196117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.0546,20.85005,96.0546,20.85005",
+    "geom:latitude":20.85005,
+    "geom:longitude":96.0546,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bur_x_preferred":[
+        "\u101e\u102c\u1005\u100a\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:dut_x_preferred":[
+        "Thazi"
+    ],
+    "name:eng_x_preferred":[
+        "Thazi"
+    ],
+    "name:unk_x_variant":[
+        "Thali"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1291932,
+    "qs:gn_pop":0,
+    "qs:name":"Thazi",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Mandalay",
+    "qs:photos":66,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1167249,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017908,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291932,
+        "gp:id":1017908,
+        "qs:id":1167249,
+        "wd:id":"Q7711602"
+    },
+    "wof:country":"MM",
+    "wof:created":1459009870,
+    "wof:geomhash":"cea835264a04526f9b71130eb7ac590c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":421196117,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":421196117,
+    "wof:lastmodified":1527716365,
+    "wof:name":"Thazi",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.0546,
+    20.85005,
+    96.0546,
+    20.85005
+],
+  "geometry": {"coordinates":[96.05459999999999,20.85005],"type":"Point"}
+}

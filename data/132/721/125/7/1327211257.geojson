@@ -1,0 +1,69 @@
+{
+  "id": 1327211257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.27923,20.80415,99.27923,20.80415",
+    "geom:latitude":20.80415,
+    "geom:longitude":99.27923,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D002",
+    "gn:admin3_code":"MMR016006",
+    "gn:asciiname":"Wan Ai-ngo",
+    "gn:country_code":"MM",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289757,
+    "gn:latitude":20.80415,
+    "gn:longitude":99.27923,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wan Ai-ngo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289757
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f40744207cec34ae4343de3778860569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1327211257,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327211257,
+    "wof:lastmodified":1536999487,
+    "wof:name":"Wan Ai-ngo",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.27923,
+    20.80415,
+    99.27923,
+    20.80415
+],
+  "geometry": {"coordinates":[99.27923,20.80415],"type":"Point"}
+}

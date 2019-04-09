@@ -1,0 +1,69 @@
+{
+  "id": 1343448847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.64642,23.79405,98.64642,23.79405",
+    "geom:latitude":23.79405,
+    "geom:longitude":98.64642,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Hawhsishan",
+    "gn:country_code":"MM",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325301,
+    "gn:latitude":23.79405,
+    "gn:longitude":98.64642,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hawhsishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325301
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"158b25737eda9d869c46d20539743897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1343448847,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343448847,
+    "wof:lastmodified":1536763332,
+    "wof:name":"Hawhsishan",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.64642,
+    23.79405,
+    98.64642,
+    23.79405
+],
+  "geometry": {"coordinates":[98.64642000000001,23.79405],"type":"Point"}
+}

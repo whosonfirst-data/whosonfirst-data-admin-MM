@@ -1,0 +1,69 @@
+{
+  "id": 1276740569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.30679,21.10992,96.30679,21.10992",
+    "geom:latitude":21.10992,
+    "geom:longitude":96.30679,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014007",
+    "gn:asciiname":"Nyaunggyat",
+    "gn:country_code":"MM",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303459,
+    "gn:latitude":21.10992,
+    "gn:longitude":96.30679,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaunggyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303459
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d149bd6392f3295b8513ebfd88c3d8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1276740569,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276740569,
+    "wof:lastmodified":1536730601,
+    "wof:name":"Nyaunggyat",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.30679,
+    21.10992,
+    96.30679,
+    21.10992
+],
+  "geometry": {"coordinates":[96.30679000000001,21.10992],"type":"Point"}
+}

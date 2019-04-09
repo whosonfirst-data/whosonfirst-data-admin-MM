@@ -1,0 +1,69 @@
+{
+  "id": 1327212775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.43954,16.66294,97.43954,16.66294",
+    "geom:latitude":16.66294,
+    "geom:longitude":97.43954,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011008",
+    "gn:asciiname":"Oktada",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303050,
+    "gn:latitude":16.66294,
+    "gn:longitude":97.43954,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Oktada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303050
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"096bd6b13db13e7e4720650e7ea2aca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1327212775,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1327212775,
+    "wof:lastmodified":1536997260,
+    "wof:name":"Oktada",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.43954,
+    16.66294,
+    97.43954,
+    16.66294
+],
+  "geometry": {"coordinates":[97.43953999999999,16.66294],"type":"Point"}
+}

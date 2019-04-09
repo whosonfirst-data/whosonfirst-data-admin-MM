@@ -1,0 +1,69 @@
+{
+  "id": 1225931695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.95523,21.53737,96.95523,21.53737",
+    "geom:latitude":21.53737,
+    "geom:longitude":96.95523,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014008",
+    "gn:asciiname":"Loi-hkam",
+    "gn:country_code":"MM",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313594,
+    "gn:latitude":21.53737,
+    "gn:longitude":96.95523,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi-hkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313594
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"02fd56e7e28560923be8febe7c451b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1225931695,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225931695,
+    "wof:lastmodified":1536889307,
+    "wof:name":"Loi-hkam",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.95523,
+    21.53737000000001,
+    96.95523,
+    21.53737000000001
+],
+  "geometry": {"coordinates":[96.95523,21.53737000000001],"type":"Point"}
+}

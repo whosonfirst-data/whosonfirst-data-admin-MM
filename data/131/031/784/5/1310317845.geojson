@@ -1,0 +1,74 @@
+{
+  "id": 1310317845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.43333,23.96667,93.43333,23.96667",
+    "geom:latitude":23.96667,
+    "geom:longitude":93.43333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Haicin",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325495,
+    "gn:latitude":23.96667,
+    "gn:longitude":93.43333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Haicin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hainggyin",
+        "Haicin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325495
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"70f2d3df7df6e465e117c71c089aaa0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1310317845,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1310317845,
+    "wof:lastmodified":1537665531,
+    "wof:name":"Haicin",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.43333,
+    23.96667,
+    93.43333,
+    23.96667
+],
+  "geometry": {"coordinates":[93.43333,23.96667],"type":"Point"}
+}

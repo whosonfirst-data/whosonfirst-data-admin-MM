@@ -1,0 +1,69 @@
+{
+  "id": 1226737635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.37433,21.76826,99.37433,21.76826",
+    "geom:latitude":21.76826,
+    "geom:longitude":99.37433,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016002",
+    "gn:asciiname":"Wan Hkamnoi",
+    "gn:country_code":"MM",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289602,
+    "gn:latitude":21.76826,
+    "gn:longitude":99.37433,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hkamnoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289602
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"46a88639608b418675a4b8c433130694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1226737635,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226737635,
+    "wof:lastmodified":1536727616,
+    "wof:name":"Wan Hkamnoi",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.37433,
+    21.76826,
+    99.37433,
+    21.76826
+],
+  "geometry": {"coordinates":[99.37433,21.76826],"type":"Point"}
+}

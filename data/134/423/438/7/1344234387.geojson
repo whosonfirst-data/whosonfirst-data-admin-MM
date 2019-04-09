@@ -1,0 +1,69 @@
+{
+  "id": 1344234387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.77299,21.83746,97.77299,21.83746",
+    "geom:latitude":21.83746,
+    "geom:longitude":97.77299,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Namhkam",
+    "gn:country_code":"MM",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307106,
+    "gn:latitude":21.83746,
+    "gn:longitude":97.77299,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307106
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8eca8fc123ab79b3eaaa9e03c2b990ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1344234387,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344234387,
+    "wof:lastmodified":1536622677,
+    "wof:name":"Namhkam",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.77299,
+    21.83746,
+    97.77299,
+    21.83746
+],
+  "geometry": {"coordinates":[97.77298999999999,21.83746],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421187429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.68285,20.50441,92.68285,20.50441",
+    "geom:latitude":20.50441,
+    "geom:longitude":92.68285,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1309069,
+    "qs:gn_pop":0,
+    "qs:name":"Myohaung",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Rakhine State",
+    "qs:photos":794,
+    "qs:photos_1k":161,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":794,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083209,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017683,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309069,
+        "gp:id":1017683,
+        "qs:id":1083209
+    },
+    "wof:country":"MM",
+    "wof:created":1459009513,
+    "wof:geomhash":"65789c60cd35cb6e27f406396d7e79e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":421187429,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":421187429,
+    "wof:lastmodified":1500016719,
+    "wof:name":"Myohaung",
+    "wof:parent_id":1092047375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.68285,
+    20.50441,
+    92.68285,
+    20.50441
+],
+  "geometry": {"coordinates":[92.68285,20.50441],"type":"Point"}
+}

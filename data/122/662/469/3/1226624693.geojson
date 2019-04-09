@@ -1,0 +1,73 @@
+{
+  "id": 1226624693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.77121,24.38114,94.77121,24.38114",
+    "geom:latitude":24.38114,
+    "geom:longitude":94.77121,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Ye-e-gyaung",
+    "gn:country_code":"MM",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285380,
+    "gn:latitude":24.38114,
+    "gn:longitude":94.77121,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ye-e-gyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y-e-gyaung",
+        "Ye-e-gyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285380
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5c20c33bf8f4d89883e84a30b10b6f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1226624693,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226624693,
+    "wof:lastmodified":1537665299,
+    "wof:name":"Ye-e-gyaung",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.77121,
+    24.38114,
+    94.77121,
+    24.38114
+],
+  "geometry": {"coordinates":[94.77121,24.38114],"type":"Point"}
+}

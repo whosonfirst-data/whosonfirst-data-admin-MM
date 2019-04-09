@@ -1,0 +1,69 @@
+{
+  "id": 1260260213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.01016,22.26254,99.01016,22.26254",
+    "geom:latitude":22.26254,
+    "geom:longitude":99.01016,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Man Hsumhpue",
+    "gn:country_code":"MM",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311629,
+    "gn:latitude":22.26254,
+    "gn:longitude":99.01016,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Hs\u016bmhp\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311629
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f9dfcc5b9af03d45d7cb870b63e72f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1260260213,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260260213,
+    "wof:lastmodified":1536743090,
+    "wof:name":"Man Hsumhpue",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.01016,
+    22.26254,
+    99.01016,
+    22.26254
+],
+  "geometry": {"coordinates":[99.01016,22.26254],"type":"Point"}
+}

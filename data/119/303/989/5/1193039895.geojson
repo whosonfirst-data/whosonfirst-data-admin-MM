@@ -1,0 +1,73 @@
+{
+  "id": 1193039895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.11855,18.80478,97.11855,18.80478",
+    "geom:latitude":18.80478,
+    "geom:longitude":97.11855,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002006",
+    "gn:asciiname":"Lolawti",
+    "gn:country_code":"MM",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313191,
+    "gn:latitude":18.80478,
+    "gn:longitude":97.11855,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lolawti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lelawti",
+        "Lolawti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313191
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a9833acceca5dc157b34b6d28c4110e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1193039895,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1193039895,
+    "wof:lastmodified":1537665459,
+    "wof:name":"Lolawti",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.11855,
+    18.80478,
+    97.11855,
+    18.80478
+],
+  "geometry": {"coordinates":[97.11855,18.80478],"type":"Point"}
+}

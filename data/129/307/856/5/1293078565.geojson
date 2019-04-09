@@ -1,0 +1,69 @@
+{
+  "id": 1293078565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.48368,21.61195,98.48368,21.61195",
+    "geom:latitude":21.61195,
+    "geom:longitude":98.48368,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014014",
+    "gn:asciiname":"Wan Pak",
+    "gn:country_code":"MM",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287463,
+    "gn:latitude":21.61195,
+    "gn:longitude":98.48368,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287463
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"296cb15088ca705b46d1a18030207bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1293078565,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293078565,
+    "wof:lastmodified":1536878910,
+    "wof:name":"Wan Pak",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.48368,
+    21.61195,
+    98.48368,
+    21.61195
+],
+  "geometry": {"coordinates":[98.48368000000001,21.61195],"type":"Point"}
+}

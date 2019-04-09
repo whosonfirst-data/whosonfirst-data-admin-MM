@@ -1,0 +1,69 @@
+{
+  "id": 1243048467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.46083,23.00406,97.46083,23.00406",
+    "geom:latitude":23.00406,
+    "geom:longitude":97.46083,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015015",
+    "gn:asciiname":"Loi-htun",
+    "gn:country_code":"MM",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313501,
+    "gn:latitude":23.00406,
+    "gn:longitude":97.46083,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi-htun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313501
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"40f36be2dda1cab48646c09e8be8d1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1243048467,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243048467,
+    "wof:lastmodified":1536881596,
+    "wof:name":"Loi-htun",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.46083,
+    23.00406,
+    97.46083,
+    23.00406
+],
+  "geometry": {"coordinates":[97.46083,23.00406],"type":"Point"}
+}

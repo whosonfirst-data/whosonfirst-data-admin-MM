@@ -1,0 +1,69 @@
+{
+  "id": 1327220719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.34538,14.10748,98.34538,14.10748",
+    "geom:latitude":14.10748,
+    "geom:longitude":98.34538,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006001",
+    "gn:asciiname":"Bokpyin",
+    "gn:country_code":"MM",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328075,
+    "gn:latitude":14.10748,
+    "gn:longitude":98.34538,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bokpyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328075
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"194d87d497f909e4b73b8f88d547c7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1327220719,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1327220719,
+    "wof:lastmodified":1536985721,
+    "wof:name":"Bokpyin",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.34538,
+    14.10748,
+    98.34538,
+    14.10748
+],
+  "geometry": {"coordinates":[98.34538000000001,14.10748],"type":"Point"}
+}

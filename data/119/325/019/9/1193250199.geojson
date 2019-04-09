@@ -1,0 +1,73 @@
+{
+  "id": 1193250199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.58589,18.0472,96.58589,18.0472",
+    "geom:latitude":18.0472,
+    "geom:longitude":96.58589,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007006",
+    "gn:asciiname":"Kyadwezu",
+    "gn:country_code":"MM",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317466,
+    "gn:latitude":18.0472,
+    "gn:longitude":96.58589,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyadwezu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seyoginanauksu",
+        "Kyadwezu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317466
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5d622d4e08895427226a2e61f98baa08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1193250199,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1193250199,
+    "wof:lastmodified":1537665485,
+    "wof:name":"Kyadwezu",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.58589,
+    18.0472,
+    96.58589,
+    18.0472
+],
+  "geometry": {"coordinates":[96.58589000000001,18.0472],"type":"Point"}
+}

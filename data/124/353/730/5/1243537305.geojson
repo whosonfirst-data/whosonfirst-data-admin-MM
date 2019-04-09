@@ -1,0 +1,69 @@
+{
+  "id": 1243537305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.26944,21.07654,94.26944,21.07654",
+    "geom:latitude":21.07654,
+    "geom:longitude":94.26944,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D005",
+    "gn:admin3_code":"MMR009025",
+    "gn:asciiname":"Thonlanbyi",
+    "gn:country_code":"MM",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291179,
+    "gn:latitude":21.07654,
+    "gn:longitude":94.26944,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Th\u00f4nlanbyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092045189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291179
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3a11dceba0f066ea340a7245273c5223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045189,
+            "locality_id":1243537305,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1243537305,
+    "wof:lastmodified":1536674572,
+    "wof:name":"Thonlanbyi",
+    "wof:parent_id":1092045189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.26944,
+    21.07654,
+    94.26944,
+    21.07654
+],
+  "geometry": {"coordinates":[94.26944,21.07654],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209515095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.93299,25.66474,97.93299,25.66474",
+    "geom:latitude":25.66474,
+    "geom:longitude":97.93299,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001002",
+    "gn:asciiname":"Hkumju",
+    "gn:country_code":"MM",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324631,
+    "gn:latitude":25.66474,
+    "gn:longitude":97.93299,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hkumju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324631
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1b00a2fb5c4e77ca63a69a5207a4e9a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209515095
+        }
+    ],
+    "wof:id":1209515095,
+    "wof:lastmodified":1536284758,
+    "wof:name":"Hkumju",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.93299,
+    25.66474,
+    97.93299,
+    25.66474
+],
+  "geometry": {"coordinates":[97.93299,25.66474],"type":"Point"}
+}

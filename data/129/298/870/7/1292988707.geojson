@@ -1,0 +1,69 @@
+{
+  "id": 1292988707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.43926,20.92496,97.43926,20.92496",
+    "geom:latitude":20.92496,
+    "geom:longitude":97.43926,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014011",
+    "gn:asciiname":"Me-yong",
+    "gn:country_code":"MM",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309492,
+    "gn:latitude":20.92496,
+    "gn:longitude":97.43926,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Me-yong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309492
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"899a0bb31d81ec4d8e1f511ab5c5cfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1292988707,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1292988707,
+    "wof:lastmodified":1537008373,
+    "wof:name":"Me-yong",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.43926,
+    20.92496,
+    97.43926,
+    20.92496
+],
+  "geometry": {"coordinates":[97.43926,20.92496],"type":"Point"}
+}

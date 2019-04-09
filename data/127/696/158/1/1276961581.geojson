@@ -1,0 +1,69 @@
+{
+  "id": 1276961581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.1746,20.63351,94.1746,20.63351",
+    "geom:latitude":20.63351,
+    "geom:longitude":94.1746,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009011",
+    "gn:asciiname":"Magyiywa",
+    "gn:country_code":"MM",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312400,
+    "gn:latitude":20.63351,
+    "gn:longitude":94.1746,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Magyiywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312400
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f6102c9e098cb746b44196484c89001c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1276961581,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1276961581,
+    "wof:lastmodified":1536932601,
+    "wof:name":"Magyiywa",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.1746,
+    20.63351,
+    94.1746,
+    20.63351
+],
+  "geometry": {"coordinates":[94.1746,20.63351],"type":"Point"}
+}

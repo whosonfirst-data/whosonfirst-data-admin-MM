@@ -1,0 +1,63 @@
+{
+  "id": 1209286259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.49568,18.01505,95.49568,18.01505",
+    "geom:latitude":18.01505,
+    "geom:longitude":95.49568,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008013",
+    "gn:asciiname":"Kyagyun",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317418,
+    "gn:latitude":18.01505,
+    "gn:longitude":95.49568,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyagyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317418
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"82db8f399ce696b5914626d4592d7114",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209286259
+        }
+    ],
+    "wof:id":1209286259,
+    "wof:lastmodified":1536291850,
+    "wof:name":"Kyagyun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.49568,
+    18.01505,
+    95.49568,
+    18.01505
+],
+  "geometry": {"coordinates":[95.49567999999999,18.01505],"type":"Point"}
+}

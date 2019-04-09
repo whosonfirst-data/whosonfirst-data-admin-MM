@@ -1,0 +1,69 @@
+{
+  "id": 1260368683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.22077,21.89699,95.22077,21.89699",
+    "geom:latitude":21.89699,
+    "geom:longitude":95.22077,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005015",
+    "gn:asciiname":"Taungpila",
+    "gn:country_code":"MM",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293761,
+    "gn:latitude":21.89699,
+    "gn:longitude":95.22077,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungpila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293761
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"95e8bf2602ea879441e1938243fc2738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046719,
+            "locality_id":1260368683,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260368683,
+    "wof:lastmodified":1537091534,
+    "wof:name":"Taungpila",
+    "wof:parent_id":1092046719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.22077,
+    21.89699,
+    95.22077,
+    21.89699
+],
+  "geometry": {"coordinates":[95.22077,21.89699],"type":"Point"}
+}

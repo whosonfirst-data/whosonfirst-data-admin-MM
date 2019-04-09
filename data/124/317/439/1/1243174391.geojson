@@ -1,0 +1,74 @@
+{
+  "id": 1243174391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.63333,22.25,93.63333,22.25",
+    "geom:latitude":22.25,
+    "geom:longitude":93.63333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D003",
+    "gn:admin3_code":"MMR004002",
+    "gn:asciiname":"Shurkhua",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296762,
+    "gn:latitude":22.25,
+    "gn:longitude":93.63333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shurkhua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shurkwa",
+        "Shurkhua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296762
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e0ba26f302ac4b2f6fd70a21d9492fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045227,
+            "locality_id":1243174391,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1243174391,
+    "wof:lastmodified":1537665372,
+    "wof:name":"Shurkhua",
+    "wof:parent_id":1092045227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.63333,
+    22.25,
+    93.63333,
+    22.25
+],
+  "geometry": {"coordinates":[93.63333,22.25],"type":"Point"}
+}

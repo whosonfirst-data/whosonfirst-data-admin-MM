@@ -1,0 +1,73 @@
+{
+  "id": 1260287971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.0742,19.88317,94.0742,19.88317",
+    "geom:latitude":19.88317,
+    "geom:longitude":94.0742,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012014",
+    "gn:asciiname":"Singyon",
+    "gn:country_code":"MM",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296092,
+    "gn:latitude":19.88317,
+    "gn:longitude":94.0742,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Singyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinkyon",
+        "Singyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296092
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"09c45f21bbc5d61a030dea0a869eca73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1260287971,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1260287971,
+    "wof:lastmodified":1537665368,
+    "wof:name":"Singyon",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.0742,
+    19.88317,
+    94.0742,
+    19.88317
+],
+  "geometry": {"coordinates":[94.0742,19.88317],"type":"Point"}
+}

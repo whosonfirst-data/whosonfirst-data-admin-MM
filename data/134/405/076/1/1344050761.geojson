@@ -1,0 +1,70 @@
+{
+  "id": 1344050761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.92976,24.17221,95.92976,24.17221",
+    "geom:latitude":24.17221,
+    "geom:longitude":95.92976,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Natonna",
+    "gn:country_code":"MM",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305731,
+    "gn:latitude":24.17221,
+    "gn:longitude":95.92976,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Natonna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305731,
+        "wk:page":"Natonna"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c9617891bedeaf359024b74aa461590c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1344050761,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1344050761,
+    "wof:lastmodified":1537568474,
+    "wof:name":"Natonna",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.92976,
+    24.17221,
+    95.92976,
+    24.17221
+],
+  "geometry": {"coordinates":[95.92976,24.17221],"type":"Point"}
+}

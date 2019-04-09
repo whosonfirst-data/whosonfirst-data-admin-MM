@@ -1,0 +1,69 @@
+{
+  "id": 1343967169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.26361,18.67101,94.26361,18.67101",
+    "geom:latitude":18.67101,
+    "geom:longitude":94.26361,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012016",
+    "gn:asciiname":"Honbauk",
+    "gn:country_code":"MM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323984,
+    "gn:latitude":18.67101,
+    "gn:longitude":94.26361,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Honbauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323984
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1167cc2b296d6b3ccef59fdc8437a257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047569,
+            "locality_id":1343967169,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1343967169,
+    "wof:lastmodified":1537009508,
+    "wof:name":"Honbauk",
+    "wof:parent_id":1092047569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.26361,
+    18.67101,
+    94.26361,
+    18.67101
+],
+  "geometry": {"coordinates":[94.26361,18.67101],"type":"Point"}
+}

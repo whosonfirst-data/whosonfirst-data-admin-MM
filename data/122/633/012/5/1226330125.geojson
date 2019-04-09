@@ -1,0 +1,69 @@
+{
+  "id": 1226330125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.90999,21.86421,97.90999,21.86421",
+    "geom:latitude":21.86421,
+    "geom:longitude":97.90999,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Pangyawn",
+    "gn:country_code":"MM",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301523,
+    "gn:latitude":21.86421,
+    "gn:longitude":97.90999,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pangyawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301523
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fc32d00a0f8d4fcf00c0b74e31902713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1226330125,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226330125,
+    "wof:lastmodified":1536811493,
+    "wof:name":"Pangyawn",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.90999,
+    21.86421,
+    97.90999,
+    21.86421
+],
+  "geometry": {"coordinates":[97.90998999999999,21.86421],"type":"Point"}
+}

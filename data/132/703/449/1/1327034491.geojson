@@ -1,0 +1,73 @@
+{
+  "id": 1327034491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.30894,15.8838,98.30894,15.8838",
+    "geom:latitude":15.8838,
+    "geom:longitude":98.30894,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Hlaingwakha",
+    "gn:country_code":"MM",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324541,
+    "gn:latitude":15.8838,
+    "gn:longitude":98.30894,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hlaingwakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Htihtebe",
+        "Hlaingwakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324541
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"183f2a260b727963579921b4e0e6c82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1327034491,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1327034491,
+    "wof:lastmodified":1537665526,
+    "wof:name":"Hlaingwakha",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.30894,
+    15.8838,
+    98.30894,
+    15.8838
+],
+  "geometry": {"coordinates":[98.30894000000001,15.8838],"type":"Point"}
+}

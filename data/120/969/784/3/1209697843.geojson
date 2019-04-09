@@ -1,0 +1,73 @@
+{
+  "id": 1209697843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.25506,17.54395,96.25506,17.54395",
+    "geom:latitude":17.54395,
+    "geom:longitude":96.25506,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007001",
+    "gn:asciiname":"Kyatgyi",
+    "gn:country_code":"MM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317199,
+    "gn:latitude":17.54395,
+    "gn:longitude":96.25506,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyatgyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyatkyi",
+        "Kyatgyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317199
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"545d14d7fbf89667189c5e4ee45a8755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1209697843,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1209697843,
+    "wof:lastmodified":1537665482,
+    "wof:name":"Kyatgyi",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.25506,
+    17.54395,
+    96.25506,
+    17.54395
+],
+  "geometry": {"coordinates":[96.25506,17.54395],"type":"Point"}
+}

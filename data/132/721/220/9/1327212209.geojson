@@ -1,0 +1,68 @@
+{
+  "id": 1327212209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.82643,21.8992,95.82643,21.8992",
+    "geom:latitude":21.8992,
+    "geom:longitude":95.82643,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Letpanzin",
+    "gn:country_code":"MM",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313866,
+    "gn:latitude":21.8992,
+    "gn:longitude":95.82643,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Letpanzin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313866,
+        "wk:page":"Letpanzin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cc2f0c84cedbe8884340a0d5741d6ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1327212209,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1327212209,
+    "wof:lastmodified":1537568487,
+    "wof:name":"Letpanzin",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.82643,
+    21.8992,
+    95.82643,
+    21.8992
+],
+  "geometry": {"coordinates":[95.82643,21.8992],"type":"Point"}
+}

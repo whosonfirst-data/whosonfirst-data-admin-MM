@@ -1,0 +1,63 @@
+{
+  "id": 1209217019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.58333,23.83333,93.58333,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":93.58333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Kansau",
+    "gn:country_code":"MM",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320530,
+    "gn:latitude":23.83333,
+    "gn:longitude":93.58333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kansau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320530
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3123ae7b007e7f6ad67b217e5aef4431",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209217019
+        }
+    ],
+    "wof:id":1209217019,
+    "wof:lastmodified":1536294097,
+    "wof:name":"Kansau",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.58333,
+    23.83333,
+    93.58333,
+    23.83333
+],
+  "geometry": {"coordinates":[93.58333,23.83333],"type":"Point"}
+}

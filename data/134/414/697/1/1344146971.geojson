@@ -1,0 +1,69 @@
+{
+  "id": 1344146971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.98654,21.53809,95.98654,21.53809",
+    "geom:latitude":21.53809,
+    "geom:longitude":95.98654,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D003",
+    "gn:admin3_code":"MMR010015",
+    "gn:asciiname":"Pyawywa",
+    "gn:country_code":"MM",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299168,
+    "gn:latitude":21.53809,
+    "gn:longitude":95.98654,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyawywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299168
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8fa59e8db393a95699ee241fc4dde5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1344146971,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1344146971,
+    "wof:lastmodified":1536750666,
+    "wof:name":"Pyawywa",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.98654,
+    21.53809,
+    95.98654,
+    21.53809
+],
+  "geometry": {"coordinates":[95.98654000000001,21.53809],"type":"Point"}
+}

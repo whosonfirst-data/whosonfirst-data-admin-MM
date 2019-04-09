@@ -1,0 +1,69 @@
+{
+  "id": 1360173185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.23883,22.72342,95.23883,22.72342",
+    "geom:latitude":22.72342,
+    "geom:longitude":95.23883,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005010",
+    "gn:asciiname":"Nagadwin",
+    "gn:country_code":"MM",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307523,
+    "gn:latitude":22.72342,
+    "gn:longitude":95.23883,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nagadwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307523
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6fc3ed046afd26ac7dafc3a09ccde20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1360173185,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1360173185,
+    "wof:lastmodified":1536817745,
+    "wof:name":"Nagadwin",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.23883,
+    22.72342,
+    95.23883,
+    22.72342
+],
+  "geometry": {"coordinates":[95.23882999999999,22.72342],"type":"Point"}
+}

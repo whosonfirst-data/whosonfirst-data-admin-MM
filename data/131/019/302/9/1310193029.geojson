@@ -1,0 +1,73 @@
+{
+  "id": 1310193029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.60554,22.19332,96.60554,22.19332",
+    "geom:latitude":22.19332,
+    "geom:longitude":96.60554,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Bwetteik",
+    "gn:country_code":"MM",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327806,
+    "gn:latitude":22.19332,
+    "gn:longitude":96.60554,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bwetteik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bwettaik",
+        "Bwetteik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327806
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e96ddc8a9c23bbd0549f0fa52ed7a03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1310193029,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310193029,
+    "wof:lastmodified":1537665542,
+    "wof:name":"Bwetteik",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.60554,
+    22.19332,
+    96.60554,
+    22.19332
+],
+  "geometry": {"coordinates":[96.60554,22.19332],"type":"Point"}
+}

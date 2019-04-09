@@ -1,0 +1,80 @@
+{
+  "id": 1259869591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.93405,20.66084,96.93405,20.66084",
+    "geom:latitude":20.66084,
+    "geom:longitude":96.93405,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nyaungshwe",
+    "gn:country_code":"MM",
+    "gn:dem":894,
+    "gn:elevation":"889.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303361,
+    "gn:latitude":20.66084,
+    "gn:longitude":96.93405,
+    "gn:modification_date":"2016-10-19",
+    "gn:name":"Nyaungshwe",
+    "gn:population":1300,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yawnghwe"
+    ],
+    "name:eng_x_variant":[
+        "Nyaung Shwe"
+    ],
+    "name:mya_x_preferred":[
+        "\u100a\u1031\u102c\u1004\u103a\u101b\u103d\u103e\u1031\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303361
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9e21f82bfbbe143ab769b04ced6757ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1259869591,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259869591,
+    "wof:lastmodified":1537665405,
+    "wof:name":"Nyaungshwe",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:population":1300,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.93405,
+    20.66084,
+    96.93405,
+    20.66084
+],
+  "geometry": {"coordinates":[96.93405,20.66084],"type":"Point"}
+}

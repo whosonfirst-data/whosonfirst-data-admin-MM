@@ -1,0 +1,63 @@
+{
+  "id": 1209495707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.43797,19.9944,97.43797,19.9944",
+    "geom:latitude":19.9944,
+    "geom:longitude":97.43797,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Wan Mak-noe",
+    "gn:country_code":"MM",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478913,
+    "gn:latitude":19.9944,
+    "gn:longitude":97.43797,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n M\u0101k-n\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478913
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7a21cef8d7cb33fc5da6a667a0e98fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209495707
+        }
+    ],
+    "wof:id":1209495707,
+    "wof:lastmodified":1536285343,
+    "wof:name":"Wan Mak-noe",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.43797,
+    19.9944,
+    97.43797,
+    19.9944
+],
+  "geometry": {"coordinates":[97.43797000000001,19.9944],"type":"Point"}
+}

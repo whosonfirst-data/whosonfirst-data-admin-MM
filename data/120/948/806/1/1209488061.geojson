@@ -1,0 +1,68 @@
+{
+  "id": 1209488061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.10287,19.90238,95.10287,19.90238",
+    "geom:latitude":19.90238,
+    "geom:longitude":95.10287,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009001",
+    "gn:asciiname":"Migyaungye",
+    "gn:country_code":"MM",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309349,
+    "gn:latitude":19.90238,
+    "gn:longitude":95.10287,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Migyaungye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Migyaunye",
+        "Meegyoungye",
+        "Migyaungye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309349
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0eedda8b0f6e29cc4f75cef404dc04a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209488061
+        }
+    ],
+    "wof:id":1209488061,
+    "wof:lastmodified":1537665437,
+    "wof:name":"Migyaungye",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.10287,
+    19.90238,
+    95.10287,
+    19.90238
+],
+  "geometry": {"coordinates":[95.10287,19.90238],"type":"Point"}
+}

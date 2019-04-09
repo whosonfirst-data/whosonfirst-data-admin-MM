@@ -1,0 +1,73 @@
+{
+  "id": 1243343059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.63127,13.11829,98.63127,13.11829",
+    "geom:latitude":13.11829,
+    "geom:longitude":98.63127,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006007",
+    "gn:asciiname":"Taminmasa Auk",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294782,
+    "gn:latitude":13.11829,
+    "gn:longitude":98.63127,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taminmasa Auk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taminmasa",
+        "Taminmasa Auk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294782
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ffa49250778ebd3481af2e5be19a9eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1243343059,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1243343059,
+    "wof:lastmodified":1537665361,
+    "wof:name":"Taminmasa Auk",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.63127,
+    13.11829,
+    98.63127,
+    13.11829
+],
+  "geometry": {"coordinates":[98.63127,13.11829],"type":"Point"}
+}

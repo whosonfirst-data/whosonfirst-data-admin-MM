@@ -1,0 +1,69 @@
+{
+  "id": 1293298509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.92638,24.97197,96.92638,24.97197",
+    "geom:latitude":24.97197,
+    "geom:longitude":96.92638,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001001",
+    "gn:asciiname":"Hkachangyang",
+    "gn:country_code":"MM",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325086,
+    "gn:latitude":24.97197,
+    "gn:longitude":96.92638,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hkachangyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325086
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6374ca7a3630b6c6a80de97f9be8096f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1293298509,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293298509,
+    "wof:lastmodified":1537056901,
+    "wof:name":"Hkachangyang",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.92638,
+    24.97197,
+    96.92638,
+    24.97197
+],
+  "geometry": {"coordinates":[96.92637999999999,24.97197],"type":"Point"}
+}

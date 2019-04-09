@@ -1,0 +1,69 @@
+{
+  "id": 1343838473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.15693,23.68175,98.15693,23.68175",
+    "geom:latitude":23.68175,
+    "geom:longitude":98.15693,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Ho-wan",
+    "gn:country_code":"MM",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311714,
+    "gn:latitude":23.68175,
+    "gn:longitude":98.15693,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Ho-w\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311714
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2172ca3723c9dc16cc6b0bfd98f42bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1343838473,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343838473,
+    "wof:lastmodified":1536698614,
+    "wof:name":"Man Ho-wan",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.15693,
+    23.68175,
+    98.15693,
+    23.68175
+],
+  "geometry": {"coordinates":[98.15693,23.68175],"type":"Point"}
+}

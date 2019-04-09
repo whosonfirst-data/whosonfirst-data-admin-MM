@@ -1,0 +1,69 @@
+{
+  "id": 1276315167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.84225,17.00791,96.84225,17.00791",
+    "geom:latitude":17.00791,
+    "geom:longitude":96.84225,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007003",
+    "gn:asciiname":"Bandabin",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328505,
+    "gn:latitude":17.00791,
+    "gn:longitude":96.84225,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bandabin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328505
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"daba848e557d58f6283940495e1fb9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1276315167,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1276315167,
+    "wof:lastmodified":1536803031,
+    "wof:name":"Bandabin",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.84225,
+    17.00791,
+    96.84225,
+    17.00791
+],
+  "geometry": {"coordinates":[96.84225000000001,17.00791],"type":"Point"}
+}

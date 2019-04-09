@@ -1,0 +1,70 @@
+{
+  "id": 1360163249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.27736,25.35315,95.27736,25.35315",
+    "geom:latitude":25.35315,
+    "geom:longitude":95.27736,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Twetwa",
+    "gn:country_code":"MM",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290358,
+    "gn:latitude":25.35315,
+    "gn:longitude":95.27736,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Twetwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290358,
+        "wk:page":"Twetwa_%2825%C2%B021%22N_95%C2%B017%22E%29"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"682a47483a56430eef81314f9b3de111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1360163249,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1360163249,
+    "wof:lastmodified":1537568452,
+    "wof:name":"Twetwa",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.27736,
+    25.35315,
+    95.27736,
+    25.35315
+],
+  "geometry": {"coordinates":[95.27736,25.35315],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259476853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.61102,24.03176,95.61102,24.03176",
+    "geom:latitude":24.03176,
+    "geom:longitude":95.61102,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005025",
+    "gn:asciiname":"Kaingmakhan",
+    "gn:country_code":"MM",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321435,
+    "gn:latitude":24.03176,
+    "gn:longitude":95.61102,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaingmakhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321435
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3a132ed319bb13851bae80355964cbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1259476853,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259476853,
+    "wof:lastmodified":1536867121,
+    "wof:name":"Kaingmakhan",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.61102,
+    24.03176,
+    95.61102,
+    24.03176
+],
+  "geometry": {"coordinates":[95.61102,24.03176],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343454131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.31326,16.36217,98.31326,16.36217",
+    "geom:latitude":16.36217,
+    "geom:longitude":98.31326,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Minathan",
+    "gn:country_code":"MM",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309299,
+    "gn:latitude":16.36217,
+    "gn:longitude":98.31326,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minathan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309299
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8251b4ac49e7e3643b937431300b0c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1343454131,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1343454131,
+    "wof:lastmodified":1536755395,
+    "wof:name":"Minathan",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.31326,
+    16.36217000000001,
+    98.31326,
+    16.36217000000001
+],
+  "geometry": {"coordinates":[98.31326,16.36217000000001],"type":"Point"}
+}

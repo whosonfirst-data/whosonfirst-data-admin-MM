@@ -1,0 +1,73 @@
+{
+  "id": 1310578725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16743,24.01836,98.16743,24.01836",
+    "geom:latitude":24.01836,
+    "geom:longitude":98.16743,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015009",
+    "gn:asciiname":"Winghka",
+    "gn:country_code":"MM",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286174,
+    "gn:latitude":24.01836,
+    "gn:longitude":98.16743,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Winghka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n Kao",
+        "Winghka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286174
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b2e39b284da35691d765e43d52f6cde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1310578725,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310578725,
+    "wof:lastmodified":1537665303,
+    "wof:name":"Winghka",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16743,
+    24.01836,
+    98.16743,
+    24.01836
+],
+  "geometry": {"coordinates":[98.16743,24.01836],"type":"Point"}
+}

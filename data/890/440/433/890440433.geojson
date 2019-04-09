@@ -1,0 +1,112 @@
+{
+  "id": 890440433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.67779,22.91335,93.67779,22.91335",
+    "geom:latitude":22.91335,
+    "geom:longitude":93.67779,
+    "gn:country":"MM",
+    "gn:fcode":"PPL",
+    "gn:pop":5404,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bur_x_preferred":[
+        "\u1016\u101c\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Falam"
+    ],
+    "name:dan_x_preferred":[
+        "Falam"
+    ],
+    "name:dut_x_preferred":[
+        "Falam"
+    ],
+    "name:eng_x_preferred":[
+        "Falam"
+    ],
+    "name:fre_x_preferred":[
+        "Falam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30e9\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ub78c"
+    ],
+    "name:lit_x_preferred":[
+        "Falamas"
+    ],
+    "name:pol_x_preferred":[
+        "Falam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043b\u0430\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Falam"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0445\u0430\u043b\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Palan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u0627\u0645\u060c \u0628\u0648\u0631\u0645\u0627"
+    ],
+    "qs:name":"Falam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326105,
+        "gp:id":1017392,
+        "qs:id":132709,
+        "wd:id":"Q1208756"
+    },
+    "wof:country":"MM",
+    "wof:created":1469052275,
+    "wof:geomhash":"a362a30fd1736d9e9264c3b8b587cede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":890440433,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":890440433,
+    "wof:lastmodified":1553816399,
+    "wof:name":"Falam",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:population":5404,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.67779,
+    22.91335,
+    93.67779,
+    22.91335
+],
+  "geometry": {"coordinates":[93.67779,22.91335],"type":"Point"}
+}

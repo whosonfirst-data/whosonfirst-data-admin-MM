@@ -1,0 +1,69 @@
+{
+  "id": 1226754601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.66501,17.2434,94.66501,17.2434",
+    "geom:latitude":17.2434,
+    "geom:longitude":94.66501,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017003",
+    "gn:asciiname":"Thabaunggale",
+    "gn:country_code":"MM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293049,
+    "gn:latitude":17.2434,
+    "gn:longitude":94.66501,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thabaunggale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293049
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8ff0901a40c26ec28b0114e36da46bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1226754601,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1226754601,
+    "wof:lastmodified":1536702998,
+    "wof:name":"Thabaunggale",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.66501,
+    17.2434,
+    94.66501,
+    17.2434
+],
+  "geometry": {"coordinates":[94.66501,17.2434],"type":"Point"}
+}

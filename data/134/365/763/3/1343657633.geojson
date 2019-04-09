@@ -1,0 +1,70 @@
+{
+  "id": 1343657633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.38201,25.64929,95.38201,25.64929",
+    "geom:latitude":25.64929,
+    "geom:longitude":95.38201,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005033",
+    "gn:asciiname":"Sekkyu",
+    "gn:country_code":"MM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297399,
+    "gn:latitude":25.64929,
+    "gn:longitude":95.38201,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sekkyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297399,
+        "wk:page":"Sekkyu"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d9ebd32ce453f7848dec4b182e40b15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1343657633,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343657633,
+    "wof:lastmodified":1537568462,
+    "wof:name":"Sekkyu",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.38201,
+    25.64929,
+    95.38201,
+    25.64929
+],
+  "geometry": {"coordinates":[95.38200999999999,25.64929],"type":"Point"}
+}

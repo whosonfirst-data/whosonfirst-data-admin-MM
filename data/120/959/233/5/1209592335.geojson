@@ -1,0 +1,67 @@
+{
+  "id": 1209592335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.6411,13.06744,98.6411,13.06744",
+    "geom:latitude":13.06744,
+    "geom:longitude":98.6411,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006007",
+    "gn:asciiname":"Kyaukthinbawpya",
+    "gn:country_code":"MM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316479,
+    "gn:latitude":13.06744,
+    "gn:longitude":98.6411,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukthinbawpya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyaukthinbawbya",
+        "Kyaukthinbawpya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316479
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"727e5a27bcdca79ce558d65d696e63a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209592335
+        }
+    ],
+    "wof:id":1209592335,
+    "wof:lastmodified":1537665478,
+    "wof:name":"Kyaukthinbawpya",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.6411,
+    13.06744,
+    98.6411,
+    13.06744
+],
+  "geometry": {"coordinates":[98.64109999999999,13.06744],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209202463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.50382,22.61984,97.50382,22.61984",
+    "geom:latitude":22.61984,
+    "geom:longitude":97.50382,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Nawng-hkem",
+    "gn:country_code":"MM",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305309,
+    "gn:latitude":22.61984,
+    "gn:longitude":97.50382,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawng-hkem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305309
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c57fd03b57dc36cbef60b14c86efda23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209202463
+        }
+    ],
+    "wof:id":1209202463,
+    "wof:lastmodified":1536294562,
+    "wof:name":"Nawng-hkem",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.50382,
+    22.61984,
+    97.50382,
+    22.61984
+],
+  "geometry": {"coordinates":[97.50382,22.61984],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343836583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.93318,23.89563,95.93318,23.89563",
+    "geom:latitude":23.89563,
+    "geom:longitude":95.93318,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Dobin",
+    "gn:country_code":"MM",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326346,
+    "gn:latitude":23.89563,
+    "gn:longitude":95.93318,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dobin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobin-ywa",
+        "Dobin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326346
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4fde7008329d8d3e250318992cb46a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1343836583,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343836583,
+    "wof:lastmodified":1537665535,
+    "wof:name":"Dobin",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.93318,
+    23.89563,
+    95.93318,
+    23.89563
+],
+  "geometry": {"coordinates":[95.93317999999999,23.89563],"type":"Point"}
+}

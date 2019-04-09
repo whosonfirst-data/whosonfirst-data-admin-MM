@@ -1,0 +1,73 @@
+{
+  "id": 1260087049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.03481,16.31019,96.03481,16.31019",
+    "geom:latitude":16.31019,
+    "geom:longitude":96.03481,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017026",
+    "gn:asciiname":"Tamatakaw",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294810,
+    "gn:latitude":16.31019,
+    "gn:longitude":96.03481,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tamatakaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamadagaw",
+        "Tamatakaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294810
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"31325015f9453b1328ba16636ad81859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1260087049,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1260087049,
+    "wof:lastmodified":1537665361,
+    "wof:name":"Tamatakaw",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.03481,
+    16.31019,
+    96.03481,
+    16.31019
+],
+  "geometry": {"coordinates":[96.03480999999999,16.31019],"type":"Point"}
+}

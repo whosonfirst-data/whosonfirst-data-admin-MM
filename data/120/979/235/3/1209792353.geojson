@@ -1,0 +1,69 @@
+{
+  "id": 1209792353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.92875,12.08829,98.92875,12.08829",
+    "geom:latitude":12.08829,
+    "geom:longitude":98.92875,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006008",
+    "gn:asciiname":"Kadaw",
+    "gn:country_code":"MM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321659,
+    "gn:latitude":12.08829,
+    "gn:longitude":98.92875,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kadaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321659
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"72a9262b83a4590447916c1612bdb51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1209792353,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1209792353,
+    "wof:lastmodified":1536394436,
+    "wof:name":"Kadaw",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.92875,
+    12.08829,
+    98.92875,
+    12.08829
+],
+  "geometry": {"coordinates":[98.92874999999999,12.08829],"type":"Point"}
+}

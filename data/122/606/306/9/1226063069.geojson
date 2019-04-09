@@ -1,0 +1,67 @@
+{
+  "id": 1226063069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.88531,21.69633,95.88531,21.69633",
+    "geom:latitude":21.69633,
+    "geom:longitude":95.88531,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kantha",
+    "gn:country_code":"MM",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320496,
+    "gn:latitude":21.69633,
+    "gn:longitude":95.88531,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Kantha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320496
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4105f8f3f645d5c5c7e17264d21ae717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1226063069,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226063069,
+    "wof:lastmodified":1536700519,
+    "wof:name":"Kantha",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.88531,
+    21.69633,
+    95.88531,
+    21.69633
+],
+  "geometry": {"coordinates":[95.88531,21.69633],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259843339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.46667,18.7,96.46667,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":96.46667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007014",
+    "gn:asciiname":"Sinmalingon",
+    "gn:country_code":"MM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296017,
+    "gn:latitude":18.7,
+    "gn:longitude":96.46667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinmalingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296017
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b9b3116c49b652fc6d524b316336fdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1259843339,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1259843339,
+    "wof:lastmodified":1536836055,
+    "wof:name":"Sinmalingon",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.46667,
+    18.7,
+    96.46667,
+    18.7
+],
+  "geometry": {"coordinates":[96.46666999999999,18.7],"type":"Point"}
+}

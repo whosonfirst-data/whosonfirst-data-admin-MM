@@ -1,0 +1,69 @@
+{
+  "id": 1276528415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.86347,23.39654,98.86347,23.39654",
+    "geom:latitude":23.39654,
+    "geom:longitude":98.86347,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015021",
+    "gn:asciiname":"Kawngshan",
+    "gn:country_code":"MM",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319651,
+    "gn:latitude":23.39654,
+    "gn:longitude":98.86347,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawngshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319651
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"da71dd614b86ab77f675de17ca0ae932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1276528415,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276528415,
+    "wof:lastmodified":1537013929,
+    "wof:name":"Kawngshan",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.86347,
+    23.39654,
+    98.86347,
+    23.39654
+],
+  "geometry": {"coordinates":[98.86347000000001,23.39654],"type":"Point"}
+}

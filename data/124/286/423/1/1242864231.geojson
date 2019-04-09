@@ -1,0 +1,69 @@
+{
+  "id": 1242864231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.02532,21.32712,96.02532,21.32712",
+    "geom:latitude":21.32712,
+    "geom:longitude":96.02532,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010031",
+    "gn:asciiname":"Kyathegan",
+    "gn:country_code":"MM",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317189,
+    "gn:latitude":21.32712,
+    "gn:longitude":96.02532,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyathegan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317189
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"05f6f6a7e15cb5e36e237a06a0e555cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1242864231,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1242864231,
+    "wof:lastmodified":1536650604,
+    "wof:name":"Kyathegan",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.02532,
+    21.32712,
+    96.02532,
+    21.32712
+],
+  "geometry": {"coordinates":[96.02531999999999,21.32712],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242565459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.64494,22.25731,96.64494,22.25731",
+    "geom:latitude":22.25731,
+    "geom:longitude":96.64494,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Mang Leng",
+    "gn:country_code":"MM",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311835,
+    "gn:latitude":22.25731,
+    "gn:longitude":96.64494,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mang Leng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311835
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"17fb8b5e6680a4591132a5b25d7e7adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1242565459,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242565459,
+    "wof:lastmodified":1537078033,
+    "wof:name":"Mang Leng",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.64494,
+    22.25731,
+    96.64494,
+    22.25731
+],
+  "geometry": {"coordinates":[96.64494000000001,22.25731],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243159979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.78875,22.79519,97.78875,22.79519",
+    "geom:latitude":22.79519,
+    "geom:longitude":97.78875,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Man Pyen",
+    "gn:country_code":"MM",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310741,
+    "gn:latitude":22.79519,
+    "gn:longitude":97.78875,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Pyen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310741
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e8bc129464fcaaa480a35c9687187e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1243159979,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243159979,
+    "wof:lastmodified":1536721940,
+    "wof:name":"Man Pyen",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.78875,
+    22.79519,
+    97.78875,
+    22.79519
+],
+  "geometry": {"coordinates":[97.78874999999999,22.79519],"type":"Point"}
+}

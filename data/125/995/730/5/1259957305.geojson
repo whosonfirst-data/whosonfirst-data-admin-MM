@@ -1,0 +1,69 @@
+{
+  "id": 1259957305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.66271,22.89903,98.66271,22.89903",
+    "geom:latitude":22.89903,
+    "geom:longitude":98.66271,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015008",
+    "gn:asciiname":"Yawng Lai",
+    "gn:country_code":"MM",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285679,
+    "gn:latitude":22.89903,
+    "gn:longitude":98.66271,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yawng Lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285679
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"be14f1f6a128101d80a5c8d52b2cdf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1259957305,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259957305,
+    "wof:lastmodified":1536672843,
+    "wof:name":"Yawng Lai",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.66271,
+    22.89903,
+    98.66271,
+    22.89903
+],
+  "geometry": {"coordinates":[98.66271,22.89903],"type":"Point"}
+}

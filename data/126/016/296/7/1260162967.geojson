@@ -1,0 +1,69 @@
+{
+  "id": 1260162967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.60774,17.38909,96.60774,17.38909",
+    "geom:latitude":17.38909,
+    "geom:longitude":96.60774,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007004",
+    "gn:asciiname":"Tawzun",
+    "gn:country_code":"MM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293361,
+    "gn:latitude":17.38909,
+    "gn:longitude":96.60774,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawzun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293361
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6cc9475024962ea52e36220c3b15f0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1260162967,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1260162967,
+    "wof:lastmodified":1536875222,
+    "wof:name":"Tawzun",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.60774,
+    17.38909,
+    96.60774,
+    17.38909
+],
+  "geometry": {"coordinates":[96.60774000000001,17.38909],"type":"Point"}
+}

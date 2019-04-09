@@ -1,0 +1,69 @@
+{
+  "id": 1293280125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.25872,20.7022,98.25872,20.7022",
+    "geom:latitude":20.7022,
+    "geom:longitude":98.25872,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Pong-aw",
+    "gn:country_code":"MM",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1478572,
+    "gn:latitude":20.7022,
+    "gn:longitude":98.25872,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pong-aw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478572
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"902c6fc2e71830ad31d7027d950acf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1293280125,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293280125,
+    "wof:lastmodified":1537082806,
+    "wof:name":"Pong-aw",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.25872,
+    20.7022,
+    98.25872,
+    20.7022
+],
+  "geometry": {"coordinates":[98.25872,20.7022],"type":"Point"}
+}

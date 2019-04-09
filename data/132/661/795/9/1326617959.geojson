@@ -1,0 +1,73 @@
+{
+  "id": 1326617959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.61306,22.4449,96.61306,22.4449",
+    "geom:latitude":22.4449,
+    "geom:longitude":96.61306,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Pang-yu",
+    "gn:country_code":"MM",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301508,
+    "gn:latitude":22.4449,
+    "gn:longitude":96.61306,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pang-yu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pang-ye",
+        "Pang-yu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301508
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6c2ff8d2b544e6ccdc537a911a02645e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1326617959,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326617959,
+    "wof:lastmodified":1537665397,
+    "wof:name":"Pang-yu",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.61306,
+    22.4449,
+    96.61306,
+    22.4449
+],
+  "geometry": {"coordinates":[96.61306,22.4449],"type":"Point"}
+}

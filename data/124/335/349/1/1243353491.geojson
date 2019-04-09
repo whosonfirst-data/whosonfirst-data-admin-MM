@@ -1,0 +1,67 @@
+{
+  "id": 1243353491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.28408,20.68447,95.28408,20.68447",
+    "geom:latitude":20.68447,
+    "geom:longitude":95.28408,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pinchaung",
+    "gn:country_code":"MM",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300040,
+    "gn:latitude":20.68447,
+    "gn:longitude":95.28408,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pinchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300040
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"026f8d16a6ba9c146aa9097e8606a8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1243353491,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1243353491,
+    "wof:lastmodified":1536940265,
+    "wof:name":"Pinchaung",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.28408,
+    20.68447,
+    95.28408,
+    20.68447
+],
+  "geometry": {"coordinates":[95.28408,20.68447],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277074187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.20946,24.09047,97.20946,24.09047",
+    "geom:latitude":24.09047,
+    "geom:longitude":97.20946,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Hantet",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325363,
+    "gn:latitude":24.09047,
+    "gn:longitude":97.20946,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hantet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325363,
+        "wk:page":"Hantet"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"67ef4e3fdf55ab4f0b6a808252dd3462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1277074187,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1277074187,
+    "wof:lastmodified":1537568505,
+    "wof:name":"Hantet",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.20946,
+    24.09047,
+    97.20946,
+    24.09047
+],
+  "geometry": {"coordinates":[97.20946000000001,24.09047],"type":"Point"}
+}

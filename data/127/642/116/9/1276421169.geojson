@@ -1,0 +1,69 @@
+{
+  "id": 1276421169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.59248,23.49372,98.59248,23.49372",
+    "geom:latitude":23.49372,
+    "geom:longitude":98.59248,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Man Lunghtang",
+    "gn:country_code":"MM",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311268,
+    "gn:latitude":23.49372,
+    "gn:longitude":98.59248,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Lunghtang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311268
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d769c9287dbf688169b151d57bef8445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1276421169,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276421169,
+    "wof:lastmodified":1536661039,
+    "wof:name":"Man Lunghtang",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.59248,
+    23.49372,
+    98.59248,
+    23.49372
+],
+  "geometry": {"coordinates":[98.59247999999999,23.49372],"type":"Point"}
+}

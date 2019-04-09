@@ -1,0 +1,69 @@
+{
+  "id": 1343631255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.72439,21.41008,94.72439,21.41008",
+    "geom:latitude":21.41008,
+    "geom:longitude":94.72439,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009018",
+    "gn:asciiname":"Yozayat",
+    "gn:country_code":"MM",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284681,
+    "gn:latitude":21.41008,
+    "gn:longitude":94.72439,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yozayat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284681
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aeecbd2d6cff32537a0aaa088948cc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1343631255,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1343631255,
+    "wof:lastmodified":1536996525,
+    "wof:name":"Yozayat",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.72439,
+    21.41008,
+    94.72439,
+    21.41008
+],
+  "geometry": {"coordinates":[94.72439,21.41008],"type":"Point"}
+}

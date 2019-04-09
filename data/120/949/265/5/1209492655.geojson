@@ -1,0 +1,63 @@
+{
+  "id": 1209492655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.61858,20.69428,97.61858,20.69428",
+    "geom:latitude":20.69428,
+    "geom:longitude":97.61858,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014013",
+    "gn:asciiname":"Wan Loi-hsau",
+    "gn:country_code":"MM",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288410,
+    "gn:latitude":20.69428,
+    "gn:longitude":97.61858,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Loi-hsau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288410
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f80268086d0bb1df9245e94a5b0c1616",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209492655
+        }
+    ],
+    "wof:id":1209492655,
+    "wof:lastmodified":1536285436,
+    "wof:name":"Wan Loi-hsau",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.61858,
+    20.69428,
+    97.61858,
+    20.69428
+],
+  "geometry": {"coordinates":[97.61857999999999,20.69428],"type":"Point"}
+}

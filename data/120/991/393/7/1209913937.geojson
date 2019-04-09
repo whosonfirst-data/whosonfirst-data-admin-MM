@@ -1,0 +1,69 @@
+{
+  "id": 1209913937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.36935,24.46979,97.36935,24.46979",
+    "geom:latitude":24.46979,
+    "geom:longitude":97.36935,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001012",
+    "gn:asciiname":"Naungkwan",
+    "gn:country_code":"MM",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305531,
+    "gn:latitude":24.46979,
+    "gn:longitude":97.36935,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naungkwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305531
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7bc6653a26a05255dcdf5168556f328d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1209913937,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209913937,
+    "wof:lastmodified":1536375779,
+    "wof:name":"Naungkwan",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.36935,
+    24.46979,
+    97.36935,
+    24.46979
+],
+  "geometry": {"coordinates":[97.36935,24.46979],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209539195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.0992,25.88315,98.0992,25.88315",
+    "geom:latitude":25.88315,
+    "geom:longitude":98.0992,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Lakyawn",
+    "gn:country_code":"MM",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315006,
+    "gn:latitude":25.88315,
+    "gn:longitude":98.0992,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"L\u0101kyawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315006
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0bf1ab446033c2534a49799a4546776b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209539195
+        }
+    ],
+    "wof:id":1209539195,
+    "wof:lastmodified":1536284039,
+    "wof:name":"Lakyawn",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.0992,
+    25.88315,
+    98.0992,
+    25.88315
+],
+  "geometry": {"coordinates":[98.0992,25.88315],"type":"Point"}
+}

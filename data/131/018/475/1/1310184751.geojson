@@ -1,0 +1,69 @@
+{
+  "id": 1310184751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.70474,13.82995,98.70474,13.82995",
+    "geom:latitude":13.82995,
+    "geom:longitude":98.70474,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006001",
+    "gn:asciiname":"Kungyaunggyi",
+    "gn:country_code":"MM",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317837,
+    "gn:latitude":13.82995,
+    "gn:longitude":98.70474,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kungyaunggyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317837
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f4f89f8dd5c9e8f2c6edd5ac69ffcdea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1310184751,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1310184751,
+    "wof:lastmodified":1536881586,
+    "wof:name":"Kungyaunggyi",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.70474,
+    13.82995,
+    98.70474,
+    13.82995
+],
+  "geometry": {"coordinates":[98.70474,13.82995],"type":"Point"}
+}

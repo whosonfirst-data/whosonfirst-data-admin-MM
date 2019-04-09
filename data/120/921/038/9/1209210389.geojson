@@ -1,0 +1,63 @@
+{
+  "id": 1209210389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.98352,21.1151,94.98352,21.1151",
+    "geom:latitude":21.1151,
+    "geom:longitude":94.98352,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010022",
+    "gn:asciiname":"Kuywa",
+    "gn:country_code":"MM",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317673,
+    "gn:latitude":21.1151,
+    "gn:longitude":94.98352,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kuywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317673
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a04781b3b03f77e4534f9056590c36f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209210389
+        }
+    ],
+    "wof:id":1209210389,
+    "wof:lastmodified":1536294310,
+    "wof:name":"Kuywa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.98352,
+    21.1151,
+    94.98352,
+    21.1151
+],
+  "geometry": {"coordinates":[94.98352,21.1151],"type":"Point"}
+}

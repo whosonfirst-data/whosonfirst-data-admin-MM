@@ -1,0 +1,70 @@
+{
+  "id": 1276342057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.55924,17.47941,95.55924,17.47941",
+    "geom:latitude":17.47941,
+    "geom:longitude":95.55924,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017009",
+    "gn:asciiname":"Zalun",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284225,
+    "gn:latitude":17.47941,
+    "gn:longitude":95.55924,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Zalun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284225,
+        "wk:page":"Zalun"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"013afd5ad9da90ce36c4b23aa7cad0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":1276342057,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1276342057,
+    "wof:lastmodified":1537568443,
+    "wof:name":"Zalun",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.55924,
+    17.47941,
+    95.55924,
+    17.47941
+],
+  "geometry": {"coordinates":[95.55924,17.47941],"type":"Point"}
+}

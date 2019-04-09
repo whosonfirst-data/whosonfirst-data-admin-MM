@@ -1,0 +1,73 @@
+{
+  "id": 1225823779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.28951,23.03853,95.28951,23.03853",
+    "geom:latitude":23.03853,
+    "geom:longitude":95.28951,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Hnangingyi",
+    "gn:country_code":"MM",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324321,
+    "gn:latitude":23.03853,
+    "gn:longitude":95.28951,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hnangingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hnakkin-gyi",
+        "Hnangingyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324321
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aaeabf99b8af63f861b2a4db0d8a755f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1225823779,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1225823779,
+    "wof:lastmodified":1537665524,
+    "wof:name":"Hnangingyi",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.28951,
+    23.03853,
+    95.28951,
+    23.03853
+],
+  "geometry": {"coordinates":[95.28951000000001,23.03853],"type":"Point"}
+}

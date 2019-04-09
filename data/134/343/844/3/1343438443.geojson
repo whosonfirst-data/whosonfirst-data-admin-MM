@@ -1,0 +1,69 @@
+{
+  "id": 1343438443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.2777,21.57839,97.2777,21.57839",
+    "geom:latitude":21.57839,
+    "geom:longitude":97.2777,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Wan Kengkam",
+    "gn:country_code":"MM",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288695,
+    "gn:latitude":21.57839,
+    "gn:longitude":97.2777,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wan Kengkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288695
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"163239d9e0a8ca0644f909223a846524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1343438443,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343438443,
+    "wof:lastmodified":1536778594,
+    "wof:name":"Wan Kengkam",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.2777,
+    21.57839,
+    97.2777,
+    21.57839
+],
+  "geometry": {"coordinates":[97.2777,21.57839],"type":"Point"}
+}

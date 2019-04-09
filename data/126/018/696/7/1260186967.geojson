@@ -1,0 +1,69 @@
+{
+  "id": 1260186967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.19397,15.98018,98.19397,15.98018",
+    "geom:latitude":15.98018,
+    "geom:longitude":98.19397,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Natchaung-bya",
+    "gn:country_code":"MM",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305836,
+    "gn:latitude":15.98018,
+    "gn:longitude":98.19397,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Natchaung-bya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305836
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a4ef4d97d5b61aec334b4a0a7da8c3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1260186967,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1260186967,
+    "wof:lastmodified":1536842095,
+    "wof:name":"Natchaung-bya",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.19397,
+    15.98018,
+    98.19397,
+    15.98018
+],
+  "geometry": {"coordinates":[98.19396999999999,15.98018],"type":"Point"}
+}

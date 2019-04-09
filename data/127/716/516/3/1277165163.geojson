@@ -1,0 +1,69 @@
+{
+  "id": 1277165163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.5646,23.79313,97.5646,23.79313",
+    "geom:latitude":23.79313,
+    "geom:longitude":97.5646,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015010",
+    "gn:asciiname":"Panku",
+    "gn:country_code":"MM",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301472,
+    "gn:latitude":23.79313,
+    "gn:longitude":97.5646,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Panku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301472
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e382b53abce567631b19e923257d7dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1277165163,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277165163,
+    "wof:lastmodified":1536648552,
+    "wof:name":"Panku",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.5646,
+    23.79313,
+    97.5646,
+    23.79313
+],
+  "geometry": {"coordinates":[97.5646,23.79313],"type":"Point"}
+}

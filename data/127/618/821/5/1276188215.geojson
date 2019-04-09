@@ -1,0 +1,69 @@
+{
+  "id": 1276188215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.03653,17.16761,96.03653,17.16761",
+    "geom:latitude":17.16761,
+    "geom:longitude":96.03653,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013003",
+    "gn:asciiname":"Myauk Innyingon",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480242,
+    "gn:latitude":17.16761,
+    "gn:longitude":96.03653,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myauk Innyingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480242
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"79dac58c1a15c8b4cacc5ce8cb8016b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1276188215,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1276188215,
+    "wof:lastmodified":1536973060,
+    "wof:name":"Myauk Innyingon",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.03653,
+    17.16761,
+    96.03653,
+    17.16761
+],
+  "geometry": {"coordinates":[96.03653,17.16761],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260384469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.04268,16.93323,98.04268,16.93323",
+    "geom:latitude":16.93323,
+    "geom:longitude":98.04268,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003002",
+    "gn:asciiname":"Kawkya-hpa-kaw",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319881,
+    "gn:latitude":16.93323,
+    "gn:longitude":98.04268,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawkya-hpa-kaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319881
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c3d1d168bccc3607d9e54e5225e930c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1260384469,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1260384469,
+    "wof:lastmodified":1537070639,
+    "wof:name":"Kawkya-hpa-kaw",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.04268,
+    16.93323,
+    98.04268,
+    16.93323
+],
+  "geometry": {"coordinates":[98.04268,16.93323],"type":"Point"}
+}

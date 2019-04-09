@@ -1,0 +1,70 @@
+{
+  "id": 1243067701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.27111,26.23547,98.27111,26.23547",
+    "geom:latitude":26.23547,
+    "geom:longitude":98.27111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Laukshwe",
+    "gn:country_code":"MM",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314707,
+    "gn:latitude":26.23547,
+    "gn:longitude":98.27111,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Laukshwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314707,
+        "wk:page":"Laukshwe"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5c5b85fa05d3dcae8b2855c2f80ed07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1243067701,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243067701,
+    "wof:lastmodified":1537568489,
+    "wof:name":"Laukshwe",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.27111,
+    26.23547,
+    98.27111,
+    26.23547
+],
+  "geometry": {"coordinates":[98.27110999999999,26.23547],"type":"Point"}
+}

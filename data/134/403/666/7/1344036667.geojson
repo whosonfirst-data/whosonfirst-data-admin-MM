@@ -1,0 +1,73 @@
+{
+  "id": 1344036667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.07963,17.40025,97.07963,17.40025",
+    "geom:latitude":17.40025,
+    "geom:longitude":97.07963,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011009",
+    "gn:asciiname":"Kinmun",
+    "gn:country_code":"MM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318984,
+    "gn:latitude":17.40025,
+    "gn:longitude":97.07963,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kinmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinmun Sakan",
+        "Kinmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318984
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"063e3baa0172fa82859b65ac7ee5e5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1344036667,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1344036667,
+    "wof:lastmodified":1537665493,
+    "wof:name":"Kinmun",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.07963,
+    17.40025,
+    97.07963,
+    17.40025
+],
+  "geometry": {"coordinates":[97.07962999999999,17.40025],"type":"Point"}
+}

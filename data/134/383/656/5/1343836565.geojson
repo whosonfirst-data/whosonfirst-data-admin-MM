@@ -1,0 +1,70 @@
+{
+  "id": 1343836565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.02317,25.11076,96.02317,25.11076",
+    "geom:latitude":25.11076,
+    "geom:longitude":96.02317,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Petkala",
+    "gn:country_code":"MM",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300226,
+    "gn:latitude":25.11076,
+    "gn:longitude":96.02317,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Petkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300226,
+        "wk:page":"Petkala"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"62121ecf35efa81452d1df4751d23dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1343836565,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343836565,
+    "wof:lastmodified":1537568466,
+    "wof:name":"Petkala",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.02317,
+    25.11076,
+    96.02317,
+    25.11076
+],
+  "geometry": {"coordinates":[96.02316999999999,25.11076],"type":"Point"}
+}

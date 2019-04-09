@@ -1,0 +1,63 @@
+{
+  "id": 1209413671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.64354,17.0027,97.64354,17.0027",
+    "geom:latitude":17.0027,
+    "geom:longitude":97.64354,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003001",
+    "gn:asciiname":"Pawhtaw",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300855,
+    "gn:latitude":17.0027,
+    "gn:longitude":97.64354,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pawhtaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300855
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a71c828ea64e2cd1ffd7aa313ef4de0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209413671
+        }
+    ],
+    "wof:id":1209413671,
+    "wof:lastmodified":1536287756,
+    "wof:name":"Pawhtaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.64354,
+    17.0027,
+    97.64354,
+    17.0027
+],
+  "geometry": {"coordinates":[97.64354,17.0027],"type":"Point"}
+}

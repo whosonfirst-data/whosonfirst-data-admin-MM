@@ -1,0 +1,70 @@
+{
+  "id": 1310094031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.41385,23.36631,94.41385,23.36631",
+    "geom:latitude":23.36631,
+    "geom:longitude":94.41385,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005028",
+    "gn:asciiname":"Kyawdaw",
+    "gn:country_code":"MM",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316305,
+    "gn:latitude":23.36631,
+    "gn:longitude":94.41385,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyawdaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316305,
+        "wk:page":"Kyawdaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1b56e1943a5e387281f8340e93d93bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1310094031,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1310094031,
+    "wof:lastmodified":1537568492,
+    "wof:name":"Kyawdaw",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.41385,
+    23.36631,
+    94.41385,
+    23.36631
+],
+  "geometry": {"coordinates":[94.41385,23.36631],"type":"Point"}
+}

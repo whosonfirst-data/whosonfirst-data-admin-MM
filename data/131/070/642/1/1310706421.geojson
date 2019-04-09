@@ -1,0 +1,73 @@
+{
+  "id": 1310706421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.4325,15.95411,98.4325,15.95411",
+    "geom:latitude":15.95411,
+    "geom:longitude":98.4325,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Klonhtoug",
+    "gn:country_code":"MM",
+    "gn:dem":31,
+    "gn:elevation":"24.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11548704,
+    "gn:latitude":15.95411,
+    "gn:longitude":98.4325,
+    "gn:modification_date":"2017-05-11",
+    "gn:name":"Klonhtoug",
+    "gn:population":2001,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11548704
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"315146a8fd50ee23e0b104d42ae4fc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1310706421,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310706421,
+    "wof:lastmodified":1536625077,
+    "wof:name":"Klonhtoug",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:population":2001,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.4325,
+    15.95411,
+    98.4325,
+    15.95411
+],
+  "geometry": {"coordinates":[98.4325,15.95411],"type":"Point"}
+}

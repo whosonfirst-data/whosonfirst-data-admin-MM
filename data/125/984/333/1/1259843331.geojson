@@ -1,0 +1,73 @@
+{
+  "id": 1259843331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.8031,17.33477,96.8031,17.33477",
+    "geom:latitude":17.33477,
+    "geom:longitude":96.8031,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007002",
+    "gn:asciiname":"Kyibinzu",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316006,
+    "gn:latitude":17.33477,
+    "gn:longitude":96.8031,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyibinzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyibinz",
+        "Kyibinzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316006
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fe452622c2ff8aba14986f8d39e89969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1259843331,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1259843331,
+    "wof:lastmodified":1537665475,
+    "wof:name":"Kyibinzu",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.8031,
+    17.33477,
+    96.8031,
+    17.33477
+],
+  "geometry": {"coordinates":[96.8031,17.33477],"type":"Point"}
+}

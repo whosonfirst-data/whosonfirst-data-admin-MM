@@ -1,0 +1,63 @@
+{
+  "id": 1209603777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.77586,24.06148,94.77586,24.06148",
+    "geom:latitude":24.06148,
+    "geom:longitude":94.77586,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Tapan",
+    "gn:country_code":"MM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294437,
+    "gn:latitude":24.06148,
+    "gn:longitude":94.77586,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294437
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"288dd4421b1c4f6a501a3914b62db3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209603777
+        }
+    ],
+    "wof:id":1209603777,
+    "wof:lastmodified":1536282080,
+    "wof:name":"Tapan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.77586,
+    24.06148,
+    94.77586,
+    24.06148
+],
+  "geometry": {"coordinates":[94.77585999999999,24.06148],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242584503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.22922,17.89779,95.22922,17.89779",
+    "geom:latitude":17.89779,
+    "geom:longitude":95.22922,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017013",
+    "gn:asciiname":"Mezaligon",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309446,
+    "gn:latitude":17.89779,
+    "gn:longitude":95.22922,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mezaligon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309446
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0cc9221b58260d57244779e0fa21c73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":1242584503,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1242584503,
+    "wof:lastmodified":1537051449,
+    "wof:name":"Mezaligon",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.22922,
+    17.89779,
+    95.22922,
+    17.89779
+],
+  "geometry": {"coordinates":[95.22922,17.89779],"type":"Point"}
+}

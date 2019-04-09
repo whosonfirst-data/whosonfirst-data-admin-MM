@@ -1,0 +1,70 @@
+{
+  "id": 1293906935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.3159,26.40285,98.3159,26.40285",
+    "geom:latitude":26.40285,
+    "geom:longitude":98.3159,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Chawngbuk",
+    "gn:country_code":"MM",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327307,
+    "gn:latitude":26.40285,
+    "gn:longitude":98.3159,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chawngbuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327307,
+        "wk:page":"Chawngbuk"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2422dfb5cda14edd176b2d788b63eef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1293906935,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293906935,
+    "wof:lastmodified":1537568507,
+    "wof:name":"Chawngbuk",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.3159,
+    26.40285,
+    98.3159,
+    26.40285
+],
+  "geometry": {"coordinates":[98.3159,26.40285],"type":"Point"}
+}

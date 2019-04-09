@@ -1,0 +1,63 @@
+{
+  "id": 1209094107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.7785,23.42216,98.7785,23.42216",
+    "geom:latitude":23.42216,
+    "geom:longitude":98.7785,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015021",
+    "gn:asciiname":"Nawngmong",
+    "gn:country_code":"MM",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305101,
+    "gn:latitude":23.42216,
+    "gn:longitude":98.7785,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawngmong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305101
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"459d58b77b1e364f5503806e693425b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209094107
+        }
+    ],
+    "wof:id":1209094107,
+    "wof:lastmodified":1536297942,
+    "wof:name":"Nawngmong",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.7785,
+    23.42216,
+    98.7785,
+    23.42216
+],
+  "geometry": {"coordinates":[98.77849999999999,23.42216],"type":"Point"}
+}

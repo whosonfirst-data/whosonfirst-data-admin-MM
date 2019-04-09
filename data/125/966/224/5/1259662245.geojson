@@ -1,0 +1,73 @@
+{
+  "id": 1259662245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.2477,23.91403,95.2477,23.91403",
+    "geom:latitude":23.91403,
+    "geom:longitude":95.2477,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005026",
+    "gn:asciiname":"Ngagyi-in",
+    "gn:country_code":"MM",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304704,
+    "gn:latitude":23.91403,
+    "gn:longitude":95.2477,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngagyi-in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagyi-in",
+        "Ngagyi-in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304704
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"00be2829fd83652173724251c04dbb18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1259662245,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259662245,
+    "wof:lastmodified":1537665412,
+    "wof:name":"Ngagyi-in",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.2477,
+    23.91403,
+    95.2477,
+    23.91403
+],
+  "geometry": {"coordinates":[95.24769999999999,23.91403],"type":"Point"}
+}

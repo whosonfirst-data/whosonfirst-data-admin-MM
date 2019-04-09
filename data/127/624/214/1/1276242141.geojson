@@ -1,0 +1,67 @@
+{
+  "id": 1276242141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.21815,19.83842,93.21815,19.83842",
+    "geom:latitude":19.83842,
+    "geom:longitude":93.21815,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pyingyi",
+    "gn:country_code":"MM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299041,
+    "gn:latitude":19.83842,
+    "gn:longitude":93.21815,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pyingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299041
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b5245fdf74223632d020bc8f7587901d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":1276242141,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1276242141,
+    "wof:lastmodified":1536900855,
+    "wof:name":"Pyingyi",
+    "wof:parent_id":1092047375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.21815,
+    19.83842000000001,
+    93.21815,
+    19.83842000000001
+],
+  "geometry": {"coordinates":[93.21814999999999,19.83842000000001],"type":"Point"}
+}

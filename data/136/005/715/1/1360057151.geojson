@@ -1,0 +1,73 @@
+{
+  "id": 1360057151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.03619,18.07597,96.03619,18.07597",
+    "geom:latitude":18.07597,
+    "geom:longitude":96.03619,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008008",
+    "gn:asciiname":"Thabyu",
+    "gn:country_code":"MM",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292857,
+    "gn:latitude":18.07597,
+    "gn:longitude":96.03619,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thabyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thabyu Tha ma da",
+        "Thabyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292857
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7cac5f4c6b9898c415b43b69199f9d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1360057151,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1360057151,
+    "wof:lastmodified":1537665352,
+    "wof:name":"Thabyu",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.03619,
+    18.07597,
+    96.03619,
+    18.07597
+],
+  "geometry": {"coordinates":[96.03619,18.07597],"type":"Point"}
+}

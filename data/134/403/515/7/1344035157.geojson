@@ -1,0 +1,73 @@
+{
+  "id": 1344035157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.68672,23.87141,97.68672,23.87141",
+    "geom:latitude":23.87141,
+    "geom:longitude":97.68672,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015010",
+    "gn:asciiname":"Kunhai-long",
+    "gn:country_code":"MM",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317831,
+    "gn:latitude":23.87141,
+    "gn:longitude":97.68672,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunhai-long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunahifong",
+        "Kunhai-long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317831
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"38f7427a112de85a86d1d26debc3858d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1344035157,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344035157,
+    "wof:lastmodified":1537665487,
+    "wof:name":"Kunhai-long",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.68672,
+    23.87141,
+    97.68672,
+    23.87141
+],
+  "geometry": {"coordinates":[97.68671999999999,23.87141],"type":"Point"}
+}

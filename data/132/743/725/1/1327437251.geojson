@@ -1,0 +1,73 @@
+{
+  "id": 1327437251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.41594,25.70977,96.41594,25.70977",
+    "geom:latitude":25.70977,
+    "geom:longitude":96.41594,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Namjan",
+    "gn:country_code":"MM",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306908,
+    "gn:latitude":25.70977,
+    "gn:longitude":96.41594,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpoyam",
+        "Namj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306908
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1040ff80e36b2376a0a854a61abb003d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1327437251,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327437251,
+    "wof:lastmodified":1537665422,
+    "wof:name":"Namjan",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.41594,
+    25.70977,
+    96.41594,
+    25.70977
+],
+  "geometry": {"coordinates":[96.41594000000001,25.70977],"type":"Point"}
+}

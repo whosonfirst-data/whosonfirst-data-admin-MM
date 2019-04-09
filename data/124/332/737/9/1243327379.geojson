@@ -1,0 +1,69 @@
+{
+  "id": 1243327379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.5273,19.12685,95.5273,19.12685",
+    "geom:latitude":19.12685,
+    "geom:longitude":95.5273,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008002",
+    "gn:asciiname":"Letkokpin",
+    "gn:country_code":"MM",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314074,
+    "gn:latitude":19.12685,
+    "gn:longitude":95.5273,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Letkokpin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314074
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6099feef6bf142d0ff92b0f1578be4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1243327379,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243327379,
+    "wof:lastmodified":1536976790,
+    "wof:name":"Letkokpin",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.5273,
+    19.12685,
+    95.5273,
+    19.12685
+],
+  "geometry": {"coordinates":[95.5273,19.12685],"type":"Point"}
+}

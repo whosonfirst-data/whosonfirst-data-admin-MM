@@ -1,0 +1,69 @@
+{
+  "id": 1310182585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.03964,21.99244,98.03964,21.99244",
+    "geom:latitude":21.99244,
+    "geom:longitude":98.03964,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Wan Hpaknam",
+    "gn:country_code":"MM",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289353,
+    "gn:latitude":21.99244,
+    "gn:longitude":98.03964,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hpaknam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289353
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1d8b126df2ed0669a1ea0f1c947aff78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1310182585,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310182585,
+    "wof:lastmodified":1536884886,
+    "wof:name":"Wan Hpaknam",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.03964,
+    21.99244,
+    98.03964,
+    21.99244
+],
+  "geometry": {"coordinates":[98.03964000000001,21.99244],"type":"Point"}
+}

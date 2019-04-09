@@ -1,0 +1,70 @@
+{
+  "id": 1343458475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.22877,26.08172,98.22877,26.08172",
+    "geom:latitude":26.08172,
+    "geom:longitude":98.22877,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Lajing",
+    "gn:country_code":"MM",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315065,
+    "gn:latitude":26.08172,
+    "gn:longitude":98.22877,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lajing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315065,
+        "wk:page":"Lajing"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"83e95f854b4ea1b020765036fd0579d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1343458475,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343458475,
+    "wof:lastmodified":1537568490,
+    "wof:name":"Lajing",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.22877,
+    26.08172,
+    98.22877,
+    26.08172
+],
+  "geometry": {"coordinates":[98.22877,26.08172],"type":"Point"}
+}

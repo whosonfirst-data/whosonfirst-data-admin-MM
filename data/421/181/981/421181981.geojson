@@ -1,0 +1,75 @@
+{
+  "id": 421181981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.980694,21.855338,95.980694,21.855338",
+    "geom:latitude":21.855338,
+    "geom:longitude":95.980694,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ava",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Sagaing",
+    "qs:photos":649,
+    "qs:photos_1k":132,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":649,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":533860,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017351,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1017351,
+        "qs:id":533860
+    },
+    "wof:country":"MM",
+    "wof:created":1459009314,
+    "wof:geomhash":"d3b4426b46d5bb324b18c795e663f008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":421181981,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":421181981,
+    "wof:lastmodified":1500016581,
+    "wof:name":"Ava",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.980694,
+    21.855338,
+    95.980694,
+    21.855338
+],
+  "geometry": {"coordinates":[95.980694,21.855338],"type":"Point"}
+}

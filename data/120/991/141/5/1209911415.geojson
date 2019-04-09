@@ -1,0 +1,73 @@
+{
+  "id": 1209911415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.53838,19.1789,97.53838,19.1789",
+    "geom:latitude":19.1789,
+    "geom:longitude":97.53838,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Ta Nyawnghkam",
+    "gn:country_code":"MM",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294473,
+    "gn:latitude":19.1789,
+    "gn:longitude":97.53838,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta Nyawnghkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Nyawnghkan",
+        "Ta Nyawnghkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294473
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"efd2de319fc48ef4a11d169344d74225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1209911415,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1209911415,
+    "wof:lastmodified":1537665359,
+    "wof:name":"Ta Nyawnghkam",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.53838,
+    19.1789,
+    97.53838,
+    19.1789
+],
+  "geometry": {"coordinates":[97.53838,19.1789],"type":"Point"}
+}

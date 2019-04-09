@@ -1,0 +1,73 @@
+{
+  "id": 1343339083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.909,20.8778,96.909,20.8778",
+    "geom:latitude":20.8778,
+    "geom:longitude":96.909,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014001",
+    "gn:asciiname":"Khwedaung",
+    "gn:country_code":"MM",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319108,
+    "gn:latitude":20.8778,
+    "gn:longitude":96.909,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Khwedaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khewdaung",
+        "Khwedaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319108
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f4cb841cb4f3a3adc8a3dea78fa24198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1343339083,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343339083,
+    "wof:lastmodified":1537665494,
+    "wof:name":"Khwedaung",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.909,
+    20.8778,
+    96.909,
+    20.8778
+],
+  "geometry": {"coordinates":[96.90900000000001,20.8778],"type":"Point"}
+}

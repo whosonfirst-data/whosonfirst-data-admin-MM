@@ -1,0 +1,72 @@
+{
+  "id": 1225852879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.69597,23.45379,93.69597,23.45379",
+    "geom:latitude":23.45379,
+    "geom:longitude":93.69597,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004004",
+    "gn:asciiname":"Kuadai",
+    "gn:country_code":"MM",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319147,
+    "gn:latitude":23.45379,
+    "gn:longitude":93.69597,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kuadai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuadai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319147
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"896017f68cac688d178334d0e1ac7bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1225852879,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1225852879,
+    "wof:lastmodified":1537665495,
+    "wof:name":"Kuadai",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.69597,
+    23.45379,
+    93.69597,
+    23.45379
+],
+  "geometry": {"coordinates":[93.69597,23.45379],"type":"Point"}
+}

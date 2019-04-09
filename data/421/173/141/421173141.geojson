@@ -1,0 +1,91 @@
+{
+  "id": 421173141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.63488,20.6606,96.63488,20.6606",
+    "geom:latitude":20.6606,
+    "geom:longitude":96.63488,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bur_x_preferred":[
+        "\u1021\u1031\u102c\u1004\u103a\u1015\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:dut_x_preferred":[
+        "Aungban"
+    ],
+    "name:eng_x_preferred":[
+        "Aungban"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1031\u102c\u1004\u103a\u1015\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1328865,
+    "qs:gn_pop":0,
+    "qs:name":"Aungban",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Shan State",
+    "qs:photos":270,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":270,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":492611,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017350,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328865,
+        "gp:id":1017350,
+        "qs:id":492611,
+        "wd:id":"Q4821924",
+        "wk:page":"Aungban"
+    },
+    "wof:country":"MM",
+    "wof:created":1459008972,
+    "wof:geomhash":"af83573ff21191111f62d12ea44af661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":421173141,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":421173141,
+    "wof:lastmodified":1527716262,
+    "wof:name":"Aungban",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.63488,
+    20.6606,
+    96.63488,
+    20.6606
+],
+  "geometry": {"coordinates":[96.63488,20.6606],"type":"Point"}
+}

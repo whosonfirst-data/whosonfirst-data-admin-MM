@@ -1,0 +1,69 @@
+{
+  "id": 1209703667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.10016,24.0578,98.10016,24.0578",
+    "geom:latitude":24.0578,
+    "geom:longitude":98.10016,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015009",
+    "gn:asciiname":"Yi-ku",
+    "gn:country_code":"MM",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284923,
+    "gn:latitude":24.0578,
+    "gn:longitude":98.10016,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yi-ku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284923
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1877c221ef33edccee9d8dcdea4d8401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1209703667,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1209703667,
+    "wof:lastmodified":1536393829,
+    "wof:name":"Yi-ku",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.10016,
+    24.0578,
+    98.10016,
+    24.0578
+],
+  "geometry": {"coordinates":[98.10016,24.0578],"type":"Point"}
+}

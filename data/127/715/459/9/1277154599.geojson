@@ -1,0 +1,69 @@
+{
+  "id": 1277154599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.55514,21.00036,96.55514,21.00036",
+    "geom:latitude":21.00036,
+    "geom:longitude":96.55514,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014007",
+    "gn:asciiname":"Alegyaung",
+    "gn:country_code":"MM",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329330,
+    "gn:latitude":21.00036,
+    "gn:longitude":96.55514,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Alegyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329330
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c39ddc3f0fa7d5020165dbb7fdf285a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1277154599,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277154599,
+    "wof:lastmodified":1536664167,
+    "wof:name":"Alegyaung",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.55514,
+    21.00036,
+    96.55514,
+    21.00036
+],
+  "geometry": {"coordinates":[96.55513999999999,21.00036],"type":"Point"}
+}

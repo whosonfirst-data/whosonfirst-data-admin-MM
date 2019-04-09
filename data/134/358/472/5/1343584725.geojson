@@ -1,0 +1,69 @@
+{
+  "id": 1343584725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.75825,25.95074,97.75825,25.95074",
+    "geom:latitude":25.95074,
+    "geom:longitude":97.75825,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001003",
+    "gn:asciiname":"Pauri",
+    "gn:country_code":"MM",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300900,
+    "gn:latitude":25.95074,
+    "gn:longitude":97.75825,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300900
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"89d38ecce633815c16323a57e3cd5f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1343584725,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343584725,
+    "wof:lastmodified":1537061721,
+    "wof:name":"Pauri",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.75825,
+    25.95074,
+    97.75825,
+    25.95074
+],
+  "geometry": {"coordinates":[97.75825,25.95074],"type":"Point"}
+}

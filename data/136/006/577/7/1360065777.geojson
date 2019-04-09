@@ -1,0 +1,69 @@
+{
+  "id": 1360065777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.39713,22.97612,97.39713,22.97612",
+    "geom:latitude":22.97612,
+    "geom:longitude":97.39713,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015015",
+    "gn:asciiname":"Ho-kat",
+    "gn:country_code":"MM",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324116,
+    "gn:latitude":22.97612,
+    "gn:longitude":97.39713,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ho-k\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324116
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8a56118c61d69decd14b9cbcdf13f4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1360065777,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360065777,
+    "wof:lastmodified":1536973163,
+    "wof:name":"Ho-kat",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.39713,
+    22.97612,
+    97.39713,
+    22.97612
+],
+  "geometry": {"coordinates":[97.39713,22.97612],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293269677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.50857,19.9776,96.50857,19.9776",
+    "geom:latitude":19.9776,
+    "geom:longitude":96.50857,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014009",
+    "gn:asciiname":"Kathaung",
+    "gn:country_code":"MM",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320142,
+    "gn:latitude":19.9776,
+    "gn:longitude":96.50857,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kathaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320142
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"55514b5f629a8cb48111d695b0264a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1293269677,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293269677,
+    "wof:lastmodified":1536600898,
+    "wof:name":"Kathaung",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.50857,
+    19.9776,
+    96.50857,
+    19.9776
+],
+  "geometry": {"coordinates":[96.50857000000001,19.9776],"type":"Point"}
+}

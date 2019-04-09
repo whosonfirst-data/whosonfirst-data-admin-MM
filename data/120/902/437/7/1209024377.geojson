@@ -1,0 +1,63 @@
+{
+  "id": 1209024377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.70293,23.75498,95.70293,23.75498",
+    "geom:latitude":23.75498,
+    "geom:longitude":95.70293,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Hlebwe",
+    "gn:country_code":"MM",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324516,
+    "gn:latitude":23.75498,
+    "gn:longitude":95.70293,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hlebwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324516
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ccef9e79a890c97b3e3c927dd6b7f9ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209024377
+        }
+    ],
+    "wof:id":1209024377,
+    "wof:lastmodified":1536300048,
+    "wof:name":"Hlebwe",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.70293,
+    23.75498,
+    95.70293,
+    23.75498
+],
+  "geometry": {"coordinates":[95.70292999999999,23.75498],"type":"Point"}
+}

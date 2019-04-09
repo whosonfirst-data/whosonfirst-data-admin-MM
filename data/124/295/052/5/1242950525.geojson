@@ -1,0 +1,73 @@
+{
+  "id": 1242950525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.61092,21.12839,99.61092,21.12839",
+    "geom:latitude":21.12839,
+    "geom:longitude":99.61092,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016001",
+    "gn:asciiname":"Wan Ho-hkawn",
+    "gn:country_code":"MM",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289510,
+    "gn:latitude":21.12839,
+    "gn:longitude":99.61092,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ho-hkawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Hkang Ho-hkawn",
+        "W\u0101n Ho-hkawn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289510
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8e0a7a3b6ac1eea06d7431ba044ca5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1242950525,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242950525,
+    "wof:lastmodified":1537665333,
+    "wof:name":"Wan Ho-hkawn",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.61092,
+    21.12839,
+    99.61092,
+    21.12839
+],
+  "geometry": {"coordinates":[99.61091999999999,21.12839],"type":"Point"}
+}

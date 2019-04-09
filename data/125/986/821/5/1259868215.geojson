@@ -1,0 +1,69 @@
+{
+  "id": 1259868215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.56905,22.81545,95.56905,22.81545",
+    "geom:latitude":22.81545,
+    "geom:longitude":95.56905,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005005",
+    "gn:asciiname":"Siboktaya",
+    "gn:country_code":"MM",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296410,
+    "gn:latitude":22.81545,
+    "gn:longitude":95.56905,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Siboktaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296410
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d23355bcee4b1914d6bc5c4de97f732a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1259868215,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259868215,
+    "wof:lastmodified":1536801230,
+    "wof:name":"Siboktaya",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.56905,
+    22.81545,
+    95.56905,
+    22.81545
+],
+  "geometry": {"coordinates":[95.56905,22.81545],"type":"Point"}
+}

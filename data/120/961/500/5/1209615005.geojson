@@ -1,0 +1,64 @@
+{
+  "id": 1209615005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16175,26.04155,98.16175,26.04155",
+    "geom:latitude":26.04155,
+    "geom:longitude":98.16175,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Valao",
+    "gn:country_code":"MM",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290109,
+    "gn:latitude":26.04155,
+    "gn:longitude":98.16175,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Valao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290109,
+        "wk:page":"Valao"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"90fade612d5abc8eeee2503ea6d5b201",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209615005
+        }
+    ],
+    "wof:id":1209615005,
+    "wof:lastmodified":1537568451,
+    "wof:name":"Valao",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16175,
+    26.04155,
+    98.16175,
+    26.04155
+],
+  "geometry": {"coordinates":[98.16175,26.04155],"type":"Point"}
+}

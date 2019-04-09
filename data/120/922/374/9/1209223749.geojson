@@ -1,0 +1,63 @@
+{
+  "id": 1209223749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.77555,20.37006,92.77555,20.37006",
+    "geom:latitude":20.37006,
+    "geom:longitude":92.77555,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D001",
+    "gn:admin3_code":"MMR012008",
+    "gn:asciiname":"Kanbyin",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320908,
+    "gn:latitude":20.37006,
+    "gn:longitude":92.77555,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanbyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320908
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"729638fadd40096521c5613a93918ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209223749
+        }
+    ],
+    "wof:id":1209223749,
+    "wof:lastmodified":1536293870,
+    "wof:name":"Kanbyin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.77555,
+    20.37006,
+    92.77555,
+    20.37006
+],
+  "geometry": {"coordinates":[92.77555,20.37006],"type":"Point"}
+}

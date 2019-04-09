@@ -1,0 +1,69 @@
+{
+  "id": 1276428927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.81243,22.02434,96.81243,22.02434",
+    "geom:latitude":22.02434,
+    "geom:longitude":96.81243,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Mongpyen-awn",
+    "gn:country_code":"MM",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308600,
+    "gn:latitude":22.02434,
+    "gn:longitude":96.81243,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mongpyen-awn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308600
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4457385d8e0c58f21cf6af0f5dd110bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1276428927,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276428927,
+    "wof:lastmodified":1536650353,
+    "wof:name":"Mongpyen-awn",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.81243,
+    22.02434,
+    96.81243,
+    22.02434
+],
+  "geometry": {"coordinates":[96.81243000000001,22.02434],"type":"Point"}
+}

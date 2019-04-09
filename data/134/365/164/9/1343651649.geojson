@@ -1,0 +1,69 @@
+{
+  "id": 1343651649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.28673,21.34313,96.28673,21.34313",
+    "geom:latitude":21.34313,
+    "geom:longitude":96.28673,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D003",
+    "gn:admin3_code":"MMR010015",
+    "gn:asciiname":"Indayaw",
+    "gn:country_code":"MM",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322172,
+    "gn:latitude":21.34313,
+    "gn:longitude":96.28673,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Indayaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322172
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6ff389cbc687f1c50a6d51a5879cd89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1343651649,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343651649,
+    "wof:lastmodified":1536967478,
+    "wof:name":"Indayaw",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.28673,
+    21.34313,
+    96.28673,
+    21.34313
+],
+  "geometry": {"coordinates":[96.28673000000001,21.34313],"type":"Point"}
+}

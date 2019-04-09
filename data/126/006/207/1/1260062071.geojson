@@ -1,0 +1,69 @@
+{
+  "id": 1260062071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.26153,18.90215,96.26153,18.90215",
+    "geom:latitude":18.90215,
+    "geom:longitude":96.26153,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007009",
+    "gn:asciiname":"Kayinywa",
+    "gn:country_code":"MM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319486,
+    "gn:latitude":18.90215,
+    "gn:longitude":96.26153,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kayinywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319486
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c79a028ef5664061da2c5cea4a47d269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1260062071,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1260062071,
+    "wof:lastmodified":1537018137,
+    "wof:name":"Kayinywa",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.26153,
+    18.90215,
+    96.26153,
+    18.90215
+],
+  "geometry": {"coordinates":[96.26152999999999,18.90215],"type":"Point"}
+}

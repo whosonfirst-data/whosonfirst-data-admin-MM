@@ -1,0 +1,69 @@
+{
+  "id": 1259363371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.92116,21.36254,100.92116,21.36254",
+    "geom:latitude":21.36254,
+    "geom:longitude":100.92116,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Hatrang",
+    "gn:country_code":"MM",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847698,
+    "gn:latitude":21.36254,
+    "gn:longitude":100.92116,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hatr\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847698
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9e835d4561e2a7854eed1826d16f1b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1259363371,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1259363371,
+    "wof:lastmodified":1537029961,
+    "wof:name":"Wan Hatrang",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.92116,
+    21.36254,
+    100.92116,
+    21.36254
+],
+  "geometry": {"coordinates":[100.92116,21.36254],"type":"Point"}
+}

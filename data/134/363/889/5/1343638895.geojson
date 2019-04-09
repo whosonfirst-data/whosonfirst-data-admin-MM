@@ -1,0 +1,69 @@
+{
+  "id": 1343638895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.08989,22.42012,98.08989,22.42012",
+    "geom:latitude":22.42012,
+    "geom:longitude":98.08989,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015003",
+    "gn:asciiname":"Pungsang",
+    "gn:country_code":"MM",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299402,
+    "gn:latitude":22.42012,
+    "gn:longitude":98.08989,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pungsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299402
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8bbe78e20639bde5f580649375c0b2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1343638895,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343638895,
+    "wof:lastmodified":1536985400,
+    "wof:name":"Pungsang",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.08989,
+    22.42012,
+    98.08989,
+    22.42012
+],
+  "geometry": {"coordinates":[98.08989,22.42012],"type":"Point"}
+}

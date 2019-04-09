@@ -1,0 +1,67 @@
+{
+  "id": 1209291899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.28328,20.68385,97.28328,20.68385",
+    "geom:latitude":20.68385,
+    "geom:longitude":97.28328,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014003",
+    "gn:asciiname":"Wan Tame",
+    "gn:country_code":"MM",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286949,
+    "gn:latitude":20.68385,
+    "gn:longitude":97.28328,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Tame",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-me",
+        "W\u0101n Tame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286949
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"857b0d84fdec7b23467e2397e295c488",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209291899
+        }
+    ],
+    "wof:id":1209291899,
+    "wof:lastmodified":1537665308,
+    "wof:name":"Wan Tame",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.28328,
+    20.68385,
+    97.28328,
+    20.68385
+],
+  "geometry": {"coordinates":[97.28328,20.68385],"type":"Point"}
+}

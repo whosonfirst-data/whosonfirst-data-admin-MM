@@ -1,0 +1,63 @@
+{
+  "id": 1209202437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.2786,21.65529,98.2786,21.65529",
+    "geom:latitude":21.65529,
+    "geom:longitude":98.2786,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014017",
+    "gn:asciiname":"Konke",
+    "gn:country_code":"MM",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318269,
+    "gn:latitude":21.65529,
+    "gn:longitude":98.2786,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Konke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318269
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c9750a2b69d8e96a63c36f96647b688b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209202437
+        }
+    ],
+    "wof:id":1209202437,
+    "wof:lastmodified":1536294563,
+    "wof:name":"Konke",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.2786,
+    21.65529,
+    98.2786,
+    21.65529
+],
+  "geometry": {"coordinates":[98.2786,21.65529],"type":"Point"}
+}

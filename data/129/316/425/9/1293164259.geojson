@@ -1,0 +1,69 @@
+{
+  "id": 1293164259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.06246,17.09417,96.06246,17.09417",
+    "geom:latitude":17.09417,
+    "geom:longitude":96.06246,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013003",
+    "gn:asciiname":"Sabyuzu",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480227,
+    "gn:latitude":17.09417,
+    "gn:longitude":96.06246,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sabyuzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480227
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3c8fc25af005b00b6093a0176361d80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1293164259,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1293164259,
+    "wof:lastmodified":1536756291,
+    "wof:name":"Sabyuzu",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.06246,
+    17.09417,
+    96.06246,
+    17.09417
+],
+  "geometry": {"coordinates":[96.06246,17.09417],"type":"Point"}
+}

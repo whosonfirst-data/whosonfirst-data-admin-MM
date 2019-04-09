@@ -1,0 +1,69 @@
+{
+  "id": 1243555887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.96622,17.16508,94.96622,17.16508",
+    "geom:latitude":17.16508,
+    "geom:longitude":94.96622,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017003",
+    "gn:asciiname":"Thupeinna",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291147,
+    "gn:latitude":17.16508,
+    "gn:longitude":94.96622,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thupeinna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291147
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8507cf249a98417ae18b3431e70c8008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1243555887,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243555887,
+    "wof:lastmodified":1536647429,
+    "wof:name":"Thupeinna",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.96622,
+    17.16508,
+    94.96622,
+    17.16508
+],
+  "geometry": {"coordinates":[94.96622000000001,17.16508],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259683765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.46907,26.45779,97.46907,26.45779",
+    "geom:latitude":26.45779,
+    "geom:longitude":97.46907,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001015",
+    "gn:asciiname":"Wasantu",
+    "gn:country_code":"MM",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286640,
+    "gn:latitude":26.45779,
+    "gn:longitude":97.46907,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wasantu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wasat",
+        "Wasantu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286640
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b140295ef01f9b21a2269e19d371f8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1259683765,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259683765,
+    "wof:lastmodified":1537665305,
+    "wof:name":"Wasantu",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.46907,
+    26.45779000000001,
+    97.46907,
+    26.45779000000001
+],
+  "geometry": {"coordinates":[97.46907,26.45779000000001],"type":"Point"}
+}

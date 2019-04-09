@@ -1,0 +1,63 @@
+{
+  "id": 1209514043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.27175,18.27386,97.27175,18.27386",
+    "geom:latitude":18.27386,
+    "geom:longitude":97.27175,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Dohedo",
+    "gn:country_code":"MM",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326323,
+    "gn:latitude":18.27386,
+    "gn:longitude":97.27175,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dohedo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326323
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"69b2496bdf6d5395ec467f7b58cd351f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209514043
+        }
+    ],
+    "wof:id":1209514043,
+    "wof:lastmodified":1536284791,
+    "wof:name":"Dohedo",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.27175,
+    18.27386,
+    97.27175,
+    18.27386
+],
+  "geometry": {"coordinates":[97.27175,18.27386],"type":"Point"}
+}

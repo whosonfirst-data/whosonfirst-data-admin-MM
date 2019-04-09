@@ -1,0 +1,69 @@
+{
+  "id": 1360148151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.44627,16.51332,96.44627,16.51332",
+    "geom:latitude":16.51332,
+    "geom:longitude":96.44627,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013024",
+    "gn:asciiname":"Kala-ywa",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321253,
+    "gn:latitude":16.51332,
+    "gn:longitude":96.44627,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kala-ywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321253
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8ee79ebf8c7370343ac5721163fd6575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1360148151,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1360148151,
+    "wof:lastmodified":1536853701,
+    "wof:name":"Kala-ywa",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.44627,
+    16.51332,
+    96.44627,
+    16.51332
+],
+  "geometry": {"coordinates":[96.44627,16.51332],"type":"Point"}
+}

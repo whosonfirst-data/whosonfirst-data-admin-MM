@@ -1,0 +1,67 @@
+{
+  "id": 1209679543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.42598,17.12853,96.42598,17.12853",
+    "geom:latitude":17.12853,
+    "geom:longitude":96.42598,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007001",
+    "gn:asciiname":"Paya-ngokto",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300656,
+    "gn:latitude":17.12853,
+    "gn:longitude":96.42598,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u0101ya-ngokto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paya-ngokoto",
+        "P\u0101ya-ngokto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300656
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2a474604f4e26304e35a9a44053e292d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209679543
+        }
+    ],
+    "wof:id":1209679543,
+    "wof:lastmodified":1537665392,
+    "wof:name":"Paya-ngokto",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.42598,
+    17.12853,
+    96.42598,
+    17.12853
+],
+  "geometry": {"coordinates":[96.42598,17.12853],"type":"Point"}
+}

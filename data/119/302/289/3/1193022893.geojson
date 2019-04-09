@@ -1,0 +1,69 @@
+{
+  "id": 1193022893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.34077,16.97918,95.34077,16.97918",
+    "geom:latitude":16.97918,
+    "geom:longitude":95.34077,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017020",
+    "gn:asciiname":"Kaukkyigon",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320064,
+    "gn:latitude":16.97918,
+    "gn:longitude":95.34077,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaukkyigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320064
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"52c3cc2bde441edb325ff983cc3ab531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1193022893,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1193022893,
+    "wof:lastmodified":1536371268,
+    "wof:name":"Kaukkyigon",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.34077,
+    16.97918,
+    95.34077,
+    16.97918
+],
+  "geometry": {"coordinates":[95.34077000000001,16.97918],"type":"Point"}
+}

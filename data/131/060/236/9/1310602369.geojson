@@ -1,0 +1,73 @@
+{
+  "id": 1310602369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.67915,17.058,95.67915,17.058",
+    "geom:latitude":17.058,
+    "geom:longitude":95.67915,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017021",
+    "gn:asciiname":"Kon Wedaung",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318171,
+    "gn:latitude":17.058,
+    "gn:longitude":95.67915,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kon Wedaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wedaung",
+        "Kon Wedaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318171
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"85c575e0ce6b379b0900fd06331ba0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1310602369,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1310602369,
+    "wof:lastmodified":1537665490,
+    "wof:name":"Kon Wedaung",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.67915,
+    17.058,
+    95.67915,
+    17.058
+],
+  "geometry": {"coordinates":[95.67915000000001,17.058],"type":"Point"}
+}

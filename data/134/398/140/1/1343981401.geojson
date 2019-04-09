@@ -1,0 +1,70 @@
+{
+  "id": 1343981401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.10386,24.50214,97.10386,24.50214",
+    "geom:latitude":24.50214,
+    "geom:longitude":97.10386,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Htonbo",
+    "gn:country_code":"MM",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322606,
+    "gn:latitude":24.50214,
+    "gn:longitude":97.10386,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htonbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322606,
+        "wk:page":"Htonbo"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7f43d0f94a5859b6970b74f1d85e7597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1343981401,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343981401,
+    "wof:lastmodified":1537568501,
+    "wof:name":"Htonbo",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.10386,
+    24.50214,
+    97.10386,
+    24.50214
+],
+  "geometry": {"coordinates":[97.10386,24.50214],"type":"Point"}
+}

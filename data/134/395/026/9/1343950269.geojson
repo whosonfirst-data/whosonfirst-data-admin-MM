@@ -1,0 +1,69 @@
+{
+  "id": 1343950269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.11096,19.66367,97.11096,19.66367",
+    "geom:latitude":19.66367,
+    "geom:longitude":97.11096,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Daw Ta-hsoe",
+    "gn:country_code":"MM",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326502,
+    "gn:latitude":19.66367,
+    "gn:longitude":97.11096,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Daw Ta-hs\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326502
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8cb05781826dfbc3fada55392ca08f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1343950269,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1343950269,
+    "wof:lastmodified":1537033322,
+    "wof:name":"Daw Ta-hsoe",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.11096,
+    19.66367,
+    97.11096,
+    19.66367
+],
+  "geometry": {"coordinates":[97.11096000000001,19.66367],"type":"Point"}
+}

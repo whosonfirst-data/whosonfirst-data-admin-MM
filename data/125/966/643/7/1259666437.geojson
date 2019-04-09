@@ -1,0 +1,70 @@
+{
+  "id": 1259666437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.03888,19.96812,95.03888,19.96812",
+    "geom:latitude":19.96812,
+    "geom:longitude":95.03888,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009013",
+    "gn:asciiname":"Minhla",
+    "gn:country_code":"MM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309169,
+    "gn:latitude":19.96812,
+    "gn:longitude":95.03888,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minhla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309169,
+        "wk:page":"Minhla%2C_Magway"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"141fedf2f5ba5d73e4bff2ae69376d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1259666437,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1259666437,
+    "wof:lastmodified":1537568480,
+    "wof:name":"Minhla",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.03888,
+    19.96812000000001,
+    95.03888,
+    19.96812000000001
+],
+  "geometry": {"coordinates":[95.03888000000001,19.96812000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259364931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71996,18.25978,96.71996,18.25978",
+    "geom:latitude":18.25978,
+    "geom:longitude":96.71996,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Lewainggyi",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313796,
+    "gn:latitude":18.25978,
+    "gn:longitude":96.71996,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"L\u00e8wainggyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hl\u00e8wainggyi",
+        "L\u00e8wainggyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313796
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ac34e43db13ccce573cc890341fe01f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1259364931,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1259364931,
+    "wof:lastmodified":1537665461,
+    "wof:name":"Lewainggyi",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71996,
+    18.25978,
+    96.71996,
+    18.25978
+],
+  "geometry": {"coordinates":[96.71996,18.25978],"type":"Point"}
+}

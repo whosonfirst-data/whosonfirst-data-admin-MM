@@ -1,0 +1,67 @@
+{
+  "id": 1209594065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.05788,24.40627,96.05788,24.40627",
+    "geom:latitude":24.40627,
+    "geom:longitude":96.05788,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005021",
+    "gn:asciiname":"Alegyun",
+    "gn:country_code":"MM",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329315,
+    "gn:latitude":24.40627,
+    "gn:longitude":96.05788,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Alegyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alagyun",
+        "Alegyun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329315
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e208c90efaa04792a0d8cc5562f42fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209594065
+        }
+    ],
+    "wof:id":1209594065,
+    "wof:lastmodified":1537665552,
+    "wof:name":"Alegyun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.05788,
+    24.40627000000001,
+    96.05788,
+    24.40627000000001
+],
+  "geometry": {"coordinates":[96.05788,24.40627000000001],"type":"Point"}
+}

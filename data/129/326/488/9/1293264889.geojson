@@ -1,0 +1,73 @@
+{
+  "id": 1293264889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.31785,20.26792,95.31785,20.26792",
+    "geom:latitude":20.26792,
+    "geom:longitude":95.31785,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009005",
+    "gn:asciiname":"Tebinsan",
+    "gn:country_code":"MM",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293270,
+    "gn:latitude":20.26792,
+    "gn:longitude":95.31785,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tebinsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tebinzan",
+        "Tebinsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293270
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"922f44e741b623f4b29bc7d560131edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1293264889,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1293264889,
+    "wof:lastmodified":1537665354,
+    "wof:name":"Tebinsan",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.31785,
+    20.26792,
+    95.31785,
+    20.26792
+],
+  "geometry": {"coordinates":[95.31785000000001,20.26792],"type":"Point"}
+}

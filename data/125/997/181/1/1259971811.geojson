@@ -1,0 +1,69 @@
+{
+  "id": 1259971811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51946,19.27698,97.51946,19.27698",
+    "geom:latitude":19.27698,
+    "geom:longitude":97.51946,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Pawkue-ta",
+    "gn:country_code":"MM",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300839,
+    "gn:latitude":19.27698,
+    "gn:longitude":97.51946,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pawk\u00fc-ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300839
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ac84e7df10f2d67d393bd9afc0c7673e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1259971811,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1259971811,
+    "wof:lastmodified":1536651820,
+    "wof:name":"Pawkue-ta",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51946,
+    19.27698,
+    97.51946,
+    19.27698
+],
+  "geometry": {"coordinates":[97.51946,19.27698],"type":"Point"}
+}

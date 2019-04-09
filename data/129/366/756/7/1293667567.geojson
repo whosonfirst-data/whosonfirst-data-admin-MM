@@ -1,0 +1,70 @@
+{
+  "id": 1293667567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.34019,23.12981,94.34019,23.12981",
+    "geom:latitude":23.12981,
+    "geom:longitude":94.34019,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005028",
+    "gn:asciiname":"Gaundi",
+    "gn:country_code":"MM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325984,
+    "gn:latitude":23.12981,
+    "gn:longitude":94.34019,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gaundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325984,
+        "wk:page":"Gaundi"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f4ea2ac8489fca6ff6d224712a435c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1293667567,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293667567,
+    "wof:lastmodified":1537568506,
+    "wof:name":"Gaundi",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.34019,
+    23.12981,
+    94.34019,
+    23.12981
+],
+  "geometry": {"coordinates":[94.34019000000001,23.12981],"type":"Point"}
+}

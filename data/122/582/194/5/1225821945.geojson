@@ -1,0 +1,73 @@
+{
+  "id": 1225821945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.5853,10.04533,98.5853,10.04533",
+    "geom:latitude":10.04533,
+    "geom:longitude":98.5853,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006009",
+    "gn:asciiname":"Pakklohng",
+    "gn:country_code":"MM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302448,
+    "gn:latitude":10.04533,
+    "gn:longitude":98.5853,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pakkl\u014dhng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakgl\u014dhng",
+        "Pakkl\u014dhng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302448
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8e88c1002a2d621fe2edf953b05d5ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1225821945,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1225821945,
+    "wof:lastmodified":1537665400,
+    "wof:name":"Pakklohng",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.5853,
+    10.04533,
+    98.5853,
+    10.04533
+],
+  "geometry": {"coordinates":[98.5853,10.04533],"type":"Point"}
+}

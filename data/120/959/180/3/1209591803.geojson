@@ -1,0 +1,63 @@
+{
+  "id": 1209591803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.6493,16.73325,96.6493,16.73325",
+    "geom:latitude":16.73325,
+    "geom:longitude":96.6493,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013025",
+    "gn:asciiname":"Kyabo",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463246,
+    "gn:latitude":16.73325,
+    "gn:longitude":96.6493,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyabo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463246
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"06440a8ab7fed5191f94efd828431298",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209591803
+        }
+    ],
+    "wof:id":1209591803,
+    "wof:lastmodified":1536282454,
+    "wof:name":"Kyabo",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.6493,
+    16.73325,
+    96.6493,
+    16.73325
+],
+  "geometry": {"coordinates":[96.6493,16.73325],"type":"Point"}
+}

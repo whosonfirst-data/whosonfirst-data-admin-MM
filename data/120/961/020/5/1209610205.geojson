@@ -1,0 +1,63 @@
+{
+  "id": 1209610205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.2093,22.27396,95.2093,22.27396",
+    "geom:latitude":22.27396,
+    "geom:longitude":95.2093,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005012",
+    "gn:asciiname":"Moksogon",
+    "gn:country_code":"MM",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308870,
+    "gn:latitude":22.27396,
+    "gn:longitude":95.2093,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Moksogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308870
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b416a59e22ae203e2140679df1708562",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209610205
+        }
+    ],
+    "wof:id":1209610205,
+    "wof:lastmodified":1536281872,
+    "wof:name":"Moksogon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.2093,
+    22.27396,
+    95.2093,
+    22.27396
+],
+  "geometry": {"coordinates":[95.2093,22.27396],"type":"Point"}
+}

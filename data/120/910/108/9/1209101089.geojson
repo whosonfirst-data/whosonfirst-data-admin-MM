@@ -1,0 +1,63 @@
+{
+  "id": 1209101089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.27196,22.85431,95.27196,22.85431",
+    "geom:latitude":22.85431,
+    "geom:longitude":95.27196,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005009",
+    "gn:asciiname":"Shwegwe",
+    "gn:country_code":"MM",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296635,
+    "gn:latitude":22.85431,
+    "gn:longitude":95.27196,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwegwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296635
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9a498422698ac33135ce5f2ceebb3385",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209101089
+        }
+    ],
+    "wof:id":1209101089,
+    "wof:lastmodified":1536297730,
+    "wof:name":"Shwegwe",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.27196,
+    22.85431,
+    95.27196,
+    22.85431
+],
+  "geometry": {"coordinates":[95.27196000000001,22.85431],"type":"Point"}
+}

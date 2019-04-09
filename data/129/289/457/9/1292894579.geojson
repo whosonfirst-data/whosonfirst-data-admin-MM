@@ -1,0 +1,69 @@
+{
+  "id": 1292894579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.46386,26.39805,95.46386,26.39805",
+    "geom:latitude":26.39805,
+    "geom:longitude":95.46386,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005036",
+    "gn:asciiname":"Lasam Nawkun",
+    "gn:country_code":"MM",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314769,
+    "gn:latitude":26.39805,
+    "gn:longitude":95.46386,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Las\u0101m Nawkun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314769
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"76deae66e42ce0686c10539b4bf6a32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1292894579,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1292894579,
+    "wof:lastmodified":1536647379,
+    "wof:name":"Lasam Nawkun",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.46386,
+    26.39805,
+    95.46386,
+    26.39805
+],
+  "geometry": {"coordinates":[95.46386,26.39805],"type":"Point"}
+}

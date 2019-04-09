@@ -1,0 +1,69 @@
+{
+  "id": 1326709995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.64584,12.95599,98.64584,12.95599",
+    "geom:latitude":12.95599,
+    "geom:longitude":98.64584,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006007",
+    "gn:asciiname":"Mawgyaung",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310190,
+    "gn:latitude":12.95599,
+    "gn:longitude":98.64584,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mawgyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310190
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"09ad6fd80b593d2e808cdfb99f6b245a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1326709995,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1326709995,
+    "wof:lastmodified":1536728235,
+    "wof:name":"Mawgyaung",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.64584,
+    12.95599,
+    98.64584,
+    12.95599
+],
+  "geometry": {"coordinates":[98.64584000000001,12.95599],"type":"Point"}
+}

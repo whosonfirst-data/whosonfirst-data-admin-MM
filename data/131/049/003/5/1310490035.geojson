@@ -1,0 +1,70 @@
+{
+  "id": 1310490035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.03457,23.13641,94.03457,23.13641",
+    "geom:latitude":23.13641,
+    "geom:longitude":94.03457,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Zingalaing",
+    "gn:country_code":"MM",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283807,
+    "gn:latitude":23.13641,
+    "gn:longitude":94.03457,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zingalaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283807,
+        "wk:page":"Zingalaing"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f278e7b1c59c566edc7fb92002ecdff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1310490035,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1310490035,
+    "wof:lastmodified":1537568443,
+    "wof:name":"Zingalaing",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.03457,
+    23.13641,
+    94.03457,
+    23.13641
+],
+  "geometry": {"coordinates":[94.03457,23.13641],"type":"Point"}
+}

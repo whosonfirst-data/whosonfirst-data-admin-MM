@@ -1,0 +1,69 @@
+{
+  "id": 1326536893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.11473,15.80704,95.11473,15.80704",
+    "geom:latitude":15.80704,
+    "geom:longitude":95.11473,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017024",
+    "gn:asciiname":"Eya",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326113,
+    "gn:latitude":15.80704,
+    "gn:longitude":95.11473,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Eya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326113
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e82eb779397487f3b29ca150e5b1c541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1326536893,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1326536893,
+    "wof:lastmodified":1536976702,
+    "wof:name":"Eya",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.11473,
+    15.80704,
+    95.11473,
+    15.80704
+],
+  "geometry": {"coordinates":[95.11472999999999,15.80704],"type":"Point"}
+}

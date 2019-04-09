@@ -1,0 +1,69 @@
+{
+  "id": 1326731591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.4322,16.57143,95.4322,16.57143",
+    "geom:latitude":16.57143,
+    "geom:longitude":95.4322,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017019",
+    "gn:asciiname":"Le-eindan",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314431,
+    "gn:latitude":16.57143,
+    "gn:longitude":95.4322,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Le-eindan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314431
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1f7dab09170dcd83d6035b49696275ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1326731591,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1326731591,
+    "wof:lastmodified":1536696881,
+    "wof:name":"Le-eindan",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.4322,
+    16.57143,
+    95.4322,
+    16.57143
+],
+  "geometry": {"coordinates":[95.43219999999999,16.57143],"type":"Point"}
+}

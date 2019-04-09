@@ -1,0 +1,73 @@
+{
+  "id": 1293589101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.28285,24.14458,97.28285,24.14458",
+    "geom:latitude":24.14458,
+    "geom:longitude":97.28285,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Sawangahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297698,
+    "gn:latitude":24.14458,
+    "gn:longitude":97.28285,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sawangahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sawangahtawang",
+        "Sawangahtawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297698
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f23cb3c9a704afd0a07ea3340e17c3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1293589101,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293589101,
+    "wof:lastmodified":1537665377,
+    "wof:name":"Sawangahtawng",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.28285,
+    24.14458,
+    97.28285,
+    24.14458
+],
+  "geometry": {"coordinates":[97.28285,24.14458],"type":"Point"}
+}

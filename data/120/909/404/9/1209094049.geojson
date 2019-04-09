@@ -1,0 +1,67 @@
+{
+  "id": 1209094049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.41844,21.66895,99.41844,21.66895",
+    "geom:latitude":21.66895,
+    "geom:longitude":99.41844,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016002",
+    "gn:asciiname":"Wan Tongweng",
+    "gn:country_code":"MM",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286852,
+    "gn:latitude":21.66895,
+    "gn:longitude":99.41844,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Tongweng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Tongwong",
+        "W\u0101n Tongweng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286852
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1fc152fad27bf58c60c421738be4df62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209094049
+        }
+    ],
+    "wof:id":1209094049,
+    "wof:lastmodified":1537665307,
+    "wof:name":"Wan Tongweng",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.41844,
+    21.66895,
+    99.41844,
+    21.66895
+],
+  "geometry": {"coordinates":[99.41844,21.66895],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259886911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.59996,16.9848,95.59996,16.9848",
+    "geom:latitude":16.9848,
+    "geom:longitude":95.59996,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017021",
+    "gn:asciiname":"Kyontama",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315735,
+    "gn:latitude":16.9848,
+    "gn:longitude":95.59996,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyontama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315735
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d27dac0b6795b648d4e26fc7c51adb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1259886911,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1259886911,
+    "wof:lastmodified":1536774789,
+    "wof:name":"Kyontama",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.59996,
+    16.9848,
+    95.59996,
+    16.9848
+],
+  "geometry": {"coordinates":[95.59996,16.9848],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293864339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.57712,21.91125,97.57712,21.91125",
+    "geom:latitude":21.91125,
+    "geom:longitude":97.57712,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Konghsa",
+    "gn:country_code":"MM",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318570,
+    "gn:latitude":21.91125,
+    "gn:longitude":97.57712,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Konghsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318570
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f1f2f0f3351e91c5ba954c15ad8f2e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1293864339,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293864339,
+    "wof:lastmodified":1536740791,
+    "wof:name":"Konghsa",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.57712,
+    21.91125,
+    97.57712,
+    21.91125
+],
+  "geometry": {"coordinates":[97.57711999999999,21.91125],"type":"Point"}
+}

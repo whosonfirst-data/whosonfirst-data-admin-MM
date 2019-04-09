@@ -1,0 +1,73 @@
+{
+  "id": 1327411291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.71934,23.76004,97.71934,23.76004",
+    "geom:latitude":23.76004,
+    "geom:longitude":97.71934,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015010",
+    "gn:asciiname":"Hpa-lin",
+    "gn:country_code":"MM",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323701,
+    "gn:latitude":23.76004,
+    "gn:longitude":97.71934,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpa-lin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpa-liu",
+        "Hpa-lin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323701
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b392347b7c3233915827b45be055381d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1327411291,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327411291,
+    "wof:lastmodified":1537665523,
+    "wof:name":"Hpa-lin",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.71934,
+    23.76004,
+    97.71934,
+    23.76004
+],
+  "geometry": {"coordinates":[97.71934,23.76004],"type":"Point"}
+}

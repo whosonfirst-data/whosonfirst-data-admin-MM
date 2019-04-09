@@ -1,0 +1,67 @@
+{
+  "id": 1360188101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.19888,21.20627,92.19888,21.20627",
+    "geom:latitude":21.20627,
+    "geom:longitude":92.19888,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tumbru",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290488,
+    "gn:latitude":21.20627,
+    "gn:longitude":92.19888,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tumbru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632475,
+        85669023,
+        421169477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290488
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c411091d0fe248db876dab845fc2467e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421169477,
+            "locality_id":1360188101,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":1360188101,
+    "wof:lastmodified":1536797186,
+    "wof:name":"Tumbru",
+    "wof:parent_id":421169477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.19888,
+    21.20627,
+    92.19888,
+    21.20627
+],
+  "geometry": {"coordinates":[92.19888,21.20627],"type":"Point"}
+}

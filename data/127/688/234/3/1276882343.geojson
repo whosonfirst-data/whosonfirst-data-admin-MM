@@ -1,0 +1,69 @@
+{
+  "id": 1276882343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.00518,20.29835,93.00518,20.29835",
+    "geom:latitude":20.29835,
+    "geom:longitude":93.00518,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D001",
+    "gn:admin3_code":"MMR012002",
+    "gn:asciiname":"Mingan",
+    "gn:country_code":"MM",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309223,
+    "gn:latitude":20.29835,
+    "gn:longitude":93.00518,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mingan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309223
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"06b0ac5361fda894f37322e8f65a7653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":1276882343,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1276882343,
+    "wof:lastmodified":1537036157,
+    "wof:name":"Mingan",
+    "wof:parent_id":1092047375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.00518,
+    20.29835,
+    93.00518,
+    20.29835
+],
+  "geometry": {"coordinates":[93.00518,20.29835],"type":"Point"}
+}

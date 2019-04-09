@@ -1,0 +1,69 @@
+{
+  "id": 1326893839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.12629,16.82724,96.12629,16.82724",
+    "geom:latitude":16.82724,
+    "geom:longitude":96.12629,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D004",
+    "gn:admin3_code":"MMR013041",
+    "gn:asciiname":"Tantabin",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481888,
+    "gn:latitude":16.82724,
+    "gn:longitude":96.12629,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tantabin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481888
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a6d0558d034dfe06fc95152585df39e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047923,
+            "locality_id":1326893839,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1326893839,
+    "wof:lastmodified":1536960144,
+    "wof:name":"Tantabin",
+    "wof:parent_id":1092047923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.12629,
+    16.82724,
+    96.12629,
+    16.82724
+],
+  "geometry": {"coordinates":[96.12629,16.82724],"type":"Point"}
+}

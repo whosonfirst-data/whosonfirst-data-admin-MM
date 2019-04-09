@@ -1,0 +1,63 @@
+{
+  "id": 1209215999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.70281,16.92555,95.70281,16.92555",
+    "geom:latitude":16.92555,
+    "geom:longitude":95.70281,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017021",
+    "gn:asciiname":"Patok",
+    "gn:country_code":"MM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301210,
+    "gn:latitude":16.92555,
+    "gn:longitude":95.70281,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Patok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301210
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6b0a5674a816b234c4ed2003dfaacb6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209215999
+        }
+    ],
+    "wof:id":1209215999,
+    "wof:lastmodified":1536294130,
+    "wof:name":"Patok",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.70281,
+    16.92555,
+    95.70281,
+    16.92555
+],
+  "geometry": {"coordinates":[95.70281,16.92555],"type":"Point"}
+}

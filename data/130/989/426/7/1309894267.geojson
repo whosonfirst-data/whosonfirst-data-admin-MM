@@ -1,0 +1,70 @@
+{
+  "id": 1309894267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.92581,24.96038,94.92581,24.96038",
+    "geom:latitude":24.96038,
+    "geom:longitude":94.92581,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Sankyein",
+    "gn:country_code":"MM",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297957,
+    "gn:latitude":24.96038,
+    "gn:longitude":94.92581,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sankyein",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297957,
+        "wk:page":"Sankyein"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2a3440e58ad486287d9493ac1a986720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1309894267,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1309894267,
+    "wof:lastmodified":1537568463,
+    "wof:name":"Sankyein",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.92581,
+    24.96038,
+    94.92581,
+    24.96038
+],
+  "geometry": {"coordinates":[94.92581,24.96038],"type":"Point"}
+}

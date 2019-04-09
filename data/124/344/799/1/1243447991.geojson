@@ -1,0 +1,69 @@
+{
+  "id": 1243447991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.13882,26.25362,95.13882,26.25362",
+    "geom:latitude":26.25362,
+    "geom:longitude":95.13882,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005036",
+    "gn:asciiname":"Wailam Nawkun",
+    "gn:country_code":"MM",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289864,
+    "gn:latitude":26.25362,
+    "gn:longitude":95.13882,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wail\u0101m Nawkun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289864
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1b55a1d35a6bbaf3736c1384427b1093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1243447991,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243447991,
+    "wof:lastmodified":1536803247,
+    "wof:name":"Wailam Nawkun",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.13882,
+    26.25362,
+    95.13882,
+    26.25362
+],
+  "geometry": {"coordinates":[95.13882,26.25362],"type":"Point"}
+}

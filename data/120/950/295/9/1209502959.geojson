@@ -1,0 +1,67 @@
+{
+  "id": 1209502959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.22329,22.64157,98.22329,22.64157",
+    "geom:latitude":22.64157,
+    "geom:longitude":98.22329,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Kunglom",
+    "gn:country_code":"MM",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317866,
+    "gn:latitude":22.64157,
+    "gn:longitude":98.22329,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunglom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunglong",
+        "Kunglom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317866
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b98e8f552737c226ac939c52d558b7e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209502959
+        }
+    ],
+    "wof:id":1209502959,
+    "wof:lastmodified":1537665488,
+    "wof:name":"Kunglom",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.22329,
+    22.64157,
+    98.22329,
+    22.64157
+],
+  "geometry": {"coordinates":[98.22329000000001,22.64157],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209627865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.63288,21.62951,92.63288,21.62951",
+    "geom:latitude":21.62951,
+    "geom:longitude":92.63288,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004009",
+    "gn:asciiname":"Sahak",
+    "gn:country_code":"MM",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298427,
+    "gn:latitude":21.62951,
+    "gn:longitude":92.63288,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sahak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298427
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"08d94e2149c566622849ee2eea62fa98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209627865
+        }
+    ],
+    "wof:id":1209627865,
+    "wof:lastmodified":1536281292,
+    "wof:name":"Sahak",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.63288,
+    21.62951,
+    92.63288,
+    21.62951
+],
+  "geometry": {"coordinates":[92.63288,21.62951],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226520779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.44631,23.05118,94.44631,23.05118",
+    "geom:latitude":23.05118,
+    "geom:longitude":94.44631,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005029",
+    "gn:asciiname":"Hka-u-in",
+    "gn:country_code":"MM",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324876,
+    "gn:latitude":23.05118,
+    "gn:longitude":94.44631,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hka-u-in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324876,
+        "wk:page":"Hka-u-in"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2308cfbf2caa77f3cc5a93d11a6d9d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1226520779,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226520779,
+    "wof:lastmodified":1537568504,
+    "wof:name":"Hka-u-in",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.44631,
+    23.05118,
+    94.44631,
+    23.05118
+],
+  "geometry": {"coordinates":[94.44631,23.05118],"type":"Point"}
+}

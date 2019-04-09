@@ -1,0 +1,93 @@
+{
+  "id": 1126088977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.12649,16.78897,96.12649,16.78897",
+    "geom:latitude":16.78897,
+    "geom:longitude":96.12649,
+    "gn:gn_country":"MM",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"MM",
+    "lbl:latitude":16.78897,
+    "lbl:longitude":96.12649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MM",
+    "qs_pg:gn_country":"MM",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1329548,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ahlone",
+    "qs_pg:name_adm0":"Myanmar",
+    "qs_pg:name_adm1":"Yangon",
+    "qs_pg:photos":335,
+    "qs_pg:photos_1k":68,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":335,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894706,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424763,
+    "qs_pg:woe_id":981017,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424763,
+    "woe:name_adm0":"Myanmar",
+    "woe:name_adm1":"Yangon",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85674569,
+        102191569,
+        85632181,
+        1092047923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329548,
+        "gp:id":981017,
+        "qs_pg:id":894706
+    },
+    "wof:country":"MM",
+    "wof:created":1497313311,
+    "wof:geomhash":"54ce8d755281b26e450d619fab49c046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047923,
+            "locality_id":-1,
+            "neighbourhood_id":1126088977,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1126088977,
+    "wof:lastmodified":1534379380,
+    "wof:name":"Ahlone",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[
+        85902713
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.12649,
+    16.78897,
+    96.12649,
+    16.78897
+],
+  "geometry": {"coordinates":[96.12649,16.78897],"type":"Point"}
+}

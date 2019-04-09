@@ -1,0 +1,73 @@
+{
+  "id": 1193258719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.68257,22.23107,96.68257,22.23107",
+    "geom:latitude":22.23107,
+    "geom:longitude":96.68257,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Na-kaw",
+    "gn:country_code":"MM",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307334,
+    "gn:latitude":22.23107,
+    "gn:longitude":96.68257,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Na-kaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na-khaw",
+        "Na-kaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307334
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"346214176b12a4e47247d46924e0ea25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1193258719,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1193258719,
+    "wof:lastmodified":1537665424,
+    "wof:name":"Na-kaw",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.68257,
+    22.23107000000001,
+    96.68257,
+    22.23107000000001
+],
+  "geometry": {"coordinates":[96.68257,22.23107000000001],"type":"Point"}
+}

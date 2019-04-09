@@ -1,0 +1,64 @@
+{
+  "id": 1209024385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.70168,24.52299,94.70168,24.52299",
+    "geom:latitude":24.52299,
+    "geom:longitude":94.70168,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Saingkun",
+    "gn:country_code":"MM",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298367,
+    "gn:latitude":24.52299,
+    "gn:longitude":94.70168,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Saingkun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298367,
+        "wk:page":"Saingkun"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e45caec6922333d3988a4adb16b0d41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209024385
+        }
+    ],
+    "wof:id":1209024385,
+    "wof:lastmodified":1537568464,
+    "wof:name":"Saingkun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.70168,
+    24.52299,
+    94.70168,
+    24.52299
+],
+  "geometry": {"coordinates":[94.70168,24.52299],"type":"Point"}
+}

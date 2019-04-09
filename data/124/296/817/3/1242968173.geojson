@@ -1,0 +1,73 @@
+{
+  "id": 1242968173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.74192,19.44443,97.74192,19.44443",
+    "geom:latitude":19.44443,
+    "geom:longitude":97.74192,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002004",
+    "gn:asciiname":"Wan Hwe-hpakkat-nok",
+    "gn:country_code":"MM",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288942,
+    "gn:latitude":19.44443,
+    "gn:longitude":97.74192,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hw\u00e8-hpakkat-n\u014dk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Hwe-hpak-kat-nek",
+        "W\u0101n Hw\u00e8-hpakkat-n\u014dk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288942
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f994b1e5f1f812441fd2138bf7221cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1242968173,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1242968173,
+    "wof:lastmodified":1537665327,
+    "wof:name":"Wan Hwe-hpakkat-nok",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.74192,
+    19.44443,
+    97.74192,
+    19.44443
+],
+  "geometry": {"coordinates":[97.74191999999999,19.44443],"type":"Point"}
+}

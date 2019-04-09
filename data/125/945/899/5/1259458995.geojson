@@ -1,0 +1,63 @@
+{
+  "id": 1259458995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.7887,16.88757,96.7887,16.88757",
+    "geom:latitude":16.88757,
+    "geom:longitude":96.7887,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Aungmeiktha",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328800,
+    "gn:latitude":16.88757,
+    "gn:longitude":96.7887,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Aungmeiktha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328800
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f6abbfe2784d227344d17c3641a2ead7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259458995,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259458995,
+    "wof:lastmodified":1536893759,
+    "wof:name":"Aungmeiktha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.7887,
+    16.88757,
+    96.7887,
+    16.88757
+],
+  "geometry": {"coordinates":[96.78870000000001,16.88757],"type":"Point"}
+}

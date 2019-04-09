@@ -1,0 +1,73 @@
+{
+  "id": 1259381469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.22888,18.64906,97.22888,18.64906",
+    "geom:latitude":18.64906,
+    "geom:longitude":97.22888,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Taklawkhi Auk",
+    "gn:country_code":"MM",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295014,
+    "gn:latitude":18.64906,
+    "gn:longitude":97.22888,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taklawkhi Auk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taklawkhi",
+        "Taklawkhi Auk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295014
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a61615be7051fb5cfd938c690c1cbaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1259381469,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1259381469,
+    "wof:lastmodified":1537665363,
+    "wof:name":"Taklawkhi Auk",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.22888,
+    18.64906,
+    97.22888,
+    18.64906
+],
+  "geometry": {"coordinates":[97.22888,18.64906],"type":"Point"}
+}

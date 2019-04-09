@@ -1,0 +1,73 @@
+{
+  "id": 1225822735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.69799,22.65282,96.69799,22.65282",
+    "geom:latitude":22.65282,
+    "geom:longitude":96.69799,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Luk-khai",
+    "gn:country_code":"MM",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312925,
+    "gn:latitude":22.65282,
+    "gn:longitude":96.69799,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Luk-khai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukhkai",
+        "Luk-khai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312925
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"71088890724c23d42f48b58257c9a916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1225822735,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225822735,
+    "wof:lastmodified":1537665458,
+    "wof:name":"Luk-khai",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.69799,
+    22.65282,
+    96.69799,
+    22.65282
+],
+  "geometry": {"coordinates":[96.69799,22.65282],"type":"Point"}
+}

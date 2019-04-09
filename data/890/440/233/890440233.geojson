@@ -1,0 +1,84 @@
+{
+  "id": 890440233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.57523,17.29136,96.57523,17.29136",
+    "geom:latitude":17.29136,
+    "geom:longitude":96.57523,
+    "gn:country":"MM",
+    "gn:fcode":"PPL",
+    "gn:pop":38059,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bur_x_preferred":[
+        "\u101e\u1014\u1015\u1039\u1015\u1004\u103a\u1019\u103c\u102d\u102f\u1037\u1014\u101a\u103a"
+    ],
+    "name:dut_x_preferred":[
+        "Thanatpin"
+    ],
+    "name:eng_x_preferred":[
+        "Thanatpin"
+    ],
+    "name:swe_x_preferred":[
+        "Thanatpin"
+    ],
+    "name:unk_x_variant":[
+        "Tanatpin"
+    ],
+    "qs:name":"Thanatpin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292579,
+        "gp:id":1017901,
+        "qs:id":276518,
+        "wd:id":"Q7710164",
+        "wk:page":"Thanatpin"
+    },
+    "wof:country":"MM",
+    "wof:created":1469052267,
+    "wof:geomhash":"ccbeb44835cf766d20cadb0779cbd9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":890440233,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":890440233,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Thanatpin",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:population":38059,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.57523,
+    17.29136,
+    96.57523,
+    17.29136
+],
+  "geometry": {"coordinates":[96.57523,17.29136],"type":"Point"}
+}

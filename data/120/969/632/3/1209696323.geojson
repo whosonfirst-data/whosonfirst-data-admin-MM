@@ -1,0 +1,63 @@
+{
+  "id": 1209696323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.76738,20.18232,96.76738,20.18232",
+    "geom:latitude":20.18232,
+    "geom:longitude":96.76738,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014009",
+    "gn:asciiname":"Pyintha",
+    "gn:country_code":"MM",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298958,
+    "gn:latitude":20.18232,
+    "gn:longitude":96.76738,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyintha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298958
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"99a4d42dfe83f8eedb56a803abda4ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209696323
+        }
+    ],
+    "wof:id":1209696323,
+    "wof:lastmodified":1536279061,
+    "wof:name":"Pyintha",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.76738,
+    20.18232,
+    96.76738,
+    20.18232
+],
+  "geometry": {"coordinates":[96.76738,20.18232],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209206751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.22916,19.0931,97.22916,19.0931",
+    "geom:latitude":19.0931,
+    "geom:longitude":97.22916,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Hwe-mawnun",
+    "gn:country_code":"MM",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322391,
+    "gn:latitude":19.0931,
+    "gn:longitude":97.22916,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hw\u00e8-mawnun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322391
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"337b8fbd96c02dd83e4b439fc95556ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209206751
+        }
+    ],
+    "wof:id":1209206751,
+    "wof:lastmodified":1536294429,
+    "wof:name":"Hwe-mawnun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.22916,
+    19.0931,
+    97.22916,
+    19.0931
+],
+  "geometry": {"coordinates":[97.22915999999999,19.0931],"type":"Point"}
+}

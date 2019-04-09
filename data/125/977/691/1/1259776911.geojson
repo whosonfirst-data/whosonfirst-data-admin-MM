@@ -1,0 +1,72 @@
+{
+  "id": 1259776911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.24287,23.45021,95.24287,23.45021",
+    "geom:latitude":23.45021,
+    "geom:longitude":95.24287,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005008",
+    "gn:asciiname":"Sadwin East",
+    "gn:country_code":"MM",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1298509,
+    "gn:latitude":23.45021,
+    "gn:longitude":95.24287,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sadwin East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sadwin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298509
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a0a29e143f327b6ebdc71e354d19a266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1259776911,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259776911,
+    "wof:lastmodified":1537665381,
+    "wof:name":"Sadwin East",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.24287,
+    23.45021,
+    95.24287,
+    23.45021
+],
+  "geometry": {"coordinates":[95.24287,23.45021],"type":"Point"}
+}

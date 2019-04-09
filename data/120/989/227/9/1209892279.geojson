@@ -1,0 +1,73 @@
+{
+  "id": 1209892279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.28655,16.89184,96.28655,16.89184",
+    "geom:latitude":16.89184,
+    "geom:longitude":96.28655,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D002",
+    "gn:admin3_code":"MMR013020",
+    "gn:asciiname":"Kyizu",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315858,
+    "gn:latitude":16.89184,
+    "gn:longitude":96.28655,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyizu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyizy",
+        "Kyizu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315858
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3c163c4396758112451fd8a37cac3093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047809,
+            "locality_id":1209892279,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1209892279,
+    "wof:lastmodified":1537665474,
+    "wof:name":"Kyizu",
+    "wof:parent_id":1092047809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.28655,
+    16.89184,
+    96.28655,
+    16.89184
+],
+  "geometry": {"coordinates":[96.28655000000001,16.89184],"type":"Point"}
+}

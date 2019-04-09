@@ -1,0 +1,69 @@
+{
+  "id": 1277046679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.42139,16.76447,97.42139,16.76447",
+    "geom:latitude":16.76447,
+    "geom:longitude":97.42139,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011008",
+    "gn:asciiname":"Kadaik",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321692,
+    "gn:latitude":16.76447,
+    "gn:longitude":97.42139,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kadaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321692
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"04ca6867d810a7ce9ce52603d65ac180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1277046679,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1277046679,
+    "wof:lastmodified":1536816815,
+    "wof:name":"Kadaik",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.42139,
+    16.76447000000001,
+    97.42139,
+    16.76447000000001
+],
+  "geometry": {"coordinates":[97.42139,16.76447000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293586493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.09704,19.72497,97.09704,19.72497",
+    "geom:latitude":19.72497,
+    "geom:longitude":97.09704,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hpya-ni",
+    "gn:country_code":"MM",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479158,
+    "gn:latitude":19.72497,
+    "gn:longitude":97.09704,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Hpya-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479158
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cb837d5eef8ca3149f63253b6aaacee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1293586493,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293586493,
+    "wof:lastmodified":1536643781,
+    "wof:name":"Hpya-ni",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.09704,
+    19.72497000000001,
+    97.09704,
+    19.72497000000001
+],
+  "geometry": {"coordinates":[97.09704000000001,19.72497000000001],"type":"Point"}
+}

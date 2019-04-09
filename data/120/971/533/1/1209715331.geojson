@@ -1,0 +1,70 @@
+{
+  "id": 1209715331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.2957,26.12161,98.2957,26.12161",
+    "geom:latitude":26.12161,
+    "geom:longitude":98.2957,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Khugaung",
+    "gn:country_code":"MM",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319123,
+    "gn:latitude":26.12161,
+    "gn:longitude":98.2957,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Khugaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319123,
+        "wk:page":"Khugaung"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e3f2a327b4b97eec3373b79bba4cdb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1209715331,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209715331,
+    "wof:lastmodified":1537568496,
+    "wof:name":"Khugaung",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.2957,
+    26.12161,
+    98.2957,
+    26.12161
+],
+  "geometry": {"coordinates":[98.2957,26.12161],"type":"Point"}
+}

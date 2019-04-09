@@ -1,0 +1,70 @@
+{
+  "id": 1327212217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.5444,24.40808,95.5444,24.40808",
+    "geom:latitude":24.40808,
+    "geom:longitude":95.5444,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Naunglon",
+    "gn:country_code":"MM",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305515,
+    "gn:latitude":24.40808,
+    "gn:longitude":95.5444,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naunglon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305515,
+        "wk:page":"Naunglon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3e87a043213e42556b26465279f0f647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1327212217,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1327212217,
+    "wof:lastmodified":1537568474,
+    "wof:name":"Naunglon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.5444,
+    24.40808,
+    95.5444,
+    24.40808
+],
+  "geometry": {"coordinates":[95.5444,24.40808],"type":"Point"}
+}

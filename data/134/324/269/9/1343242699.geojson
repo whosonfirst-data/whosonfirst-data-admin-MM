@@ -1,0 +1,73 @@
+{
+  "id": 1343242699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.96554,23.68379,97.96554,23.68379",
+    "geom:latitude":23.68379,
+    "geom:longitude":97.96554,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Mao",
+    "gn:country_code":"MM",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311222,
+    "gn:latitude":23.68379,
+    "gn:longitude":97.96554,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Mao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n Ma\u00fc",
+        "M\u0101n Mao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311222
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4b379f00b4da00761cf835f13cd7b16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1343242699,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343242699,
+    "wof:lastmodified":1537665450,
+    "wof:name":"Man Mao",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.96554,
+    23.68379,
+    97.96554,
+    23.68379
+],
+  "geometry": {"coordinates":[97.96554,23.68379],"type":"Point"}
+}

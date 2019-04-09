@@ -1,0 +1,63 @@
+{
+  "id": 1209084775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.42348,23.97461,96.42348,23.97461",
+    "geom:latitude":23.97461,
+    "geom:longitude":96.42348,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005020",
+    "gn:asciiname":"Sinzin",
+    "gn:country_code":"MM",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295894,
+    "gn:latitude":23.97461,
+    "gn:longitude":96.42348,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinzin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295894
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dd1fff9607818130a04c5c6893a729a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209084775
+        }
+    ],
+    "wof:id":1209084775,
+    "wof:lastmodified":1536298222,
+    "wof:name":"Sinzin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.42348,
+    23.97461,
+    96.42348,
+    23.97461
+],
+  "geometry": {"coordinates":[96.42348,23.97461],"type":"Point"}
+}

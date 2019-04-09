@@ -1,0 +1,70 @@
+{
+  "id": 1259760639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.93781,20.97601,96.93781,20.97601",
+    "geom:latitude":20.97601,
+    "geom:longitude":96.93781,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014001",
+    "gn:asciiname":"Kunlon",
+    "gn:country_code":"MM",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317780,
+    "gn:latitude":20.97601,
+    "gn:longitude":96.93781,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunlon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317780,
+        "wk:page":"Kunlon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"63d27653b1762def9696bdaffb5f80c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1259760639,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259760639,
+    "wof:lastmodified":1537568495,
+    "wof:name":"Kunlon",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.93781,
+    20.97601,
+    96.93781,
+    20.97601
+],
+  "geometry": {"coordinates":[96.93781,20.97601],"type":"Point"}
+}

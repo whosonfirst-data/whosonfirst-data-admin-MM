@@ -1,0 +1,73 @@
+{
+  "id": 1259763625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.77099,22.35509,98.77099,22.35509",
+    "geom:latitude":22.35509,
+    "geom:longitude":98.77099,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Man Ho-namhen",
+    "gn:country_code":"MM",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311734,
+    "gn:latitude":22.35509,
+    "gn:longitude":98.77099,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Ho-namh\u0113n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n Ho-namk\u0113n",
+        "M\u0101n Ho-namh\u0113n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311734
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8246b30769d14dca7fc6b135c0e7c466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1259763625,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259763625,
+    "wof:lastmodified":1537665452,
+    "wof:name":"Man Ho-namhen",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.77099,
+    22.35509,
+    98.77099,
+    22.35509
+],
+  "geometry": {"coordinates":[98.77099,22.35509],"type":"Point"}
+}

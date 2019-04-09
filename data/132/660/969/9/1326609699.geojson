@@ -1,0 +1,69 @@
+{
+  "id": 1326609699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.27446,14.01812,98.27446,14.01812",
+    "geom:latitude":14.01812,
+    "geom:longitude":98.27446,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006003",
+    "gn:asciiname":"Kinshe",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318945,
+    "gn:latitude":14.01812,
+    "gn:longitude":98.27446,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kinshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318945
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0c57f71b0e74a634706abe1a7adde840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1326609699,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1326609699,
+    "wof:lastmodified":1536871345,
+    "wof:name":"Kinshe",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.27446,
+    14.01812,
+    98.27446,
+    14.01812
+],
+  "geometry": {"coordinates":[98.27446,14.01812],"type":"Point"}
+}

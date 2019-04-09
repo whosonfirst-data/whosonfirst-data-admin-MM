@@ -1,0 +1,69 @@
+{
+  "id": 1326520157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.07131,20.78813,96.07131,20.78813",
+    "geom:latitude":20.78813,
+    "geom:longitude":96.07131,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010030",
+    "gn:asciiname":"Okshitkon",
+    "gn:country_code":"MM",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303077,
+    "gn:latitude":20.78813,
+    "gn:longitude":96.07131,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Okshitkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303077
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f1aa6eeb1294c26a418e3b0e53425483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1326520157,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326520157,
+    "wof:lastmodified":1537000717,
+    "wof:name":"Okshitkon",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.07131,
+    20.78813,
+    96.07131,
+    20.78813
+],
+  "geometry": {"coordinates":[96.07131,20.78813],"type":"Point"}
+}

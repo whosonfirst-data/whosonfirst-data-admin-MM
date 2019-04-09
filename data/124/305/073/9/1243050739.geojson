@@ -1,0 +1,69 @@
+{
+  "id": 1243050739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.18237,19.91868,95.18237,19.91868",
+    "geom:latitude":19.91868,
+    "geom:longitude":95.18237,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009001",
+    "gn:asciiname":"Kunon",
+    "gn:country_code":"MM",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317743,
+    "gn:latitude":19.91868,
+    "gn:longitude":95.18237,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317743
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"09c8dd29bf8677de615150bdd9f779c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1243050739,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1243050739,
+    "wof:lastmodified":1536878193,
+    "wof:name":"Kunon",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.18237,
+    19.91868,
+    95.18237,
+    19.91868
+],
+  "geometry": {"coordinates":[95.18237000000001,19.91868],"type":"Point"}
+}

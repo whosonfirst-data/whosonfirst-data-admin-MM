@@ -1,0 +1,64 @@
+{
+  "id": 1209129403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.92714,24.07566,96.92714,24.07566",
+    "geom:latitude":24.07566,
+    "geom:longitude":96.92714,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Lagatyan",
+    "gn:country_code":"MM",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315203,
+    "gn:latitude":24.07566,
+    "gn:longitude":96.92714,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lagatyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315203,
+        "wk:page":"Lagatyan"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cbc41bb1e6189819b587c526fee11f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209129403
+        }
+    ],
+    "wof:id":1209129403,
+    "wof:lastmodified":1537568490,
+    "wof:name":"Lagatyan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.92714,
+    24.07566,
+    96.92714,
+    24.07566
+],
+  "geometry": {"coordinates":[96.92713999999999,24.07566],"type":"Point"}
+}

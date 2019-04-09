@@ -1,0 +1,69 @@
+{
+  "id": 1226234539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.18412,18.75933,97.18412,18.75933",
+    "geom:latitude":18.75933,
+    "geom:longitude":97.18412,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002006",
+    "gn:asciiname":"Swekale",
+    "gn:country_code":"MM",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295406,
+    "gn:latitude":18.75933,
+    "gn:longitude":97.18412,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Swekale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295406
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"de5c134c106b30164108cea3c9d4abee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1226234539,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1226234539,
+    "wof:lastmodified":1536950071,
+    "wof:name":"Swekale",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.18412,
+    18.75933,
+    97.18412,
+    18.75933
+],
+  "geometry": {"coordinates":[97.18411999999999,18.75933],"type":"Point"}
+}

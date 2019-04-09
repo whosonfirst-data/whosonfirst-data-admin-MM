@@ -1,0 +1,69 @@
+{
+  "id": 1243442101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.86154,22.25961,96.86154,22.25961",
+    "geom:latitude":22.25961,
+    "geom:longitude":96.86154,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Nyantaw",
+    "gn:country_code":"MM",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303787,
+    "gn:latitude":22.25961,
+    "gn:longitude":96.86154,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyantaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303787
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9a3171ae4e2e82aa4a65d0fc62009cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1243442101,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243442101,
+    "wof:lastmodified":1536811268,
+    "wof:name":"Nyantaw",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.86154,
+    22.25961,
+    96.86154,
+    22.25961
+],
+  "geometry": {"coordinates":[96.86154000000001,22.25961],"type":"Point"}
+}

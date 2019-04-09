@@ -1,0 +1,69 @@
+{
+  "id": 1310211977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.26887,17.54565,95.26887,17.54565",
+    "geom:latitude":17.54565,
+    "geom:longitude":95.26887,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017008",
+    "gn:asciiname":"Leiktu",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314315,
+    "gn:latitude":17.54565,
+    "gn:longitude":95.26887,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Leiktu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314315
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"38c123602f106af0437edaf9b48facf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":1310211977,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1310211977,
+    "wof:lastmodified":1536841816,
+    "wof:name":"Leiktu",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.26887,
+    17.54565,
+    95.26887,
+    17.54565
+],
+  "geometry": {"coordinates":[95.26887000000001,17.54565],"type":"Point"}
+}

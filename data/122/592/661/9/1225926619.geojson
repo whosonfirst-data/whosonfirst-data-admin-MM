@@ -1,0 +1,73 @@
+{
+  "id": 1225926619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.2524,20.43502,94.2524,20.43502",
+    "geom:latitude":20.43502,
+    "geom:longitude":94.2524,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009011",
+    "gn:asciiname":"Tandaw",
+    "gn:country_code":"MM",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294645,
+    "gn:latitude":20.43502,
+    "gn:longitude":94.2524,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tandaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanow",
+        "Tandaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294645
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ef1700e8a2c7e81ffd62e0a262ee41e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1225926619,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1225926619,
+    "wof:lastmodified":1537665360,
+    "wof:name":"Tandaw",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.2524,
+    20.43502,
+    94.2524,
+    20.43502
+],
+  "geometry": {"coordinates":[94.25239999999999,20.43502],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326812971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.6203,19.65438,94.6203,19.65438",
+    "geom:latitude":19.65438,
+    "geom:longitude":94.6203,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009013",
+    "gn:asciiname":"Milaungon",
+    "gn:country_code":"MM",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309312,
+    "gn:latitude":19.65438,
+    "gn:longitude":94.6203,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Milaungon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309312
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fa3bd6e8b6ca2c822d3999057374812f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1326812971,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1326812971,
+    "wof:lastmodified":1537073477,
+    "wof:name":"Milaungon",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.6203,
+    19.65438,
+    94.6203,
+    19.65438
+],
+  "geometry": {"coordinates":[94.6203,19.65438],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209192787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.36732,23.01541,95.36732,23.01541",
+    "geom:latitude":23.01541,
+    "geom:longitude":95.36732,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Ashetaik",
+    "gn:country_code":"MM",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329033,
+    "gn:latitude":23.01541,
+    "gn:longitude":95.36732,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ashetaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashedaik",
+        "Ashetaik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329033
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ef65d1c10a72174880b2f21ea7a14f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209192787
+        }
+    ],
+    "wof:id":1209192787,
+    "wof:lastmodified":1537665550,
+    "wof:name":"Ashetaik",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.36732,
+    23.01541,
+    95.36732,
+    23.01541
+],
+  "geometry": {"coordinates":[95.36732000000001,23.01541],"type":"Point"}
+}

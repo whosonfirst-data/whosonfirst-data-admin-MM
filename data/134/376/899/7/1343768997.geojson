@@ -1,0 +1,69 @@
+{
+  "id": 1343768997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.65769,17.51862,95.65769,17.51862",
+    "geom:latitude":17.51862,
+    "geom:longitude":95.65769,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017009",
+    "gn:asciiname":"Kyongyaik",
+    "gn:country_code":"MM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315806,
+    "gn:latitude":17.51862,
+    "gn:longitude":95.65769,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyongyaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315806
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"34aeb923ea35df5e2093cb907abe7177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":1343768997,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1343768997,
+    "wof:lastmodified":1536798676,
+    "wof:name":"Kyongyaik",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.65769,
+    17.51862,
+    95.65769,
+    17.51862
+],
+  "geometry": {"coordinates":[95.65769,17.51862],"type":"Point"}
+}

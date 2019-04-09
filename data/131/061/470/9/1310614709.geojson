@@ -1,0 +1,69 @@
+{
+  "id": 1310614709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.69606,18.81405,93.69606,18.81405",
+    "geom:latitude":18.81405,
+    "geom:longitude":93.69606,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012012",
+    "gn:asciiname":"Minbyin",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309281,
+    "gn:latitude":18.81405,
+    "gn:longitude":93.69606,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minbyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309281
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b70af5413296a628b720e90dc9ad7628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1310614709,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1310614709,
+    "wof:lastmodified":1536759516,
+    "wof:name":"Minbyin",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.69606,
+    18.81405,
+    93.69606,
+    18.81405
+],
+  "geometry": {"coordinates":[93.69606,18.81405],"type":"Point"}
+}

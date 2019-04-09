@@ -1,0 +1,73 @@
+{
+  "id": 1344029659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.28882,17.57337,96.28882,17.57337",
+    "geom:latitude":17.57337,
+    "geom:longitude":96.28882,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007001",
+    "gn:asciiname":"Tamabin",
+    "gn:country_code":"MM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294869,
+    "gn:latitude":17.57337,
+    "gn:longitude":96.28882,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tamabin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanrabin",
+        "Tamabin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294869
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ce07589ed2f1b2b4c51cc26d9590df20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1344029659,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1344029659,
+    "wof:lastmodified":1537665361,
+    "wof:name":"Tamabin",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.28882,
+    17.57337,
+    96.28882,
+    17.57337
+],
+  "geometry": {"coordinates":[96.28882,17.57337],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209421919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.47056,16.67128,95.47056,16.67128",
+    "geom:latitude":16.67128,
+    "geom:longitude":95.47056,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017019",
+    "gn:asciiname":"Chaukywa",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327638,
+    "gn:latitude":16.67128,
+    "gn:longitude":95.47056,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chaukywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327638
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f233d6f41eef61c065cd2548909ba502",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209421919
+        }
+    ],
+    "wof:id":1209421919,
+    "wof:lastmodified":1536287503,
+    "wof:name":"Chaukywa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.47056,
+    16.67128,
+    95.47056,
+    16.67128
+],
+  "geometry": {"coordinates":[95.47056000000001,16.67128],"type":"Point"}
+}

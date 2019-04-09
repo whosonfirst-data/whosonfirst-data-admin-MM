@@ -1,0 +1,69 @@
+{
+  "id": 1326620105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.39223,20.89125,96.39223,20.89125",
+    "geom:latitude":20.89125,
+    "geom:longitude":96.39223,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010030",
+    "gn:asciiname":"Kubyin",
+    "gn:country_code":"MM",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318049,
+    "gn:latitude":20.89125,
+    "gn:longitude":96.39223,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kubyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318049
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b499fa393d0b72bdb6c6b1c0127ae229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1326620105,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326620105,
+    "wof:lastmodified":1536856115,
+    "wof:name":"Kubyin",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.39223,
+    20.89125,
+    96.39223,
+    20.89125
+],
+  "geometry": {"coordinates":[96.39223,20.89125],"type":"Point"}
+}

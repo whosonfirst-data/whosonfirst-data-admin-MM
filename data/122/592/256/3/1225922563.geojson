@@ -1,0 +1,69 @@
+{
+  "id": 1225922563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.26314,24.31731,95.26314,24.31731",
+    "geom:latitude":24.31731,
+    "geom:longitude":95.26314,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005026",
+    "gn:asciiname":"Magyigon",
+    "gn:country_code":"MM",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312462,
+    "gn:latitude":24.31731,
+    "gn:longitude":95.26314,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Magyigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312462
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"52ff2d7008f1facdd2040ad67813e604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1225922563,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1225922563,
+    "wof:lastmodified":1536903109,
+    "wof:name":"Magyigon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.26314,
+    24.31731,
+    95.26314,
+    24.31731
+],
+  "geometry": {"coordinates":[95.26314000000001,24.31731],"type":"Point"}
+}

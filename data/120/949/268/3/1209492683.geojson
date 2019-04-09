@@ -1,0 +1,63 @@
+{
+  "id": 1209492683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.5669,21.40986,99.5669,21.40986",
+    "geom:latitude":21.40986,
+    "geom:longitude":99.5669,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016001",
+    "gn:asciiname":"Wan Lai",
+    "gn:country_code":"MM",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288523,
+    "gn:latitude":21.40986,
+    "gn:longitude":99.5669,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288523
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"102202ec1bf0aa81e50c745e95406290",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209492683
+        }
+    ],
+    "wof:id":1209492683,
+    "wof:lastmodified":1536285435,
+    "wof:name":"Wan Lai",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.5669,
+    21.40986,
+    99.5669,
+    21.40986
+],
+  "geometry": {"coordinates":[99.5669,21.40986],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293560917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.61661,18.78419,95.61661,18.78419",
+    "geom:latitude":18.78419,
+    "geom:longitude":95.61661,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008004",
+    "gn:asciiname":"Natyedwin",
+    "gn:country_code":"MM",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305646,
+    "gn:latitude":18.78419,
+    "gn:longitude":95.61661,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Natyedwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305646
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1d115307fb8209e5b2bbbd1a16dbb51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1293560917,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1293560917,
+    "wof:lastmodified":1536681312,
+    "wof:name":"Natyedwin",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.61661,
+    18.78419,
+    95.61661,
+    18.78419
+],
+  "geometry": {"coordinates":[95.61660999999999,18.78419],"type":"Point"}
+}

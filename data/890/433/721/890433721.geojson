@@ -1,0 +1,69 @@
+{
+  "id": 890433721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.40478,23.64254,94.40478,23.64254",
+    "geom:latitude":23.64254,
+    "geom:longitude":94.40478,
+    "gn:country":"MM",
+    "gn:fcode":"PPL",
+    "gn:pop":44540,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mawlaik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310120,
+        "gp:id":1017597,
+        "qs:id":132684,
+        "wd:id":"Q6794418",
+        "wk:page":"Mawlaik"
+    },
+    "wof:country":"MM",
+    "wof:created":1469051991,
+    "wof:geomhash":"ecce9f4e18dd15d242015c2fe6cfd249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046361,
+            "locality_id":890433721,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":890433721,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Mawlaik",
+    "wof:parent_id":1092046361,
+    "wof:placetype":"locality",
+    "wof:population":44540,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.40478,
+    23.64254,
+    94.40478,
+    23.64254
+],
+  "geometry": {"coordinates":[94.40478,23.64254],"type":"Point"}
+}

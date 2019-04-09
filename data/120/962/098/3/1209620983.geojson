@@ -1,0 +1,64 @@
+{
+  "id": 1209620983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.03896,25.70633,98.03896,25.70633",
+    "geom:latitude":25.70633,
+    "geom:longitude":98.03896,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Sha-on",
+    "gn:country_code":"MM",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297031,
+    "gn:latitude":25.70633,
+    "gn:longitude":98.03896,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sha-on",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297031,
+        "wk:page":"Sha-on"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"669e1ae78d19277fb62bd3c63a920d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209620983
+        }
+    ],
+    "wof:id":1209620983,
+    "wof:lastmodified":1537568462,
+    "wof:name":"Sha-on",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.03896,
+    25.70633,
+    98.03896,
+    25.70633
+],
+  "geometry": {"coordinates":[98.03896,25.70633],"type":"Point"}
+}

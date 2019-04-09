@@ -1,0 +1,73 @@
+{
+  "id": 1193257923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.86674,12.50662,98.86674,12.50662",
+    "geom:latitude":12.50662,
+    "geom:longitude":98.86674,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006005",
+    "gn:asciiname":"Bok",
+    "gn:country_code":"MM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328093,
+    "gn:latitude":12.50662,
+    "gn:longitude":98.86674,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bok-ywa",
+        "Bok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328093
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3b0f706fa654a2777471160086084ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1193257923,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1193257923,
+    "wof:lastmodified":1537665544,
+    "wof:name":"Bok",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.86674,
+    12.50662,
+    98.86674,
+    12.50662
+],
+  "geometry": {"coordinates":[98.86673999999999,12.50662],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293274219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.70485,17.71862,95.70485,17.71862",
+    "geom:latitude":17.71862,
+    "geom:longitude":95.70485,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008007",
+    "gn:asciiname":"Ngapyugyaung",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304455,
+    "gn:latitude":17.71862,
+    "gn:longitude":95.70485,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngapyugyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dokyaik",
+        "Ngapyugaung",
+        "Ngapyugyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304455
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dadff9de124cd93868adc22633af9dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1293274219,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1293274219,
+    "wof:lastmodified":1537665411,
+    "wof:name":"Ngapyugyaung",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.70485,
+    17.71862,
+    95.70485,
+    17.71862
+],
+  "geometry": {"coordinates":[95.70484999999999,17.71862],"type":"Point"}
+}

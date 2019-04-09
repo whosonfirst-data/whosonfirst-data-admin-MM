@@ -1,0 +1,73 @@
+{
+  "id": 1276636031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.62205,22.22001,96.62205,22.22001",
+    "geom:latitude":22.22001,
+    "geom:longitude":96.62205,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Gan-kaw",
+    "gn:country_code":"MM",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326001,
+    "gn:latitude":22.22001,
+    "gn:longitude":96.62205,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gan-kaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gan-gaw",
+        "Gan-kaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326001
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"86cbbb885a596ef0ad4c10fa061e9649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1276636031,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276636031,
+    "wof:lastmodified":1537665533,
+    "wof:name":"Gan-kaw",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.62205,
+    22.22001,
+    96.62205,
+    22.22001
+],
+  "geometry": {"coordinates":[96.62205,22.22001],"type":"Point"}
+}

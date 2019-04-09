@@ -1,0 +1,73 @@
+{
+  "id": 1193116191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.9694,16.16517,97.9694,16.16517",
+    "geom:latitude":16.16517,
+    "geom:longitude":97.9694,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011002",
+    "gn:asciiname":"Chaunghnakwa",
+    "gn:country_code":"MM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327510,
+    "gn:latitude":16.16517,
+    "gn:longitude":97.9694,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chaunghnakwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaungnakwa",
+        "Chaunghnakwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327510
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"65421ceee90e8ee018b7a1c56ba821dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1193116191,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1193116191,
+    "wof:lastmodified":1537665540,
+    "wof:name":"Chaunghnakwa",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.9694,
+    16.16517,
+    97.9694,
+    16.16517
+],
+  "geometry": {"coordinates":[97.96939999999999,16.16517],"type":"Point"}
+}

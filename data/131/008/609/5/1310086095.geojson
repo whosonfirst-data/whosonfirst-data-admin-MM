@@ -1,0 +1,73 @@
+{
+  "id": 1310086095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.86559,20.562,97.86559,20.562",
+    "geom:latitude":20.562,
+    "geom:longitude":97.86559,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Wan Keng",
+    "gn:country_code":"MM",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288704,
+    "gn:latitude":20.562,
+    "gn:longitude":97.86559,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Keng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keng",
+        "W\u0101n Keng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288704
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ef7868cfa1acbb301f8777d29fabb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1310086095,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310086095,
+    "wof:lastmodified":1537665325,
+    "wof:name":"Wan Keng",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.86559,
+    20.562,
+    97.86559,
+    20.562
+],
+  "geometry": {"coordinates":[97.86559,20.562],"type":"Point"}
+}

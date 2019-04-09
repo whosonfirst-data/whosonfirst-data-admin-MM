@@ -1,0 +1,69 @@
+{
+  "id": 1243461363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.57447,16.65617,95.57447,16.65617",
+    "geom:latitude":16.65617,
+    "geom:longitude":95.57447,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017019",
+    "gn:asciiname":"Letpangon",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313946,
+    "gn:latitude":16.65617,
+    "gn:longitude":95.57447,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Letpangon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313946
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6eec11d72d730e479366a6999e9ba182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1243461363,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243461363,
+    "wof:lastmodified":1536784466,
+    "wof:name":"Letpangon",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.57447,
+    16.65617,
+    95.57447,
+    16.65617
+],
+  "geometry": {"coordinates":[95.57447000000001,16.65617],"type":"Point"}
+}

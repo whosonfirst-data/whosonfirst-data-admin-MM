@@ -1,0 +1,69 @@
+{
+  "id": 1260052703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.9335,19.01002,94.9335,19.01002",
+    "geom:latitude":19.01002,
+    "geom:longitude":94.9335,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009015",
+    "gn:asciiname":"Pyindaung",
+    "gn:country_code":"MM",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435400,
+    "gn:latitude":19.01002,
+    "gn:longitude":94.9335,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyindaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435400
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4625c073ed8f8dfc09309d49eb987cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1260052703,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1260052703,
+    "wof:lastmodified":1537031133,
+    "wof:name":"Pyindaung",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.9335,
+    19.01002,
+    94.9335,
+    19.01002
+],
+  "geometry": {"coordinates":[94.9335,19.01002],"type":"Point"}
+}

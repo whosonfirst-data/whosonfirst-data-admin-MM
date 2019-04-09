@@ -1,0 +1,69 @@
+{
+  "id": 1310385823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.17953,22.13785,97.17953,22.13785",
+    "geom:latitude":22.13785,
+    "geom:longitude":97.17953,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014008",
+    "gn:asciiname":"Panghai",
+    "gn:country_code":"MM",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302111,
+    "gn:latitude":22.13785,
+    "gn:longitude":97.17953,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u0101nghai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302111
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c25ba3ac614cd18f76f400b6afd90a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1310385823,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310385823,
+    "wof:lastmodified":1537086449,
+    "wof:name":"Panghai",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.17953,
+    22.13785,
+    97.17953,
+    22.13785
+],
+  "geometry": {"coordinates":[97.17953,22.13785],"type":"Point"}
+}

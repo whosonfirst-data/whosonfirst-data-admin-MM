@@ -1,0 +1,63 @@
+{
+  "id": 1209502013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.08996,14.45765,98.08996,14.45765",
+    "geom:latitude":14.45765,
+    "geom:longitude":98.08996,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006004",
+    "gn:asciiname":"Aingshe",
+    "gn:country_code":"MM",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329462,
+    "gn:latitude":14.45765,
+    "gn:longitude":98.08996,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aingshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329462
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"797d468679f7c4a98436dadc0d6d0d05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209502013
+        }
+    ],
+    "wof:id":1209502013,
+    "wof:lastmodified":1536285152,
+    "wof:name":"Aingshe",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.08996,
+    14.45765,
+    98.08996,
+    14.45765
+],
+  "geometry": {"coordinates":[98.08996,14.45765],"type":"Point"}
+}

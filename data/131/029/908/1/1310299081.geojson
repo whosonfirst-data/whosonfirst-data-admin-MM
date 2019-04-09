@@ -1,0 +1,70 @@
+{
+  "id": 1310299081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.97809,24.86741,94.97809,24.86741",
+    "geom:latitude":24.86741,
+    "geom:longitude":94.97809,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Nawnglun",
+    "gn:country_code":"MM",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305133,
+    "gn:latitude":24.86741,
+    "gn:longitude":94.97809,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawnglun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305133,
+        "wk:page":"Nawnglun"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dc76f1bffd4927ac2606e5c2c4536267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1310299081,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1310299081,
+    "wof:lastmodified":1537568473,
+    "wof:name":"Nawnglun",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.97809,
+    24.86741,
+    94.97809,
+    24.86741
+],
+  "geometry": {"coordinates":[94.97808999999999,24.86741],"type":"Point"}
+}

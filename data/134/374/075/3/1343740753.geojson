@@ -1,0 +1,69 @@
+{
+  "id": 1343740753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.39638,21.99621,95.39638,21.99621",
+    "geom:latitude":21.99621,
+    "geom:longitude":95.39638,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005002",
+    "gn:asciiname":"Pedaung",
+    "gn:country_code":"MM",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300511,
+    "gn:latitude":21.99621,
+    "gn:longitude":95.39638,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pedaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300511
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5b2a2c56baa8a8f934f146f0a153ca00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047295,
+            "locality_id":1343740753,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343740753,
+    "wof:lastmodified":1536838316,
+    "wof:name":"Pedaung",
+    "wof:parent_id":1092047295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.39638,
+    21.99621,
+    95.39638,
+    21.99621
+],
+  "geometry": {"coordinates":[95.39637999999999,21.99621],"type":"Point"}
+}

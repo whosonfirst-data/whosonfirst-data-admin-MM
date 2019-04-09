@@ -1,0 +1,67 @@
+{
+  "id": 1209185327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.20839,17.36782,97.20839,17.36782",
+    "geom:latitude":17.36782,
+    "geom:longitude":97.20839,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011010",
+    "gn:asciiname":"Melanbya",
+    "gn:country_code":"MM",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309723,
+    "gn:latitude":17.36782,
+    "gn:longitude":97.20839,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Melanbya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melan",
+        "Melanbya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309723
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2cc6d6081e1de9d2b64f95626b4d3614",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209185327
+        }
+    ],
+    "wof:id":1209185327,
+    "wof:lastmodified":1537665440,
+    "wof:name":"Melanbya",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.20839,
+    17.36782,
+    97.20839,
+    17.36782
+],
+  "geometry": {"coordinates":[97.20838999999999,17.36782],"type":"Point"}
+}

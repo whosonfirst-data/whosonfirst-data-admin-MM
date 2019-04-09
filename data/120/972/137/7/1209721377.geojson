@@ -1,0 +1,69 @@
+{
+  "id": 1209721377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.35823,26.94161,98.35823,26.94161",
+    "geom:latitude":26.94161,
+    "geom:longitude":98.35823,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001018",
+    "gn:asciiname":"Kaitung",
+    "gn:country_code":"MM",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321404,
+    "gn:latitude":26.94161,
+    "gn:longitude":98.35823,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaitung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321404
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f46821cc6d46dfa48bb10a1ae725dff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1209721377,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209721377,
+    "wof:lastmodified":1536386219,
+    "wof:name":"Kaitung",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.35823,
+    26.94161,
+    98.35823,
+    26.94161
+],
+  "geometry": {"coordinates":[98.35823000000001,26.94161],"type":"Point"}
+}

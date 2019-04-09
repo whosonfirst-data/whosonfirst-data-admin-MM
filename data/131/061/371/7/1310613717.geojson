@@ -1,0 +1,74 @@
+{
+  "id": 1310613717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.38267,23.34841,93.38267,23.34841",
+    "geom:latitude":23.34841,
+    "geom:longitude":93.38267,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004001",
+    "gn:asciiname":"Rihkhawdar",
+    "gn:country_code":"MM",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11072081,
+    "gn:latitude":23.34841,
+    "gn:longitude":93.38267,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Rihkhawdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rhi",
+        "Rih",
+        "Reehkawdar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11072081
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cf4eadde837bdafda786dafcddc569a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1310613717,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1310613717,
+    "wof:lastmodified":1537665566,
+    "wof:name":"Rihkhawdar",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.38267,
+    23.34841,
+    93.38267,
+    23.34841
+],
+  "geometry": {"coordinates":[93.38267,23.34841],"type":"Point"}
+}

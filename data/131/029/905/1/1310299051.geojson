@@ -1,0 +1,69 @@
+{
+  "id": 1310299051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.78124,22.70399,95.78124,22.70399",
+    "geom:latitude":22.70399,
+    "geom:longitude":95.78124,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005005",
+    "gn:asciiname":"Wetthe",
+    "gn:country_code":"MM",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286242,
+    "gn:latitude":22.70399,
+    "gn:longitude":95.78124,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wetth\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286242
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a9115e063d77b73eabaab826bfc07116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1310299051,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1310299051,
+    "wof:lastmodified":1536717565,
+    "wof:name":"Wetthe",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.78124,
+    22.70399,
+    95.78124,
+    22.70399
+],
+  "geometry": {"coordinates":[95.78124,22.70399],"type":"Point"}
+}

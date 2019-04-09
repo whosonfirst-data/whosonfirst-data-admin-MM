@@ -1,0 +1,73 @@
+{
+  "id": 1259482985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.21235,26.24014,98.21235,26.24014",
+    "geom:latitude":26.24014,
+    "geom:longitude":98.21235,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Komo",
+    "gn:country_code":"MM",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318677,
+    "gn:latitude":26.24014,
+    "gn:longitude":98.21235,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"K\u014dmo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318677,
+        "wk:page":"Komo%2C_Burma"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aec829246e619859a9fca5ad67185e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1259482985,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259482985,
+    "wof:lastmodified":1537665491,
+    "wof:name":"Komo",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.21235,
+    26.24014,
+    98.21235,
+    26.24014
+],
+  "geometry": {"coordinates":[98.21235,26.24014],"type":"Point"}
+}

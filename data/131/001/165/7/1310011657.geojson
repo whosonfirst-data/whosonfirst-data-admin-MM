@@ -1,0 +1,69 @@
+{
+  "id": 1310011657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.52211,24.27019,97.52211,24.27019",
+    "geom:latitude":24.27019,
+    "geom:longitude":97.52211,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001012",
+    "gn:asciiname":"Wuteng",
+    "gn:country_code":"MM",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285983,
+    "gn:latitude":24.27019,
+    "gn:longitude":97.52211,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wuteng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285983
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8de0acaa8f6c9fafead924e03ad9a8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1310011657,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1310011657,
+    "wof:lastmodified":1536632981,
+    "wof:name":"Wuteng",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.52211,
+    24.27019,
+    97.52211,
+    24.27019
+],
+  "geometry": {"coordinates":[97.52211,24.27019],"type":"Point"}
+}

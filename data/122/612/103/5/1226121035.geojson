@@ -1,0 +1,69 @@
+{
+  "id": 1226121035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.24491,22.79833,95.24491,22.79833",
+    "geom:latitude":22.79833,
+    "geom:longitude":95.24491,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005009",
+    "gn:asciiname":"Okpo",
+    "gn:country_code":"MM",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303124,
+    "gn:latitude":22.79833,
+    "gn:longitude":95.24491,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Okpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303124
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0738ed0a7a7af0bdee79c9efc6832ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1226121035,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226121035,
+    "wof:lastmodified":1536614148,
+    "wof:name":"Okpo",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.24491,
+    22.79833,
+    95.24491,
+    22.79833
+],
+  "geometry": {"coordinates":[95.24491,22.79833],"type":"Point"}
+}

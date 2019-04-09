@@ -1,0 +1,70 @@
+{
+  "id": 1243543125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.28356,24.77554,95.28356,24.77554",
+    "geom:latitude":24.77554,
+    "geom:longitude":95.28356,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Thabigon",
+    "gn:country_code":"MM",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293025,
+    "gn:latitude":24.77554,
+    "gn:longitude":95.28356,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thabigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293025,
+        "wk:page":"Thabigon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fbfb91e8eb8ae2fc4640f1c17cbf1ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1243543125,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243543125,
+    "wof:lastmodified":1537568456,
+    "wof:name":"Thabigon",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.28356,
+    24.77554,
+    95.28356,
+    24.77554
+],
+  "geometry": {"coordinates":[95.28355999999999,24.77554],"type":"Point"}
+}

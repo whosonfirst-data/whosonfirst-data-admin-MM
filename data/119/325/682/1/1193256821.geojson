@@ -1,0 +1,73 @@
+{
+  "id": 1193256821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.7639,23.62538,95.7639,23.62538",
+    "geom:latitude":23.62538,
+    "geom:longitude":95.7639,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Aunggyin",
+    "gn:country_code":"MM",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328816,
+    "gn:latitude":23.62538,
+    "gn:longitude":95.7639,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aunggyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aukkyin",
+        "Aunggyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328816
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ce912b438e5ba51002959b6aed1b0ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1193256821,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1193256821,
+    "wof:lastmodified":1537665548,
+    "wof:name":"Aunggyin",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.7639,
+    23.62538,
+    95.7639,
+    23.62538
+],
+  "geometry": {"coordinates":[95.76390000000001,23.62538],"type":"Point"}
+}

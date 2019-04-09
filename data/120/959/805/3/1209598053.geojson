@@ -1,0 +1,63 @@
+{
+  "id": 1209598053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.30218,20.47536,94.30218,20.47536",
+    "geom:latitude":20.47536,
+    "geom:longitude":94.30218,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009011",
+    "gn:asciiname":"Pazawbya",
+    "gn:country_code":"MM",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300596,
+    "gn:latitude":20.47536,
+    "gn:longitude":94.30218,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pazawbya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300596
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"053c93c911d862c97819a2a2bc5b4fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209598053
+        }
+    ],
+    "wof:id":1209598053,
+    "wof:lastmodified":1536282259,
+    "wof:name":"Pazawbya",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.30218,
+    20.47536,
+    94.30218,
+    20.47536
+],
+  "geometry": {"coordinates":[94.30218000000001,20.47536],"type":"Point"}
+}

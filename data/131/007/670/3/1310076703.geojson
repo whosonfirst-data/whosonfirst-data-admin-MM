@@ -1,0 +1,69 @@
+{
+  "id": 1310076703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.3384,17.408,97.3384,17.408",
+    "geom:latitude":17.408,
+    "geom:longitude":97.3384,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011010",
+    "gn:asciiname":"Bewahta",
+    "gn:country_code":"MM",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328225,
+    "gn:latitude":17.408,
+    "gn:longitude":97.3384,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bewahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328225
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ebfffd10949f95a8d44db49798beef15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1310076703,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1310076703,
+    "wof:lastmodified":1537036570,
+    "wof:name":"Bewahta",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.3384,
+    17.408,
+    97.3384,
+    17.408
+],
+  "geometry": {"coordinates":[97.33839999999999,17.408],"type":"Point"}
+}

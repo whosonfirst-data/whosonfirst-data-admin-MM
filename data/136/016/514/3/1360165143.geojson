@@ -1,0 +1,72 @@
+{
+  "id": 1360165143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.00292,23.63812,97.00292,23.63812",
+    "geom:latitude":23.63812,
+    "geom:longitude":97.00292,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D008",
+    "gn:admin3_code":"MMR015018",
+    "gn:asciiname":"Man Hawn",
+    "gn:country_code":"MM",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311807,
+    "gn:latitude":23.63812,
+    "gn:longitude":97.00292,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Man Hawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n Hawn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311807
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e08b329b737fde55a80bb8762da17c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1360165143,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360165143,
+    "wof:lastmodified":1537665452,
+    "wof:name":"Man Hawn",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.00292,
+    23.63812,
+    97.00292,
+    23.63812
+],
+  "geometry": {"coordinates":[97.00292,23.63812],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192990187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.93333,17.66667,96.93333,17.66667",
+    "geom:latitude":17.66667,
+    "geom:longitude":96.93333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Thanbya",
+    "gn:country_code":"MM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292515,
+    "gn:latitude":17.66667,
+    "gn:longitude":96.93333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thanbya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thabya",
+        "Thanbya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292515
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f6a285396e92c5f62d6f7589e1a792bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1192990187,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1192990187,
+    "wof:lastmodified":1537665350,
+    "wof:name":"Thanbya",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.93333,
+    17.66667,
+    96.93333,
+    17.66667
+],
+  "geometry": {"coordinates":[96.93333,17.66667],"type":"Point"}
+}

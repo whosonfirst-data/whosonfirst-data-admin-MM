@@ -1,0 +1,73 @@
+{
+  "id": 1259360495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.66586,20.60969,99.66586,20.60969",
+    "geom:latitude":20.60969,
+    "geom:longitude":99.66586,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016009",
+    "gn:asciiname":"Wan Lam",
+    "gn:country_code":"MM",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288511,
+    "gn:latitude":20.60969,
+    "gn:longitude":99.66586,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Lam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Mu-hs\u00f6 Lam",
+        "W\u0101n Lam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288511
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3333e3a008169cbdd736f163e2116b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047397,
+            "locality_id":1259360495,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259360495,
+    "wof:lastmodified":1537665323,
+    "wof:name":"Wan Lam",
+    "wof:parent_id":1092047397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.66586,
+    20.60969,
+    99.66586,
+    20.60969
+],
+  "geometry": {"coordinates":[99.66586,20.60969],"type":"Point"}
+}

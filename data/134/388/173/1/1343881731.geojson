@@ -1,0 +1,69 @@
+{
+  "id": 1343881731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.82854,27.07168,97.82854,27.07168",
+    "geom:latitude":27.07168,
+    "geom:longitude":97.82854,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001016",
+    "gn:asciiname":"Pingma Ga",
+    "gn:country_code":"MM",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299990,
+    "gn:latitude":27.07168,
+    "gn:longitude":97.82854,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pingma Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299990
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8d9f05566f1f20b5d19eff4a8cb53962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1343881731,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343881731,
+    "wof:lastmodified":1536634658,
+    "wof:name":"Pingma Ga",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.82854,
+    27.07168,
+    97.82854,
+    27.07168
+],
+  "geometry": {"coordinates":[97.82854,27.07168],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226623569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.67176,20.55384,99.67176,20.55384",
+    "geom:latitude":20.55384,
+    "geom:longitude":99.67176,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016009",
+    "gn:asciiname":"Wan Mu-hsoe Hsenkao",
+    "gn:country_code":"MM",
+    "gn:dem":1184,
+    "gn:elevation":"1249.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477904,
+    "gn:latitude":20.55384,
+    "gn:longitude":99.67176,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Mu-hs\u00f6 Hsenkao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477904
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6dc0d7222795443e9723e99ea15530e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047397,
+            "locality_id":1226623569,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226623569,
+    "wof:lastmodified":1536891163,
+    "wof:name":"Wan Mu-hsoe Hsenkao",
+    "wof:parent_id":1092047397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.67176,
+    20.55384,
+    99.67176,
+    20.55384
+],
+  "geometry": {"coordinates":[99.67176000000001,20.55384],"type":"Point"}
+}

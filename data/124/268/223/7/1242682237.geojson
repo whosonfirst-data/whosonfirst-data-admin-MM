@@ -1,0 +1,69 @@
+{
+  "id": 1242682237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.48882,18.09844,97.48882,18.09844",
+    "geom:latitude":18.09844,
+    "geom:longitude":97.48882,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Kaukpok",
+    "gn:country_code":"MM",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320059,
+    "gn:latitude":18.09844,
+    "gn:longitude":97.48882,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaukpok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320059
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"74ba6a5c49c66afa9df3dd2faaba734e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1242682237,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1242682237,
+    "wof:lastmodified":1536913485,
+    "wof:name":"Kaukpok",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.48882,
+    18.09844,
+    97.48882,
+    18.09844
+],
+  "geometry": {"coordinates":[97.48882,18.09844],"type":"Point"}
+}

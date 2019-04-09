@@ -1,0 +1,63 @@
+{
+  "id": 1209497171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.93263,18.31807,96.93263,18.31807",
+    "geom:latitude":18.31807,
+    "geom:longitude":96.93263,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Takawdobyako",
+    "gn:country_code":"MM",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295039,
+    "gn:latitude":18.31807,
+    "gn:longitude":96.93263,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Takawdobyako",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295039
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"164fe6b9c8c96d505236d82ee4aa6859",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209497171
+        }
+    ],
+    "wof:id":1209497171,
+    "wof:lastmodified":1536285298,
+    "wof:name":"Takawdobyako",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.93263,
+    18.31807,
+    96.93263,
+    18.31807
+],
+  "geometry": {"coordinates":[96.93263,18.31807],"type":"Point"}
+}

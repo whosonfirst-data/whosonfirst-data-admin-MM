@@ -1,0 +1,73 @@
+{
+  "id": 1259964481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.7188,20.92466,95.7188,20.92466",
+    "geom:latitude":20.92466,
+    "geom:longitude":95.7188,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010028",
+    "gn:asciiname":"Monzin",
+    "gn:country_code":"MM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308518,
+    "gn:latitude":20.92466,
+    "gn:longitude":95.7188,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Monzin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momzin",
+        "Monzin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308518
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0241bc9737c1dda9025626aca7ef53a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1259964481,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1259964481,
+    "wof:lastmodified":1537665430,
+    "wof:name":"Monzin",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.7188,
+    20.92466,
+    95.7188,
+    20.92466
+],
+  "geometry": {"coordinates":[95.7188,20.92466],"type":"Point"}
+}

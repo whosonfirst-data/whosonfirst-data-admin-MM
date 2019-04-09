@@ -1,0 +1,74 @@
+{
+  "id": 1310581687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.50344,23.30827,98.50344,23.30827",
+    "geom:latitude":23.30827,
+    "geom:longitude":98.50344,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015002",
+    "gn:asciiname":"Man Kangmoeng",
+    "gn:country_code":"MM",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311556,
+    "gn:latitude":23.30827,
+    "gn:longitude":98.50344,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Kangm\u00f6ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101ngm\u00f6ng",
+        "M\u00f6ng Kong Mun",
+        "M\u0101n Kangm\u00f6ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311556
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c3fe435fb03a6645cb22ec7d34e8f2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1310581687,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310581687,
+    "wof:lastmodified":1537665451,
+    "wof:name":"Man Kangmoeng",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.50344,
+    23.30827,
+    98.50344,
+    23.30827
+],
+  "geometry": {"coordinates":[98.50344,23.30827],"type":"Point"}
+}

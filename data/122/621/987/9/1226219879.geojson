@@ -1,0 +1,69 @@
+{
+  "id": 1226219879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.61176,23.79953,97.61176,23.79953",
+    "geom:latitude":23.79953,
+    "geom:longitude":97.61176,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015010",
+    "gn:asciiname":"Mawtawng",
+    "gn:country_code":"MM",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310063,
+    "gn:latitude":23.79953,
+    "gn:longitude":97.61176,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mawtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310063
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8682bd43af13f3e66b195ce08ec1099a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1226219879,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226219879,
+    "wof:lastmodified":1536970641,
+    "wof:name":"Mawtawng",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.61176,
+    23.79953,
+    97.61176,
+    23.79953
+],
+  "geometry": {"coordinates":[97.61176,23.79953],"type":"Point"}
+}

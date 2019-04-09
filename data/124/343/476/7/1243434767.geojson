@@ -1,0 +1,69 @@
+{
+  "id": 1243434767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.30273,20.74937,98.30273,20.74937",
+    "geom:latitude":20.74937,
+    "geom:longitude":98.30273,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Wan Namtomhkoe-moenga",
+    "gn:country_code":"MM",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478579,
+    "gn:latitude":20.74937,
+    "gn:longitude":98.30273,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Namtomhk\u00f6-m\u00f6ng\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478579
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0998902cfd95d4d7d7364fda62ecccab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1243434767,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243434767,
+    "wof:lastmodified":1536821496,
+    "wof:name":"Wan Namtomhkoe-moenga",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.30273,
+    20.74937000000001,
+    98.30273,
+    20.74937000000001
+],
+  "geometry": {"coordinates":[98.30273,20.74937000000001],"type":"Point"}
+}

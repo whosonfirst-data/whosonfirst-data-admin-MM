@@ -1,0 +1,74 @@
+{
+  "id": 1276428945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.71667,21.2,99.71667,21.2",
+    "geom:latitude":21.2,
+    "geom:longitude":99.71667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016001",
+    "gn:asciiname":"Wan Pungmao",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287103,
+    "gn:latitude":21.2,
+    "gn:longitude":99.71667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n P\u016bngmao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Kaw P\u016bngmao",
+        "W\u0101n P\u016bngmao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287103
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"256bef6239a8b1f260b66c3ccf0ea193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1276428945,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276428945,
+    "wof:lastmodified":1537665309,
+    "wof:name":"Wan Pungmao",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.71667,
+    21.2,
+    99.71667,
+    21.2
+],
+  "geometry": {"coordinates":[99.71666999999999,21.2],"type":"Point"}
+}

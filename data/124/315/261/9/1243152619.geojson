@@ -1,0 +1,74 @@
+{
+  "id": 1243152619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13871,21.31826,100.13871,21.31826",
+    "geom:latitude":21.31826,
+    "geom:longitude":100.13871,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Hpya-hkemhkam",
+    "gn:country_code":"MM",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847617,
+    "gn:latitude":21.31826,
+    "gn:longitude":100.13871,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hpya-hkemhkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpya-hkanhkam",
+        "Hpya-hkemhkam",
+        "W\u0101n Hpya-hkemhkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847617
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"81f518ff135ea71de3acdc941913bfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1243152619,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243152619,
+    "wof:lastmodified":1537665563,
+    "wof:name":"Wan Hpya-hkemhkam",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13871,
+    21.31826,
+    100.13871,
+    21.31826
+],
+  "geometry": {"coordinates":[100.13871,21.31826],"type":"Point"}
+}

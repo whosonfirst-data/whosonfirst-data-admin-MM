@@ -1,0 +1,69 @@
+{
+  "id": 1293007515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.3625,17.00155,95.3625,17.00155",
+    "geom:latitude":17.00155,
+    "geom:longitude":95.3625,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017020",
+    "gn:asciiname":"Tawkalo",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293523,
+    "gn:latitude":17.00155,
+    "gn:longitude":95.3625,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawkalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293523
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4012272bf66bb2cb576d8abd0d582501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1293007515,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1293007515,
+    "wof:lastmodified":1536981225,
+    "wof:name":"Tawkalo",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.3625,
+    17.00155,
+    95.3625,
+    17.00155
+],
+  "geometry": {"coordinates":[95.3625,17.00155],"type":"Point"}
+}

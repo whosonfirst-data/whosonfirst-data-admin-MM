@@ -1,0 +1,69 @@
+{
+  "id": 1259490239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.82146,16.48797,95.82146,16.48797",
+    "geom:latitude":16.48797,
+    "geom:longitude":95.82146,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Kalama",
+    "gn:country_code":"MM",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321325,
+    "gn:latitude":16.48797,
+    "gn:longitude":95.82146,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kalama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321325
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a77a2de97009dac54a74af8d1aab838f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1259490239,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1259490239,
+    "wof:lastmodified":1536847936,
+    "wof:name":"Kalama",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.82146,
+    16.48797,
+    95.82146,
+    16.48797
+],
+  "geometry": {"coordinates":[95.82146,16.48797],"type":"Point"}
+}

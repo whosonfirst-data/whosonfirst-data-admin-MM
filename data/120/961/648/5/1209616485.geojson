@@ -1,0 +1,63 @@
+{
+  "id": 1209616485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.07671,17.02546,95.07671,17.02546",
+    "geom:latitude":17.02546,
+    "geom:longitude":95.07671,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017007",
+    "gn:asciiname":"Yetagyi",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285054,
+    "gn:latitude":17.02546,
+    "gn:longitude":95.07671,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yetagyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285054
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"99146e4d5c1553310df1a7295a38bd63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209616485
+        }
+    ],
+    "wof:id":1209616485,
+    "wof:lastmodified":1536281670,
+    "wof:name":"Yetagyi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.07671,
+    17.02546,
+    95.07671,
+    17.02546
+],
+  "geometry": {"coordinates":[95.07671000000001,17.02546],"type":"Point"}
+}

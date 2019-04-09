@@ -1,0 +1,75 @@
+{
+  "id": 1310093381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.69902,21.22004,98.69902,21.22004",
+    "geom:latitude":21.22004,
+    "geom:longitude":98.69902,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014014",
+    "gn:asciiname":"Ta-kaw",
+    "gn:country_code":"MM",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295042,
+    "gn:latitude":21.22004,
+    "gn:longitude":98.69902,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta-kaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n T\u0101-kaw",
+        "Tagaw",
+        "Ta",
+        "Ta-kaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295042
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ab86f30a1f1d74362e963e4ffbe28b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1310093381,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310093381,
+    "wof:lastmodified":1537665363,
+    "wof:name":"Ta-kaw",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.69902,
+    21.22004,
+    98.69902,
+    21.22004
+],
+  "geometry": {"coordinates":[98.69902,21.22004],"type":"Point"}
+}

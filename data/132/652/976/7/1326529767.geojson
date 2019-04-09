@@ -1,0 +1,70 @@
+{
+  "id": 1326529767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.22988,26.17009,98.22988,26.17009",
+    "geom:latitude":26.17009,
+    "geom:longitude":98.22988,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Jampaw",
+    "gn:country_code":"MM",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321830,
+    "gn:latitude":26.17009,
+    "gn:longitude":98.22988,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Jampaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321830,
+        "wk:page":"Jampaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cd7808cb9992b0941cab2838c57993a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1326529767,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1326529767,
+    "wof:lastmodified":1537568500,
+    "wof:name":"Jampaw",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.22988,
+    26.17009,
+    98.22988,
+    26.17009
+],
+  "geometry": {"coordinates":[98.22987999999999,26.17009],"type":"Point"}
+}

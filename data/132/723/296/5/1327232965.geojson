@@ -1,0 +1,69 @@
+{
+  "id": 1327232965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.96391,16.39149,95.96391,16.39149",
+    "geom:latitude":16.39149,
+    "geom:longitude":95.96391,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017026",
+    "gn:asciiname":"Kyonhmaw",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315800,
+    "gn:latitude":16.39149,
+    "gn:longitude":95.96391,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ky\u00f4nhmaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315800
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"46327ba48ea2660568a18de0808e83b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1327232965,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1327232965,
+    "wof:lastmodified":1536968472,
+    "wof:name":"Kyonhmaw",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.96391,
+    16.39149,
+    95.96391,
+    16.39149
+],
+  "geometry": {"coordinates":[95.96391,16.39149],"type":"Point"}
+}

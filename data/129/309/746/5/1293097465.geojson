@@ -1,0 +1,73 @@
+{
+  "id": 1293097465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.26492,18.14786,97.26492,18.14786",
+    "geom:latitude":18.14786,
+    "geom:longitude":97.26492,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Tidemuta Sakan",
+    "gn:country_code":"MM",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291103,
+    "gn:latitude":18.14786,
+    "gn:longitude":97.26492,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tidemuta Sakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tidemuta Sakai",
+        "Tidemuta Sakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291103
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2f25d050a1c252119026123f2f01786e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1293097465,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1293097465,
+    "wof:lastmodified":1537665342,
+    "wof:name":"Tidemuta Sakan",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.26492,
+    18.14786,
+    97.26492,
+    18.14786
+],
+  "geometry": {"coordinates":[97.26492,18.14786],"type":"Point"}
+}

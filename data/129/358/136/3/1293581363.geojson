@@ -1,0 +1,69 @@
+{
+  "id": 1293581363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51824,19.21868,97.51824,19.21868",
+    "geom:latitude":19.21868,
+    "geom:longitude":97.51824,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Kyauktaing",
+    "gn:country_code":"MM",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316622,
+    "gn:latitude":19.21868,
+    "gn:longitude":97.51824,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyauktaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316622
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c76a4e093ffe7b0adc4c6af750be4c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1293581363,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1293581363,
+    "wof:lastmodified":1536651661,
+    "wof:name":"Kyauktaing",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51824,
+    19.21868,
+    97.51824,
+    19.21868
+],
+  "geometry": {"coordinates":[97.51824000000001,19.21868],"type":"Point"}
+}

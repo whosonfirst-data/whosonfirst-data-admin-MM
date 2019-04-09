@@ -1,0 +1,69 @@
+{
+  "id": 1310337813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.48691,27.17269,98.48691,27.17269",
+    "geom:latitude":27.17269,
+    "geom:longitude":98.48691,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001018",
+    "gn:asciiname":"Lawadu",
+    "gn:country_code":"MM",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314652,
+    "gn:latitude":27.17269,
+    "gn:longitude":98.48691,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lawadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314652
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"80f835f49347c5cf91c8a004084a5c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1310337813,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1310337813,
+    "wof:lastmodified":1536661440,
+    "wof:name":"Lawadu",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.48691,
+    27.17269000000001,
+    98.48691,
+    27.17269000000001
+],
+  "geometry": {"coordinates":[98.48690999999999,27.17269000000001],"type":"Point"}
+}

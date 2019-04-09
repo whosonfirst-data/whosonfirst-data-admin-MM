@@ -1,0 +1,70 @@
+{
+  "id": 1344141641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.32087,21.14289,95.32087,21.14289",
+    "geom:latitude":21.14289,
+    "geom:longitude":95.32087,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010018",
+    "gn:asciiname":"Aingtha",
+    "gn:country_code":"MM",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329459,
+    "gn:latitude":21.14289,
+    "gn:longitude":95.32087,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aingtha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329459,
+        "wk:page":"Aingtha"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c70cb877b652ff0008a2d9b4e3447451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1344141641,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1344141641,
+    "wof:lastmodified":1537568510,
+    "wof:name":"Aingtha",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.32087,
+    21.14289,
+    95.32087,
+    21.14289
+],
+  "geometry": {"coordinates":[95.32087,21.14289],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193270219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.63333,19.24889,97.63333,19.24889",
+    "geom:latitude":19.24889,
+    "geom:longitude":97.63333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002004",
+    "gn:asciiname":"Bawla-hke",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328331,
+    "gn:latitude":19.24889,
+    "gn:longitude":97.63333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bawla-hke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bawlak\u00e8",
+        "Bawla-hke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328331
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e1b2f9e409ea1582a56dbc59500eb16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1193270219,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1193270219,
+    "wof:lastmodified":1537665545,
+    "wof:name":"Bawla-hke",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.63333,
+    19.24889,
+    97.63333,
+    19.24889
+],
+  "geometry": {"coordinates":[97.63333,19.24889],"type":"Point"}
+}

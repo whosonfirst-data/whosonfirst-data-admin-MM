@@ -1,0 +1,63 @@
+{
+  "id": 1209491911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.02426,11.60055,99.02426,11.60055",
+    "geom:latitude":11.60055,
+    "geom:longitude":99.02426,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006010",
+    "gn:asciiname":"Lemayo",
+    "gn:country_code":"MM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314205,
+    "gn:latitude":11.60055,
+    "gn:longitude":99.02426,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"L\u0113mayo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314205
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8abc8cdff3900b650e1e93a3f93a98d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209491911
+        }
+    ],
+    "wof:id":1209491911,
+    "wof:lastmodified":1536285459,
+    "wof:name":"Lemayo",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.02426,
+    11.60055,
+    99.02426,
+    11.60055
+],
+  "geometry": {"coordinates":[99.02426,11.60055],"type":"Point"}
+}

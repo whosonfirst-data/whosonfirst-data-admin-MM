@@ -1,0 +1,73 @@
+{
+  "id": 1310500199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.44144,19.4338,96.44144,19.4338",
+    "geom:latitude":19.4338,
+    "geom:longitude":96.44144,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Mi-I",
+    "gn:country_code":"MM",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309344,
+    "gn:latitude":19.4338,
+    "gn:longitude":96.44144,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mi-I",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi-aing",
+        "Mi-I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309344
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"db559e6f11671f02c4a08019961ef023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1310500199,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310500199,
+    "wof:lastmodified":1537665437,
+    "wof:name":"Mi-I",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.44144,
+    19.4338,
+    96.44144,
+    19.4338
+],
+  "geometry": {"coordinates":[96.44144,19.4338],"type":"Point"}
+}

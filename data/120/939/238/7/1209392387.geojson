@@ -1,0 +1,63 @@
+{
+  "id": 1209392387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.44487,23.58763,98.44487,23.58763",
+    "geom:latitude":23.58763,
+    "geom:longitude":98.44487,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Hsai-hkao",
+    "gn:country_code":"MM",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311656,
+    "gn:latitude":23.58763,
+    "gn:longitude":98.44487,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Hsai-hkao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311656
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"de8f80e2ecc87dd398909bec21c03083",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209392387
+        }
+    ],
+    "wof:id":1209392387,
+    "wof:lastmodified":1536288417,
+    "wof:name":"Man Hsai-hkao",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.44487,
+    23.58763,
+    98.44487,
+    23.58763
+],
+  "geometry": {"coordinates":[98.44486999999999,23.58763],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327406611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.33863,19.53739,95.33863,19.53739",
+    "geom:latitude":19.53739,
+    "geom:longitude":95.33863,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009017",
+    "gn:asciiname":"Thahnga",
+    "gn:country_code":"MM",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292775,
+    "gn:latitude":19.53739,
+    "gn:longitude":95.33863,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thahnga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292775
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fbabe7af8cb4994ea5c23a90d685d66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1327406611,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1327406611,
+    "wof:lastmodified":1536718424,
+    "wof:name":"Thahnga",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.33863,
+    19.53739,
+    95.33863,
+    19.53739
+],
+  "geometry": {"coordinates":[95.33862999999999,19.53739],"type":"Point"}
+}

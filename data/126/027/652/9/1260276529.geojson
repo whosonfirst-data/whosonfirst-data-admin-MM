@@ -1,0 +1,74 @@
+{
+  "id": 1260276529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.64963,16.36965,98.64963,16.36965",
+    "geom:latitude":16.36965,
+    "geom:longitude":98.64963,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D002",
+    "gn:admin3_code":"MMR003005",
+    "gn:asciiname":"Mipa",
+    "gn:country_code":"MM",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309038,
+    "gn:latitude":16.36965,
+    "gn:longitude":98.64963,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mipa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miba",
+        "Mina",
+        "Mipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092046901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309038
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"63a76733496c2cbf33acfb92415c7968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046901,
+            "locality_id":1260276529,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1260276529,
+    "wof:lastmodified":1537665435,
+    "wof:name":"Mipa",
+    "wof:parent_id":1092046901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.64963,
+    16.36965,
+    98.64963,
+    16.36965
+],
+  "geometry": {"coordinates":[98.64963,16.36965],"type":"Point"}
+}

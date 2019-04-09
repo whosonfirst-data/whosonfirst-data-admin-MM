@@ -1,0 +1,67 @@
+{
+  "id": 1277086963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.13303,20.73528,94.13303,20.73528",
+    "geom:latitude":20.73528,
+    "geom:longitude":94.13303,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bamadauksok",
+    "gn:country_code":"MM",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328557,
+    "gn:latitude":20.73528,
+    "gn:longitude":94.13303,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Bamadauks\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328557
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a582bf82ee12328291b73226aa715682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1277086963,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1277086963,
+    "wof:lastmodified":1536761722,
+    "wof:name":"Bamadauksok",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.13303,
+    20.73528,
+    94.13303,
+    20.73528
+],
+  "geometry": {"coordinates":[94.13303000000001,20.73528],"type":"Point"}
+}

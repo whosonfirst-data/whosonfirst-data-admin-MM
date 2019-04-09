@@ -1,0 +1,74 @@
+{
+  "id": 1326818917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.51532,22.60833,95.51532,22.60833",
+    "geom:latitude":22.60833,
+    "geom:longitude":95.51532,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005004",
+    "gn:asciiname":"Ta-naunggaw",
+    "gn:country_code":"MM",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294718,
+    "gn:latitude":22.60833,
+    "gn:longitude":95.51532,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta-naunggaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-naunggon",
+        "Thanaunggaw",
+        "Ta-naunggaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294718
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0bf374cbab9233ea10546b465280cb29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1326818917,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1326818917,
+    "wof:lastmodified":1537665360,
+    "wof:name":"Ta-naunggaw",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.51532,
+    22.60833,
+    95.51532,
+    22.60833
+],
+  "geometry": {"coordinates":[95.51532,22.60833],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260058601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.56605,24.21612,96.56605,24.21612",
+    "geom:latitude":24.21612,
+    "geom:longitude":96.56605,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005020",
+    "gn:asciiname":"Naunghu",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1305560,
+    "gn:latitude":24.21612,
+    "gn:longitude":96.56605,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naunghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305560
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eefdbbbf014eddd23c3cda45cd8df8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1260058601,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260058601,
+    "wof:lastmodified":1537022925,
+    "wof:name":"Naunghu",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.56605,
+    24.21612,
+    96.56605,
+    24.21612
+],
+  "geometry": {"coordinates":[96.56605,24.21612],"type":"Point"}
+}

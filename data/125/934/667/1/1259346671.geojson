@@ -1,0 +1,74 @@
+{
+  "id": 1259346671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.44506,18.59512,96.44506,18.59512",
+    "geom:latitude":18.59512,
+    "geom:longitude":96.44506,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007013",
+    "gn:asciiname":"Domakhin",
+    "gn:country_code":"MM",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326302,
+    "gn:latitude":18.59512,
+    "gn:longitude":96.44506,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Domakhin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Domakindan",
+        "Domakin",
+        "Domakhin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326302
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dbbd34725ce8dca64be9d221c6083ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1259346671,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1259346671,
+    "wof:lastmodified":1537665534,
+    "wof:name":"Domakhin",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.44506,
+    18.59512,
+    96.44506,
+    18.59512
+],
+  "geometry": {"coordinates":[96.44506,18.59512],"type":"Point"}
+}

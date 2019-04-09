@@ -1,0 +1,73 @@
+{
+  "id": 1276967131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.69791,22.3215,98.69791,22.3215",
+    "geom:latitude":22.3215,
+    "geom:longitude":98.69791,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Man Ta-ro",
+    "gn:country_code":"MM",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310623,
+    "gn:latitude":22.3215,
+    "gn:longitude":98.69791,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Ta-r\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamu",
+        "M\u0101n Ta-r\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310623
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d2cdf2c3f73955655ca3940be75d3ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1276967131,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276967131,
+    "wof:lastmodified":1537665446,
+    "wof:name":"Man Ta-ro",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.69791,
+    22.3215,
+    98.69791,
+    22.3215
+],
+  "geometry": {"coordinates":[98.69790999999999,22.3215],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260270853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.95,22.86667,98.95,22.86667",
+    "geom:latitude":22.86667,
+    "geom:longitude":98.95,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015008",
+    "gn:asciiname":"Man Pang",
+    "gn:country_code":"MM",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310902,
+    "gn:latitude":22.86667,
+    "gn:longitude":98.95,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310902
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7be4add47d8b6d0cf0ea50a24d93bb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1260270853,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260270853,
+    "wof:lastmodified":1536729264,
+    "wof:name":"Man Pang",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.95,
+    22.86667000000001,
+    98.95,
+    22.86667000000001
+],
+  "geometry": {"coordinates":[98.95,22.86667000000001],"type":"Point"}
+}

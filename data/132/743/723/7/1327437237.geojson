@@ -1,0 +1,70 @@
+{
+  "id": 1327437237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.82283,24.57552,96.82283,24.57552",
+    "geom:latitude":24.57552,
+    "geom:longitude":96.82283,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Nkrutkru",
+    "gn:country_code":"MM",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304058,
+    "gn:latitude":24.57552,
+    "gn:longitude":96.82283,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nkrutkru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304058,
+        "wk:page":"Nkrutkru"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5798babdd76e95ab8fcc8bc0d0ced9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1327437237,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327437237,
+    "wof:lastmodified":1537568471,
+    "wof:name":"Nkrutkru",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.82283,
+    24.57552,
+    96.82283,
+    24.57552
+],
+  "geometry": {"coordinates":[96.82283,24.57552],"type":"Point"}
+}

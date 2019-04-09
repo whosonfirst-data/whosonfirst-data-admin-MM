@@ -1,0 +1,69 @@
+{
+  "id": 1225829919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.4501,23.01001,96.4501,23.01001",
+    "geom:latitude":23.01001,
+    "geom:longitude":96.4501,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010011",
+    "gn:asciiname":"Bernardmyo",
+    "gn:country_code":"MM",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328230,
+    "gn:latitude":23.01001,
+    "gn:longitude":96.4501,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bernardmyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328230
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"716cdeafb7fd78054f33b47a5d5f2e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1225829919,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1225829919,
+    "wof:lastmodified":1537034973,
+    "wof:name":"Bernardmyo",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.4501,
+    23.01001,
+    96.4501,
+    23.01001
+],
+  "geometry": {"coordinates":[96.45010000000001,23.01001],"type":"Point"}
+}

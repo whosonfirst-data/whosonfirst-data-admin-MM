@@ -1,0 +1,70 @@
+{
+  "id": 1276986365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.16967,24.32841,97.16967,24.32841",
+    "geom:latitude":24.32841,
+    "geom:longitude":97.16967,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Hngetpyawdaw",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324253,
+    "gn:latitude":24.32841,
+    "gn:longitude":97.16967,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hngetpyawdaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324253,
+        "wk:page":"Hngetpyawdaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"156118adc8691c6f12c705e63341391c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1276986365,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276986365,
+    "wof:lastmodified":1537568503,
+    "wof:name":"Hngetpyawdaw",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.16967,
+    24.32841,
+    97.16967,
+    24.32841
+],
+  "geometry": {"coordinates":[97.16967,24.32841],"type":"Point"}
+}

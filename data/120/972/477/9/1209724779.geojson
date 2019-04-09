@@ -1,0 +1,74 @@
+{
+  "id": 1209724779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.74402,18.74698,93.74402,18.74698",
+    "geom:latitude":18.74698,
+    "geom:longitude":93.74402,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012012",
+    "gn:asciiname":"Nga Ye O",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304339,
+    "gn:latitude":18.74698,
+    "gn:longitude":93.74402,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nga Ye O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maleinsu",
+        "Palindaw",
+        "Nga Ye O"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304339
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d171462ffb258afaa662ca4a053d7ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1209724779,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1209724779,
+    "wof:lastmodified":1537665410,
+    "wof:name":"Nga Ye O",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.74402,
+    18.74698,
+    93.74402,
+    18.74698
+],
+  "geometry": {"coordinates":[93.74402000000001,18.74698],"type":"Point"}
+}

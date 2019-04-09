@@ -1,0 +1,88 @@
+{
+  "id": 421201455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.06628,21.8579,96.06628,21.8579",
+    "geom:latitude":21.8579,
+    "geom:longitude":96.06628,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Myitnge"
+    ],
+    "name:eng_x_preferred":[
+        "Myitnge"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0626\u06cc\u0679\u0646\u06af\u06d2"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1307728,
+    "qs:gn_pop":0,
+    "qs:name":"Myitnge",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Mandalay",
+    "qs:photos":519,
+    "qs:photos_1k":105,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":519,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":211477,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017679,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307728,
+        "gp:id":1017679,
+        "qs:id":211477,
+        "wd:id":"Q6947502",
+        "wk:page":"Myitnge"
+    },
+    "wof:country":"MM",
+    "wof:created":1459010073,
+    "wof:geomhash":"db94e56130fc009221bcd95bee7e7727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046205,
+            "locality_id":421201455,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":421201455,
+    "wof:lastmodified":1527716434,
+    "wof:name":"Myitnge",
+    "wof:parent_id":1092046205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.06628,
+    21.8579,
+    96.06628,
+    21.8579
+],
+  "geometry": {"coordinates":[96.06628000000001,21.8579],"type":"Point"}
+}

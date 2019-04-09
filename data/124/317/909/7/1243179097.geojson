@@ -1,0 +1,69 @@
+{
+  "id": 1243179097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.24173,17.30283,95.24173,17.30283",
+    "geom:latitude":17.30283,
+    "geom:longitude":95.24173,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017005",
+    "gn:asciiname":"Mayanyo-ywathit",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309971,
+    "gn:latitude":17.30283,
+    "gn:longitude":95.24173,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mayanyo-ywathit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309971
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"678791f992f8fef8874e0e44c71c84fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1243179097,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243179097,
+    "wof:lastmodified":1536694154,
+    "wof:name":"Mayanyo-ywathit",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.24173,
+    17.30283,
+    95.24173,
+    17.30283
+],
+  "geometry": {"coordinates":[95.24173,17.30283],"type":"Point"}
+}

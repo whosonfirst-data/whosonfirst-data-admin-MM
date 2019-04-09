@@ -1,0 +1,69 @@
+{
+  "id": 1260263335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16341,23.41344,98.16341,23.41344",
+    "geom:latitude":23.41344,
+    "geom:longitude":98.16341,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Htam-hpa",
+    "gn:country_code":"MM",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1311619,
+    "gn:latitude":23.41344,
+    "gn:longitude":98.16341,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Htam-hpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311619
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c450c40195707c7f6809c92c223ac257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1260263335,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260263335,
+    "wof:lastmodified":1536738907,
+    "wof:name":"Man Htam-hpa",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16341,
+    23.41344,
+    98.16341,
+    23.41344
+],
+  "geometry": {"coordinates":[98.16341,23.41344],"type":"Point"}
+}

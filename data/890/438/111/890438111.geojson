@@ -1,0 +1,70 @@
+{
+  "id": 890438111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.14951,16.79879,96.14951,16.79879",
+    "geom:latitude":16.79879,
+    "geom:longitude":96.14951,
+    "gn:country":"MM",
+    "gn:fcode":"PGDA",
+    "gn:pop":10000,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Shwedagon Pagoda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":3233,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296713,
+        "gp:id":1015662,
+        "qs:id":84972,
+        "wd:id":"Q464535",
+        "wk:page":"Shwedagon Pagoda"
+    },
+    "wof:country":"MM",
+    "wof:created":1469052181,
+    "wof:geomhash":"5b7c21a1a675c0fa16c1febb5286ce09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047923,
+            "locality_id":890438111,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":890438111,
+    "wof:lastmodified":1527735422,
+    "wof:name":"Shwedagon Pagoda",
+    "wof:parent_id":1092047923,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.14951,
+    16.79879,
+    96.14951,
+    16.79879
+],
+  "geometry": {"coordinates":[96.14951000000001,16.79879],"type":"Point"}
+}

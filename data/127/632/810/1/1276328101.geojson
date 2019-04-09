@@ -1,0 +1,69 @@
+{
+  "id": 1276328101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.60474,26.31974,95.60474,26.31974",
+    "geom:latitude":26.31974,
+    "geom:longitude":95.60474,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005036",
+    "gn:asciiname":"Tsingdu",
+    "gn:country_code":"MM",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290565,
+    "gn:latitude":26.31974,
+    "gn:longitude":95.60474,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tsingdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290565
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b8a7ca0ff0f05e272cdab0688ed78362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1276328101,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276328101,
+    "wof:lastmodified":1536786121,
+    "wof:name":"Tsingdu",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.60474,
+    26.31974,
+    95.60474,
+    26.31974
+],
+  "geometry": {"coordinates":[95.60474000000001,26.31974],"type":"Point"}
+}

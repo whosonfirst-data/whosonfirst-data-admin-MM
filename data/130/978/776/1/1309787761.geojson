@@ -1,0 +1,69 @@
+{
+  "id": 1309787761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.07677,17.71729,97.07677,17.71729",
+    "geom:latitude":17.71729,
+    "geom:longitude":97.07677,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Thayetpingwa",
+    "gn:country_code":"MM",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292012,
+    "gn:latitude":17.71729,
+    "gn:longitude":97.07677,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thayetpingwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292012
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"551165b457a8b33349b462f00a3a49d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1309787761,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1309787761,
+    "wof:lastmodified":1536957122,
+    "wof:name":"Thayetpingwa",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.07677,
+    17.71729,
+    97.07677,
+    17.71729
+],
+  "geometry": {"coordinates":[97.07677,17.71729],"type":"Point"}
+}

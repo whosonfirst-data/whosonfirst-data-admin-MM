@@ -1,0 +1,73 @@
+{
+  "id": 1343749753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.40841,23.67143,98.40841,23.67143",
+    "geom:latitude":23.67143,
+    "geom:longitude":98.40841,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Ton-lom",
+    "gn:country_code":"MM",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310587,
+    "gn:latitude":23.67143,
+    "gn:longitude":98.40841,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n T\u014dn-l\u014dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man Ton-lam",
+        "M\u0101n T\u014dn-l\u014dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310587
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f80933f68af45ec96dc49d2673e54680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1343749753,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343749753,
+    "wof:lastmodified":1537665446,
+    "wof:name":"Man Ton-lom",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.40841,
+    23.67143,
+    98.40841,
+    23.67143
+],
+  "geometry": {"coordinates":[98.40841,23.67143],"type":"Point"}
+}

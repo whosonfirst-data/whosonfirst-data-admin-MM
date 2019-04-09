@@ -1,0 +1,74 @@
+{
+  "id": 1344234397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.6141,23.72248,98.6141,23.72248",
+    "geom:latitude":23.72248,
+    "geom:longitude":98.6141,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Wan Huangtien",
+    "gn:country_code":"MM",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289013,
+    "gn:latitude":23.72248,
+    "gn:longitude":98.6141,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Huangtien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Huangtie",
+        "Wan Haungtien",
+        "W\u0101n Huangtien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289013
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"464b1533655dd7e7a15772a1e4cfeabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1344234397,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344234397,
+    "wof:lastmodified":1537665327,
+    "wof:name":"Wan Huangtien",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.6141,
+    23.72248,
+    98.6141,
+    23.72248
+],
+  "geometry": {"coordinates":[98.61409999999999,23.72248],"type":"Point"}
+}

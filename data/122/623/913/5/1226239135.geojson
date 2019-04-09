@@ -1,0 +1,69 @@
+{
+  "id": 1226239135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.99646,23.34499,95.99646,23.34499",
+    "geom:latitude":23.34499,
+    "geom:longitude":95.99646,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010012",
+    "gn:asciiname":"Sagyidaw",
+    "gn:country_code":"MM",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434328,
+    "gn:latitude":23.34499,
+    "gn:longitude":95.99646,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sagyidaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434328
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5bbc6f116d47e759f5f24fd0d32905ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1226239135,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226239135,
+    "wof:lastmodified":1536943693,
+    "wof:name":"Sagyidaw",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.99646,
+    23.34499,
+    95.99646,
+    23.34499
+],
+  "geometry": {"coordinates":[95.99646,23.34499],"type":"Point"}
+}

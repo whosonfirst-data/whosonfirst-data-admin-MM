@@ -1,0 +1,67 @@
+{
+  "id": 1209026071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.6305,21.13905,95.6305,21.13905",
+    "geom:latitude":21.13905,
+    "geom:longitude":95.6305,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010029",
+    "gn:asciiname":"Tanaunggyin",
+    "gn:country_code":"MM",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294702,
+    "gn:latitude":21.13905,
+    "gn:longitude":95.6305,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tanaunggyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panaing",
+        "Tanaunggyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294702
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2f68d9cb263defe3deab1749e89dcffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209026071
+        }
+    ],
+    "wof:id":1209026071,
+    "wof:lastmodified":1537665360,
+    "wof:name":"Tanaunggyin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.6305,
+    21.13905,
+    95.6305,
+    21.13905
+],
+  "geometry": {"coordinates":[95.6305,21.13905],"type":"Point"}
+}

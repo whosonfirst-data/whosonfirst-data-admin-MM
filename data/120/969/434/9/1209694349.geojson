@@ -1,0 +1,63 @@
+{
+  "id": 1209694349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.61907,24.18587,94.61907,24.18587",
+    "geom:latitude":24.18587,
+    "geom:longitude":94.61907,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Makyaik",
+    "gn:country_code":"MM",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312039,
+    "gn:latitude":24.18587,
+    "gn:longitude":94.61907,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Makyaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312039
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8763fbb2ab3b712e0aae452fb65a1648",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209694349
+        }
+    ],
+    "wof:id":1209694349,
+    "wof:lastmodified":1536279128,
+    "wof:name":"Makyaik",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.61907,
+    24.18587,
+    94.61907,
+    24.18587
+],
+  "geometry": {"coordinates":[94.61906999999999,24.18587],"type":"Point"}
+}

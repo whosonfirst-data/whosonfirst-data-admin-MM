@@ -1,0 +1,70 @@
+{
+  "id": 1293807281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.01998,24.14342,97.01998,24.14342",
+    "geom:latitude":24.14342,
+    "geom:longitude":97.01998,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Nankok",
+    "gn:country_code":"MM",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306095,
+    "gn:latitude":24.14342,
+    "gn:longitude":97.01998,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nankok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306095,
+        "wk:page":"Nankok"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c6323e0b9d287923131718e638b06af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1293807281,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293807281,
+    "wof:lastmodified":1537568475,
+    "wof:name":"Nankok",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.01998,
+    24.14342000000001,
+    97.01998,
+    24.14342000000001
+],
+  "geometry": {"coordinates":[97.01998,24.14342000000001],"type":"Point"}
+}

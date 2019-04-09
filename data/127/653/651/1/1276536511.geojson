@@ -1,0 +1,73 @@
+{
+  "id": 1276536511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.57474,23.10628,96.57474,23.10628",
+    "geom:latitude":23.10628,
+    "geom:longitude":96.57474,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D008",
+    "gn:admin3_code":"MMR015017",
+    "gn:asciiname":"Padan",
+    "gn:country_code":"MM",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302774,
+    "gn:latitude":23.10628,
+    "gn:longitude":96.57474,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Padan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogaung-u",
+        "Padan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302774
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2d6a754cc0622817a4da0dbfa9c3b12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1276536511,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276536511,
+    "wof:lastmodified":1537665402,
+    "wof:name":"Padan",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.57474,
+    23.10628,
+    96.57474,
+    23.10628
+],
+  "geometry": {"coordinates":[96.57474000000001,23.10628],"type":"Point"}
+}

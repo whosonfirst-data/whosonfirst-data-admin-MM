@@ -1,0 +1,69 @@
+{
+  "id": 1242882193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.01578,21.56648,94.01578,21.56648",
+    "geom:latitude":21.56648,
+    "geom:longitude":94.01578,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004006",
+    "gn:asciiname":"Paingdi",
+    "gn:country_code":"MM",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302517,
+    "gn:latitude":21.56648,
+    "gn:longitude":94.01578,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paingdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302517
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c6bade51e353d9302a64cb63e210fab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1242882193,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1242882193,
+    "wof:lastmodified":1536622886,
+    "wof:name":"Paingdi",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.01578,
+    21.56648,
+    94.01578,
+    21.56648
+],
+  "geometry": {"coordinates":[94.01578000000001,21.56648],"type":"Point"}
+}

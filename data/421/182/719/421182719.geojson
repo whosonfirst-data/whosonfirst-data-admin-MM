@@ -1,0 +1,103 @@
+{
+  "id": 421182719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.32014,18.28651,95.32014,18.28651",
+    "geom:latitude":18.28651,
+    "geom:longitude":95.32014,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u044f\u043d\u0430\u0443\u043d\u0433"
+    ],
+    "name:bur_x_preferred":[
+        "\u1019\u103c\u1014\u103a\u1021\u1031\u102c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:dut_x_preferred":[
+        "Myanaung"
+    ],
+    "name:eng_x_preferred":[
+        "Myanaung"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u103c\u1014\u103a\u1021\u1031\u102c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:swe_x_preferred":[
+        "Myanaung"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0627\u0646\u0627\u0646\u0648\u0646\u06af"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1308204,
+    "qs:gn_pop":42252,
+    "qs:name":"Myanaung",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Ayeyarwady",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":942964,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017667,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308204,
+        "gp:id":1017667,
+        "qs:id":942964,
+        "wd:id":"Q6946728",
+        "wk:page":"Myanaung"
+    },
+    "wof:country":"MM",
+    "wof:created":1459009339,
+    "wof:geomhash":"c61b93aaac43340008941c18059c1eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":421182719,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":421182719,
+    "wof:lastmodified":1527726464,
+    "wof:name":"Myanaung",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:population":42252,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.32014,
+    18.28651,
+    95.32014,
+    18.28651
+],
+  "geometry": {"coordinates":[95.32013999999999,18.28651],"type":"Point"}
+}

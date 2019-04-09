@@ -1,0 +1,69 @@
+{
+  "id": 1309872145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.95408,16.61788,95.95408,16.61788",
+    "geom:latitude":16.61788,
+    "geom:longitude":95.95408,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013028",
+    "gn:asciiname":"Payani",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300651,
+    "gn:latitude":16.61788,
+    "gn:longitude":95.95408,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Payani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300651
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cd88ab4b418c8080e2182a78fe4cd37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1309872145,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1309872145,
+    "wof:lastmodified":1536834583,
+    "wof:name":"Payani",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.95408,
+    16.61788,
+    95.95408,
+    16.61788
+],
+  "geometry": {"coordinates":[95.95408,16.61788],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1327496789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.33333,16.46667,96.33333,16.46667",
+    "geom:latitude":16.46667,
+    "geom:longitude":96.33333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tawkugale Yaingzun",
+    "gn:country_code":"MM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293513,
+    "gn:latitude":16.46667,
+    "gn:longitude":96.33333,
+    "gn:modification_date":"2009-04-08",
+    "gn:name":"Tawkugale Yaingzun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293513
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1e45266301fb5a4b9cb57773ae464aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327496789,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327496789,
+    "wof:lastmodified":1537082515,
+    "wof:name":"Tawkugale Yaingzun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.33333,
+    16.46667,
+    96.33333,
+    16.46667
+],
+  "geometry": {"coordinates":[96.33333,16.46667],"type":"Point"}
+}

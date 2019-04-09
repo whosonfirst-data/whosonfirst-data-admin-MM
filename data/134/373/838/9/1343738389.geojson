@@ -1,0 +1,69 @@
+{
+  "id": 1343738389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.14431,16.9017,96.14431,16.9017",
+    "geom:latitude":16.9017,
+    "geom:longitude":96.14431,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D004",
+    "gn:admin3_code":"MMR013042",
+    "gn:asciiname":"Pweseikkon",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481710,
+    "gn:latitude":16.9017,
+    "gn:longitude":96.14431,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pweseikkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481710
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0f46ba1f57196313f59ef7bdb49de311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047923,
+            "locality_id":1343738389,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1343738389,
+    "wof:lastmodified":1536841719,
+    "wof:name":"Pweseikkon",
+    "wof:parent_id":1092047923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.14431,
+    16.9017,
+    96.14431,
+    16.9017
+],
+  "geometry": {"coordinates":[96.14431,16.9017],"type":"Point"}
+}

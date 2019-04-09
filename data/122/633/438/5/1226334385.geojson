@@ -1,0 +1,74 @@
+{
+  "id": 1226334385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.50705,19.15055,97.50705,19.15055",
+    "geom:latitude":19.15055,
+    "geom:longitude":97.50705,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Wan Manta-leng",
+    "gn:country_code":"MM",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288197,
+    "gn:latitude":19.15055,
+    "gn:longitude":97.50705,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Manta-leng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Manta-jeng",
+        "Wan Manbalaing",
+        "W\u0101n Manta-leng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288197
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"29b95aeb615d9be1c61cfc027d390fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1226334385,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1226334385,
+    "wof:lastmodified":1537665320,
+    "wof:name":"Wan Manta-leng",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.50705,
+    19.15055,
+    97.50705,
+    19.15055
+],
+  "geometry": {"coordinates":[97.50705000000001,19.15055],"type":"Point"}
+}

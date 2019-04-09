@@ -1,0 +1,67 @@
+{
+  "id": 1209089101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.11442,22.06173,94.11442,22.06173",
+    "geom:latitude":22.06173,
+    "geom:longitude":94.11442,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D005",
+    "gn:admin3_code":"MMR009023",
+    "gn:asciiname":"Panteik",
+    "gn:country_code":"MM",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301390,
+    "gn:latitude":22.06173,
+    "gn:longitude":94.11442,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Panteik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandeik",
+        "Panteik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301390
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"75ba74f8710334b228d906b75d99f42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209089101
+        }
+    ],
+    "wof:id":1209089101,
+    "wof:lastmodified":1537665396,
+    "wof:name":"Panteik",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.11442,
+    22.06173,
+    94.11442,
+    22.06173
+],
+  "geometry": {"coordinates":[94.11442,22.06173],"type":"Point"}
+}

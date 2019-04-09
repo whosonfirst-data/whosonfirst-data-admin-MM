@@ -1,0 +1,73 @@
+{
+  "id": 1242953563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.41385,22.7925,97.41385,22.7925",
+    "geom:latitude":22.7925,
+    "geom:longitude":97.41385,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Namhathai",
+    "gn:country_code":"MM",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307138,
+    "gn:latitude":22.7925,
+    "gn:longitude":97.41385,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhathai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namhatnai",
+        "Namhathai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307138
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8c2feeec8f867bfba815712e1cfbbf10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1242953563,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242953563,
+    "wof:lastmodified":1537665423,
+    "wof:name":"Namhathai",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.41385,
+    22.7925,
+    97.41385,
+    22.7925
+],
+  "geometry": {"coordinates":[97.41385,22.7925],"type":"Point"}
+}

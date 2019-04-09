@@ -1,0 +1,69 @@
+{
+  "id": 1226266161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.22682,24.76928,96.22682,24.76928",
+    "geom:latitude":24.76928,
+    "geom:longitude":96.22682,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001007",
+    "gn:asciiname":"Makawklai",
+    "gn:country_code":"MM",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312159,
+    "gn:latitude":24.76928,
+    "gn:longitude":96.22682,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Makawklai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312159
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec91a01fc55c14ad42b5c798319f73b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1226266161,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226266161,
+    "wof:lastmodified":1536904384,
+    "wof:name":"Makawklai",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.22682,
+    24.76928,
+    96.22682,
+    24.76928
+],
+  "geometry": {"coordinates":[96.22682,24.76928],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243461329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.48127,17.55847,95.48127,17.55847",
+    "geom:latitude":17.55847,
+    "geom:longitude":95.48127,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017008",
+    "gn:asciiname":"Duya",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326225,
+    "gn:latitude":17.55847,
+    "gn:longitude":95.48127,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Duya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326225,
+        "wk:page":"Duya%2C_Ayeyarwady"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"07acf535e647dea0dc150b72fb998544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":1243461329,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243461329,
+    "wof:lastmodified":1537568506,
+    "wof:name":"Duya",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.48127,
+    17.55847,
+    95.48127,
+    17.55847
+],
+  "geometry": {"coordinates":[95.48126999999999,17.55847],"type":"Point"}
+}

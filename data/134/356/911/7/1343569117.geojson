@@ -1,0 +1,69 @@
+{
+  "id": 1343569117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.46667,23.28333,93.46667,23.28333",
+    "geom:latitude":23.28333,
+    "geom:longitude":93.46667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004001",
+    "gn:asciiname":"Hmunluan",
+    "gn:country_code":"MM",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324353,
+    "gn:latitude":23.28333,
+    "gn:longitude":93.46667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hmunluan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324353
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ea245dddd70314b22ba912df7386fe6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1343569117,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1343569117,
+    "wof:lastmodified":1537083748,
+    "wof:name":"Hmunluan",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.46667,
+    23.28333,
+    93.46667,
+    23.28333
+],
+  "geometry": {"coordinates":[93.46666999999999,23.28333],"type":"Point"}
+}

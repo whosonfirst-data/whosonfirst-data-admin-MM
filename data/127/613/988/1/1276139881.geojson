@@ -1,0 +1,71 @@
+{
+  "id": 1276139881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.92393,21.67197,95.92393,21.67197",
+    "geom:latitude":21.67197,
+    "geom:longitude":95.92393,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chaunggwa",
+    "gn:country_code":"MM",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327556,
+    "gn:latitude":21.67197,
+    "gn:longitude":95.92393,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chaunggwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaungwa",
+        "Chaunggwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327556
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"941441429daa573443f08f5255324301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1276139881,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276139881,
+    "wof:lastmodified":1537665540,
+    "wof:name":"Chaunggwa",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.92393,
+    21.67197,
+    95.92393,
+    21.67197
+],
+  "geometry": {"coordinates":[95.92393,21.67197],"type":"Point"}
+}

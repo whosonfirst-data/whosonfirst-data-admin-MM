@@ -1,0 +1,70 @@
+{
+  "id": 1242766189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.48245,24.44077,95.48245,24.44077",
+    "geom:latitude":24.44077,
+    "geom:longitude":95.48245,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Shwegyaung",
+    "gn:country_code":"MM",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296620,
+    "gn:latitude":24.44077,
+    "gn:longitude":95.48245,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwegyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296620,
+        "wk:page":"Shwegyaung_%2824%C2%B026%22N_95%C2%B029%22E%29"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b7543dd944da0d46db8f8db59928caad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1242766189,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1242766189,
+    "wof:lastmodified":1537568461,
+    "wof:name":"Shwegyaung",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.48245,
+    24.44077,
+    95.48245,
+    24.44077
+],
+  "geometry": {"coordinates":[95.48245,24.44077],"type":"Point"}
+}

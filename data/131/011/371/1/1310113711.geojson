@@ -1,0 +1,69 @@
+{
+  "id": 1310113711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.38333,21.76667,93.38333,21.76667",
+    "geom:latitude":21.76667,
+    "geom:longitude":93.38333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004007",
+    "gn:asciiname":"Bawiling",
+    "gn:country_code":"MM",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328344,
+    "gn:latitude":21.76667,
+    "gn:longitude":93.38333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bawiling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328344
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"74fa1eddc326b3f6538999095faf3c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1310113711,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1310113711,
+    "wof:lastmodified":1536983796,
+    "wof:name":"Bawiling",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.38333,
+    21.76667,
+    93.38333,
+    21.76667
+],
+  "geometry": {"coordinates":[93.38333,21.76667],"type":"Point"}
+}

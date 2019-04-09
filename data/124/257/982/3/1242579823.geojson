@@ -1,0 +1,70 @@
+{
+  "id": 1242579823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.75,22.81667,93.75,22.81667",
+    "geom:latitude":22.81667,
+    "geom:longitude":93.75,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004001",
+    "gn:asciiname":"Simpi",
+    "gn:country_code":"MM",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296321,
+    "gn:latitude":22.81667,
+    "gn:longitude":93.75,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Simpi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296321,
+        "wk:page":"Simpi%2C_Burma"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2af68e7c40ab9556c7adc230c966c96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1242579823,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1242579823,
+    "wof:lastmodified":1537568460,
+    "wof:name":"Simpi",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.75,
+    22.81667,
+    93.75,
+    22.81667
+],
+  "geometry": {"coordinates":[93.75,22.81667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1360062779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16722,23.55478,98.16722,23.55478",
+    "geom:latitude":23.55478,
+    "geom:longitude":98.16722,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Ho-pung",
+    "gn:country_code":"MM",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311722,
+    "gn:latitude":23.55478,
+    "gn:longitude":98.16722,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Ho-p\u016bng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311722
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"31083e89edde7eedc5378eeafce36822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1360062779,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360062779,
+    "wof:lastmodified":1536977361,
+    "wof:name":"Man Ho-pung",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16722,
+    23.55478,
+    98.16722,
+    23.55478
+],
+  "geometry": {"coordinates":[98.16722,23.55478],"type":"Point"}
+}

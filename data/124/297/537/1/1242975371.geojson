@@ -1,0 +1,73 @@
+{
+  "id": 1242975371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.97886,18.84918,96.97886,18.84918",
+    "geom:latitude":18.84918,
+    "geom:longitude":96.97886,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Holodoki",
+    "gn:country_code":"MM",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324084,
+    "gn:latitude":18.84918,
+    "gn:longitude":96.97886,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Holodoki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holodiki",
+        "Holodoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324084
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f209cd19931709ff9b7c64ca7dcaeda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1242975371,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1242975371,
+    "wof:lastmodified":1537665524,
+    "wof:name":"Holodoki",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.97886,
+    18.84918,
+    96.97886,
+    18.84918
+],
+  "geometry": {"coordinates":[96.97886,18.84918],"type":"Point"}
+}

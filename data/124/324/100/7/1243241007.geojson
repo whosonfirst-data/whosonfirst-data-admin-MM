@@ -1,0 +1,73 @@
+{
+  "id": 1243241007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.89987,21.05118,99.89987,21.05118",
+    "geom:latitude":21.05118,
+    "geom:longitude":99.89987,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016010",
+    "gn:asciiname":"Wan Hsen-hkuen",
+    "gn:country_code":"MM",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1289178,
+    "gn:latitude":21.05118,
+    "gn:longitude":99.89987,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsen-hk\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "W\u0101n Mu-hs\u00f6 Hsen-hk\u00fcn",
+        "W\u0101n Hsen-hk\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289178
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e9f5fcb0e70f2ffa9c0060c32d174f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1243241007,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243241007,
+    "wof:lastmodified":1537665330,
+    "wof:name":"Wan Hsen-hkuen",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.89987,
+    21.05118,
+    99.89987,
+    21.05118
+],
+  "geometry": {"coordinates":[99.89987000000001,21.05118],"type":"Point"}
+}

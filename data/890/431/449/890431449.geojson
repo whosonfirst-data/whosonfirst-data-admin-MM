@@ -1,0 +1,72 @@
+{
+  "id": 890431449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.24503,16.76887,96.24503,16.76887",
+    "geom:latitude":16.76887,
+    "geom:longitude":96.24503,
+    "gn:country":"MM",
+    "gn:fcode":"PPL",
+    "gn:pop":69448,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Syriam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295395,
+        "gp:id":1017870,
+        "qs:id":276520
+    },
+    "wof:concordances_alt":{
+        "gn:id":6262447,
+        "qs:id":906427
+    },
+    "wof:country":"MM",
+    "wof:created":1469051891,
+    "wof:geomhash":"c8526dcbc64177f180704d7860a51264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":890431449,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":890431449,
+    "wof:lastmodified":1534379379,
+    "wof:name":"Syriam",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:population":69448,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421174891
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.24503,
+    16.76887,
+    96.24503,
+    16.76887
+],
+  "geometry": {"coordinates":[96.24503,16.76887],"type":"Point"}
+}

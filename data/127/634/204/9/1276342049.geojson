@@ -1,0 +1,69 @@
+{
+  "id": 1276342049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.61248,16.48818,94.61248,16.48818",
+    "geom:latitude":16.48818,
+    "geom:longitude":94.61248,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017004",
+    "gn:asciiname":"Bwetgyigon",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327821,
+    "gn:latitude":16.48818,
+    "gn:longitude":94.61248,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bwetgyigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327821
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e26f866b37ab662d2e939571cc701f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1276342049,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1276342049,
+    "wof:lastmodified":1536767179,
+    "wof:name":"Bwetgyigon",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.61248,
+    16.48818,
+    94.61248,
+    16.48818
+],
+  "geometry": {"coordinates":[94.61248000000001,16.48818],"type":"Point"}
+}

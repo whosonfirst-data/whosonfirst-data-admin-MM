@@ -1,0 +1,63 @@
+{
+  "id": 1209277729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.55261,16.81402,96.55261,16.81402",
+    "geom:latitude":16.81402,
+    "geom:longitude":96.55261,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013025",
+    "gn:asciiname":"Kyaungmi Patok",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316365,
+    "gn:latitude":16.81402,
+    "gn:longitude":96.55261,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaungmi Patok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316365
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7697fd8a25952195b0dffcfb3096deaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209277729
+        }
+    ],
+    "wof:id":1209277729,
+    "wof:lastmodified":1536292133,
+    "wof:name":"Kyaungmi Patok",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.55261,
+    16.814020000000006,
+    96.55261,
+    16.814020000000006
+],
+  "geometry": {"coordinates":[96.55261,16.81402000000001],"type":"Point"}
+}

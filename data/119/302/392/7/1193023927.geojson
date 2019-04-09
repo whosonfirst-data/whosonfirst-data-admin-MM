@@ -1,0 +1,69 @@
+{
+  "id": 1193023927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.9,23.1,93.9,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":93.9,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004001",
+    "gn:asciiname":"Nimzawl",
+    "gn:country_code":"MM",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304167,
+    "gn:latitude":23.1,
+    "gn:longitude":93.9,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nimzawl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304167
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"741f1e135df4ffbf9c8bf136fb33d5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1193023927,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1193023927,
+    "wof:lastmodified":1536370185,
+    "wof:name":"Nimzawl",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.9,
+    23.1,
+    93.9,
+    23.1
+],
+  "geometry": {"coordinates":[93.90000000000001,23.1],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890436617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.00168,16.70728,96.00168,16.70728",
+    "geom:latitude":16.70728,
+    "geom:longitude":96.00168,
+    "gn:country":"MM",
+    "gn:fcode":"PPL",
+    "gn:pop":58146,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0431\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kanhe"
+    ],
+    "qs:name":"Kanbe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320944,
+        "gp:id":1017932,
+        "qs:id":1031376
+    },
+    "wof:country":"MM",
+    "wof:created":1469052118,
+    "wof:geomhash":"787de6f0be133b011006346edfeb36b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":890436617,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":890436617,
+    "wof:lastmodified":1505343554,
+    "wof:name":"Kanbe",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:population":58146,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.00168,
+    16.70728,
+    96.00168,
+    16.70728
+],
+  "geometry": {"coordinates":[96.00167999999999,16.70728],"type":"Point"}
+}

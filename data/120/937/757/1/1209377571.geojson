@@ -1,0 +1,63 @@
+{
+  "id": 1209377571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.60179,19.4594,96.60179,19.4594",
+    "geom:latitude":19.4594,
+    "geom:longitude":96.60179,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D002",
+    "gn:admin3_code":"MMR018006",
+    "gn:asciiname":"Ywabein Atet",
+    "gn:country_code":"MM",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284630,
+    "gn:latitude":19.4594,
+    "gn:longitude":96.60179,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ywabein Atet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284630
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec5aa94639b932fd4ed225d787ab3aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209377571
+        }
+    ],
+    "wof:id":1209377571,
+    "wof:lastmodified":1536288895,
+    "wof:name":"Ywabein Atet",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.60179,
+    19.4594,
+    96.60179,
+    19.4594
+],
+  "geometry": {"coordinates":[96.60178999999999,19.4594],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327098373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.35968,19.11358,96.35968,19.11358",
+    "geom:latitude":19.11358,
+    "geom:longitude":96.35968,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007010",
+    "gn:asciiname":"Nangyun",
+    "gn:country_code":"MM",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306154,
+    "gn:latitude":19.11358,
+    "gn:longitude":96.35968,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nangyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306154
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bbbfb33072722730bf9b5f96babab014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1327098373,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1327098373,
+    "wof:lastmodified":1536665407,
+    "wof:name":"Nangyun",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.35968,
+    19.11358,
+    96.35968,
+    19.11358
+],
+  "geometry": {"coordinates":[96.35968,19.11358],"type":"Point"}
+}

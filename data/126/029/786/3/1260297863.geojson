@@ -1,0 +1,67 @@
+{
+  "id": 1260297863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.09767,21.55453,94.09767,21.55453",
+    "geom:latitude":21.55453,
+    "geom:longitude":94.09767,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khokchaung",
+    "gn:country_code":"MM",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319169,
+    "gn:latitude":21.55453,
+    "gn:longitude":94.09767,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Kh\u00f4kchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092045189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319169
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"899d55d427d2121f3ceb7898e7ce8af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045189,
+            "locality_id":1260297863,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1260297863,
+    "wof:lastmodified":1536692770,
+    "wof:name":"Khokchaung",
+    "wof:parent_id":1092045189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.09767,
+    21.55453,
+    94.09767,
+    21.55453
+],
+  "geometry": {"coordinates":[94.09766999999999,21.55453],"type":"Point"}
+}

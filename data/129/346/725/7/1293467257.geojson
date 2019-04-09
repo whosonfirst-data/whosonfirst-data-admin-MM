@@ -1,0 +1,69 @@
+{
+  "id": 1293467257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71815,22.50751,96.71815,22.50751",
+    "geom:latitude":22.50751,
+    "geom:longitude":96.71815,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Koenghsu",
+    "gn:country_code":"MM",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318534,
+    "gn:latitude":22.50751,
+    "gn:longitude":96.71815,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"K\u00f6nghsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318534
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1cc010337041488e436a362a72feba79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1293467257,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293467257,
+    "wof:lastmodified":1536815589,
+    "wof:name":"Koenghsu",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71815,
+    22.50751,
+    96.71815,
+    22.50751
+],
+  "geometry": {"coordinates":[96.71814999999999,22.50751],"type":"Point"}
+}

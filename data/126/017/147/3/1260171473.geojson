@@ -1,0 +1,69 @@
+{
+  "id": 1260171473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.78503,21.09954,95.78503,21.09954",
+    "geom:latitude":21.09954,
+    "geom:longitude":95.78503,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010029",
+    "gn:asciiname":"Tawbon",
+    "gn:country_code":"MM",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293596,
+    "gn:latitude":21.09954,
+    "gn:longitude":95.78503,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawbon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293596
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d5fd3f1d0eb40d3e94f3391601233ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1260171473,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1260171473,
+    "wof:lastmodified":1536863075,
+    "wof:name":"Tawbon",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.78503,
+    21.09954,
+    95.78503,
+    21.09954
+],
+  "geometry": {"coordinates":[95.78503000000001,21.09954],"type":"Point"}
+}

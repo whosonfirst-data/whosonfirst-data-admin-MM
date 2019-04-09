@@ -1,0 +1,73 @@
+{
+  "id": 1276959155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.89109,22.22092,98.89109,22.22092",
+    "geom:latitude":22.22092,
+    "geom:longitude":98.89109,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Ta-kut",
+    "gn:country_code":"MM",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294987,
+    "gn:latitude":22.22092,
+    "gn:longitude":98.89109,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta-kut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagut",
+        "Ta-kut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294987
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3c473c7a68f84ce38c99f7181bc2e707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1276959155,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276959155,
+    "wof:lastmodified":1537665362,
+    "wof:name":"Ta-kut",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.89109,
+    22.22092,
+    98.89109,
+    22.22092
+],
+  "geometry": {"coordinates":[98.89109000000001,22.22092],"type":"Point"}
+}

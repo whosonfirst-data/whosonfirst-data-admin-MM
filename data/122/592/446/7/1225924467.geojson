@@ -1,0 +1,69 @@
+{
+  "id": 1225924467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.31808,20.26207,98.31808,20.26207",
+    "geom:latitude":20.26207,
+    "geom:longitude":98.31808,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014021",
+    "gn:asciiname":"Wan Li-mi",
+    "gn:country_code":"MM",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478240,
+    "gn:latitude":20.26207,
+    "gn:longitude":98.31808,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Li-mi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478240
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0aa4609d09d5b232adf67cadc52cd11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1225924467,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225924467,
+    "wof:lastmodified":1536900241,
+    "wof:name":"Wan Li-mi",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.31808,
+    20.26207,
+    98.31808,
+    20.26207
+],
+  "geometry": {"coordinates":[98.31807999999999,20.26207],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243048517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.77398,20.5261,97.77398,20.5261",
+    "geom:latitude":20.5261,
+    "geom:longitude":97.77398,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Loisati",
+    "gn:country_code":"MM",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313287,
+    "gn:latitude":20.5261,
+    "gn:longitude":97.77398,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loisati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313287
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"153b1b934a7bb3ffb09b0a1c12e3d5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1243048517,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243048517,
+    "wof:lastmodified":1536881518,
+    "wof:name":"Loisati",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.77398,
+    20.5261,
+    97.77398,
+    20.5261
+],
+  "geometry": {"coordinates":[97.77397999999999,20.5261],"type":"Point"}
+}

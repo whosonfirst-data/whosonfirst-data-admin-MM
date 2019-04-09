@@ -1,0 +1,100 @@
+{
+  "id": 421176837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.18272,19.32076,95.18272,19.32076",
+    "geom:latitude":19.32076,
+    "geom:longitude":95.18272,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Thayetmyo"
+    ],
+    "name:fra_x_preferred":[
+        "Thayetmyo"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u101b\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Thayet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0435\u043c\u044c\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Thyatmyo"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1292037,
+    "qs:gn_pop":98185,
+    "qs:name":"Thayetmyo",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Magway",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1086580,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017907,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292037,
+        "gp:id":1017907,
+        "qs:id":1086580,
+        "wd:id":"Q3139162",
+        "wk:page":"Thayet"
+    },
+    "wof:country":"MM",
+    "wof:created":1459009121,
+    "wof:geomhash":"4f805e9767195c855d797d8edacae490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":421176837,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":421176837,
+    "wof:lastmodified":1527726477,
+    "wof:name":"Thayetmyo",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:population":98185,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.18272,
+    19.32076,
+    95.18272,
+    19.32076
+],
+  "geometry": {"coordinates":[95.18272,19.32076],"type":"Point"}
+}

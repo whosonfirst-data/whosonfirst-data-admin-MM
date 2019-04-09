@@ -1,0 +1,74 @@
+{
+  "id": 1310217753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.69229,23.60622,93.69229,23.60622",
+    "geom:latitude":23.60622,
+    "geom:longitude":93.69229,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Tonzang",
+    "gn:country_code":"MM",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290609,
+    "gn:latitude":23.60622,
+    "gn:longitude":93.69229,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Tonzang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f4nzan",
+        "Tonzang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290609,
+        "wk:page":"Tonzang"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"446af3f78556841b4c8fc6c128f536c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1310217753,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1310217753,
+    "wof:lastmodified":1537665339,
+    "wof:name":"Tonzang",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.69229,
+    23.60622,
+    93.69229,
+    23.60622
+],
+  "geometry": {"coordinates":[93.69229,23.60622],"type":"Point"}
+}

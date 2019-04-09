@@ -1,0 +1,63 @@
+{
+  "id": 1209302373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.92937,22.63582,98.92937,22.63582",
+    "geom:latitude":22.63582,
+    "geom:longitude":98.92937,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Hpangpai",
+    "gn:country_code":"MM",
+    "gn:dem":1405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323665,
+    "gn:latitude":22.63582,
+    "gn:longitude":98.92937,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpangpai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323665
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4cae7a246442f34227cb8f3909f8d59d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209302373
+        }
+    ],
+    "wof:id":1209302373,
+    "wof:lastmodified":1536291311,
+    "wof:name":"Hpangpai",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.92937,
+    22.63582,
+    98.92937,
+    22.63582
+],
+  "geometry": {"coordinates":[98.92937000000001,22.63582],"type":"Point"}
+}

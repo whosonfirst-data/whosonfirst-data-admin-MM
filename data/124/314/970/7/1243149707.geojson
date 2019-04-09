@@ -1,0 +1,69 @@
+{
+  "id": 1243149707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.61028,20.72083,98.61028,20.72083",
+    "geom:latitude":20.72083,
+    "geom:longitude":98.61028,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D002",
+    "gn:admin3_code":"MMR016008",
+    "gn:asciiname":"Loi Kenngoen",
+    "gn:country_code":"MM",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1479901,
+    "gn:latitude":20.72083,
+    "gn:longitude":98.61028,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi Kenng\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479901
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6c65d99b60e2b9620f645e4bdf2190d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1243149707,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243149707,
+    "wof:lastmodified":1536736491,
+    "wof:name":"Loi Kenngoen",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.61028,
+    20.72083,
+    98.61028,
+    20.72083
+],
+  "geometry": {"coordinates":[98.61028,20.72083],"type":"Point"}
+}

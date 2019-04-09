@@ -1,0 +1,77 @@
+{
+  "id": 421188869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.565833,10.003166,98.565833,10.003166",
+    "geom:latitude":10.003166,
+    "geom:longitude":98.565833,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ulu",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Tenasserim",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104789,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017933,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":774,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1017933,
+        "qs:id":1104789,
+        "wd:id":"Q1424205"
+    },
+    "wof:country":"MM",
+    "wof:created":1459009586,
+    "wof:geomhash":"1674ec0821ca0d3dfe832bb09fc83a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":421188869,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":421188869,
+    "wof:lastmodified":1527716279,
+    "wof:name":"Ulu",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.565833,
+    10.003166,
+    98.565833,
+    10.003166
+],
+  "geometry": {"coordinates":[98.565833,10.003166],"type":"Point"}
+}

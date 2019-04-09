@@ -1,0 +1,69 @@
+{
+  "id": 1327206691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.20649,20.37153,95.20649,20.37153",
+    "geom:latitude":20.37153,
+    "geom:longitude":95.20649,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009006",
+    "gn:asciiname":"Tetwun",
+    "gn:country_code":"MM",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293069,
+    "gn:latitude":20.37153,
+    "gn:longitude":95.20649,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tetwun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293069
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e719ccb8c0559c3d5f6519295c731839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1327206691,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1327206691,
+    "wof:lastmodified":1537006126,
+    "wof:name":"Tetwun",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.20649,
+    20.37153,
+    95.20649,
+    20.37153
+],
+  "geometry": {"coordinates":[95.20649,20.37153],"type":"Point"}
+}

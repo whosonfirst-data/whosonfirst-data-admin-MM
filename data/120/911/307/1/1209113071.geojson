@@ -1,0 +1,63 @@
+{
+  "id": 1209113071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.00798,16.23631,95.00798,16.23631",
+    "geom:latitude":16.23631,
+    "geom:longitude":95.00798,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D004",
+    "gn:admin3_code":"MMR017016",
+    "gn:asciiname":"Kakayan",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321392,
+    "gn:latitude":16.23631,
+    "gn:longitude":95.00798,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kakayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321392
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7e034a63885fe38aebd77e1af6b729c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209113071
+        }
+    ],
+    "wof:id":1209113071,
+    "wof:lastmodified":1536297342,
+    "wof:name":"Kakayan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.00798,
+    16.23631,
+    95.00798,
+    16.23631
+],
+  "geometry": {"coordinates":[95.00798,16.23631],"type":"Point"}
+}

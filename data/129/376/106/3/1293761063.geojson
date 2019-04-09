@@ -1,0 +1,69 @@
+{
+  "id": 1293761063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.40266,20.78106,98.40266,20.78106",
+    "geom:latitude":20.78106,
+    "geom:longitude":98.40266,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Na-kwai",
+    "gn:country_code":"MM",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307299,
+    "gn:latitude":20.78106,
+    "gn:longitude":98.40266,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"N\u0101-kwai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307299
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b9669a0a936bd9b4102057ee8ad22680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1293761063,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293761063,
+    "wof:lastmodified":1536889394,
+    "wof:name":"Na-kwai",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.40266,
+    20.78106,
+    98.40266,
+    20.78106
+],
+  "geometry": {"coordinates":[98.40266,20.78106],"type":"Point"}
+}

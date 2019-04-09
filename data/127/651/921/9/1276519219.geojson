@@ -1,0 +1,69 @@
+{
+  "id": 1276519219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.63852,18.89849,95.63852,18.89849",
+    "geom:latitude":18.89849,
+    "geom:longitude":95.63852,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008002",
+    "gn:asciiname":"Ywabu",
+    "gn:country_code":"MM",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435586,
+    "gn:latitude":18.89849,
+    "gn:longitude":95.63852,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435586
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d459f809bb0320244a683db21d919fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1276519219,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1276519219,
+    "wof:lastmodified":1537025840,
+    "wof:name":"Ywabu",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.63852,
+    18.89849,
+    95.63852,
+    18.89849
+],
+  "geometry": {"coordinates":[95.63852,18.89849],"type":"Point"}
+}

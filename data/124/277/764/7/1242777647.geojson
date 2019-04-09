@@ -1,0 +1,69 @@
+{
+  "id": 1242777647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.87984,26.52911,96.87984,26.52911",
+    "geom:latitude":26.52911,
+    "geom:longitude":96.87984,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001004",
+    "gn:asciiname":"Ngalang Ga",
+    "gn:country_code":"MM",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304642,
+    "gn:latitude":26.52911,
+    "gn:longitude":96.87984,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngalang Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304642
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"705e41d7cee9ee79580348b5fe6f2ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1242777647,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1242777647,
+    "wof:lastmodified":1536776140,
+    "wof:name":"Ngalang Ga",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.87984,
+    26.52911,
+    96.87984,
+    26.52911
+],
+  "geometry": {"coordinates":[96.87984,26.52911],"type":"Point"}
+}

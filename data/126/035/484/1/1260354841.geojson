@@ -1,0 +1,69 @@
+{
+  "id": 1260354841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.16633,20.00952,96.16633,20.00952",
+    "geom:latitude":20.00952,
+    "geom:longitude":96.16633,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D001",
+    "gn:admin3_code":"MMR018005",
+    "gn:asciiname":"Wanwe",
+    "gn:country_code":"MM",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286793,
+    "gn:latitude":20.00952,
+    "gn:longitude":96.16633,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wanwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286793
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f73452f92eed2cac3a75faaec28d0c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1260354841,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1260354841,
+    "wof:lastmodified":1536614065,
+    "wof:name":"Wanwe",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.16633,
+    20.00952,
+    96.16633,
+    20.00952
+],
+  "geometry": {"coordinates":[96.16633,20.00952],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1259459513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.14785,13.63601,98.14785,13.63601",
+    "geom:latitude":13.63601,
+    "geom:longitude":98.14785,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006002",
+    "gn:asciiname":"Nyaw-byin",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303297,
+    "gn:latitude":13.63601,
+    "gn:longitude":98.14785,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaw-byin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303297
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"db5c0d90bd0563b6c1d45f5266177751",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259459513,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259459513,
+    "wof:lastmodified":1536892987,
+    "wof:name":"Nyaw-byin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.14785,
+    13.63601,
+    98.14785,
+    13.63601
+],
+  "geometry": {"coordinates":[98.14785000000001,13.63601],"type":"Point"}
+}

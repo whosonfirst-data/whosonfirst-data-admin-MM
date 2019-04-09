@@ -1,0 +1,63 @@
+{
+  "id": 1209291929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.38116,22.42775,97.38116,22.42775",
+    "geom:latitude":22.42775,
+    "geom:longitude":97.38116,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Sanghse",
+    "gn:country_code":"MM",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298025,
+    "gn:latitude":22.42775,
+    "gn:longitude":97.38116,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sanghse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298025
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b41eb4bead9299d6dd48aead8435b161",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209291929
+        }
+    ],
+    "wof:id":1209291929,
+    "wof:lastmodified":1536291663,
+    "wof:name":"Sanghse",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.38116,
+    22.42775,
+    97.38116,
+    22.42775
+],
+  "geometry": {"coordinates":[97.38115999999999,22.42775],"type":"Point"}
+}

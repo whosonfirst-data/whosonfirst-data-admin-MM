@@ -1,0 +1,73 @@
+{
+  "id": 1242683413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.57626,23.82455,97.57626,23.82455",
+    "geom:latitude":23.82455,
+    "geom:longitude":97.57626,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Man Mawn",
+    "gn:country_code":"MM",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311161,
+    "gn:latitude":23.82455,
+    "gn:longitude":97.57626,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Mawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma Mawn",
+        "M\u0101n Mawn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311161
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1995e625f3f76269bf77021a79a6ee48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1242683413,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1242683413,
+    "wof:lastmodified":1537665449,
+    "wof:name":"Man Mawn",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.57626,
+    23.82455,
+    97.57626,
+    23.82455
+],
+  "geometry": {"coordinates":[97.57626,23.82455],"type":"Point"}
+}

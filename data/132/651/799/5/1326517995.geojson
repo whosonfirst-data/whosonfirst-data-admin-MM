@@ -1,0 +1,69 @@
+{
+  "id": 1326517995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.23333,23.08333,99.23333,23.08333",
+    "geom:latitude":23.08333,
+    "geom:longitude":99.23333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015007",
+    "gn:asciiname":"Kawngna",
+    "gn:country_code":"MM",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319678,
+    "gn:latitude":23.08333,
+    "gn:longitude":99.23333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawngna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319678
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cb2ce24f32c5bb7ae6d860f31c503bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1326517995,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326517995,
+    "wof:lastmodified":1537003833,
+    "wof:name":"Kawngna",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.23333,
+    23.08333,
+    99.23333,
+    23.08333
+],
+  "geometry": {"coordinates":[99.23333,23.08333],"type":"Point"}
+}

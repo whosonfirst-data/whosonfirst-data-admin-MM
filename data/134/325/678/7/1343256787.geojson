@@ -1,0 +1,73 @@
+{
+  "id": 1343256787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.77667,19.07667,97.77667,19.07667",
+    "geom:latitude":19.07667,
+    "geom:longitude":97.77667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Hpaktu-moeng",
+    "gn:country_code":"MM",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323753,
+    "gn:latitude":19.07667,
+    "gn:longitude":97.77667,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Hpaktu-m\u00f6ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpaktu-monga",
+        "Hpaktu-m\u00f6ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323753
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"62be8fb77af85ef8c20a6525a69efe86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1343256787,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1343256787,
+    "wof:lastmodified":1537665523,
+    "wof:name":"Hpaktu-moeng",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.77667,
+    19.07667,
+    97.77667,
+    19.07667
+],
+  "geometry": {"coordinates":[97.77667,19.07667],"type":"Point"}
+}

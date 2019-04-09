@@ -1,0 +1,63 @@
+{
+  "id": 1209315783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.51519,16.27263,95.51519,16.27263",
+    "geom:latitude":16.27263,
+    "geom:longitude":95.51519,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017023",
+    "gn:asciiname":"Gonmingyaung",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325876,
+    "gn:latitude":16.27263,
+    "gn:longitude":95.51519,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"G\u00f4nmingyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325876
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"82e2ca735f76e897675a3a93cfbc9e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209315783
+        }
+    ],
+    "wof:id":1209315783,
+    "wof:lastmodified":1536290870,
+    "wof:name":"Gonmingyaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.51519,
+    16.27263,
+    95.51519,
+    16.27263
+],
+  "geometry": {"coordinates":[95.51519,16.27263],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276619755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.26112,20.19203,96.26112,20.19203",
+    "geom:latitude":20.19203,
+    "geom:longitude":96.26112,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D001",
+    "gn:admin3_code":"MMR018003",
+    "gn:asciiname":"Dahattaw",
+    "gn:country_code":"MM",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326963,
+    "gn:latitude":20.19203,
+    "gn:longitude":96.26112,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dahattaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326963
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"de39dde1afb4722c54bec31a32a4f8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1276619755,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1276619755,
+    "wof:lastmodified":1536891995,
+    "wof:name":"Dahattaw",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.26112,
+    20.19203,
+    96.26112,
+    20.19203
+],
+  "geometry": {"coordinates":[96.26112000000001,20.19203],"type":"Point"}
+}

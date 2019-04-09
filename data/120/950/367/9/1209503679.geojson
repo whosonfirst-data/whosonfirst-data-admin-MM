@@ -1,0 +1,67 @@
+{
+  "id": 1209503679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.93649,22.19357,95.93649,22.19357",
+    "geom:latitude":22.19357,
+    "geom:longitude":95.93649,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005001",
+    "gn:asciiname":"Kyaungbyu",
+    "gn:country_code":"MM",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316429,
+    "gn:latitude":22.19357,
+    "gn:longitude":95.93649,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaungbyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rahimnagar",
+        "Kyaungbyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316429
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a4790c21409e1dfb73c711d5db733ad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209503679
+        }
+    ],
+    "wof:id":1209503679,
+    "wof:lastmodified":1537665478,
+    "wof:name":"Kyaungbyu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.93649,
+    22.19357,
+    95.93649,
+    22.19357
+],
+  "geometry": {"coordinates":[95.93649000000001,22.19357],"type":"Point"}
+}

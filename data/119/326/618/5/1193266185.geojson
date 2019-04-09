@@ -1,0 +1,73 @@
+{
+  "id": 1193266185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.56696,20.58939,97.56696,20.58939",
+    "geom:latitude":20.58939,
+    "geom:longitude":97.56696,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014013",
+    "gn:asciiname":"Nawngtawlong",
+    "gn:country_code":"MM",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304973,
+    "gn:latitude":20.58939,
+    "gn:longitude":97.56696,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawngtawl\u014dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawugtawl\u014dng",
+        "Nawngtawl\u014dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304973
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8149d284c2d1d6695391346282c954ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1193266185,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1193266185,
+    "wof:lastmodified":1537665413,
+    "wof:name":"Nawngtawlong",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.56696,
+    20.58939,
+    97.56696,
+    20.58939
+],
+  "geometry": {"coordinates":[97.56695999999999,20.58939],"type":"Point"}
+}

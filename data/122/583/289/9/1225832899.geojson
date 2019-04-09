@@ -1,0 +1,69 @@
+{
+  "id": 1225832899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.09704,20.83346,98.09704,20.83346",
+    "geom:latitude":20.83346,
+    "geom:longitude":98.09704,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014013",
+    "gn:asciiname":"Moengsit",
+    "gn:country_code":"MM",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1479560,
+    "gn:latitude":20.83346,
+    "gn:longitude":98.09704,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00f6ngsit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479560
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fddb8d7806b518737933769365f730a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1225832899,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225832899,
+    "wof:lastmodified":1537030866,
+    "wof:name":"Moengsit",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.09704,
+    20.83346,
+    98.09704,
+    20.83346
+],
+  "geometry": {"coordinates":[98.09704000000001,20.83346],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360263597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.34271,24.08819,94.34271,24.08819",
+    "geom:latitude":24.08819,
+    "geom:longitude":94.34271,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D006",
+    "gn:admin3_code":"MMR005030",
+    "gn:asciiname":"Ahlaw",
+    "gn:country_code":"MM",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329553,
+    "gn:latitude":24.08819,
+    "gn:longitude":94.34271,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ahlaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329553,
+        "wk:page":"Ahlaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2d459e99b9aa1fe00e9b331a779da270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047447,
+            "locality_id":1360263597,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1360263597,
+    "wof:lastmodified":1537568510,
+    "wof:name":"Ahlaw",
+    "wof:parent_id":1092047447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.34271,
+    24.08819,
+    94.34271,
+    24.08819
+],
+  "geometry": {"coordinates":[94.34271,24.08819],"type":"Point"}
+}

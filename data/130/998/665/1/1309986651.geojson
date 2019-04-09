@@ -1,0 +1,69 @@
+{
+  "id": 1309986651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.84793,22.91593,96.84793,22.91593",
+    "geom:latitude":22.91593,
+    "geom:longitude":96.84793,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Panghkailoi",
+    "gn:country_code":"MM",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302069,
+    "gn:latitude":22.91593,
+    "gn:longitude":96.84793,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u00e1nghk\u00e1iloi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302069
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b5ca90389d8acd277e355c11807a488b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1309986651,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309986651,
+    "wof:lastmodified":1536670477,
+    "wof:name":"Panghkailoi",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.84793,
+    22.91593,
+    96.84793,
+    22.91593
+],
+  "geometry": {"coordinates":[96.84793000000001,22.91593],"type":"Point"}
+}

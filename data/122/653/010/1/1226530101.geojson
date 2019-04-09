@@ -1,0 +1,69 @@
+{
+  "id": 1226530101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.57872,22.6794,97.57872,22.6794",
+    "geom:latitude":22.6794,
+    "geom:longitude":97.57872,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Man Kat",
+    "gn:country_code":"MM",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311536,
+    "gn:latitude":22.6794,
+    "gn:longitude":97.57872,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n K\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311536
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5996e2f0d5356c4ff1e6ded634f55912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1226530101,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226530101,
+    "wof:lastmodified":1537019759,
+    "wof:name":"Man Kat",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.57872,
+    22.6794,
+    97.57872,
+    22.6794
+],
+  "geometry": {"coordinates":[97.57872,22.6794],"type":"Point"}
+}

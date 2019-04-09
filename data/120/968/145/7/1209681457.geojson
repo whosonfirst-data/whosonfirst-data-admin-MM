@@ -1,0 +1,63 @@
+{
+  "id": 1209681457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.26735,19.48868,96.26735,19.48868",
+    "geom:latitude":19.48868,
+    "geom:longitude":96.26735,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D002",
+    "gn:admin3_code":"MMR018007",
+    "gn:asciiname":"Taungzin-e",
+    "gn:country_code":"MM",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293643,
+    "gn:latitude":19.48868,
+    "gn:longitude":96.26735,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Taungzin-e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293643
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2511ace285c06bc5687c4904aa3bdae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209681457
+        }
+    ],
+    "wof:id":1209681457,
+    "wof:lastmodified":1536279560,
+    "wof:name":"Taungzin-e",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.26735,
+    19.48868,
+    96.26735,
+    19.48868
+],
+  "geometry": {"coordinates":[96.26734999999999,19.48868],"type":"Point"}
+}

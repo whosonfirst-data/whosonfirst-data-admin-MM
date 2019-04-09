@@ -1,0 +1,74 @@
+{
+  "id": 1292981425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.59463,21.23878,98.59463,21.23878",
+    "geom:latitude":21.23878,
+    "geom:longitude":98.59463,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014014",
+    "gn:asciiname":"Wan Kawngmung",
+    "gn:country_code":"MM",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288722,
+    "gn:latitude":21.23878,
+    "gn:longitude":98.59463,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Kawngm\u016bng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Kongmog",
+        "W\u0101n Kongmong",
+        "W\u0101n Kawngm\u016bng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288722
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"faa0bc3663796bf33e3ee2c2e374c812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1292981425,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1292981425,
+    "wof:lastmodified":1537665325,
+    "wof:name":"Wan Kawngmung",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.59463,
+    21.23878,
+    98.59463,
+    21.23878
+],
+  "geometry": {"coordinates":[98.59463,21.23878],"type":"Point"}
+}

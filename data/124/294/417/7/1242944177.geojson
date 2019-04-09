@@ -1,0 +1,63 @@
+{
+  "id": 1242944177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.56447,16.06424,97.56447,16.06424",
+    "geom:latitude":16.06424,
+    "geom:longitude":97.56447,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011004",
+    "gn:asciiname":"Theinkwin",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291718,
+    "gn:latitude":16.06424,
+    "gn:longitude":97.56447,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Theinkwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291718
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f655e13525b458096296da8d1ba76a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242944177,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242944177,
+    "wof:lastmodified":1537031433,
+    "wof:name":"Theinkwin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.56447,
+    16.06424,
+    97.56447,
+    16.06424
+],
+  "geometry": {"coordinates":[97.56447,16.06424],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226530133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.89054,24.11428,98.89054,24.11428",
+    "geom:latitude":24.11428,
+    "geom:longitude":98.89054,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015023",
+    "gn:asciiname":"Chingmulin",
+    "gn:country_code":"MM",
+    "gn:dem":1982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327171,
+    "gn:latitude":24.11428,
+    "gn:longitude":98.89054,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chingmulin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327171
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f6524fd3faebb04ae0e048183ea0d59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1226530133,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226530133,
+    "wof:lastmodified":1537019714,
+    "wof:name":"Chingmulin",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.89054,
+    24.11428,
+    98.89054,
+    24.11428
+],
+  "geometry": {"coordinates":[98.89054,24.11428],"type":"Point"}
+}

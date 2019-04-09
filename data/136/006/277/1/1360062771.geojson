@@ -1,0 +1,73 @@
+{
+  "id": 1360062771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.28428,23.53009,98.28428,23.53009",
+    "geom:latitude":23.53009,
+    "geom:longitude":98.28428,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Yungmaw",
+    "gn:country_code":"MM",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310513,
+    "gn:latitude":23.53009,
+    "gn:longitude":98.28428,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Y\u016bngmaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man Yongmaw",
+        "M\u0101n Y\u016bngmaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310513
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a4de4a0a354af5fb05503b322f9e7428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1360062771,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360062771,
+    "wof:lastmodified":1537665445,
+    "wof:name":"Man Yungmaw",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.28428,
+    23.53009,
+    98.28428,
+    23.53009
+],
+  "geometry": {"coordinates":[98.28428,23.53009],"type":"Point"}
+}

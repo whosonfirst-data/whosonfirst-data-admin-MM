@@ -1,0 +1,69 @@
+{
+  "id": 1326910863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.3703,20.78828,98.3703,20.78828",
+    "geom:latitude":20.78828,
+    "geom:longitude":98.3703,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Nammawmakhing",
+    "gn:country_code":"MM",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479687,
+    "gn:latitude":20.78828,
+    "gn:longitude":98.3703,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nammawmakhing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479687
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"90f02937eadc6dcf620b3f72d1fb5a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1326910863,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326910863,
+    "wof:lastmodified":1536936374,
+    "wof:name":"Nammawmakhing",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.3703,
+    20.78828,
+    98.3703,
+    20.78828
+],
+  "geometry": {"coordinates":[98.3703,20.78828],"type":"Point"}
+}

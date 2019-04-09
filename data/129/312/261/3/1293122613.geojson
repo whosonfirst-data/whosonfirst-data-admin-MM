@@ -1,0 +1,69 @@
+{
+  "id": 1293122613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.0464,19.66454,97.0464,19.66454",
+    "geom:latitude":19.66454,
+    "geom:longitude":97.0464,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Hklawpenghko",
+    "gn:country_code":"MM",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324757,
+    "gn:latitude":19.66454,
+    "gn:longitude":97.0464,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hklawpenghko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324757
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9de230697a0469583a499f706ff83228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1293122613,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1293122613,
+    "wof:lastmodified":1536815398,
+    "wof:name":"Hklawpenghko",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.0464,
+    19.66454,
+    97.0464,
+    19.66454
+],
+  "geometry": {"coordinates":[97.04640000000001,19.66454],"type":"Point"}
+}

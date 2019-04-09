@@ -1,0 +1,69 @@
+{
+  "id": 1293860451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.00806,14.47034,98.00806,14.47034",
+    "geom:latitude":14.47034,
+    "geom:longitude":98.00806,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006004",
+    "gn:asciiname":"Taiktagaw",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295076,
+    "gn:latitude":14.47034,
+    "gn:longitude":98.00806,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taiktagaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295076
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4f9ebd22012bc7d0019ad7b7e5fed6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1293860451,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1293860451,
+    "wof:lastmodified":1536746313,
+    "wof:name":"Taiktagaw",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.00806,
+    14.47034,
+    98.00806,
+    14.47034
+],
+  "geometry": {"coordinates":[98.00806,14.47034],"type":"Point"}
+}

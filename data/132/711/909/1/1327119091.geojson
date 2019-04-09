@@ -1,0 +1,69 @@
+{
+  "id": 1327119091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.11383,22.10531,96.11383,22.10531",
+    "geom:latitude":22.10531,
+    "geom:longitude":96.11383,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010009",
+    "gn:asciiname":"Thalunbyu",
+    "gn:country_code":"MM",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292691,
+    "gn:latitude":22.10531,
+    "gn:longitude":96.11383,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thalunbyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292691
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d12d7cfae9d14b90a438f9fb55c266a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1327119091,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1327119091,
+    "wof:lastmodified":1536634027,
+    "wof:name":"Thalunbyu",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.11383,
+    22.10531,
+    96.11383,
+    22.10531
+],
+  "geometry": {"coordinates":[96.11382999999999,22.10531],"type":"Point"}
+}

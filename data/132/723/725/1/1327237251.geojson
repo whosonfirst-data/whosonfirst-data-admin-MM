@@ -1,0 +1,69 @@
+{
+  "id": 1327237251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71667,26.35,96.71667,26.35",
+    "geom:latitude":26.35,
+    "geom:longitude":96.71667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001004",
+    "gn:asciiname":"Tanaing",
+    "gn:country_code":"MM",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294738,
+    "gn:latitude":26.35,
+    "gn:longitude":96.71667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tanaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294738
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b03f13df259de64ca63b6421af9d2fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1327237251,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327237251,
+    "wof:lastmodified":1536962382,
+    "wof:name":"Tanaing",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71667,
+    26.35,
+    96.71667,
+    26.35
+],
+  "geometry": {"coordinates":[96.71666999999999,26.35],"type":"Point"}
+}

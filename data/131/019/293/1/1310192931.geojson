@@ -1,0 +1,73 @@
+{
+  "id": 1310192931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.02827,22.20159,97.02827,22.20159",
+    "geom:latitude":22.20159,
+    "geom:longitude":97.02827,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014008",
+    "gn:asciiname":"Kongnyawng",
+    "gn:country_code":"MM",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318401,
+    "gn:latitude":22.20159,
+    "gn:longitude":97.02827,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kongnyawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6ngnyawg",
+        "Kongnyawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318401
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4b0dcdac02cd035ad0dd6b16d3bbf6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1310192931,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310192931,
+    "wof:lastmodified":1537665490,
+    "wof:name":"Kongnyawng",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.02827,
+    22.20159,
+    97.02827,
+    22.20159
+],
+  "geometry": {"coordinates":[97.02827000000001,22.20159],"type":"Point"}
+}

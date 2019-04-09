@@ -1,0 +1,63 @@
+{
+  "id": 1209202409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.79564,20.5372,97.79564,20.5372",
+    "geom:latitude":20.5372,
+    "geom:longitude":97.79564,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Hwesong",
+    "gn:country_code":"MM",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322354,
+    "gn:latitude":20.5372,
+    "gn:longitude":97.79564,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hwesong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322354
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bfa524a56feb2fb723b6c09ef07435e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209202409
+        }
+    ],
+    "wof:id":1209202409,
+    "wof:lastmodified":1536294564,
+    "wof:name":"Hwesong",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.79564,
+    20.5372,
+    97.79564,
+    20.5372
+],
+  "geometry": {"coordinates":[97.79564000000001,20.5372],"type":"Point"}
+}

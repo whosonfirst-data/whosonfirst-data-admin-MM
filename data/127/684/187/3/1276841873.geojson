@@ -1,0 +1,73 @@
+{
+  "id": 1276841873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.62769,18.35481,96.62769,18.35481",
+    "geom:latitude":18.35481,
+    "geom:longitude":96.62769,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007012",
+    "gn:asciiname":"Payagon",
+    "gn:country_code":"MM",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300719,
+    "gn:latitude":18.35481,
+    "gn:longitude":96.62769,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Payagon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buyagon",
+        "Payagon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300719
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a0f508a6456163e5444c1301c6768b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1276841873,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1276841873,
+    "wof:lastmodified":1537665393,
+    "wof:name":"Payagon",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.62769,
+    18.35481,
+    96.62769,
+    18.35481
+],
+  "geometry": {"coordinates":[96.62769,18.35481],"type":"Point"}
+}

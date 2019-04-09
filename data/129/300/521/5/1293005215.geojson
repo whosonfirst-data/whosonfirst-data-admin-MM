@@ -1,0 +1,73 @@
+{
+  "id": 1293005215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.91458,16.03447,97.91458,16.03447",
+    "geom:latitude":16.03447,
+    "geom:longitude":97.91458,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Tamoowoug",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:elevation":"26.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11548637,
+    "gn:latitude":16.03447,
+    "gn:longitude":97.91458,
+    "gn:modification_date":"2017-10-06",
+    "gn:name":"Tamoowoug",
+    "gn:population":2005,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11548637
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fcb54e0a9029327e0ea899f13c809ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1293005215,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1293005215,
+    "wof:lastmodified":1536984425,
+    "wof:name":"Tamoowoug",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:population":2005,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.91458,
+    16.03447,
+    97.91458,
+    16.03447
+],
+  "geometry": {"coordinates":[97.91458,16.03447],"type":"Point"}
+}

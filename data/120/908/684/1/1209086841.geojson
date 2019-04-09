@@ -1,0 +1,63 @@
+{
+  "id": 1209086841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.81332,23.64901,97.81332,23.64901",
+    "geom:latitude":23.64901,
+    "geom:longitude":97.81332,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Hosi",
+    "gn:country_code":"MM",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323930,
+    "gn:latitude":23.64901,
+    "gn:longitude":97.81332,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hosi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323930
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d8ce0aabcccfcc28f0784443c4a4f809",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209086841
+        }
+    ],
+    "wof:id":1209086841,
+    "wof:lastmodified":1536298160,
+    "wof:name":"Hosi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.81332,
+    23.64901,
+    97.81332,
+    23.64901
+],
+  "geometry": {"coordinates":[97.81332,23.64901],"type":"Point"}
+}

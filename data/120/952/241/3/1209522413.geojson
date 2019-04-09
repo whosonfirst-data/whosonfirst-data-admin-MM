@@ -1,0 +1,63 @@
+{
+  "id": 1209522413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.34346,16.14922,95.34346,16.14922",
+    "geom:latitude":16.14922,
+    "geom:longitude":95.34346,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017024",
+    "gn:asciiname":"Kunthigyaung",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317715,
+    "gn:latitude":16.14922,
+    "gn:longitude":95.34346,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunthigyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317715
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"57534b12f4a8ac0fe790d79f4580221e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209522413
+        }
+    ],
+    "wof:id":1209522413,
+    "wof:lastmodified":1536284538,
+    "wof:name":"Kunthigyaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.34346,
+    16.14922,
+    95.34346,
+    16.14922
+],
+  "geometry": {"coordinates":[95.34345999999999,16.14922],"type":"Point"}
+}

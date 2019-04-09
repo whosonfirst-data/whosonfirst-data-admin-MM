@@ -1,0 +1,73 @@
+{
+  "id": 1276340773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.13317,25.55794,97.13317,25.55794",
+    "geom:latitude":25.55794,
+    "geom:longitude":97.13317,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001008",
+    "gn:asciiname":"Auche",
+    "gn:country_code":"MM",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328953,
+    "gn:latitude":25.55794,
+    "gn:longitude":97.13317,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Auch\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auch\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328953,
+        "wk:page":"Auch%C4%93"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c7b6d1fd3203e9ce2eb171afa9cafd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1276340773,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276340773,
+    "wof:lastmodified":1537665549,
+    "wof:name":"Auche",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.13317,
+    25.55794,
+    97.13317,
+    25.55794
+],
+  "geometry": {"coordinates":[97.13317000000001,25.55794],"type":"Point"}
+}

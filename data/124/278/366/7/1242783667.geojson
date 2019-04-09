@@ -1,0 +1,70 @@
+{
+  "id": 1242783667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16099,25.95222,98.16099,25.95222",
+    "geom:latitude":25.95222,
+    "geom:longitude":98.16099,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Mangtong",
+    "gn:country_code":"MM",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311823,
+    "gn:latitude":25.95222,
+    "gn:longitude":98.16099,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mangtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311823,
+        "wk:page":"Mangtong%2C_Burma"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"50619772f614349ebcff31ef4878b4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1242783667,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1242783667,
+    "wof:lastmodified":1537568484,
+    "wof:name":"Mangtong",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16099,
+    25.95222,
+    98.16099,
+    25.95222
+],
+  "geometry": {"coordinates":[98.16099,25.95222],"type":"Point"}
+}

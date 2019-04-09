@@ -1,0 +1,63 @@
+{
+  "id": 1209622129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.61773,16.54085,95.61773,16.54085",
+    "geom:latitude":16.54085,
+    "geom:longitude":95.61773,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Kyonpaing",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315753,
+    "gn:latitude":16.54085,
+    "gn:longitude":95.61773,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyonpaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315753
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4cb4c09e2afcafbaf8ef02ea1330a4ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209622129
+        }
+    ],
+    "wof:id":1209622129,
+    "wof:lastmodified":1536281481,
+    "wof:name":"Kyonpaing",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.61773,
+    16.54085,
+    95.61773,
+    16.54085
+],
+  "geometry": {"coordinates":[95.61772999999999,16.54085],"type":"Point"}
+}

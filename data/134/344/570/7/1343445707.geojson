@@ -1,0 +1,74 @@
+{
+  "id": 1343445707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.32658,22.1687,96.32658,22.1687",
+    "geom:latitude":22.1687,
+    "geom:longitude":96.32658,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010009",
+    "gn:asciiname":"Daw-wa-kyaung",
+    "gn:country_code":"MM",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326462,
+    "gn:latitude":22.1687,
+    "gn:longitude":96.32658,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Daw-wa-kyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daw-wa-yaung",
+        "Daw-we-kyaung",
+        "Daw-wa-kyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326462
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fe26d08e11c0e983c24fb7d4c030a3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1343445707,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343445707,
+    "wof:lastmodified":1537665535,
+    "wof:name":"Daw-wa-kyaung",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.32658,
+    22.1687,
+    96.32658,
+    22.1687
+],
+  "geometry": {"coordinates":[96.32658000000001,22.1687],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1293376911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.26826,12.48496,98.26826,12.48496",
+    "geom:latitude":12.48496,
+    "geom:longitude":98.26826,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Thayawdaungnge",
+    "gn:country_code":"MM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292160,
+    "gn:latitude":12.48496,
+    "gn:longitude":98.26826,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Thayawdaungnge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292160
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e4ff8c21ae9654edc1355e1078d10efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293376911,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293376911,
+    "wof:lastmodified":1536946845,
+    "wof:name":"Thayawdaungnge",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.26826,
+    12.48496,
+    98.26826,
+    12.48496
+],
+  "geometry": {"coordinates":[98.26826,12.48496],"type":"Point"}
+}

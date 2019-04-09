@@ -1,0 +1,69 @@
+{
+  "id": 1310198189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.68333,16.26667,98.68333,16.26667",
+    "geom:latitude":16.26667,
+    "geom:longitude":98.68333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D002",
+    "gn:admin3_code":"MMR003005",
+    "gn:asciiname":"Zayat",
+    "gn:country_code":"MM",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284145,
+    "gn:latitude":16.26667,
+    "gn:longitude":98.68333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zayat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092046901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284145
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d402c652e6f58db130c4952350fbe8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046901,
+            "locality_id":1310198189,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310198189,
+    "wof:lastmodified":1536861442,
+    "wof:name":"Zayat",
+    "wof:parent_id":1092046901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.68333,
+    16.26667,
+    98.68333,
+    16.26667
+],
+  "geometry": {"coordinates":[98.68333,16.26667],"type":"Point"}
+}

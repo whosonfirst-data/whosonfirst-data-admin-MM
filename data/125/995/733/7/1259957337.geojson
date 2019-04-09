@@ -1,0 +1,69 @@
+{
+  "id": 1259957337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.05868,23.01753,98.05868,23.01753",
+    "geom:latitude":23.01753,
+    "geom:longitude":98.05868,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Lungmon",
+    "gn:country_code":"MM",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312836,
+    "gn:latitude":23.01753,
+    "gn:longitude":98.05868,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lungmon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312836
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bc21718d2034b0ab0a465dc0ec9b8d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1259957337,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259957337,
+    "wof:lastmodified":1536672794,
+    "wof:name":"Lungmon",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.05868,
+    23.01753,
+    98.05868,
+    23.01753
+],
+  "geometry": {"coordinates":[98.05868,23.01753],"type":"Point"}
+}

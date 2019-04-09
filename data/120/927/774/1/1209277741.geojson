@@ -1,0 +1,67 @@
+{
+  "id": 1209277741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.20088,16.53665,96.20088,16.53665",
+    "geom:latitude":16.53665,
+    "geom:longitude":96.20088,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013028",
+    "gn:asciiname":"Kayaikkani",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319538,
+    "gn:latitude":16.53665,
+    "gn:longitude":96.20088,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kayaikkani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayeikkani",
+        "Kayaikkani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319538
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f551c056ca557182cd4ae59bfb537754",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209277741
+        }
+    ],
+    "wof:id":1209277741,
+    "wof:lastmodified":1537665498,
+    "wof:name":"Kayaikkani",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.20088,
+    16.53665,
+    96.20088,
+    16.53665
+],
+  "geometry": {"coordinates":[96.20088,16.53665],"type":"Point"}
+}

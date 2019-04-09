@@ -1,0 +1,69 @@
+{
+  "id": 1343668757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.60323,16.51745,95.60323,16.51745",
+    "geom:latitude":16.51745,
+    "geom:longitude":95.60323,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Dawbon",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326703,
+    "gn:latitude":16.51745,
+    "gn:longitude":95.60323,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dawbon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326703
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d6240f87e4981b32231a826b3abbeaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1343668757,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1343668757,
+    "wof:lastmodified":1536943578,
+    "wof:name":"Dawbon",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.60323,
+    16.51745,
+    95.60323,
+    16.51745
+],
+  "geometry": {"coordinates":[95.60323,16.51745],"type":"Point"}
+}

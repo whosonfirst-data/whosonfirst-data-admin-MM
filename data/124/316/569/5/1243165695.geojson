@@ -1,0 +1,73 @@
+{
+  "id": 1243165695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.86011,22.33836,95.86011,22.33836",
+    "geom:latitude":22.33836,
+    "geom:longitude":95.86011,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005006",
+    "gn:asciiname":"Innyibin",
+    "gn:country_code":"MM",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321955,
+    "gn:latitude":22.33836,
+    "gn:longitude":95.86011,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Innyibin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Innyinbin",
+        "Innyibin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321955
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"782b0c11ccfa26937a5379be3d07a8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1243165695,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243165695,
+    "wof:lastmodified":1537665512,
+    "wof:name":"Innyibin",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.86011,
+    22.33836,
+    95.86011,
+    22.33836
+],
+  "geometry": {"coordinates":[95.86011000000001,22.33836],"type":"Point"}
+}

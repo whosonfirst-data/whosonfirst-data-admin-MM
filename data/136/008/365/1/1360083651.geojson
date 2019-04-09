@@ -1,0 +1,73 @@
+{
+  "id": 1360083651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.54677,15.69933,98.54677,15.69933",
+    "geom:latitude":15.69933,
+    "geom:longitude":98.54677,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Htilonhpaung",
+    "gn:country_code":"MM",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322760,
+    "gn:latitude":15.69933,
+    "gn:longitude":98.54677,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htilonhpaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hlilonhpaung",
+        "Htilonhpaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322760
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f04de0dceddcbd71e008797b715ef58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1360083651,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1360083651,
+    "wof:lastmodified":1537665517,
+    "wof:name":"Htilonhpaung",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.54677,
+    15.69933,
+    98.54677,
+    15.69933
+],
+  "geometry": {"coordinates":[98.54677,15.69933],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343639999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.68183,21.85,95.68183,21.85",
+    "geom:latitude":21.85,
+    "geom:longitude":95.68183,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lewingon",
+    "gn:country_code":"MM",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313792,
+    "gn:latitude":21.85,
+    "gn:longitude":95.68183,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Lewingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313792
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"53141bc0a606711855dd09b4311ad639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1343639999,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343639999,
+    "wof:lastmodified":1536983821,
+    "wof:name":"Lewingon",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.68183,
+    21.85,
+    95.68183,
+    21.85
+],
+  "geometry": {"coordinates":[95.68183000000001,21.85],"type":"Point"}
+}

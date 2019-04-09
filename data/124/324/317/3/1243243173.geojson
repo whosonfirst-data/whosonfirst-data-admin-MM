@@ -1,0 +1,65 @@
+{
+  "id": 1243243173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.64649,11.78138,98.64649,11.78138",
+    "geom:latitude":11.78138,
+    "geom:longitude":98.64649,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006006",
+    "gn:asciiname":"Singugyi",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296121,
+    "gn:latitude":11.78138,
+    "gn:longitude":98.64649,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Singugyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296121
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ced10514407b31644a319fe0413f495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243243173,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243243173,
+    "wof:lastmodified":1537095311,
+    "wof:name":"Singugyi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.64649,
+    11.78138,
+    98.64649,
+    11.78138
+],
+  "geometry": {"coordinates":[98.64649,11.78138],"type":"Point"}
+}

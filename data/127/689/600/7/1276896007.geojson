@@ -1,0 +1,73 @@
+{
+  "id": 1276896007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.03799,18.96746,97.03799,18.96746",
+    "geom:latitude":18.96746,
+    "geom:longitude":97.03799,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002006",
+    "gn:asciiname":"Buku",
+    "gn:country_code":"MM",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327910,
+    "gn:latitude":18.96746,
+    "gn:longitude":97.03799,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Buku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buko-ywa",
+        "Buku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327910
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"02c2555bbc9ad72e0fd77cc9115ea350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1276896007,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1276896007,
+    "wof:lastmodified":1537665542,
+    "wof:name":"Buku",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.03799,
+    18.96746,
+    97.03799,
+    18.96746
+],
+  "geometry": {"coordinates":[97.03798999999999,18.96746],"type":"Point"}
+}

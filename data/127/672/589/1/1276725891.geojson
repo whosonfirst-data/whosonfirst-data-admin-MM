@@ -1,0 +1,73 @@
+{
+  "id": 1276725891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.73037,18.46486,96.73037,18.46486",
+    "geom:latitude":18.46486,
+    "geom:longitude":96.73037,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Mepok Atet",
+    "gn:country_code":"MM",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309620,
+    "gn:latitude":18.46486,
+    "gn:longitude":96.73037,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00e8pok Atet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0113bok",
+        "M\u00e8pok Atet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309620
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6e7ff5afe6ed57a194ae2ab417feafd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1276725891,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1276725891,
+    "wof:lastmodified":1537665439,
+    "wof:name":"Mepok Atet",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.73037,
+    18.46486,
+    96.73037,
+    18.46486
+],
+  "geometry": {"coordinates":[96.73036999999999,18.46486],"type":"Point"}
+}

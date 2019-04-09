@@ -1,0 +1,69 @@
+{
+  "id": 1276332965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.98982,16.93391,97.98982,16.93391",
+    "geom:latitude":16.93391,
+    "geom:longitude":97.98982,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003002",
+    "gn:asciiname":"Zaza",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284089,
+    "gn:latitude":16.93391,
+    "gn:longitude":97.98982,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284089
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e7ae0ade6227c6025a25d2e827929b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1276332965,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1276332965,
+    "wof:lastmodified":1536779564,
+    "wof:name":"Zaza",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.98982,
+    16.93391,
+    97.98982,
+    16.93391
+],
+  "geometry": {"coordinates":[97.98981999999999,16.93391],"type":"Point"}
+}

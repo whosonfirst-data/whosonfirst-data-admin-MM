@@ -1,0 +1,78 @@
+{
+  "id": 1125866401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.56037,16.90802,96.56037,16.90802",
+    "geom:latitude":16.90802,
+    "geom:longitude":96.56037,
+    "gn:gn_country":"MM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":40322,
+    "gn:population":40322,
+    "iso:country":"MM",
+    "lbl:latitude":16.90802,
+    "lbl:longitude":96.56037,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MM",
+    "qs_pg:gn_country":"MM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1319533,
+    "qs_pg:gn_pop":40322,
+    "qs_pg:name":"Kayan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":132701,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319533,
+        "qs_pg:id":132701
+    },
+    "wof:country":"MM",
+    "wof:created":1497294061,
+    "wof:geomhash":"e93d179d08a228152cadda29db3ca02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1125866401,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1125866401,
+    "wof:lastmodified":1509397010,
+    "wof:name":"Kayan",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:population":40322,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.56037,
+    16.90802,
+    96.56037,
+    16.90802
+],
+  "geometry": {"coordinates":[96.56037000000001,16.90802],"type":"Point"}
+}

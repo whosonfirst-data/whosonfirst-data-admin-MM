@@ -1,0 +1,63 @@
+{
+  "id": 1209194889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41502,21.43887,100.41502,21.43887",
+    "geom:latitude":21.43887,
+    "geom:longitude":100.41502,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Tao",
+    "gn:country_code":"MM",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847117,
+    "gn:latitude":21.43887,
+    "gn:longitude":100.41502,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847117
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6cf401169158841140758ce5bd506902",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209194889
+        }
+    ],
+    "wof:id":1209194889,
+    "wof:lastmodified":1536294806,
+    "wof:name":"Wan Tao",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41502,
+    21.43887,
+    100.41502,
+    21.43887
+],
+  "geometry": {"coordinates":[100.41502,21.43887],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277154563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.29964,21.56802,97.29964,21.56802",
+    "geom:latitude":21.56802,
+    "geom:longitude":97.29964,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Wan Na-mong",
+    "gn:country_code":"MM",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287757,
+    "gn:latitude":21.56802,
+    "gn:longitude":97.29964,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n N\u0101-mong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287757
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1b5b3d6ae79a5d08d2756035edbfbd5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1277154563,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277154563,
+    "wof:lastmodified":1536664220,
+    "wof:name":"Wan Na-mong",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.29964,
+    21.56802,
+    97.29964,
+    21.56802
+],
+  "geometry": {"coordinates":[97.29964,21.56802],"type":"Point"}
+}

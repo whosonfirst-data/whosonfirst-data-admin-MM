@@ -1,0 +1,69 @@
+{
+  "id": 1326918873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.78337,24.04712,94.78337,24.04712",
+    "geom:latitude":24.04712,
+    "geom:longitude":94.78337,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Shwe-inbin",
+    "gn:country_code":"MM",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296579,
+    "gn:latitude":24.04712,
+    "gn:longitude":94.78337,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwe-inbin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296579
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c9bb1b096b9353d02e3a41d9c5bbc0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046361,
+            "locality_id":1326918873,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1326918873,
+    "wof:lastmodified":1536924770,
+    "wof:name":"Shwe-inbin",
+    "wof:parent_id":1092046361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.78337,
+    24.04712,
+    94.78337,
+    24.04712
+],
+  "geometry": {"coordinates":[94.78337000000001,24.04712],"type":"Point"}
+}

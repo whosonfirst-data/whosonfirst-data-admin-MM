@@ -1,0 +1,69 @@
+{
+  "id": 1343837651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.94062,12.13806,98.94062,12.13806",
+    "geom:latitude":12.13806,
+    "geom:longitude":98.94062,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006008",
+    "gn:asciiname":"Tonnwe",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290630,
+    "gn:latitude":12.13806,
+    "gn:longitude":98.94062,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tonnwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290630
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c94619bee45893870f2629d4c8532f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1343837651,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1343837651,
+    "wof:lastmodified":1536699826,
+    "wof:name":"Tonnwe",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.94062,
+    12.13806,
+    98.94062,
+    12.13806
+],
+  "geometry": {"coordinates":[98.94062,12.13806],"type":"Point"}
+}

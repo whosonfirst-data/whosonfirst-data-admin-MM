@@ -1,0 +1,63 @@
+{
+  "id": 1309807069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.38429,20.71644,92.38429,20.71644",
+    "geom:latitude":20.71644,
+    "geom:longitude":92.38429,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nahkaungdo",
+    "gn:country_code":"MM",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307438,
+    "gn:latitude":20.71644,
+    "gn:longitude":92.38429,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Nahkaungdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307438
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2050d31f689c3796660269aa1feb3dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1309807069,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309807069,
+    "wof:lastmodified":1536929899,
+    "wof:name":"Nahkaungdo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.38429,
+    20.71644,
+    92.38429,
+    20.71644
+],
+  "geometry": {"coordinates":[92.38428999999999,20.71644],"type":"Point"}
+}

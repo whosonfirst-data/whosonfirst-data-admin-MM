@@ -1,0 +1,69 @@
+{
+  "id": 1310271289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.97551,16.98661,95.97551,16.98661",
+    "geom:latitude":16.98661,
+    "geom:longitude":95.97551,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013006",
+    "gn:asciiname":"Kyaunggon",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316412,
+    "gn:latitude":16.98661,
+    "gn:longitude":95.97551,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaunggon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316412
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"71ea4ce447db530c8d76e496e8121e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1310271289,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1310271289,
+    "wof:lastmodified":1536757480,
+    "wof:name":"Kyaunggon",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.97551,
+    16.98661,
+    95.97551,
+    16.98661
+],
+  "geometry": {"coordinates":[95.97551,16.98661],"type":"Point"}
+}

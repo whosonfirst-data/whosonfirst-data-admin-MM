@@ -1,0 +1,63 @@
+{
+  "id": 1209110647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.131,18.39588,97.131,18.39588",
+    "geom:latitude":18.39588,
+    "geom:longitude":97.131,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Plakho",
+    "gn:country_code":"MM",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299862,
+    "gn:latitude":18.39588,
+    "gn:longitude":97.131,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Plakho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299862
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a246e0c5e4fc978a8c2090f94d63dc90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209110647
+        }
+    ],
+    "wof:id":1209110647,
+    "wof:lastmodified":1536297418,
+    "wof:name":"Plakho",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.131,
+    18.39588,
+    97.131,
+    18.39588
+],
+  "geometry": {"coordinates":[97.131,18.39588],"type":"Point"}
+}

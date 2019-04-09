@@ -1,0 +1,69 @@
+{
+  "id": 1259571013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.60406,21.92457,97.60406,21.92457",
+    "geom:latitude":21.92457,
+    "geom:longitude":97.60406,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Moeng Hso",
+    "gn:country_code":"MM",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308717,
+    "gn:latitude":21.92457,
+    "gn:longitude":97.60406,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00f6ng Hso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308717
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"81f5bed07ba01632f99b176431a91a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1259571013,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259571013,
+    "wof:lastmodified":1536733096,
+    "wof:name":"Moeng Hso",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.60406,
+    21.92457000000001,
+    97.60406,
+    21.92457000000001
+],
+  "geometry": {"coordinates":[97.60406,21.92457000000001],"type":"Point"}
+}

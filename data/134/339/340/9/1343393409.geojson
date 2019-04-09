@@ -1,0 +1,70 @@
+{
+  "id": 1343393409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.01187,23.95301,97.01187,23.95301",
+    "geom:latitude":23.95301,
+    "geom:longitude":97.01187,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Nanlwin",
+    "gn:country_code":"MM",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306075,
+    "gn:latitude":23.95301,
+    "gn:longitude":97.01187,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nanlwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306075,
+        "wk:page":"Nanlwin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8b7be6d791bb38f1d7e4c2453f9cd168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1343393409,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343393409,
+    "wof:lastmodified":1537568475,
+    "wof:name":"Nanlwin",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.01187,
+    23.95301,
+    97.01187,
+    23.95301
+],
+  "geometry": {"coordinates":[97.01187,23.95301],"type":"Point"}
+}

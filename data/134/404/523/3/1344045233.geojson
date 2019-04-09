@@ -1,0 +1,73 @@
+{
+  "id": 1344045233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.48342,20.56574,99.48342,20.56574",
+    "geom:latitude":20.56574,
+    "geom:longitude":99.48342,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D002",
+    "gn:admin3_code":"MMR016006",
+    "gn:asciiname":"Wan La-tsa-hkue",
+    "gn:country_code":"MM",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1288483,
+    "gn:latitude":20.56574,
+    "gn:longitude":99.48342,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n La-tsa-hk\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "W\u0101n Kaw La-tsa-hk\u00fc",
+        "W\u0101n La-tsa-hk\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288483
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"052c666a3726daabf44edf957d584ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1344045233,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344045233,
+    "wof:lastmodified":1537665323,
+    "wof:name":"Wan La-tsa-hkue",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.48342,
+    20.56574,
+    99.48342,
+    20.56574
+],
+  "geometry": {"coordinates":[99.48342,20.56574],"type":"Point"}
+}

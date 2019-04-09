@@ -1,0 +1,69 @@
+{
+  "id": 1326817333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.15653,14.04205,98.15653,14.04205",
+    "geom:latitude":14.04205,
+    "geom:longitude":98.15653,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006002",
+    "gn:asciiname":"Yahaungwa",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285941,
+    "gn:latitude":14.04205,
+    "gn:longitude":98.15653,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yahaungwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285941
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ef2089129ce90bb5503211ac64f8988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1326817333,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1326817333,
+    "wof:lastmodified":1537067333,
+    "wof:name":"Yahaungwa",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.15653,
+    14.04205,
+    98.15653,
+    14.04205
+],
+  "geometry": {"coordinates":[98.15653,14.04205],"type":"Point"}
+}

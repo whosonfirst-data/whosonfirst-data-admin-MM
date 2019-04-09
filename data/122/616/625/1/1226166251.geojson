@@ -1,0 +1,73 @@
+{
+  "id": 1226166251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.88662,25.37541,97.88662,25.37541",
+    "geom:latitude":25.37541,
+    "geom:longitude":97.88662,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001002",
+    "gn:asciiname":"Sadon",
+    "gn:country_code":"MM",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298529,
+    "gn:latitude":25.37541,
+    "gn:longitude":97.88662,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sadon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort Harrison",
+        "Sadon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298529
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8ff2d66ece1b1a3efdabfcb9abf99644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1226166251,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226166251,
+    "wof:lastmodified":1537665381,
+    "wof:name":"Sadon",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.88662,
+    25.37541,
+    97.88662,
+    25.37541
+],
+  "geometry": {"coordinates":[97.88661999999999,25.37541],"type":"Point"}
+}

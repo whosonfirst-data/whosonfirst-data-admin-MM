@@ -1,0 +1,67 @@
+{
+  "id": 1209101097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.7253,22.83914,94.7253,22.83914",
+    "geom:latitude":22.83914,
+    "geom:longitude":94.7253,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005029",
+    "gn:asciiname":"Onhnebok",
+    "gn:country_code":"MM",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302897,
+    "gn:latitude":22.83914,
+    "gn:longitude":94.7253,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"\u00d4nhn\u00eab\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d4nhn\u00eab\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302897,
+        "wk:page":"Onhnebok"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"47a74e13e474558c5214fbcb66159a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209101097
+        }
+    ],
+    "wof:id":1209101097,
+    "wof:lastmodified":1537665402,
+    "wof:name":"Onhnebok",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.7253,
+    22.83914,
+    94.7253,
+    22.83914
+],
+  "geometry": {"coordinates":[94.7253,22.83914],"type":"Point"}
+}

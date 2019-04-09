@@ -1,0 +1,87 @@
+{
+  "id": 890433715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.54531,20.0065,95.54531,20.0065",
+    "geom:latitude":20.0065,
+    "geom:longitude":95.54531,
+    "gn:country":"MM",
+    "gn:fcode":"PPL",
+    "gn:pop":70094,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bur_x_preferred":[
+        "\u1010\u1031\u102c\u1004\u103a\u1010\u103d\u1004\u103a\u1038\u1000\u103c\u102e\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:dut_x_preferred":[
+        "Taungdwingyi"
+    ],
+    "name:eng_x_preferred":[
+        "Taungdwingyi"
+    ],
+    "name:fre_x_preferred":[
+        "Taungdwingyi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u043d\u0434\u0443\u0438\u043d\u0434\u0436\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Taungdwingyi"
+    ],
+    "qs:name":"Taungdwingyi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":505,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294041,
+        "gp:id":1017884,
+        "qs:id":132634,
+        "wd:id":"Q3516145",
+        "wk:page":"Taungdwingyi"
+    },
+    "wof:country":"MM",
+    "wof:created":1469051991,
+    "wof:geomhash":"c7e6a6edac62b279d65c504c93630bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":890433715,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":890433715,
+    "wof:lastmodified":1527792954,
+    "wof:name":"Taungdwingyi",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:population":70094,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.54531,
+    20.0065,
+    95.54531,
+    20.0065
+],
+  "geometry": {"coordinates":[95.54531,20.0065],"type":"Point"}
+}

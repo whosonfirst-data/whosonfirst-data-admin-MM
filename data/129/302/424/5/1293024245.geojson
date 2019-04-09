@@ -1,0 +1,69 @@
+{
+  "id": 1293024245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.88333,26.01667,97.88333,26.01667",
+    "geom:latitude":26.01667,
+    "geom:longitude":97.88333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001003",
+    "gn:asciiname":"Kandau",
+    "gn:country_code":"MM",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320883,
+    "gn:latitude":26.01667,
+    "gn:longitude":97.88333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kandau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320883
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4948e67ea1c355f4f70322fea4502673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1293024245,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293024245,
+    "wof:lastmodified":1536957898,
+    "wof:name":"Kandau",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.88333,
+    26.01667,
+    97.88333,
+    26.01667
+],
+  "geometry": {"coordinates":[97.88333,26.01667],"type":"Point"}
+}

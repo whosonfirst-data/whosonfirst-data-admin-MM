@@ -1,0 +1,69 @@
+{
+  "id": 1293382113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.01615,19.65051,97.01615,19.65051",
+    "geom:latitude":19.65051,
+    "geom:longitude":97.01615,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Kawnla",
+    "gn:country_code":"MM",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319619,
+    "gn:latitude":19.65051,
+    "gn:longitude":97.01615,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawnla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319619
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"603221b3087de79919031e9962d15dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1293382113,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1293382113,
+    "wof:lastmodified":1536939665,
+    "wof:name":"Kawnla",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.01615,
+    19.65051,
+    97.01615,
+    19.65051
+],
+  "geometry": {"coordinates":[97.01615,19.65051],"type":"Point"}
+}

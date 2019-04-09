@@ -1,0 +1,69 @@
+{
+  "id": 1242755357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.75319,23.54763,98.75319,23.54763",
+    "geom:latitude":23.54763,
+    "geom:longitude":98.75319,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Changliu-shui",
+    "gn:country_code":"MM",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327691,
+    "gn:latitude":23.54763,
+    "gn:longitude":98.75319,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Changliu-shui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327691
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f3a99739750d7a637b256055a1709ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1242755357,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242755357,
+    "wof:lastmodified":1536807427,
+    "wof:name":"Changliu-shui",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.75319,
+    23.54763,
+    98.75319,
+    23.54763
+],
+  "geometry": {"coordinates":[98.75319,23.54763],"type":"Point"}
+}

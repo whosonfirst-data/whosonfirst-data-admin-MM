@@ -1,0 +1,73 @@
+{
+  "id": 1192998679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.69451,22.23426,96.69451,22.23426",
+    "geom:latitude":22.23426,
+    "geom:longitude":96.69451,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Na-kyaung-kham",
+    "gn:country_code":"MM",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307296,
+    "gn:latitude":22.23426,
+    "gn:longitude":96.69451,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Na-kyaung-kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na-kyong-kham",
+        "Na-kyaung-kham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307296
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ef42148eff17375663c1da285bfea0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1192998679,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1192998679,
+    "wof:lastmodified":1537665424,
+    "wof:name":"Na-kyaung-kham",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.69451,
+    22.23426,
+    96.69451,
+    22.23426
+],
+  "geometry": {"coordinates":[96.69450999999999,22.23426],"type":"Point"}
+}

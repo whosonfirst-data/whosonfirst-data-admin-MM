@@ -1,0 +1,70 @@
+{
+  "id": 1276441811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.38833,25.95021,98.38833,25.95021",
+    "geom:latitude":25.95021,
+    "geom:longitude":98.38833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Pammyaw",
+    "gn:country_code":"MM",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302255,
+    "gn:latitude":25.95021,
+    "gn:longitude":98.38833,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pammyaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302255,
+        "wk:page":"Pammyaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5a8dca41810d38f56ff3c81a62ec1f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1276441811,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276441811,
+    "wof:lastmodified":1537568469,
+    "wof:name":"Pammyaw",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.38833,
+    25.95021,
+    98.38833,
+    25.95021
+],
+  "geometry": {"coordinates":[98.38833,25.95021],"type":"Point"}
+}

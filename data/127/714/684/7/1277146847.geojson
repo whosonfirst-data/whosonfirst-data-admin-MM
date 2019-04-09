@@ -1,0 +1,70 @@
+{
+  "id": 1277146847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.85415,21.6137,94.85415,21.6137",
+    "geom:latitude":21.6137,
+    "geom:longitude":94.85415,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009020",
+    "gn:asciiname":"Myaing",
+    "gn:country_code":"MM",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308224,
+    "gn:latitude":21.6137,
+    "gn:longitude":94.85415,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308224,
+        "wk:page":"Myaing"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c781f13ba0e34a72796a5c429a8530e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1277146847,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1277146847,
+    "wof:lastmodified":1537568479,
+    "wof:name":"Myaing",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.85415,
+    21.6137,
+    94.85415,
+    21.6137
+],
+  "geometry": {"coordinates":[94.85415,21.6137],"type":"Point"}
+}

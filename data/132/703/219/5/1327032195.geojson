@@ -1,0 +1,73 @@
+{
+  "id": 1327032195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.3683,24.07055,93.3683,24.07055",
+    "geom:latitude":24.07055,
+    "geom:longitude":93.3683,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Pangmoi",
+    "gn:country_code":"MM",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301763,
+    "gn:latitude":24.07055,
+    "gn:longitude":93.3683,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pangmoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pangmol",
+        "Pangmoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301763
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a43c27c1f5849cafb0d9f11fd13047a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1327032195,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1327032195,
+    "wof:lastmodified":1537665398,
+    "wof:name":"Pangmoi",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.3683,
+    24.07055,
+    93.3683,
+    24.07055
+],
+  "geometry": {"coordinates":[93.3683,24.07055],"type":"Point"}
+}

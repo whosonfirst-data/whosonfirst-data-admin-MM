@@ -1,0 +1,63 @@
+{
+  "id": 1209487133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.67915,17.18966,96.67915,17.18966",
+    "geom:latitude":17.18966,
+    "geom:longitude":96.67915,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007003",
+    "gn:asciiname":"Kyagaung",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317440,
+    "gn:latitude":17.18966,
+    "gn:longitude":96.67915,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyagaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317440
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e6cd2bd146b50bdf857df18a52a79c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209487133
+        }
+    ],
+    "wof:id":1209487133,
+    "wof:lastmodified":1536285601,
+    "wof:name":"Kyagaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.67915,
+    17.18966,
+    96.67915,
+    17.18966
+],
+  "geometry": {"coordinates":[96.67915000000001,17.18966],"type":"Point"}
+}

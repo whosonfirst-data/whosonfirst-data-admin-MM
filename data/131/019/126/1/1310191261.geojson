@@ -1,0 +1,69 @@
+{
+  "id": 1310191261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.30147,17.08254,97.30147,17.08254",
+    "geom:latitude":17.08254,
+    "geom:longitude":97.30147,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011007",
+    "gn:asciiname":"Hnandaung",
+    "gn:country_code":"MM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324325,
+    "gn:latitude":17.08254,
+    "gn:longitude":97.30147,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hnandaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324325
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eed9c40af72ad437f6c3b8bdb1aa6eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1310191261,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1310191261,
+    "wof:lastmodified":1536871784,
+    "wof:name":"Hnandaung",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.30147,
+    17.08254,
+    97.30147,
+    17.08254
+],
+  "geometry": {"coordinates":[97.30146999999999,17.08254],"type":"Point"}
+}

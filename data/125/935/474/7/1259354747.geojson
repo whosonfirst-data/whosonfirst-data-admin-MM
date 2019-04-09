@@ -1,0 +1,69 @@
+{
+  "id": 1259354747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.31218,18.39354,96.31218,18.39354",
+    "geom:latitude":18.39354,
+    "geom:longitude":96.31218,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007006",
+    "gn:asciiname":"Thabyubin",
+    "gn:country_code":"MM",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292852,
+    "gn:latitude":18.39354,
+    "gn:longitude":96.31218,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thabyubin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292852
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec7c804f8d3951dff78841d252e3c5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1259354747,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1259354747,
+    "wof:lastmodified":1537041970,
+    "wof:name":"Thabyubin",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.31218,
+    18.39354,
+    96.31218,
+    18.39354
+],
+  "geometry": {"coordinates":[96.31218,18.39354],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310282537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.39977,22.6127,97.39977,22.6127",
+    "geom:latitude":22.6127,
+    "geom:longitude":97.39977,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Na-phai",
+    "gn:country_code":"MM",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305912,
+    "gn:latitude":22.6127,
+    "gn:longitude":97.39977,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"N\u0101-phai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na-Pai",
+        "N\u0101-phai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305912
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"34e4096ab7a891b0f47059c97e4dcf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1310282537,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310282537,
+    "wof:lastmodified":1537665418,
+    "wof:name":"Na-phai",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.39977,
+    22.6127,
+    97.39977,
+    22.6127
+],
+  "geometry": {"coordinates":[97.39977,22.6127],"type":"Point"}
+}

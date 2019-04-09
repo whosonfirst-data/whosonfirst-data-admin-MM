@@ -1,0 +1,69 @@
+{
+  "id": 1292909287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.82627,25.9534,97.82627,25.9534",
+    "geom:latitude":25.9534,
+    "geom:longitude":97.82627,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001003",
+    "gn:asciiname":"Sumka Uma",
+    "gn:country_code":"MM",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295534,
+    "gn:latitude":25.9534,
+    "gn:longitude":97.82627,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sumka Uma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295534
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"26c11ce2cdfc5d88b4d4c70bc57c6544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1292909287,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1292909287,
+    "wof:lastmodified":1536624507,
+    "wof:name":"Sumka Uma",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.82627,
+    25.9534,
+    97.82627,
+    25.9534
+],
+  "geometry": {"coordinates":[97.82626999999999,25.9534],"type":"Point"}
+}

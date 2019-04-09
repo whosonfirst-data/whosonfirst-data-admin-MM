@@ -1,0 +1,63 @@
+{
+  "id": 1209404761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.19187,21.05765,95.19187,21.05765",
+    "geom:latitude":21.05765,
+    "geom:longitude":95.19187,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010022",
+    "gn:asciiname":"Gyobintha",
+    "gn:country_code":"MM",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325597,
+    "gn:latitude":21.05765,
+    "gn:longitude":95.19187,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gyobintha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325597
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f05255b9741c4b323e28bf697f7ea12e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209404761
+        }
+    ],
+    "wof:id":1209404761,
+    "wof:lastmodified":1536288031,
+    "wof:name":"Gyobintha",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.19187,
+    21.05765,
+    95.19187,
+    21.05765
+],
+  "geometry": {"coordinates":[95.19186999999999,21.05765],"type":"Point"}
+}

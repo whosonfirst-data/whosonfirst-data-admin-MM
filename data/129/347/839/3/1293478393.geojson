@@ -1,0 +1,70 @@
+{
+  "id": 1293478393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.55228,25.02727,95.55228,25.02727",
+    "geom:latitude":25.02727,
+    "geom:longitude":95.55228,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Namhon",
+    "gn:country_code":"MM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307055,
+    "gn:latitude":25.02727,
+    "gn:longitude":95.55228,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307055,
+        "wk:page":"Namhon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d8eb918e1ad421af98f933de894ae19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1293478393,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293478393,
+    "wof:lastmodified":1537568477,
+    "wof:name":"Namhon",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.55228,
+    25.02727,
+    95.55228,
+    25.02727
+],
+  "geometry": {"coordinates":[95.55228,25.02727],"type":"Point"}
+}

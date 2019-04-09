@@ -1,0 +1,63 @@
+{
+  "id": 1209099371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.82279,18.83301,96.82279,18.83301",
+    "geom:latitude":18.83301,
+    "geom:longitude":96.82279,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Maungtainggyi",
+    "gn:country_code":"MM",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310246,
+    "gn:latitude":18.83301,
+    "gn:longitude":96.82279,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Maungtainggyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310246
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eed882955fb748fbfed5729d7a45ca6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209099371
+        }
+    ],
+    "wof:id":1209099371,
+    "wof:lastmodified":1536297783,
+    "wof:name":"Maungtainggyi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.82279,
+    18.83301,
+    96.82279,
+    18.83301
+],
+  "geometry": {"coordinates":[96.82279,18.83301],"type":"Point"}
+}

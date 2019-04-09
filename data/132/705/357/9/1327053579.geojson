@@ -1,0 +1,69 @@
+{
+  "id": 1327053579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.59389,23.83333,97.59389,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":97.59389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Man Wing",
+    "gn:country_code":"MM",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310540,
+    "gn:latitude":23.83333,
+    "gn:longitude":97.59389,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Wing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310540
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3d3f3c309b58e5c9aa8d593f96621702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1327053579,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327053579,
+    "wof:lastmodified":1536730209,
+    "wof:name":"Man Wing",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.59389,
+    23.83333,
+    97.59389,
+    23.83333
+],
+  "geometry": {"coordinates":[97.59389,23.83333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344145517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.02708,24.58499,95.02708,24.58499",
+    "geom:latitude":24.58499,
+    "geom:longitude":95.02708,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Panghpahpa",
+    "gn:country_code":"MM",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302016,
+    "gn:latitude":24.58499,
+    "gn:longitude":95.02708,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Panghpahpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302016,
+        "wk:page":"Panghpahpa"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3f702f0a41061018e245133709860604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1344145517,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1344145517,
+    "wof:lastmodified":1537568469,
+    "wof:name":"Panghpahpa",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.02708,
+    24.58499,
+    95.02708,
+    24.58499
+],
+  "geometry": {"coordinates":[95.02708,24.58499],"type":"Point"}
+}

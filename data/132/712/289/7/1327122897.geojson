@@ -1,0 +1,73 @@
+{
+  "id": 1327122897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.36309,21.66725,95.36309,21.66725",
+    "geom:latitude":21.66725,
+    "geom:longitude":95.36309,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005003",
+    "gn:asciiname":"Nhemnokkyun",
+    "gn:country_code":"MM",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304216,
+    "gn:latitude":21.66725,
+    "gn:longitude":95.36309,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nhemnokkyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nhemhokkyun",
+        "Nhemnokkyun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304216
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7c8ada5d7145ba3abb2b3ee210954870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047295,
+            "locality_id":1327122897,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1327122897,
+    "wof:lastmodified":1537665409,
+    "wof:name":"Nhemnokkyun",
+    "wof:parent_id":1092047295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.36309,
+    21.66725,
+    95.36309,
+    21.66725
+],
+  "geometry": {"coordinates":[95.36309,21.66725],"type":"Point"}
+}

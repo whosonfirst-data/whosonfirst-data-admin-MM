@@ -1,0 +1,67 @@
+{
+  "id": 1209492755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.94592,23.61119,97.94592,23.61119",
+    "geom:latitude":23.61119,
+    "geom:longitude":97.94592,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man O",
+    "gn:country_code":"MM",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310929,
+    "gn:latitude":23.61119,
+    "gn:longitude":97.94592,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n \u00d6i",
+        "M\u0101n O"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310929
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"793b5cd634546124aa2f3f2d5aafa9da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209492755
+        }
+    ],
+    "wof:id":1209492755,
+    "wof:lastmodified":1537665448,
+    "wof:name":"Man O",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.94592,
+    23.61119,
+    97.94592,
+    23.61119
+],
+  "geometry": {"coordinates":[97.94592,23.61119],"type":"Point"}
+}

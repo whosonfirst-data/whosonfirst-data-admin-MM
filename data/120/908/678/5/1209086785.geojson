@@ -1,0 +1,63 @@
+{
+  "id": 1209086785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.78209,21.71953,97.78209,21.71953",
+    "geom:latitude":21.71953,
+    "geom:longitude":97.78209,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Kongkyan",
+    "gn:country_code":"MM",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318507,
+    "gn:latitude":21.71953,
+    "gn:longitude":97.78209,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kongkyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318507
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"90d9a0b6d87016f29bfef4e5a67f80dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209086785
+        }
+    ],
+    "wof:id":1209086785,
+    "wof:lastmodified":1536298161,
+    "wof:name":"Kongkyan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.78209,
+    21.71953,
+    97.78209,
+    21.71953
+],
+  "geometry": {"coordinates":[97.78209,21.71953],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293892689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.49116,20.6512,92.49116,20.6512",
+    "geom:latitude":20.6512,
+    "geom:longitude":92.49116,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D002",
+    "gn:admin3_code":"MMR012009",
+    "gn:asciiname":"Tattobyin",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294231,
+    "gn:latitude":20.6512,
+    "gn:longitude":92.49116,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tattobyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294231
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"96de814f4f479e628eb7ab5bfc8e59ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046317,
+            "locality_id":1293892689,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1293892689,
+    "wof:lastmodified":1536700290,
+    "wof:name":"Tattobyin",
+    "wof:parent_id":1092046317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.49116,
+    20.6512,
+    92.49116,
+    20.6512
+],
+  "geometry": {"coordinates":[92.49115999999999,20.6512],"type":"Point"}
+}

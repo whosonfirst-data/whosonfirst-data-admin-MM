@@ -1,0 +1,73 @@
+{
+  "id": 1327098353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.59988,18.41824,96.59988,18.41824",
+    "geom:latitude":18.41824,
+    "geom:longitude":96.59988,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007012",
+    "gn:asciiname":"Thongwale",
+    "gn:country_code":"MM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291181,
+    "gn:latitude":18.41824,
+    "gn:longitude":96.59988,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thongwale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thongwagale",
+        "Thongwale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291181
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0802daebedf1e904d1edcb77b2dd4a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1327098353,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1327098353,
+    "wof:lastmodified":1537665342,
+    "wof:name":"Thongwale",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.59988,
+    18.41824,
+    96.59988,
+    18.41824
+],
+  "geometry": {"coordinates":[96.59988,18.41824],"type":"Point"}
+}

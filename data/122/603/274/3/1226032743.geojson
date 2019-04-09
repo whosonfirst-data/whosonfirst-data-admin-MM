@@ -1,0 +1,69 @@
+{
+  "id": 1226032743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.4536,21.46743,97.4536,21.46743",
+    "geom:latitude":21.46743,
+    "geom:longitude":97.4536,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Hko Hpai Mai",
+    "gn:country_code":"MM",
+    "gn:dem":1530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324737,
+    "gn:latitude":21.46743,
+    "gn:longitude":97.4536,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hko Hpai Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324737
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6a579374432b4e8fc45f89668f05cca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1226032743,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226032743,
+    "wof:lastmodified":1536743656,
+    "wof:name":"Hko Hpai Mai",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.4536,
+    21.46743,
+    97.4536,
+    21.46743
+],
+  "geometry": {"coordinates":[97.45359999999999,21.46743],"type":"Point"}
+}

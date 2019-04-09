@@ -1,0 +1,63 @@
+{
+  "id": 1209493721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.2364,26.02504,95.2364,26.02504",
+    "geom:latitude":26.02504,
+    "geom:longitude":95.2364,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005036",
+    "gn:asciiname":"Te-ngan",
+    "gn:country_code":"MM",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293110,
+    "gn:latitude":26.02504,
+    "gn:longitude":95.2364,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Te-ngan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293110
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"31a0f695af3f2068ba9abfd3d1585b3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209493721
+        }
+    ],
+    "wof:id":1209493721,
+    "wof:lastmodified":1536285403,
+    "wof:name":"Te-ngan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.2364,
+    26.02504,
+    95.2364,
+    26.02504
+],
+  "geometry": {"coordinates":[95.2364,26.02504],"type":"Point"}
+}

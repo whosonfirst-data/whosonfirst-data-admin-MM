@@ -1,0 +1,69 @@
+{
+  "id": 1327357047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.31176,25.47262,96.31176,25.47262",
+    "geom:latitude":25.47262,
+    "geom:longitude":96.31176,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Namlan",
+    "gn:country_code":"MM",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306823,
+    "gn:latitude":25.47262,
+    "gn:longitude":96.31176,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306823
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2da4c9a85dfdb75998e16a9d12586a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1327357047,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327357047,
+    "wof:lastmodified":1536790097,
+    "wof:name":"Namlan",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.31176,
+    25.47262000000001,
+    96.31176,
+    25.47262000000001
+],
+  "geometry": {"coordinates":[96.31176000000001,25.47262000000001],"type":"Point"}
+}

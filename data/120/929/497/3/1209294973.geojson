@@ -1,0 +1,63 @@
+{
+  "id": 1209294973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.66378,23.50609,98.66378,23.50609",
+    "geom:latitude":23.50609,
+    "geom:longitude":98.66378,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Wan Tao-shwi",
+    "gn:country_code":"MM",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286934,
+    "gn:latitude":23.50609,
+    "gn:longitude":98.66378,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Tao-shwi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286934
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"08fd03e57b02cdeed628f4a6f41bcc3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209294973
+        }
+    ],
+    "wof:id":1209294973,
+    "wof:lastmodified":1536291561,
+    "wof:name":"Wan Tao-shwi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.66378,
+    23.50609,
+    98.66378,
+    23.50609
+],
+  "geometry": {"coordinates":[98.66378,23.50609],"type":"Point"}
+}

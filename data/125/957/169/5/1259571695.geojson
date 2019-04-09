@@ -1,0 +1,74 @@
+{
+  "id": 1259571695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.17857,23.24381,94.17857,23.24381",
+    "geom:latitude":23.24381,
+    "geom:longitude":94.17857,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Natkyigon",
+    "gn:country_code":"MM",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305779,
+    "gn:latitude":23.24381,
+    "gn:longitude":94.17857,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Natkyigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Natkyingon",
+        "Natkyigon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305779,
+        "wk:page":"Natkyigon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d247213dabd8fb813b20102522fd8bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1259571695,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259571695,
+    "wof:lastmodified":1537665417,
+    "wof:name":"Natkyigon",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.17857,
+    23.24381,
+    94.17857,
+    23.24381
+],
+  "geometry": {"coordinates":[94.17856999999999,23.24381],"type":"Point"}
+}

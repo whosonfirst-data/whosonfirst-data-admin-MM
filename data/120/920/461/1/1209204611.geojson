@@ -1,0 +1,63 @@
+{
+  "id": 1209204611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.37779,21.43343,95.37779,21.43343",
+    "geom:latitude":21.43343,
+    "geom:longitude":95.37779,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010017",
+    "gn:asciiname":"Ywazi",
+    "gn:country_code":"MM",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284321,
+    "gn:latitude":21.43343,
+    "gn:longitude":95.37779,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284321
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"955c48db0d2bb4eae2c8cff74b6746b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209204611
+        }
+    ],
+    "wof:id":1209204611,
+    "wof:lastmodified":1536294496,
+    "wof:name":"Ywazi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.37779,
+    21.43343,
+    95.37779,
+    21.43343
+],
+  "geometry": {"coordinates":[95.37779,21.43343],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259676985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.28953,17.91579,97.28953,17.91579",
+    "geom:latitude":17.91579,
+    "geom:longitude":97.28953,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Megalaw",
+    "gn:country_code":"MM",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309846,
+    "gn:latitude":17.91579,
+    "gn:longitude":97.28953,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Megalaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309846
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ee22b77c39813e01e64b423aa16fe948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1259676985,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1259676985,
+    "wof:lastmodified":1537073313,
+    "wof:name":"Megalaw",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.28953,
+    17.91578999999999,
+    97.28953,
+    17.91578999999999
+],
+  "geometry": {"coordinates":[97.28953,17.91578999999999],"type":"Point"}
+}

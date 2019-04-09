@@ -1,0 +1,69 @@
+{
+  "id": 1226449493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.51063,16.0775,95.51063,16.0775",
+    "geom:latitude":16.0775,
+    "geom:longitude":95.51063,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017024",
+    "gn:asciiname":"Lagayet",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315197,
+    "gn:latitude":16.0775,
+    "gn:longitude":95.51063,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lagayet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315197
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"87e2b12b22fc0f3ce4060a25bcf487d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1226449493,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1226449493,
+    "wof:lastmodified":1536639005,
+    "wof:name":"Lagayet",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.51063,
+    16.0775,
+    95.51063,
+    16.0775
+],
+  "geometry": {"coordinates":[95.51063000000001,16.0775],"type":"Point"}
+}

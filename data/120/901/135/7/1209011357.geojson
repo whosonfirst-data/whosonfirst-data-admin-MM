@@ -1,0 +1,63 @@
+{
+  "id": 1209011357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.69305,16.49513,95.69305,16.49513",
+    "geom:latitude":16.49513,
+    "geom:longitude":95.69305,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Pabezu",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302825,
+    "gn:latitude":16.49513,
+    "gn:longitude":95.69305,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pab\u0113zu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302825
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"23f147490bead7b89ed29f28ca7b8d88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209011357
+        }
+    ],
+    "wof:id":1209011357,
+    "wof:lastmodified":1536300436,
+    "wof:name":"Pabezu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.69305,
+    16.49513,
+    95.69305,
+    16.49513
+],
+  "geometry": {"coordinates":[95.69305,16.49513],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276649701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.65064,16.83902,97.65064,16.83902",
+    "geom:latitude":16.83902,
+    "geom:longitude":97.65064,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003001",
+    "gn:asciiname":"Karit",
+    "gn:country_code":"MM",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464370,
+    "gn:latitude":16.83902,
+    "gn:longitude":97.65064,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Karit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464370
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1965868f88ecf20cd7af96a5816ccef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1276649701,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1276649701,
+    "wof:lastmodified":1536850807,
+    "wof:name":"Karit",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.65064,
+    16.83902,
+    97.65064,
+    16.83902
+],
+  "geometry": {"coordinates":[97.65064,16.83902],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344045175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.9143,22.41628,96.9143,22.41628",
+    "geom:latitude":22.41628,
+    "geom:longitude":96.9143,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Kawngmuleng",
+    "gn:country_code":"MM",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319683,
+    "gn:latitude":22.41628,
+    "gn:longitude":96.9143,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawngmuleng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319683
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"93e8f86555a5e5e606c078ed19bc9c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1344045175,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344045175,
+    "wof:lastmodified":1536897575,
+    "wof:name":"Kawngmuleng",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.9143,
+    22.41628,
+    96.9143,
+    22.41628
+],
+  "geometry": {"coordinates":[96.9143,22.41628],"type":"Point"}
+}

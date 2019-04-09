@@ -1,0 +1,69 @@
+{
+  "id": 1293104543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.46479,25.36899,96.46479,25.36899",
+    "geom:latitude":25.36899,
+    "geom:longitude":96.46479,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001007",
+    "gn:asciiname":"Wasangpang",
+    "gn:country_code":"MM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286641,
+    "gn:latitude":25.36899,
+    "gn:longitude":96.46479,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wasangpang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286641
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a15118bc26e9921214035b97dd8cf90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1293104543,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293104543,
+    "wof:lastmodified":1536841066,
+    "wof:name":"Wasangpang",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.46479,
+    25.36899,
+    96.46479,
+    25.36899
+],
+  "geometry": {"coordinates":[96.46478999999999,25.36899],"type":"Point"}
+}

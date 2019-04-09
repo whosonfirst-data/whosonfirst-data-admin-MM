@@ -1,0 +1,69 @@
+{
+  "id": 1259979495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.03143,25.25997,97.03143,25.25997",
+    "geom:latitude":25.25997,
+    "geom:longitude":97.03143,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001008",
+    "gn:asciiname":"Tapaw",
+    "gn:country_code":"MM",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294427,
+    "gn:latitude":25.25997,
+    "gn:longitude":97.03143,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"T\u0101paw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294427
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"76cdf5af54ad47f533568dd59a8d3136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1259979495,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259979495,
+    "wof:lastmodified":1536639951,
+    "wof:name":"Tapaw",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.03143,
+    25.25997000000001,
+    97.03143,
+    25.25997000000001
+],
+  "geometry": {"coordinates":[97.03143,25.25997000000001],"type":"Point"}
+}

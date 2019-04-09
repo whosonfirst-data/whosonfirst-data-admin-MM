@@ -1,0 +1,73 @@
+{
+  "id": 1192998737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.8264,20.28486,96.8264,20.28486",
+    "geom:latitude":20.28486,
+    "geom:longitude":96.8264,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014009",
+    "gn:asciiname":"Loi-boun Taung",
+    "gn:country_code":"MM",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313601,
+    "gn:latitude":20.28486,
+    "gn:longitude":96.8264,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi-boun Taung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loi-bown",
+        "Loi-boun Taung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313601
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eeb9b3a74881e0c83612700f04068afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1192998737,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1192998737,
+    "wof:lastmodified":1537665461,
+    "wof:name":"Loi-boun Taung",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.8264,
+    20.28486,
+    96.8264,
+    20.28486
+],
+  "geometry": {"coordinates":[96.82640000000001,20.28486],"type":"Point"}
+}

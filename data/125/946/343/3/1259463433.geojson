@@ -1,0 +1,69 @@
+{
+  "id": 1259463433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.61258,22.27403,97.61258,22.27403",
+    "geom:latitude":22.27403,
+    "geom:longitude":97.61258,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Kawnghak",
+    "gn:country_code":"MM",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319810,
+    "gn:latitude":22.27403,
+    "gn:longitude":97.61258,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawnghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319810
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c96b2086547f49952e190384c1e22bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1259463433,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259463433,
+    "wof:lastmodified":1536887195,
+    "wof:name":"Kawnghak",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.61258,
+    22.27403,
+    97.61258,
+    22.27403
+],
+  "geometry": {"coordinates":[97.61257999999999,22.27403],"type":"Point"}
+}

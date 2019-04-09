@@ -1,0 +1,69 @@
+{
+  "id": 1326532157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.44329,21.9496,93.44329,21.9496",
+    "geom:latitude":21.9496,
+    "geom:longitude":93.44329,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004007",
+    "gn:asciiname":"Siang-ngo",
+    "gn:country_code":"MM",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296431,
+    "gn:latitude":21.9496,
+    "gn:longitude":93.44329,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Siang-ngo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296431
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f1e73cc641fd56958d10fe5f772a0662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1326532157,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1326532157,
+    "wof:lastmodified":1536983388,
+    "wof:name":"Siang-ngo",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.44329,
+    21.9496,
+    93.44329,
+    21.9496
+],
+  "geometry": {"coordinates":[93.44329,21.9496],"type":"Point"}
+}

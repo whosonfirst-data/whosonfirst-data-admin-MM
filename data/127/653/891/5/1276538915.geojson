@@ -1,0 +1,73 @@
+{
+  "id": 1276538915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.79842,20.54293,95.79842,20.54293",
+    "geom:latitude":20.54293,
+    "geom:longitude":95.79842,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010024",
+    "gn:asciiname":"Hlaingpan",
+    "gn:country_code":"MM",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324551,
+    "gn:latitude":20.54293,
+    "gn:longitude":95.79842,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hlaingpan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hlaingban",
+        "Hlaingpan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324551
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"29bee5ea184adf289d43714ba238815f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1276538915,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276538915,
+    "wof:lastmodified":1537665526,
+    "wof:name":"Hlaingpan",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.79842,
+    20.54293,
+    95.79842,
+    20.54293
+],
+  "geometry": {"coordinates":[95.79841999999999,20.54293],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360065869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1,21.66667,101.1,21.66667",
+    "geom:latitude":21.66667,
+    "geom:longitude":101.1,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Ra-sa-hkamhkam",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847220,
+    "gn:latitude":21.66667,
+    "gn:longitude":101.1,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ra-sa-hkamhkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Ra-sa-hkanhkam",
+        "W\u0101n Ra-sa-hkamhkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847220
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1a585bc5af7b7b50b79ccea1ebcdc98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1360065869,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360065869,
+    "wof:lastmodified":1537665557,
+    "wof:name":"Wan Ra-sa-hkamhkam",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1,
+    21.66667,
+    101.1,
+    21.66667
+],
+  "geometry": {"coordinates":[101.09999999999999,21.66667],"type":"Point"}
+}

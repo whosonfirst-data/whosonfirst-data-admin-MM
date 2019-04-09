@@ -1,0 +1,73 @@
+{
+  "id": 1293669527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.01989,22.04612,99.01989,22.04612",
+    "geom:latitude":22.04612,
+    "geom:longitude":99.01989,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Wan Hkanghkeng",
+    "gn:country_code":"MM",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289586,
+    "gn:latitude":22.04612,
+    "gn:longitude":99.01989,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hkanghkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hkanghkeng",
+        "W\u0101n Hkanghkeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289586
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"25b35ca5169e8763c85794afef0895ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1293669527,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293669527,
+    "wof:lastmodified":1537665333,
+    "wof:name":"Wan Hkanghkeng",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.01989,
+    22.04612,
+    99.01989,
+    22.04612
+],
+  "geometry": {"coordinates":[99.01989,22.04612],"type":"Point"}
+}

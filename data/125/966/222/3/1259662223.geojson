@@ -1,0 +1,70 @@
+{
+  "id": 1259662223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.72063,24.46337,95.72063,24.46337",
+    "geom:latitude":24.46337,
+    "geom:longitude":95.72063,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Mangon",
+    "gn:country_code":"MM",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311832,
+    "gn:latitude":24.46337,
+    "gn:longitude":95.72063,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mangon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311832,
+        "wk:page":"Mangon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"18a20675a4ce1e7a9e6c4c04a18ad0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1259662223,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259662223,
+    "wof:lastmodified":1537568484,
+    "wof:name":"Mangon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.72063,
+    24.46337,
+    95.72063,
+    24.46337
+],
+  "geometry": {"coordinates":[95.72063,24.46337],"type":"Point"}
+}

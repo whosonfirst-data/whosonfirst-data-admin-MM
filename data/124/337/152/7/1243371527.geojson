@@ -1,0 +1,69 @@
+{
+  "id": 1243371527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.71095,21.32258,92.71095,21.32258",
+    "geom:latitude":21.32258,
+    "geom:longitude":92.71095,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004009",
+    "gn:asciiname":"Twipang",
+    "gn:country_code":"MM",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290336,
+    "gn:latitude":21.32258,
+    "gn:longitude":92.71095,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Twipang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290336
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"809f51587891e96597f473753c8bffe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1243371527,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1243371527,
+    "wof:lastmodified":1536914000,
+    "wof:name":"Twipang",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.71095,
+    21.32258,
+    92.71095,
+    21.32258
+],
+  "geometry": {"coordinates":[92.71095,21.32258],"type":"Point"}
+}

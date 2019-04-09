@@ -1,0 +1,73 @@
+{
+  "id": 1326716399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.38362,17.31904,97.38362,17.31904",
+    "geom:latitude":17.31904,
+    "geom:longitude":97.38362,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011010",
+    "gn:asciiname":"Kalephokhi",
+    "gn:country_code":"MM",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321215,
+    "gn:latitude":17.31904,
+    "gn:longitude":97.38362,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kalephokhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalephoki",
+        "Kalephokhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321215
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5dd8815c303baf591412d2815b4306a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1326716399,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1326716399,
+    "wof:lastmodified":1537665508,
+    "wof:name":"Kalephokhi",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.38362,
+    17.31904,
+    97.38362,
+    17.31904
+],
+  "geometry": {"coordinates":[97.38361999999999,17.31904],"type":"Point"}
+}

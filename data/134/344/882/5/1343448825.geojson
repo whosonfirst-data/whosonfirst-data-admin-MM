@@ -1,0 +1,69 @@
+{
+  "id": 1343448825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.37764,21.35102,100.37764,21.35102",
+    "geom:latitude":21.35102,
+    "geom:longitude":100.37764,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Hpya-longhkuen",
+    "gn:country_code":"MM",
+    "gn:dem":1197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847592,
+    "gn:latitude":21.35102,
+    "gn:longitude":100.37764,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hpya-l\u014dnghk\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847592
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"09cae7a25edd5c6eb6c64f0929d1bf99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1343448825,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343448825,
+    "wof:lastmodified":1536763366,
+    "wof:name":"Wan Hpya-longhkuen",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.37764,
+    21.35102,
+    100.37764,
+    21.35102
+],
+  "geometry": {"coordinates":[100.37764,21.35102],"type":"Point"}
+}

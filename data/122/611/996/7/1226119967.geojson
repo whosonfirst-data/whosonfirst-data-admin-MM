@@ -1,0 +1,69 @@
+{
+  "id": 1226119967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.19715,22.99057,97.19715,22.99057",
+    "geom:latitude":22.99057,
+    "geom:longitude":97.19715,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015016",
+    "gn:asciiname":"Tawng-kiau",
+    "gn:country_code":"MM",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293444,
+    "gn:latitude":22.99057,
+    "gn:longitude":97.19715,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawng-kiau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293444
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"22c08a864cf5a140d22026310f846428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1226119967,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226119967,
+    "wof:lastmodified":1536615727,
+    "wof:name":"Tawng-kiau",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.19715,
+    22.99057,
+    97.19715,
+    22.99057
+],
+  "geometry": {"coordinates":[97.19714999999999,22.99057],"type":"Point"}
+}

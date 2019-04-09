@@ -1,0 +1,70 @@
+{
+  "id": 1293395815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.60339,26.18409,98.60339,26.18409",
+    "geom:latitude":26.18409,
+    "geom:longitude":98.60339,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Washawma",
+    "gn:country_code":"MM",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286633,
+    "gn:latitude":26.18409,
+    "gn:longitude":98.60339,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Washawma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286633,
+        "wk:page":"Washawma"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a68907a589be6443a8529f20cb3b3746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1293395815,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293395815,
+    "wof:lastmodified":1537568447,
+    "wof:name":"Washawma",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.60339,
+    26.18409,
+    98.60339,
+    26.18409
+],
+  "geometry": {"coordinates":[98.60339,26.18409],"type":"Point"}
+}

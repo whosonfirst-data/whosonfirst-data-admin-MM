@@ -1,0 +1,63 @@
+{
+  "id": 1209421921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.97034,16.73997,94.97034,16.73997",
+    "geom:latitude":16.73997,
+    "geom:longitude":94.97034,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017015",
+    "gn:asciiname":"Shanzu",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297057,
+    "gn:latitude":16.73997,
+    "gn:longitude":94.97034,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shanzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297057
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"252bef0394718f78d96932b2fa906f42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209421921
+        }
+    ],
+    "wof:id":1209421921,
+    "wof:lastmodified":1536287502,
+    "wof:name":"Shanzu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.97034,
+    16.73997,
+    94.97034,
+    16.73997
+],
+  "geometry": {"coordinates":[94.97033999999999,16.73997],"type":"Point"}
+}

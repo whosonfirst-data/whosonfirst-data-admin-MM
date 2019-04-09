@@ -1,0 +1,69 @@
+{
+  "id": 1226527117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.31624,21.25214,96.31624,21.25214",
+    "geom:latitude":21.25214,
+    "geom:longitude":96.31624,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D003",
+    "gn:admin3_code":"MMR010015",
+    "gn:asciiname":"Peinhnebin",
+    "gn:country_code":"MM",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300399,
+    "gn:latitude":21.25214,
+    "gn:longitude":96.31624,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Peinhnebin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300399
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0dc6330be3a0e26ab70bdd4be7f06b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1226527117,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226527117,
+    "wof:lastmodified":1537023872,
+    "wof:name":"Peinhnebin",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.31624,
+    21.25214,
+    96.31624,
+    21.25214
+],
+  "geometry": {"coordinates":[96.31623999999999,21.25214],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242665363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.61605,22.59745,96.61605,22.59745",
+    "geom:latitude":22.59745,
+    "geom:longitude":96.61605,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Pangwo",
+    "gn:country_code":"MM",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301554,
+    "gn:latitude":22.59745,
+    "gn:longitude":96.61605,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pangwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301554
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1d0a94654d87861ac8c6a09120ee8fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1242665363,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242665363,
+    "wof:lastmodified":1536938181,
+    "wof:name":"Pangwo",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.61605,
+    22.59745,
+    96.61605,
+    22.59745
+],
+  "geometry": {"coordinates":[96.61605,22.59745],"type":"Point"}
+}

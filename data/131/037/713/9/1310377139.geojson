@@ -1,0 +1,73 @@
+{
+  "id": 1310377139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.71177,18.69802,95.71177,18.69802",
+    "geom:latitude":18.69802,
+    "geom:longitude":95.71177,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008004",
+    "gn:asciiname":"Ngeshingwin",
+    "gn:country_code":"MM",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304300,
+    "gn:latitude":18.69802,
+    "gn:longitude":95.71177,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngeshingwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngashingwin",
+        "Ngeshingwin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304300
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c5799434406e4114ac160aba221fa69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1310377139,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1310377139,
+    "wof:lastmodified":1537665409,
+    "wof:name":"Ngeshingwin",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.71177,
+    18.69802,
+    95.71177,
+    18.69802
+],
+  "geometry": {"coordinates":[95.71177,18.69802],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209419545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.66865,19.15734,96.66865,19.15734",
+    "geom:latitude":19.15734,
+    "geom:longitude":96.66865,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Lelawde",
+    "gn:country_code":"MM",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314245,
+    "gn:latitude":19.15734,
+    "gn:longitude":96.66865,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lelawde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lilawdi",
+        "Lelawde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314245
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fce07d165cd3449c01f400ab217c9a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209419545
+        }
+    ],
+    "wof:id":1209419545,
+    "wof:lastmodified":1537665464,
+    "wof:name":"Lelawde",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.66865,
+    19.15734,
+    96.66865,
+    19.15734
+],
+  "geometry": {"coordinates":[96.66865,19.15734],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226737693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.03518,20.6184,100.03518,20.6184",
+    "geom:latitude":20.6184,
+    "geom:longitude":100.03518,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016009",
+    "gn:asciiname":"Pang An",
+    "gn:country_code":"MM",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907097,
+    "gn:latitude":20.6184,
+    "gn:longitude":100.03518,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pang An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907097
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bcb05c38b36b99c94e95818b4993fb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047397,
+            "locality_id":1226737693,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226737693,
+    "wof:lastmodified":1536727528,
+    "wof:name":"Pang An",
+    "wof:parent_id":1092047397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.03518,
+    20.6184,
+    100.03518,
+    20.6184
+],
+  "geometry": {"coordinates":[100.03518,20.6184],"type":"Point"}
+}

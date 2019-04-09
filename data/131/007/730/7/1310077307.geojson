@@ -1,0 +1,67 @@
+{
+  "id": 1310077307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.2993,17.34117,96.2993,17.34117",
+    "geom:latitude":17.34117,
+    "geom:longitude":96.2993,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wata",
+    "gn:country_code":"MM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480378,
+    "gn:latitude":17.34117,
+    "gn:longitude":96.2993,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"W\u0101ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480378
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ee85a4c1a45fb0e1664d65db697b6f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1310077307,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1310077307,
+    "wof:lastmodified":1537035728,
+    "wof:name":"Wata",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.2993,
+    17.34117,
+    96.2993,
+    17.34117
+],
+  "geometry": {"coordinates":[96.2993,17.34117],"type":"Point"}
+}

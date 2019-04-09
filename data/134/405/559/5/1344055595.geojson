@@ -1,0 +1,72 @@
+{
+  "id": 1344055595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.68248,17.47972,97.68248,17.47972",
+    "geom:latitude":17.47972,
+    "geom:longitude":97.68248,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Shantaung-ywa",
+    "gn:country_code":"MM",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297097,
+    "gn:latitude":17.47972,
+    "gn:longitude":97.68248,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shantaung-ywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shantaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297097
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1bb9c959523a706dc21c3ea553f3f2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1344055595,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1344055595,
+    "wof:lastmodified":1537665374,
+    "wof:name":"Shantaung-ywa",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.68248,
+    17.47972,
+    97.68248,
+    17.47972
+],
+  "geometry": {"coordinates":[97.68248,17.47972],"type":"Point"}
+}

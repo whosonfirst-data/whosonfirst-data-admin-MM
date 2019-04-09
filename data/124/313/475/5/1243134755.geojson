@@ -1,0 +1,69 @@
+{
+  "id": 1243134755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.23111,19.70506,96.23111,19.70506",
+    "geom:latitude":19.70506,
+    "geom:longitude":96.23111,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D002",
+    "gn:admin3_code":"MMR018006",
+    "gn:asciiname":"Thitlelon",
+    "gn:country_code":"MM",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291368,
+    "gn:latitude":19.70506,
+    "gn:longitude":96.23111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Thitlelon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092045099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291368
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d58cc88959b02d00ac620d199d6ddbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045099,
+            "locality_id":1243134755,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1243134755,
+    "wof:lastmodified":1536758231,
+    "wof:name":"Thitlelon",
+    "wof:parent_id":1092045099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.23111,
+    19.70506,
+    96.23111,
+    19.70506
+],
+  "geometry": {"coordinates":[96.23111,19.70506],"type":"Point"}
+}

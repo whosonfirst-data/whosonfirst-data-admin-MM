@@ -1,0 +1,69 @@
+{
+  "id": 1327025209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.92359,23.39147,95.92359,23.39147",
+    "geom:latitude":23.39147,
+    "geom:longitude":95.92359,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010012",
+    "gn:asciiname":"Gagalaw",
+    "gn:country_code":"MM",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1326066,
+    "gn:latitude":23.39147,
+    "gn:longitude":95.92359,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gagalaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326066
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bae6fd35be7c5915690f9bf84d98b538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1327025209,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1327025209,
+    "wof:lastmodified":1536771419,
+    "wof:name":"Gagalaw",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.92359,
+    23.39147,
+    95.92359,
+    23.39147
+],
+  "geometry": {"coordinates":[95.92359,23.39147],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327312401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.77446,24.60152,94.77446,24.60152",
+    "geom:latitude":24.60152,
+    "geom:longitude":94.77446,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Myene",
+    "gn:country_code":"MM",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307979,
+    "gn:latitude":24.60152,
+    "gn:longitude":94.77446,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307979
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6831a707c49b40c0264e361f8df3b3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1327312401,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1327312401,
+    "wof:lastmodified":1536853055,
+    "wof:name":"Myene",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.77446,
+    24.60152,
+    94.77446,
+    24.60152
+],
+  "geometry": {"coordinates":[94.77446,24.60152],"type":"Point"}
+}

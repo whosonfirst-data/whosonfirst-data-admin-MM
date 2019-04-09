@@ -1,0 +1,69 @@
+{
+  "id": 1293764043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.02566,20.52865,100.02566,20.52865",
+    "geom:latitude":20.52865,
+    "geom:longitude":100.02566,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016009",
+    "gn:asciiname":"Wan Pu-san",
+    "gn:country_code":"MM",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847228,
+    "gn:latitude":20.52865,
+    "gn:longitude":100.02566,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n P\u016b-san",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847228
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e9d5c252ca6c5004c1827b034c6ba0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047397,
+            "locality_id":1293764043,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293764043,
+    "wof:lastmodified":1536884948,
+    "wof:name":"Wan Pu-san",
+    "wof:parent_id":1092047397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.02566,
+    20.52865,
+    100.02566,
+    20.52865
+],
+  "geometry": {"coordinates":[100.02566,20.52865],"type":"Point"}
+}

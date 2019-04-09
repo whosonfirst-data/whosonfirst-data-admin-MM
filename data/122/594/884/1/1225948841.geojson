@@ -1,0 +1,73 @@
+{
+  "id": 1225948841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.36491,18.18635,97.36491,18.18635",
+    "geom:latitude":18.18635,
+    "geom:longitude":97.36491,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Sutado",
+    "gn:country_code":"MM",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295444,
+    "gn:latitude":18.18635,
+    "gn:longitude":97.36491,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sutado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sufado",
+        "Sutado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295444
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"06e4ca9eab2de16ab0f27fdff579ae49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1225948841,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1225948841,
+    "wof:lastmodified":1537665365,
+    "wof:name":"Sutado",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.36491,
+    18.18635,
+    97.36491,
+    18.18635
+],
+  "geometry": {"coordinates":[97.36490999999999,18.18635],"type":"Point"}
+}

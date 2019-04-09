@@ -1,0 +1,69 @@
+{
+  "id": 1360086189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.60447,16.79859,95.60447,16.79859",
+    "geom:latitude":16.79859,
+    "geom:longitude":95.60447,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017019",
+    "gn:asciiname":"Kyonsha",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315742,
+    "gn:latitude":16.79859,
+    "gn:longitude":95.60447,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyonsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315742
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3df9891cc2dcf113d98319f41c4b37a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1360086189,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1360086189,
+    "wof:lastmodified":1536944551,
+    "wof:name":"Kyonsha",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.60447,
+    16.79859,
+    95.60447,
+    16.79859
+],
+  "geometry": {"coordinates":[95.60447000000001,16.79859],"type":"Point"}
+}

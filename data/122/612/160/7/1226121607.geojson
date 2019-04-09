@@ -1,0 +1,73 @@
+{
+  "id": 1226121607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.29673,17.42881,97.29673,17.42881",
+    "geom:latitude":17.42881,
+    "geom:longitude":97.29673,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011010",
+    "gn:asciiname":"Kawthihta",
+    "gn:country_code":"MM",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319571,
+    "gn:latitude":17.42881,
+    "gn:longitude":97.29673,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawthihta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawthi",
+        "Kawthihta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319571
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"43c708a6e3b381420d4908f4aaf87a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1226121607,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1226121607,
+    "wof:lastmodified":1537665498,
+    "wof:name":"Kawthihta",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.29673,
+    17.42881,
+    97.29673,
+    17.42881
+],
+  "geometry": {"coordinates":[97.29673,17.42881],"type":"Point"}
+}

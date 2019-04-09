@@ -1,0 +1,69 @@
+{
+  "id": 1276643909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.13858,22.74392,97.13858,22.74392",
+    "geom:latitude":22.74392,
+    "geom:longitude":97.13858,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015016",
+    "gn:asciiname":"Hunang",
+    "gn:country_code":"MM",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322530,
+    "gn:latitude":22.74392,
+    "gn:longitude":97.13858,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hun\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322530
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"36ada0cd675f5b3b3d19fac0493ef5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1276643909,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276643909,
+    "wof:lastmodified":1536858379,
+    "wof:name":"Hunang",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.13858,
+    22.74392000000001,
+    97.13858,
+    22.74392000000001
+],
+  "geometry": {"coordinates":[97.13858,22.74392000000001],"type":"Point"}
+}

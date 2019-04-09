@@ -1,0 +1,67 @@
+{
+  "id": 1243341951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.86709,21.64134,95.86709,21.64134",
+    "geom:latitude":21.64134,
+    "geom:longitude":95.86709,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyaswe",
+    "gn:country_code":"MM",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317214,
+    "gn:latitude":21.64134,
+    "gn:longitude":95.86709,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Kyaswe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317214
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"57e985f502aefb14a01d66db2a42a762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1243341951,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1243341951,
+    "wof:lastmodified":1536956330,
+    "wof:name":"Kyaswe",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.86709,
+    21.64134,
+    95.86709,
+    21.64134
+],
+  "geometry": {"coordinates":[95.86709,21.64134],"type":"Point"}
+}

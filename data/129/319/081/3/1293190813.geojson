@@ -1,0 +1,69 @@
+{
+  "id": 1293190813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.01038,22.48856,96.01038,22.48856",
+    "geom:latitude":22.48856,
+    "geom:longitude":96.01038,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010010",
+    "gn:asciiname":"Sethi",
+    "gn:country_code":"MM",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297333,
+    "gn:latitude":22.48856,
+    "gn:longitude":96.01038,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sethi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297333
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f42e44ec6086ce221d917f993cf6d6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1293190813,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1293190813,
+    "wof:lastmodified":1536718140,
+    "wof:name":"Sethi",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.01038,
+    22.48856,
+    96.01038,
+    22.48856
+],
+  "geometry": {"coordinates":[96.01038,22.48856],"type":"Point"}
+}

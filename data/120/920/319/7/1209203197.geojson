@@ -1,0 +1,67 @@
+{
+  "id": 1209203197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.17072,22.22702,95.17072,22.22702",
+    "geom:latitude":22.22702,
+    "geom:longitude":95.17072,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005012",
+    "gn:asciiname":"Yinban Anauk",
+    "gn:country_code":"MM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284913,
+    "gn:latitude":22.22702,
+    "gn:longitude":95.17072,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yinban Anauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yinban",
+        "Yinban Anauk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284913
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fd4ff1b9c0039b365bc716188e398663",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209203197
+        }
+    ],
+    "wof:id":1209203197,
+    "wof:lastmodified":1537665297,
+    "wof:name":"Yinban Anauk",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.17072,
+    22.22702,
+    95.17072,
+    22.22702
+],
+  "geometry": {"coordinates":[95.17072,22.22702],"type":"Point"}
+}

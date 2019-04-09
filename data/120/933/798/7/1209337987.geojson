@@ -1,0 +1,63 @@
+{
+  "id": 1209337987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.07125,23.85504,97.07125,23.85504",
+    "geom:latitude":23.85504,
+    "geom:longitude":97.07125,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Konkha",
+    "gn:country_code":"MM",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318267,
+    "gn:latitude":23.85504,
+    "gn:longitude":97.07125,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Konkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318267
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5083bfc206b11ddec4e1b1739cc23b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209337987
+        }
+    ],
+    "wof:id":1209337987,
+    "wof:lastmodified":1536290155,
+    "wof:name":"Konkha",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.07125,
+    23.85504,
+    97.07125,
+    23.85504
+],
+  "geometry": {"coordinates":[97.07125000000001,23.85504],"type":"Point"}
+}

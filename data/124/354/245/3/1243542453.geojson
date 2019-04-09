@@ -1,0 +1,69 @@
+{
+  "id": 1243542453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.87156,22.98671,98.87156,22.98671",
+    "geom:latitude":22.98671,
+    "geom:longitude":98.87156,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015008",
+    "gn:asciiname":"Man Naut",
+    "gn:country_code":"MM",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311003,
+    "gn:latitude":22.98671,
+    "gn:longitude":98.87156,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Naut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311003
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"82209490c8b54f44e263ee8b25f6ffad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1243542453,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243542453,
+    "wof:lastmodified":1536667220,
+    "wof:name":"Man Naut",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.87156,
+    22.98671,
+    98.87156,
+    22.98671
+],
+  "geometry": {"coordinates":[98.87156,22.98671],"type":"Point"}
+}

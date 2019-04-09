@@ -1,0 +1,67 @@
+{
+  "id": 1209402655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.73642,23.17271,98.73642,23.17271",
+    "geom:latitude":23.17271,
+    "geom:longitude":98.73642,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015021",
+    "gn:asciiname":"Kawnghsang",
+    "gn:country_code":"MM",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319759,
+    "gn:latitude":23.17271,
+    "gn:longitude":98.73642,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawnghsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawnghsha",
+        "Kawnghsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319759
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aa9bdb05cdabf1c25265bb12a8c5acdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209402655
+        }
+    ],
+    "wof:id":1209402655,
+    "wof:lastmodified":1537665500,
+    "wof:name":"Kawnghsang",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.73642,
+    23.17271,
+    98.73642,
+    23.17271
+],
+  "geometry": {"coordinates":[98.73642,23.17271],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209378751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.74003,18.31147,96.74003,18.31147",
+    "geom:latitude":18.31147,
+    "geom:longitude":96.74003,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Ywagyi-in",
+    "gn:country_code":"MM",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284586,
+    "gn:latitude":18.31147,
+    "gn:longitude":96.74003,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywagyi-in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284586
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"22720a65265ae00f43844f4c6ba63209",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209378751
+        }
+    ],
+    "wof:id":1209378751,
+    "wof:lastmodified":1536288857,
+    "wof:name":"Ywagyi-in",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.74003,
+    18.31147,
+    96.74003,
+    18.31147
+],
+  "geometry": {"coordinates":[96.74003,18.31147],"type":"Point"}
+}

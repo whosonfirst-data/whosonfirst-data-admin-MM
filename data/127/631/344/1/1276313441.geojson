@@ -1,0 +1,73 @@
+{
+  "id": 1276313441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.07966,22.64967,97.07966,22.64967",
+    "geom:latitude":22.64967,
+    "geom:longitude":97.07966,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Umoeng",
+    "gn:country_code":"MM",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290225,
+    "gn:latitude":22.64967,
+    "gn:longitude":97.07966,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Um\u00f6ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nwena",
+        "Um\u00f6ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290225
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"acfe9020b235645d8ff78698cfe21058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1276313441,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276313441,
+    "wof:lastmodified":1537665337,
+    "wof:name":"Umoeng",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.07966,
+    22.64967,
+    97.07966,
+    22.64967
+],
+  "geometry": {"coordinates":[97.07966,22.64967],"type":"Point"}
+}

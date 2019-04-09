@@ -1,0 +1,69 @@
+{
+  "id": 1310311997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.03883,16.46011,95.03883,16.46011",
+    "geom:latitude":16.46011,
+    "geom:longitude":95.03883,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017014",
+    "gn:asciiname":"Yanmanaing",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285813,
+    "gn:latitude":16.46011,
+    "gn:longitude":95.03883,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yanmanaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285813
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"040a1a53969913ec18c91f6754d3363a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1310311997,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1310311997,
+    "wof:lastmodified":1536698742,
+    "wof:name":"Yanmanaing",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.03883,
+    16.46011,
+    95.03883,
+    16.46011
+],
+  "geometry": {"coordinates":[95.03883,16.46011],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293207473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.67696,17.01775,95.67696,17.01775",
+    "geom:latitude":17.01775,
+    "geom:longitude":95.67696,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017021",
+    "gn:asciiname":"Tugyaung",
+    "gn:country_code":"MM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290538,
+    "gn:latitude":17.01775,
+    "gn:longitude":95.67696,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tugyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290538
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d14889a90b57d72e41ab89389d7ea464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1293207473,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1293207473,
+    "wof:lastmodified":1536693909,
+    "wof:name":"Tugyaung",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.67696,
+    17.01775,
+    95.67696,
+    17.01775
+],
+  "geometry": {"coordinates":[95.67695999999999,17.01775],"type":"Point"}
+}

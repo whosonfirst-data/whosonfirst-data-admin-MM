@@ -1,0 +1,67 @@
+{
+  "id": 1293479833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.00259,22.09312,96.00259,22.09312",
+    "geom:latitude":22.09312,
+    "geom:longitude":96.00259,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ondazin",
+    "gn:country_code":"MM",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302953,
+    "gn:latitude":22.09312,
+    "gn:longitude":96.00259,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ondazin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302953
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4db7d7461ea285dc1e66809a0f767a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047295,
+            "locality_id":1293479833,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293479833,
+    "wof:lastmodified":1536798247,
+    "wof:name":"Ondazin",
+    "wof:parent_id":1092047295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.00259,
+    22.09312000000001,
+    96.00259,
+    22.09312000000001
+],
+  "geometry": {"coordinates":[96.00259,22.09312000000001],"type":"Point"}
+}

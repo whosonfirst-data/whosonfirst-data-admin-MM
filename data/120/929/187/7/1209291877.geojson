@@ -1,0 +1,63 @@
+{
+  "id": 1209291877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.78252,21.69497,97.78252,21.69497",
+    "geom:latitude":21.69497,
+    "geom:longitude":97.78252,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Man Hkong",
+    "gn:country_code":"MM",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311765,
+    "gn:latitude":21.69497,
+    "gn:longitude":97.78252,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Hkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311765
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e5c742226022ca9aaf214dbde4b0955b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209291877
+        }
+    ],
+    "wof:id":1209291877,
+    "wof:lastmodified":1536291665,
+    "wof:name":"Man Hkong",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.78252,
+    21.69497,
+    97.78252,
+    21.69497
+],
+  "geometry": {"coordinates":[97.78252000000001,21.69497],"type":"Point"}
+}

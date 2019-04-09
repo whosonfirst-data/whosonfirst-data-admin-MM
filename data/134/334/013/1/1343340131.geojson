@@ -1,0 +1,73 @@
+{
+  "id": 1343340131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.23224,22.76408,95.23224,22.76408",
+    "geom:latitude":22.76408,
+    "geom:longitude":95.23224,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005009",
+    "gn:asciiname":"Zeyawadi",
+    "gn:country_code":"MM",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284043,
+    "gn:latitude":22.76408,
+    "gn:longitude":95.23224,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zeyawadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zeya-wad",
+        "Zeyawadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284043
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a08aedbbfa3e5a818ce7ecbac1df8880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1343340131,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343340131,
+    "wof:lastmodified":1537665293,
+    "wof:name":"Zeyawadi",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.23224,
+    22.76408,
+    95.23224,
+    22.76408
+],
+  "geometry": {"coordinates":[95.23224,22.76408],"type":"Point"}
+}

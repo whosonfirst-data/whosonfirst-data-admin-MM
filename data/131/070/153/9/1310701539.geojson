@@ -1,0 +1,70 @@
+{
+  "id": 1310701539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.25287,24.08552,97.25287,24.08552",
+    "geom:latitude":24.08552,
+    "geom:longitude":97.25287,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Jeang",
+    "gn:country_code":"MM",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321812,
+    "gn:latitude":24.08552,
+    "gn:longitude":97.25287,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Jeang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321812,
+        "wk:page":"Jeang"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bcbb6c7451b2e69b7896a590a3f388f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1310701539,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1310701539,
+    "wof:lastmodified":1537568499,
+    "wof:name":"Jeang",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.25287,
+    24.08552,
+    97.25287,
+    24.08552
+],
+  "geometry": {"coordinates":[97.25287,24.08552],"type":"Point"}
+}

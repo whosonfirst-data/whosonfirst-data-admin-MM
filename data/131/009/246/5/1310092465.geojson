@@ -1,0 +1,65 @@
+{
+  "id": 1310092465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.49331,10.20899,98.49331,10.20899",
+    "geom:latitude":10.20899,
+    "geom:longitude":98.49331,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006009",
+    "gn:asciiname":"Kuala Champang",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318056,
+    "gn:latitude":10.20899,
+    "gn:longitude":98.49331,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kuala Champang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318056
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0f93d4261fde6d228edab89921be1a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310092465,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310092465,
+    "wof:lastmodified":1537014622,
+    "wof:name":"Kuala Champang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.49331,
+    10.20899,
+    98.49331,
+    10.20899
+],
+  "geometry": {"coordinates":[98.49330999999999,10.20899],"type":"Point"}
+}

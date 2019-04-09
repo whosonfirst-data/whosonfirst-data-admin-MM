@@ -1,0 +1,63 @@
+{
+  "id": 1209291907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.8743,20.88887,99.8743,20.88887",
+    "geom:latitude":20.88887,
+    "geom:longitude":99.8743,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016010",
+    "gn:asciiname":"Wan Maksuk",
+    "gn:country_code":"MM",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288212,
+    "gn:latitude":20.88887,
+    "gn:longitude":99.8743,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Maks\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288212
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ff92bf19fc4e34f1b9cdab7d40a4d766",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209291907
+        }
+    ],
+    "wof:id":1209291907,
+    "wof:lastmodified":1536291664,
+    "wof:name":"Wan Maksuk",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.8743,
+    20.88887,
+    99.8743,
+    20.88887
+],
+  "geometry": {"coordinates":[99.87430000000001,20.88887],"type":"Point"}
+}

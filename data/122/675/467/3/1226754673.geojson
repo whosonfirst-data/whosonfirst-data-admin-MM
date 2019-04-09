@@ -1,0 +1,73 @@
+{
+  "id": 1226754673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.66342,16.63947,95.66342,16.63947",
+    "geom:latitude":16.63947,
+    "geom:longitude":95.66342,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017019",
+    "gn:asciiname":"Kyonsok",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315740,
+    "gn:latitude":16.63947,
+    "gn:longitude":95.66342,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyonsok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyonzok",
+        "Kyonsok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315740
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7e117c0e8b8a797eb084b452688d5a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1226754673,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1226754673,
+    "wof:lastmodified":1537665473,
+    "wof:name":"Kyonsok",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.66342,
+    16.63947000000001,
+    95.66342,
+    16.63947000000001
+],
+  "geometry": {"coordinates":[95.66342,16.63947000000001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326707843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.57675,22.66447,97.57675,22.66447",
+    "geom:latitude":22.66447,
+    "geom:longitude":97.57675,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Kon-hkai",
+    "gn:country_code":"MM",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318284,
+    "gn:latitude":22.66447,
+    "gn:longitude":97.57675,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kon-hkai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318284
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ba1920da17bd563f6e2260d16f45c396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1326707843,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326707843,
+    "wof:lastmodified":1536731257,
+    "wof:name":"Kon-hkai",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.57675,
+    22.66447,
+    97.57675,
+    22.66447
+],
+  "geometry": {"coordinates":[97.57675,22.66447],"type":"Point"}
+}

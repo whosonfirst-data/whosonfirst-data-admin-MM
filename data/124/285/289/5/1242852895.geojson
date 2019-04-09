@@ -1,0 +1,67 @@
+{
+  "id": 1242852895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.92997,21.84074,95.92997,21.84074",
+    "geom:latitude":21.84074,
+    "geom:longitude":95.92997,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"U-yin",
+    "gn:country_code":"MM",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290155,
+    "gn:latitude":21.84074,
+    "gn:longitude":95.92997,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"U-yin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290155
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"116ec7357b38704521fe9d604425fd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1242852895,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1242852895,
+    "wof:lastmodified":1536667195,
+    "wof:name":"U-yin",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.92997,
+    21.84074,
+    95.92997,
+    21.84074
+],
+  "geometry": {"coordinates":[95.92997,21.84074],"type":"Point"}
+}

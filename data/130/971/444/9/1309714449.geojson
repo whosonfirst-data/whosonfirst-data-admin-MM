@@ -1,0 +1,74 @@
+{
+  "id": 1309714449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.36667,22.55,93.36667,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":93.36667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D003",
+    "gn:admin3_code":"MMR004003",
+    "gn:asciiname":"Hriphi",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323376,
+    "gn:latitude":22.55,
+    "gn:longitude":93.36667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hriphi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hripi",
+        "Hriphi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323376
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a284964633ce0db55a40dd1a276cb46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045227,
+            "locality_id":1309714449,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1309714449,
+    "wof:lastmodified":1537665520,
+    "wof:name":"Hriphi",
+    "wof:parent_id":1092045227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.36667,
+    22.55,
+    93.36667,
+    22.55
+],
+  "geometry": {"coordinates":[93.36667,22.55],"type":"Point"}
+}

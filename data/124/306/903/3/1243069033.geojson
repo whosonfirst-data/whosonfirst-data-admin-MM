@@ -1,0 +1,73 @@
+{
+  "id": 1243069033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.08714,16.48324,95.08714,16.48324",
+    "geom:latitude":16.48324,
+    "geom:longitude":95.08714,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017017",
+    "gn:asciiname":"Banawgyaung",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328538,
+    "gn:latitude":16.48324,
+    "gn:longitude":95.08714,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Banawgyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamawgyaung",
+        "Banawgyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328538
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b77375192bbdc6c47498d7f4cc35213e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1243069033,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243069033,
+    "wof:lastmodified":1537665547,
+    "wof:name":"Banawgyaung",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.08714,
+    16.48324,
+    95.08714,
+    16.48324
+],
+  "geometry": {"coordinates":[95.08714000000001,16.48324],"type":"Point"}
+}

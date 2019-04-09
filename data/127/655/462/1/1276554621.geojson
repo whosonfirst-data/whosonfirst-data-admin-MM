@@ -1,0 +1,73 @@
+{
+  "id": 1276554621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.42235,16.9901,95.42235,16.9901",
+    "geom:latitude":16.9901,
+    "geom:longitude":95.42235,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017020",
+    "gn:asciiname":"Tunpa",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290399,
+    "gn:latitude":16.9901,
+    "gn:longitude":95.42235,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tunpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunba",
+        "Tunpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290399
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9ac8792507eee4f1a9b29125e8516847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1276554621,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1276554621,
+    "wof:lastmodified":1537665337,
+    "wof:name":"Tunpa",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.42235,
+    16.9901,
+    95.42235,
+    16.9901
+],
+  "geometry": {"coordinates":[95.42234999999999,16.9901],"type":"Point"}
+}

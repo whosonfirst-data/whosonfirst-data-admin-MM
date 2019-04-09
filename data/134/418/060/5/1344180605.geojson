@@ -1,0 +1,74 @@
+{
+  "id": 1344180605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.17843,24.64752,97.17843,24.64752",
+    "geom:latitude":24.64752,
+    "geom:longitude":97.17843,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Yihku",
+    "gn:country_code":"MM",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284933,
+    "gn:latitude":24.64752,
+    "gn:longitude":97.17843,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yihku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yihku-gahtawng",
+        "Yihku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284933,
+        "wk:page":"Yihku"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8dfadd56d34340fff69a0928c577b70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1344180605,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1344180605,
+    "wof:lastmodified":1537665297,
+    "wof:name":"Yihku",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.17843,
+    24.64752,
+    97.17843,
+    24.64752
+],
+  "geometry": {"coordinates":[97.17843000000001,24.64752],"type":"Point"}
+}

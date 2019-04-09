@@ -1,0 +1,69 @@
+{
+  "id": 1326910879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.70212,20.89279,98.70212,20.89279",
+    "geom:latitude":20.89279,
+    "geom:longitude":98.70212,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016007",
+    "gn:asciiname":"Wan Hwe-hkan",
+    "gn:country_code":"MM",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1479886,
+    "gn:latitude":20.89279,
+    "gn:longitude":98.70212,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hw\u00e8-hk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479886
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"be04168afa151b812e94b769448b54ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1326910879,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326910879,
+    "wof:lastmodified":1536936350,
+    "wof:name":"Wan Hwe-hkan",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.70212,
+    20.89279,
+    98.70212,
+    20.89279
+],
+  "geometry": {"coordinates":[98.70211999999999,20.89279],"type":"Point"}
+}

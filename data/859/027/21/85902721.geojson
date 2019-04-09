@@ -1,0 +1,116 @@
+{
+  "id": 85902721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":47872613.290923,
+    "geom:bbox":"96.089977,21.981141,96.089977,21.981141",
+    "geom:latitude":21.981141,
+    "geom:longitude":96.089977,
+    "gn:latitude":21.99277,
+    "gn:longitude":96.09683,
+    "iso:country":"MM",
+    "lbl:latitude":21.981141,
+    "lbl:longitude":96.089977,
+    "mps:latitude":21.981251,
+    "mps:longitude":96.086978,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Fort Dufferin"
+    ],
+    "name:eng_x_variant":[
+        "Ft Dufferin"
+    ],
+    "name:fra_x_preferred":[
+        "Fort Dufferin"
+    ],
+    "name:unk_x_variant":[
+        "Fort Dufferin"
+    ],
+    "qs:gn_adm0_cc":"MM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1311874,
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"Fort Dufferin",
+    "qs:local_max":2015,
+    "qs:local_sum":2465,
+    "qs:localhoods":2,
+    "qs:name":"Fort Dufferin",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Mandalay",
+    "qs:name_local":"Mandalay",
+    "qs:photo_max":147,
+    "qs:photo_sum":2015,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":99,
+    "qs:woe_adm0":23424763,
+    "qs:woe_adm1":2344817,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1017586,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":498,
+    "wof:belongsto":[
+        85674559,
+        102191569,
+        85632181,
+        1092046205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326082,
+        "gp:id":983546,
+        "qs:id":316360
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9efe27819b99423507c65ab14a23a790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046205,
+            "locality_id":-1,
+            "neighbourhood_id":85902721,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":85902721,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379380,
+    "wof:name":"Fort Dufferin",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[
+        1126087375
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.089977,
+    21.981141,
+    96.089977,
+    21.981141
+],
+  "geometry": {"coordinates":[96.089977,21.981141],"type":"Point"}
+}

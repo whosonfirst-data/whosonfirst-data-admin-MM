@@ -1,0 +1,67 @@
+{
+  "id": 890423725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.16796,16.85958,96.16796,16.85958",
+    "geom:latitude":16.85958,
+    "geom:longitude":96.16796,
+    "gn:country":"MM",
+    "gn:fcode":"RECG",
+    "gn:pop":7000,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Okkala Golfrange",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254979,
+        "gp:id":1015662,
+        "qs:id":616322
+    },
+    "wof:country":"MM",
+    "wof:created":1469051510,
+    "wof:geomhash":"aba4942ce650dd3b77ab70eb1460a714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047923,
+            "locality_id":890423725,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":890423725,
+    "wof:lastmodified":1505343477,
+    "wof:name":"Okkala Golfrange",
+    "wof:parent_id":1092047923,
+    "wof:placetype":"locality",
+    "wof:population":7000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.16796,
+    16.85958,
+    96.16796,
+    16.85958
+],
+  "geometry": {"coordinates":[96.16795999999999,16.85958],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343448761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.71337,21.26594,100.71337,21.26594",
+    "geom:latitude":21.26594,
+    "geom:longitude":100.71337,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Lawnsai",
+    "gn:country_code":"MM",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847416,
+    "gn:latitude":21.26594,
+    "gn:longitude":100.71337,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Lawnsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Lawnsa",
+        "W\u0101n Lawnsai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847416
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cbbab4204da23ecb8ad48f72c0acbd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1343448761,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343448761,
+    "wof:lastmodified":1537665559,
+    "wof:name":"Wan Lawnsai",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.71337,
+    21.26594,
+    100.71337,
+    21.26594
+],
+  "geometry": {"coordinates":[100.71337,21.26594],"type":"Point"}
+}

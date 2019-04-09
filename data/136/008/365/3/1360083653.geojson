@@ -1,0 +1,69 @@
+{
+  "id": 1360083653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.65674,17.34696,97.65674,17.34696",
+    "geom:latitude":17.34696,
+    "geom:longitude":97.65674,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Kamamaung",
+    "gn:country_code":"MM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321129,
+    "gn:latitude":17.34696,
+    "gn:longitude":97.65674,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kamamaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321129
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"30f87ea690591930d5f0ffa7238d5334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1360083653,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1360083653,
+    "wof:lastmodified":1536948092,
+    "wof:name":"Kamamaung",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.65674,
+    17.34696,
+    97.65674,
+    17.34696
+],
+  "geometry": {"coordinates":[97.65674,17.34696],"type":"Point"}
+}

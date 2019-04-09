@@ -1,0 +1,73 @@
+{
+  "id": 1343742675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.50431,20.11957,97.50431,20.11957",
+    "geom:latitude":20.11957,
+    "geom:longitude":97.50431,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Wan Pu-luk",
+    "gn:country_code":"MM",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287133,
+    "gn:latitude":20.11957,
+    "gn:longitude":97.50431,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pu-luk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-luk",
+        "W\u0101n Pu-luk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287133
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9a5b2b48c5a253f7ee8a47fdcda40660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1343742675,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343742675,
+    "wof:lastmodified":1537665310,
+    "wof:name":"Wan Pu-luk",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.50431,
+    20.11957,
+    97.50431,
+    20.11957
+],
+  "geometry": {"coordinates":[97.50431,20.11957],"type":"Point"}
+}

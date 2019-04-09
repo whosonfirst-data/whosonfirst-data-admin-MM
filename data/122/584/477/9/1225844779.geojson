@@ -1,0 +1,73 @@
+{
+  "id": 1225844779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.29963,26.53629,98.29963,26.53629",
+    "geom:latitude":26.53629,
+    "geom:longitude":98.29963,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Pilao",
+    "gn:country_code":"MM",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300064,
+    "gn:latitude":26.53629,
+    "gn:longitude":98.29963,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pil\u0101o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pil\u0101o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300064,
+        "wk:page":"Pilao"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2c11e108e60c23cf295a1d5ca14093b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1225844779,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1225844779,
+    "wof:lastmodified":1537665390,
+    "wof:name":"Pilao",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.29963,
+    26.53629,
+    98.29963,
+    26.53629
+],
+  "geometry": {"coordinates":[98.29962999999999,26.53629],"type":"Point"}
+}

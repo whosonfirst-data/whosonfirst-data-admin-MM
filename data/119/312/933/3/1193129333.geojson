@@ -1,0 +1,73 @@
+{
+  "id": 1193129333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.6538,18.64158,97.6538,18.64158",
+    "geom:latitude":18.64158,
+    "geom:longitude":97.6538,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002007",
+    "gn:asciiname":"Mese Atet",
+    "gn:country_code":"MM",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309597,
+    "gn:latitude":18.64158,
+    "gn:longitude":97.6538,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00e8s\u00e8 Atet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e8s\u00e8",
+        "M\u00e8s\u00e8 Atet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309597
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"242a8667117a6365d5eedd2c2817ef82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1193129333,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1193129333,
+    "wof:lastmodified":1537665439,
+    "wof:name":"Mese Atet",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.6538,
+    18.64158,
+    97.6538,
+    18.64158
+],
+  "geometry": {"coordinates":[97.6538,18.64158],"type":"Point"}
+}

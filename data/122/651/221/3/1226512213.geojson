@@ -1,0 +1,73 @@
+{
+  "id": 1226512213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.94355,20.1168,94.94355,20.1168",
+    "geom:latitude":20.1168,
+    "geom:longitude":94.94355,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009001",
+    "gn:asciiname":"Myingin",
+    "gn:country_code":"MM",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307848,
+    "gn:latitude":20.1168,
+    "gn:longitude":94.94355,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myingin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mingin",
+        "Myingin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307848
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9cc8ee4ff09dbc5afc4f5d3de8591ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1226512213,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1226512213,
+    "wof:lastmodified":1537665427,
+    "wof:name":"Myingin",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.94355,
+    20.1168,
+    94.94355,
+    20.1168
+],
+  "geometry": {"coordinates":[94.94355,20.1168],"type":"Point"}
+}

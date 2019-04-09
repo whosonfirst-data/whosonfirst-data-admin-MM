@@ -1,0 +1,69 @@
+{
+  "id": 1242878599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51389,18.01569,97.51389,18.01569",
+    "geom:latitude":18.01569,
+    "geom:longitude":97.51389,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Takudo",
+    "gn:country_code":"MM",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294992,
+    "gn:latitude":18.01569,
+    "gn:longitude":97.51389,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Takudo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294992
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e06b8381ee188d44077a639e3f0767bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1242878599,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1242878599,
+    "wof:lastmodified":1536628368,
+    "wof:name":"Takudo",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51389,
+    18.01569,
+    97.51389,
+    18.01569
+],
+  "geometry": {"coordinates":[97.51389,18.01569],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209518913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.42421,18.45015,94.42421,18.45015",
+    "geom:latitude":18.45015,
+    "geom:longitude":94.42421,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012015",
+    "gn:asciiname":"U-yinkwin",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290133,
+    "gn:latitude":18.45015,
+    "gn:longitude":94.42421,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"U-yinkwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290133
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a38576325221d01d953cf6ace80e415d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209518913
+        }
+    ],
+    "wof:id":1209518913,
+    "wof:lastmodified":1536284643,
+    "wof:name":"U-yinkwin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.42421,
+    18.45015,
+    94.42421,
+    18.45015
+],
+  "geometry": {"coordinates":[94.42421,18.45015],"type":"Point"}
+}

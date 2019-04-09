@@ -1,0 +1,69 @@
+{
+  "id": 1360182109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.38968,20.95525,95.38968,20.95525",
+    "geom:latitude":20.95525,
+    "geom:longitude":95.38968,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010020",
+    "gn:asciiname":"Thibin",
+    "gn:country_code":"MM",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291586,
+    "gn:latitude":20.95525,
+    "gn:longitude":95.38968,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thibin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291586
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2b072f39ab13b9a31e613e8d62f807c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1360182109,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1360182109,
+    "wof:lastmodified":1536805545,
+    "wof:name":"Thibin",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.38968,
+    20.95525,
+    95.38968,
+    20.95525
+],
+  "geometry": {"coordinates":[95.38968,20.95525],"type":"Point"}
+}

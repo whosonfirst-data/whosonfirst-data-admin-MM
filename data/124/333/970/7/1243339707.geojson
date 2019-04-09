@@ -1,0 +1,69 @@
+{
+  "id": 1243339707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.10284,16.71088,96.10284,16.71088",
+    "geom:latitude":16.71088,
+    "geom:longitude":96.10284,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013030",
+    "gn:asciiname":"Hlezeik",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482066,
+    "gn:latitude":16.71088,
+    "gn:longitude":96.10284,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hlezeik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482066
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5a78d81d68a37db854195c4c62e05614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1243339707,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1243339707,
+    "wof:lastmodified":1536959489,
+    "wof:name":"Hlezeik",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.10284,
+    16.71088,
+    96.10284,
+    16.71088
+],
+  "geometry": {"coordinates":[96.10284,16.71088],"type":"Point"}
+}

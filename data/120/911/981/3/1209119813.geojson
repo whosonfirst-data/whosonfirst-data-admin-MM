@@ -1,0 +1,63 @@
+{
+  "id": 1209119813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.48051,17.93589,94.48051,17.93589",
+    "geom:latitude":17.93589,
+    "geom:longitude":94.48051,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012017",
+    "gn:asciiname":"Yegyaw",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285312,
+    "gn:latitude":17.93589,
+    "gn:longitude":94.48051,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yegyaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285312
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6323160e95a3f748bc9fd2b3edf9acf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209119813
+        }
+    ],
+    "wof:id":1209119813,
+    "wof:lastmodified":1536297137,
+    "wof:name":"Yegyaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.48051,
+    17.93589,
+    94.48051,
+    17.93589
+],
+  "geometry": {"coordinates":[94.48051,17.93589],"type":"Point"}
+}

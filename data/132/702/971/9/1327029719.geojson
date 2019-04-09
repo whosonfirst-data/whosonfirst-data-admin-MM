@@ -1,0 +1,70 @@
+{
+  "id": 1327029719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.22469,24.28534,97.22469,24.28534",
+    "geom:latitude":24.28534,
+    "geom:longitude":97.22469,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Naungkhan",
+    "gn:country_code":"MM",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305538,
+    "gn:latitude":24.28534,
+    "gn:longitude":97.22469,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naungkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305538,
+        "wk:page":"Naungkhan"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c245f576eb2d9d9733f6099c5e13d9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1327029719,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327029719,
+    "wof:lastmodified":1537568474,
+    "wof:name":"Naungkhan",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.22469,
+    24.28534,
+    97.22469,
+    24.28534
+],
+  "geometry": {"coordinates":[97.22469,24.28534],"type":"Point"}
+}

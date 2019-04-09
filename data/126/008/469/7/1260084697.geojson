@@ -1,0 +1,73 @@
+{
+  "id": 1260084697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16131,17.18715,98.16131,17.18715",
+    "geom:latitude":17.18715,
+    "geom:longitude":98.16131,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003002",
+    "gn:asciiname":"Wa-kyaw",
+    "gn:country_code":"MM",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289817,
+    "gn:latitude":17.18715,
+    "gn:longitude":98.16131,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wa-kyaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Winsaw",
+        "Wa-kyaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289817
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9dbf667ee8e19da25fcc3d116c425081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1260084697,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1260084697,
+    "wof:lastmodified":1537665335,
+    "wof:name":"Wa-kyaw",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16131,
+    17.18715,
+    98.16131,
+    17.18715
+],
+  "geometry": {"coordinates":[98.16131,17.18715],"type":"Point"}
+}

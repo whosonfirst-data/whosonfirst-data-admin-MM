@@ -1,0 +1,69 @@
+{
+  "id": 1243227579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.76696,18.05136,96.76696,18.05136",
+    "geom:latitude":18.05136,
+    "geom:longitude":96.76696,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Dalazeik",
+    "gn:country_code":"MM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326918,
+    "gn:latitude":18.05136,
+    "gn:longitude":96.76696,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dalazeik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326918
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0620c0914eb9dbfa938e54ff6076616b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1243227579,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243227579,
+    "wof:lastmodified":1536622136,
+    "wof:name":"Dalazeik",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.76696,
+    18.05136,
+    96.76696,
+    18.05136
+],
+  "geometry": {"coordinates":[96.76696,18.05136],"type":"Point"}
+}

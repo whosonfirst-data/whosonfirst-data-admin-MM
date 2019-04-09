@@ -1,0 +1,69 @@
+{
+  "id": 1310193037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.29426,20.74903,98.29426,20.74903",
+    "geom:latitude":20.74903,
+    "geom:longitude":98.29426,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Wan Ta-long",
+    "gn:country_code":"MM",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286955,
+    "gn:latitude":20.74903,
+    "gn:longitude":98.29426,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ta-long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286955
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2f8b93d23ff0d5d11e9cb72200775d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1310193037,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310193037,
+    "wof:lastmodified":1536869127,
+    "wof:name":"Wan Ta-long",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.29426,
+    20.74903,
+    98.29426,
+    20.74903
+],
+  "geometry": {"coordinates":[98.29425999999999,20.74903],"type":"Point"}
+}

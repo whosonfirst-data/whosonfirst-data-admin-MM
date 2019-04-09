@@ -1,0 +1,69 @@
+{
+  "id": 1193261105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.26683,21.50958,95.26683,21.50958",
+    "geom:latitude":21.50958,
+    "geom:longitude":95.26683,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009019",
+    "gn:asciiname":"Yebaunglaung",
+    "gn:country_code":"MM",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285599,
+    "gn:latitude":21.50958,
+    "gn:longitude":95.26683,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yebaunglaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285599
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fe136a620b10f016cefeacfc0c23be27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1193261105,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1193261105,
+    "wof:lastmodified":1536380781,
+    "wof:name":"Yebaunglaung",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.26683,
+    21.50958,
+    95.26683,
+    21.50958
+],
+  "geometry": {"coordinates":[95.26683,21.50958],"type":"Point"}
+}

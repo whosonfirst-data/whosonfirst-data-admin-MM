@@ -1,0 +1,69 @@
+{
+  "id": 1225849543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.40685,17.77438,97.40685,17.77438",
+    "geom:latitude":17.77438,
+    "geom:longitude":97.40685,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Htitabluhta",
+    "gn:country_code":"MM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322661,
+    "gn:latitude":17.77438,
+    "gn:longitude":97.40685,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htitabluhta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322661
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3ce3d3d4966b3fef5e778dd90f7d4c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1225849543,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1225849543,
+    "wof:lastmodified":1537007427,
+    "wof:name":"Htitabluhta",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.40685,
+    17.77437999999999,
+    97.40685,
+    17.77437999999999
+],
+  "geometry": {"coordinates":[97.40685000000001,17.77437999999999],"type":"Point"}
+}

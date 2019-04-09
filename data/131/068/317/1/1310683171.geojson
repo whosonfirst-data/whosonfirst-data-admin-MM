@@ -1,0 +1,69 @@
+{
+  "id": 1310683171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.41619,17.30567,96.41619,17.30567",
+    "geom:latitude":17.30567,
+    "geom:longitude":96.41619,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007001",
+    "gn:asciiname":"Satpyagin",
+    "gn:country_code":"MM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480329,
+    "gn:latitude":17.30567,
+    "gn:longitude":96.41619,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Satpyagin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480329
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"25b3a0f263f5d5d7d9e06ec8f961c93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1310683171,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1310683171,
+    "wof:lastmodified":1536660666,
+    "wof:name":"Satpyagin",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.41619,
+    17.30567000000001,
+    96.41619,
+    17.30567000000001
+],
+  "geometry": {"coordinates":[96.41619,17.30567000000001],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209321543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.83677,16.7606,94.83677,16.7606",
+    "geom:latitude":16.7606,
+    "geom:longitude":94.83677,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017002",
+    "gn:asciiname":"Myalechaung",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308208,
+    "gn:latitude":16.7606,
+    "gn:longitude":94.83677,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myalechaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308208
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"25ac6c8c86089f927f8d8f43570af76b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209321543
+        }
+    ],
+    "wof:id":1209321543,
+    "wof:lastmodified":1536290677,
+    "wof:name":"Myalechaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.83677,
+    16.7606,
+    94.83677,
+    16.7606
+],
+  "geometry": {"coordinates":[94.83677,16.7606],"type":"Point"}
+}

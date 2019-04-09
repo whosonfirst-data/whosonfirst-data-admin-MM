@@ -1,0 +1,69 @@
+{
+  "id": 1309903283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.70238,18.57814,97.70238,18.57814",
+    "geom:latitude":18.57814,
+    "geom:longitude":97.70238,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002007",
+    "gn:asciiname":"Hwese",
+    "gn:country_code":"MM",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322357,
+    "gn:latitude":18.57814,
+    "gn:longitude":97.70238,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hwese",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322357
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"17b1f6220734de5f8b97dcd4003c73fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1309903283,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1309903283,
+    "wof:lastmodified":1536790987,
+    "wof:name":"Hwese",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.70238,
+    18.57814,
+    97.70238,
+    18.57814
+],
+  "geometry": {"coordinates":[97.70238000000001,18.57814],"type":"Point"}
+}

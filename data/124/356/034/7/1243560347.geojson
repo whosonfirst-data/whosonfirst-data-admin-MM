@@ -1,0 +1,74 @@
+{
+  "id": 1243560347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.36863,24.77822,96.36863,24.77822",
+    "geom:latitude":24.77822,
+    "geom:longitude":96.36863,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001007",
+    "gn:asciiname":"Mohnyin",
+    "gn:country_code":"MM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308910,
+    "gn:latitude":24.77822,
+    "gn:longitude":96.36863,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mohnyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohnyn",
+        "Mohnyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308910,
+        "wk:page":"Mohnyin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8fd3c9ea655edc3bf8b42b0c4c31b9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1243560347,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243560347,
+    "wof:lastmodified":1537665433,
+    "wof:name":"Mohnyin",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.36863,
+    24.77822,
+    96.36863,
+    24.77822
+],
+  "geometry": {"coordinates":[96.36863,24.77822],"type":"Point"}
+}

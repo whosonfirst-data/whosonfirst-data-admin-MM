@@ -1,0 +1,69 @@
+{
+  "id": 1226427177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.0459,21.26044,95.0459,21.26044",
+    "geom:latitude":21.26044,
+    "geom:longitude":95.0459,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010022",
+    "gn:asciiname":"Magyizauk",
+    "gn:country_code":"MM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312396,
+    "gn:latitude":21.26044,
+    "gn:longitude":95.0459,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Magyizauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312396
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5e8492659038aeb5cbfdc91f83876c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047061,
+            "locality_id":1226427177,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226427177,
+    "wof:lastmodified":1536672210,
+    "wof:name":"Magyizauk",
+    "wof:parent_id":1092047061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.0459,
+    21.26044,
+    95.0459,
+    21.26044
+],
+  "geometry": {"coordinates":[95.0459,21.26044],"type":"Point"}
+}

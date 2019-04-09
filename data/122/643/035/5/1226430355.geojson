@@ -1,0 +1,69 @@
+{
+  "id": 1226430355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.56623,23.82072,98.56623,23.82072",
+    "geom:latitude":23.82072,
+    "geom:longitude":98.56623,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015023",
+    "gn:asciiname":"Hsintzu",
+    "gn:country_code":"MM",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323088,
+    "gn:latitude":23.82072,
+    "gn:longitude":98.56623,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hsintzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323088
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7fe7f993ceb5dd8c22dd7c7f64c5f276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1226430355,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226430355,
+    "wof:lastmodified":1536667696,
+    "wof:name":"Hsintzu",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.56623,
+    23.82072,
+    98.56623,
+    23.82072
+],
+  "geometry": {"coordinates":[98.56623,23.82072],"type":"Point"}
+}

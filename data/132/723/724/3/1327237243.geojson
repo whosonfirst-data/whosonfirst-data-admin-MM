@@ -1,0 +1,69 @@
+{
+  "id": 1327237243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.1807,24.49229,97.1807,24.49229",
+    "geom:latitude":24.49229,
+    "geom:longitude":97.1807,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Asin",
+    "gn:country_code":"MM",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329025,
+    "gn:latitude":24.49229,
+    "gn:longitude":97.1807,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Asin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329025
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"208ae8f17f190e2ed9f475dfc4333d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1327237243,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327237243,
+    "wof:lastmodified":1536962392,
+    "wof:name":"Asin",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.1807,
+    24.49229,
+    97.1807,
+    24.49229
+],
+  "geometry": {"coordinates":[97.1807,24.49229],"type":"Point"}
+}

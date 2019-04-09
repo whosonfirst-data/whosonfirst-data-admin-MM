@@ -1,0 +1,75 @@
+{
+  "id": 1209904739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.44115,23.77128,95.44115,23.77128",
+    "geom:latitude":23.77128,
+    "geom:longitude":95.44115,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Omyedwin",
+    "gn:country_code":"MM",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303010,
+    "gn:latitude":23.77128,
+    "gn:longitude":95.44115,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Omyedwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onmadwin",
+        "Omyed",
+        "Omyadg",
+        "Omyedwin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303010
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e514460b86a2b0dddbee63dd629794d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1209904739,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209904739,
+    "wof:lastmodified":1537665403,
+    "wof:name":"Omyedwin",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.44115,
+    23.77128,
+    95.44115,
+    23.77128
+],
+  "geometry": {"coordinates":[95.44114999999999,23.77128],"type":"Point"}
+}

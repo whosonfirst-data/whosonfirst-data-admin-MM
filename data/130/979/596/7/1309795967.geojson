@@ -1,0 +1,69 @@
+{
+  "id": 1309795967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.2686,20.81239,95.2686,20.81239",
+    "geom:latitude":20.81239,
+    "geom:longitude":95.2686,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010020",
+    "gn:asciiname":"Nyaunggyaing",
+    "gn:country_code":"MM",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303462,
+    "gn:latitude":20.81239,
+    "gn:longitude":95.2686,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaunggyaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303462
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"53415fe8eb79b24905fdc6f77bf9a24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1309795967,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1309795967,
+    "wof:lastmodified":1536945671,
+    "wof:name":"Nyaunggyaing",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.2686,
+    20.81239,
+    95.2686,
+    20.81239
+],
+  "geometry": {"coordinates":[95.26860000000001,20.81239],"type":"Point"}
+}

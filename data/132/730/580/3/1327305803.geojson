@@ -1,0 +1,73 @@
+{
+  "id": 1327305803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.10858,17.65742,97.10858,17.65742",
+    "geom:latitude":17.65742,
+    "geom:longitude":97.10858,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Htidikhekhi",
+    "gn:country_code":"MM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322814,
+    "gn:latitude":17.65742,
+    "gn:longitude":97.10858,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htidikhekhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tidet-h\u00e8ki",
+        "Htidikhekhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322814
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c7f934bc247f81edce7752963610c2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1327305803,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1327305803,
+    "wof:lastmodified":1537665517,
+    "wof:name":"Htidikhekhi",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.10858,
+    17.65742000000001,
+    97.10858,
+    17.65742000000001
+],
+  "geometry": {"coordinates":[97.10858,17.65742000000001],"type":"Point"}
+}

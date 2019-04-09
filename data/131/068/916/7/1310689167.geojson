@@ -1,0 +1,69 @@
+{
+  "id": 1310689167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98602,22.51914,98.98602,22.51914",
+    "geom:latitude":22.51914,
+    "geom:longitude":98.98602,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015006",
+    "gn:asciiname":"Yawnghkawng",
+    "gn:country_code":"MM",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285703,
+    "gn:latitude":22.51914,
+    "gn:longitude":98.98602,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yawnghkawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285703
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f0f557b0974af07c54274608d5c1c23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1310689167,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310689167,
+    "wof:lastmodified":1536651817,
+    "wof:name":"Yawnghkawng",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98602,
+    22.51914,
+    98.98602,
+    22.51914
+],
+  "geometry": {"coordinates":[98.98602,22.51914],"type":"Point"}
+}

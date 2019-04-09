@@ -1,0 +1,69 @@
+{
+  "id": 1293786401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.13333,22.08333,93.13333,22.08333",
+    "geom:latitude":22.08333,
+    "geom:longitude":93.13333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004007",
+    "gn:asciiname":"Sabawngpi",
+    "gn:country_code":"MM",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298626,
+    "gn:latitude":22.08333,
+    "gn:longitude":93.13333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sabawngpi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298626
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e389ac89f0cd9d20801fc0cc920dfbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1293786401,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1293786401,
+    "wof:lastmodified":1536852081,
+    "wof:name":"Sabawngpi",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.13333,
+    22.08333,
+    93.13333,
+    22.08333
+],
+  "geometry": {"coordinates":[93.13333,22.08333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277058263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.4751,19.1215,95.4751,19.1215",
+    "geom:latitude":19.1215,
+    "geom:longitude":95.4751,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008002",
+    "gn:asciiname":"Kyaukmyaung",
+    "gn:country_code":"MM",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316930,
+    "gn:latitude":19.1215,
+    "gn:longitude":95.4751,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukmyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316930
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8d4594e7fa1634e42e10a2d05c045452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1277058263,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1277058263,
+    "wof:lastmodified":1536801875,
+    "wof:name":"Kyaukmyaung",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.4751,
+    19.1215,
+    95.4751,
+    19.1215
+],
+  "geometry": {"coordinates":[95.4751,19.1215],"type":"Point"}
+}

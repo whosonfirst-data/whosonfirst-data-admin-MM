@@ -1,0 +1,72 @@
+{
+  "id": 1259771981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.42925,23.65529,94.42925,23.65529",
+    "geom:latitude":23.65529,
+    "geom:longitude":94.42925,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005031",
+    "gn:asciiname":"Lawngkawng",
+    "gn:country_code":"MM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314604,
+    "gn:latitude":23.65529,
+    "gn:longitude":94.42925,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lawngkawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lawngawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314604
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4b9c3d3d7b10c1594d29a7d5dd7aa885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046361,
+            "locality_id":1259771981,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259771981,
+    "wof:lastmodified":1537665466,
+    "wof:name":"Lawngkawng",
+    "wof:parent_id":1092046361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.42925,
+    23.65529,
+    94.42925,
+    23.65529
+],
+  "geometry": {"coordinates":[94.42925,23.65529],"type":"Point"}
+}

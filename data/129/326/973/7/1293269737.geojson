@@ -1,0 +1,69 @@
+{
+  "id": 1293269737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.36602,21.93394,97.36602,21.93394",
+    "geom:latitude":21.93394,
+    "geom:longitude":97.36602,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Wan Kat",
+    "gn:country_code":"MM",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288761,
+    "gn:latitude":21.93394,
+    "gn:longitude":97.36602,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Kat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288761
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b915c84bfc095ee9d84dfc950e5549b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1293269737,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293269737,
+    "wof:lastmodified":1536600809,
+    "wof:name":"Wan Kat",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.36602,
+    21.93394,
+    97.36602,
+    21.93394
+],
+  "geometry": {"coordinates":[97.36602000000001,21.93394],"type":"Point"}
+}

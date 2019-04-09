@@ -1,0 +1,75 @@
+{
+  "id": 1276538921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.01314,23.50372,96.01314,23.50372",
+    "geom:latitude":23.50372,
+    "geom:longitude":96.01314,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010012",
+    "gn:asciiname":"Tagaung",
+    "gn:country_code":"MM",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295240,
+    "gn:latitude":23.50372,
+    "gn:longitude":96.01314,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tagaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagaung-myo",
+        "Tagoung",
+        "Tagaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295240,
+        "wk:page":"Tagaung%2C_Mandalay"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"85326ccf4f25a7cf7ada8174e682f6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1276538921,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276538921,
+    "wof:lastmodified":1537665364,
+    "wof:name":"Tagaung",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.01314,
+    23.50372,
+    96.01314,
+    23.50372
+],
+  "geometry": {"coordinates":[96.01314000000001,23.50372],"type":"Point"}
+}

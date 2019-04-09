@@ -1,0 +1,67 @@
+{
+  "id": 1209487117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.59901,18.19677,96.59901,18.19677",
+    "geom:latitude":18.19677,
+    "geom:longitude":96.59901,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007006",
+    "gn:asciiname":"Sinyogin",
+    "gn:country_code":"MM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295922,
+    "gn:latitude":18.19677,
+    "gn:longitude":96.59901,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinyogin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinyokin",
+        "Sinyogin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295922
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c30891201e35cf5b40db4d9e87363088",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209487117
+        }
+    ],
+    "wof:id":1209487117,
+    "wof:lastmodified":1537665367,
+    "wof:name":"Sinyogin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.59901,
+    18.19677,
+    96.59901,
+    18.19677
+],
+  "geometry": {"coordinates":[96.59901000000001,18.19677],"type":"Point"}
+}

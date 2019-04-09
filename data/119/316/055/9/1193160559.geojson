@@ -1,0 +1,73 @@
+{
+  "id": 1193160559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.50527,26.28791,97.50527,26.28791",
+    "geom:latitude":26.28791,
+    "geom:longitude":97.50527,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001015",
+    "gn:asciiname":"Lollam",
+    "gn:country_code":"MM",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313190,
+    "gn:latitude":26.28791,
+    "gn:longitude":97.50527,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lollam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loilam",
+        "Lollam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313190
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0e38ee6733f5fe3a8d7b3c312c868617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1193160559,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1193160559,
+    "wof:lastmodified":1537665459,
+    "wof:name":"Lollam",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.50527,
+    26.28791,
+    97.50527,
+    26.28791
+],
+  "geometry": {"coordinates":[97.50527,26.28791],"type":"Point"}
+}

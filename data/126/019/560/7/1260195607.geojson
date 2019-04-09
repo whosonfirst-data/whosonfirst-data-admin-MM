@@ -1,0 +1,69 @@
+{
+  "id": 1260195607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.01103,23.62491,94.01103,23.62491",
+    "geom:latitude":23.62491,
+    "geom:longitude":94.01103,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Paidim",
+    "gn:country_code":"MM",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302541,
+    "gn:latitude":23.62491,
+    "gn:longitude":94.01103,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paidim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302541
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b7c6d1a7314915811f33934d89fa46a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1260195607,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1260195607,
+    "wof:lastmodified":1536830244,
+    "wof:name":"Paidim",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.01103,
+    23.62491,
+    94.01103,
+    23.62491
+],
+  "geometry": {"coordinates":[94.01103000000001,23.62491],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343846725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.7427,23.59219,95.7427,23.59219",
+    "geom:latitude":23.59219,
+    "geom:longitude":95.7427,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005007",
+    "gn:asciiname":"Sinchidaing",
+    "gn:country_code":"MM",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296252,
+    "gn:latitude":23.59219,
+    "gn:longitude":95.7427,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinchidaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296252
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"84e42f722f876a39db8d54605fe6bfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1343846725,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343846725,
+    "wof:lastmodified":1536686432,
+    "wof:name":"Sinchidaing",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.7427,
+    23.59219,
+    95.7427,
+    23.59219
+],
+  "geometry": {"coordinates":[95.7427,23.59219],"type":"Point"}
+}

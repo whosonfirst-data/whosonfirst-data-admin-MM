@@ -1,0 +1,69 @@
+{
+  "id": 1360056579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.41942,16.94717,97.41942,16.94717",
+    "geom:latitude":16.94717,
+    "geom:longitude":97.41942,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011007",
+    "gn:asciiname":"Taungmu-ywa",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464431,
+    "gn:latitude":16.94717,
+    "gn:longitude":97.41942,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungmu-ywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464431
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"64088a955d94f85f13f2940a8699637f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1360056579,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1360056579,
+    "wof:lastmodified":1536986134,
+    "wof:name":"Taungmu-ywa",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.41942,
+    16.94717,
+    97.41942,
+    16.94717
+],
+  "geometry": {"coordinates":[97.41942,16.94717],"type":"Point"}
+}

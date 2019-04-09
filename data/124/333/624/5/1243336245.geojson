@@ -1,0 +1,69 @@
+{
+  "id": 1243336245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.07782,19.37985,95.07782,19.37985",
+    "geom:latitude":19.37985,
+    "geom:longitude":95.07782,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009012",
+    "gn:asciiname":"Padaukpin",
+    "gn:country_code":"MM",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302729,
+    "gn:latitude":19.37985,
+    "gn:longitude":95.07782,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Padaukpin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302729
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"62b7cd9153b5032b7a118a9f7ed604ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1243336245,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1243336245,
+    "wof:lastmodified":1536964358,
+    "wof:name":"Padaukpin",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.07782,
+    19.37985,
+    95.07782,
+    19.37985
+],
+  "geometry": {"coordinates":[95.07782,19.37985],"type":"Point"}
+}

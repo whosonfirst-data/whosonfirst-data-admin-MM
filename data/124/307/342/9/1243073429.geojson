@@ -1,0 +1,70 @@
+{
+  "id": 1243073429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.18505,24.23484,97.18505,24.23484",
+    "geom:latitude":24.23484,
+    "geom:longitude":97.18505,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Ye-ni",
+    "gn:country_code":"MM",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285124,
+    "gn:latitude":24.23484,
+    "gn:longitude":97.18505,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ye-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285124,
+        "wk:page":"Ye-ni"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3455b0fa6b9ab86aa957df6951d11e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1243073429,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243073429,
+    "wof:lastmodified":1537568445,
+    "wof:name":"Ye-ni",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.18505,
+    24.23484,
+    97.18505,
+    24.23484
+],
+  "geometry": {"coordinates":[97.18505,24.23484],"type":"Point"}
+}

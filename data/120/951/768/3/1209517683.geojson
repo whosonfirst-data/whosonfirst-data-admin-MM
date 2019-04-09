@@ -1,0 +1,63 @@
+{
+  "id": 1209517683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.66667,21.0,93.66667,21.0",
+    "geom:latitude":21.0,
+    "geom:longitude":93.66667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004008",
+    "gn:asciiname":"He-oh",
+    "gn:country_code":"MM",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325209,
+    "gn:latitude":21.0,
+    "gn:longitude":93.66667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"He-oh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325209
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b42f0da821321fd4c25fdea6d5745480",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209517683
+        }
+    ],
+    "wof:id":1209517683,
+    "wof:lastmodified":1536284680,
+    "wof:name":"He-oh",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.66667,
+    21.0,
+    93.66667,
+    21.0
+],
+  "geometry": {"coordinates":[93.66667,21.0],"type":"Point"}
+}

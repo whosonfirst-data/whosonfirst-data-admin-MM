@@ -1,0 +1,69 @@
+{
+  "id": 1276528465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51936,21.52631,97.51936,21.52631",
+    "geom:latitude":21.52631,
+    "geom:longitude":97.51936,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Kunna",
+    "gn:country_code":"MM",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317755,
+    "gn:latitude":21.52631,
+    "gn:longitude":97.51936,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317755
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c5876be78fd886f0ed3cd4de6037f08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1276528465,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276528465,
+    "wof:lastmodified":1537013861,
+    "wof:name":"Kunna",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51936,
+    21.52631,
+    97.51936,
+    21.52631
+],
+  "geometry": {"coordinates":[97.51936000000001,21.52631],"type":"Point"}
+}

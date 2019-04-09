@@ -1,0 +1,63 @@
+{
+  "id": 1209321545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.38084,16.868,94.38084,16.868",
+    "geom:latitude":16.868,
+    "geom:longitude":94.38084,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017001",
+    "gn:asciiname":"Ngwesaung",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071478,
+    "gn:latitude":16.868,
+    "gn:longitude":94.38084,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngwesaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071478
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ed42b396aa5c99ee9e6ca62ce90fe295",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209321545
+        }
+    ],
+    "wof:id":1209321545,
+    "wof:lastmodified":1536290676,
+    "wof:name":"Ngwesaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.38084,
+    16.868,
+    94.38084,
+    16.868
+],
+  "geometry": {"coordinates":[94.38084000000001,16.868],"type":"Point"}
+}

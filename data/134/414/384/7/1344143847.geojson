@@ -1,0 +1,61 @@
+{
+  "id": 1344143847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.71175,12.00847,98.71175,12.00847",
+    "geom:latitude":12.00847,
+    "geom:longitude":98.71175,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kabaw",
+    "gn:country_code":"MM",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321747,
+    "gn:latitude":12.00847,
+    "gn:longitude":98.71175,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Kabaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321747
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"459d24e1bc3bea83cca88bc315032217",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344143847,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344143847,
+    "wof:lastmodified":1536755366,
+    "wof:name":"Kabaw",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.71175,
+    12.00847,
+    98.71175,
+    12.00847
+],
+  "geometry": {"coordinates":[98.71174999999999,12.00847],"type":"Point"}
+}

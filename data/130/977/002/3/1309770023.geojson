@@ -1,0 +1,69 @@
+{
+  "id": 1309770023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.94697,17.63604,96.94697,17.63604",
+    "geom:latitude":17.63604,
+    "geom:longitude":96.94697,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Mothabyu",
+    "gn:country_code":"MM",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308495,
+    "gn:latitude":17.63604,
+    "gn:longitude":96.94697,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mothabyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308495
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"649fff937d3b084a7a6746796216c352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1309770023,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1309770023,
+    "wof:lastmodified":1536982092,
+    "wof:name":"Mothabyu",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.94697,
+    17.63603999999999,
+    96.94697,
+    17.63603999999999
+],
+  "geometry": {"coordinates":[96.94696999999999,17.63603999999999],"type":"Point"}
+}

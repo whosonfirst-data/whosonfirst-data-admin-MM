@@ -1,0 +1,69 @@
+{
+  "id": 1343545951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.07271,22.31929,96.07271,22.31929",
+    "geom:latitude":22.31929,
+    "geom:longitude":96.07271,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010009",
+    "gn:asciiname":"Tawyokyaung",
+    "gn:country_code":"MM",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293371,
+    "gn:latitude":22.31929,
+    "gn:longitude":96.07271,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawyokyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293371
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c6cc4dd2b83cda6ed9171cd75624b634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1343545951,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343545951,
+    "wof:lastmodified":1536620821,
+    "wof:name":"Tawyokyaung",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.07271,
+    22.31929,
+    96.07271,
+    22.31929
+],
+  "geometry": {"coordinates":[96.07271,22.31929],"type":"Point"}
+}

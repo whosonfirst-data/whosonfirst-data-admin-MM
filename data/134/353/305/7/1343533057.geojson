@@ -1,0 +1,69 @@
+{
+  "id": 1343533057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.53092,18.30519,95.53092,18.30519",
+    "geom:latitude":18.30519,
+    "geom:longitude":95.53092,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008012",
+    "gn:asciiname":"Ywathagon",
+    "gn:country_code":"MM",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284490,
+    "gn:latitude":18.30519,
+    "gn:longitude":95.53092,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywathagon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284490
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aa9bed4ba9b5589ef0cac5c338c5c7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1343533057,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1343533057,
+    "wof:lastmodified":1536640688,
+    "wof:name":"Ywathagon",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.53092,
+    18.30519,
+    95.53092,
+    18.30519
+],
+  "geometry": {"coordinates":[95.53091999999999,18.30519],"type":"Point"}
+}

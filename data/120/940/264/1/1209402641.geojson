@@ -1,0 +1,63 @@
+{
+  "id": 1209402641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.02287,20.78353,99.02287,20.78353",
+    "geom:latitude":20.78353,
+    "geom:longitude":99.02287,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D002",
+    "gn:admin3_code":"MMR016006",
+    "gn:asciiname":"Wan Pangmat",
+    "gn:country_code":"MM",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1287340,
+    "gn:latitude":20.78353,
+    "gn:longitude":99.02287,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pangmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287340
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0eb2d05c1e49a711e08180d5c01adefc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209402641
+        }
+    ],
+    "wof:id":1209402641,
+    "wof:lastmodified":1536288095,
+    "wof:name":"Wan Pangmat",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.02287,
+    20.78353,
+    99.02287,
+    20.78353
+],
+  "geometry": {"coordinates":[99.02287,20.78353],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1225825715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.19909,23.80866,98.19909,23.80866",
+    "geom:latitude":23.80866,
+    "geom:longitude":98.19909,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Kyawnghkam",
+    "gn:country_code":"MM",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316270,
+    "gn:latitude":23.80866,
+    "gn:longitude":98.19909,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyawnghkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316270
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dd5d3b7c32a8b5a987bee0808e53c71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1225825715,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225825715,
+    "wof:lastmodified":1537040872,
+    "wof:name":"Kyawnghkam",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.19909,
+    23.80866,
+    98.19909,
+    23.80866
+],
+  "geometry": {"coordinates":[98.19909,23.80866],"type":"Point"}
+}

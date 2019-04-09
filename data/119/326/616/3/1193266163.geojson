@@ -1,0 +1,73 @@
+{
+  "id": 1193266163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.12933,21.33653,99.12933,21.33653",
+    "geom:latitude":21.33653,
+    "geom:longitude":99.12933,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016007",
+    "gn:asciiname":"Wan Hpa-wao",
+    "gn:country_code":"MM",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289322,
+    "gn:latitude":21.33653,
+    "gn:longitude":99.12933,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hpa-wao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loi Hpa Wao",
+        "W\u0101n Hpa-wao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289322
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c52120acda4cb46fdf2659c975a49b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1193266163,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1193266163,
+    "wof:lastmodified":1537665332,
+    "wof:name":"Wan Hpa-wao",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.12933,
+    21.33653,
+    99.12933,
+    21.33653
+],
+  "geometry": {"coordinates":[99.12933,21.33653],"type":"Point"}
+}

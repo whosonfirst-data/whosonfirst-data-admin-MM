@@ -1,0 +1,71 @@
+{
+  "id": 1344135261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.71045,21.68894,95.71045,21.68894",
+    "geom:latitude":21.68894,
+    "geom:longitude":95.71045,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Myotha",
+    "gn:country_code":"MM",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307632,
+    "gn:latitude":21.68894,
+    "gn:longitude":95.71045,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Myotha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myothia",
+        "Myotha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307632
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9e0a1167d8733a052237a807dbf4c136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1344135261,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1344135261,
+    "wof:lastmodified":1537665426,
+    "wof:name":"Myotha",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.71045,
+    21.68894,
+    95.71045,
+    21.68894
+],
+  "geometry": {"coordinates":[95.71044999999999,21.68894],"type":"Point"}
+}

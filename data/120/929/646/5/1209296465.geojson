@@ -1,0 +1,63 @@
+{
+  "id": 1209296465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71428,17.29415,96.71428,17.29415",
+    "geom:latitude":17.29415,
+    "geom:longitude":96.71428,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007002",
+    "gn:asciiname":"Aukthaung",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328883,
+    "gn:latitude":17.29415,
+    "gn:longitude":96.71428,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aukthaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328883
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9483864eab7df31a46dc567da8345800",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209296465
+        }
+    ],
+    "wof:id":1209296465,
+    "wof:lastmodified":1536291508,
+    "wof:name":"Aukthaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71428,
+    17.29415,
+    96.71428,
+    17.29415
+],
+  "geometry": {"coordinates":[96.71428,17.29415],"type":"Point"}
+}

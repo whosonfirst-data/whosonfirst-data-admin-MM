@@ -1,0 +1,69 @@
+{
+  "id": 1343443637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.03333,19.52193,95.03333,19.52193",
+    "geom:latitude":19.52193,
+    "geom:longitude":95.03333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009012",
+    "gn:asciiname":"Monchaung",
+    "gn:country_code":"MM",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308790,
+    "gn:latitude":19.52193,
+    "gn:longitude":95.03333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Monchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308790
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a1fbf94fdc179b615f3bf2174c8ebd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1343443637,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1343443637,
+    "wof:lastmodified":1536771071,
+    "wof:name":"Monchaung",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.03333,
+    19.52193,
+    95.03333,
+    19.52193
+],
+  "geometry": {"coordinates":[95.03333000000001,19.52193],"type":"Point"}
+}

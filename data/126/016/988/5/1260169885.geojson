@@ -1,0 +1,73 @@
+{
+  "id": 1260169885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.87858,24.11169,95.87858,24.11169",
+    "geom:latitude":24.11169,
+    "geom:longitude":95.87858,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005025",
+    "gn:asciiname":"Peinnegon",
+    "gn:country_code":"MM",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300336,
+    "gn:latitude":24.11169,
+    "gn:longitude":95.87858,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Peinnegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pemnegon",
+        "Peinnegon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300336
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d418ba41e45fcf9bff9d1fb443016617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1260169885,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260169885,
+    "wof:lastmodified":1537665391,
+    "wof:name":"Peinnegon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.87858,
+    24.11169,
+    95.87858,
+    24.11169
+],
+  "geometry": {"coordinates":[95.87858,24.11169],"type":"Point"}
+}

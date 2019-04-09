@@ -1,0 +1,69 @@
+{
+  "id": 1326536877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.37073,16.20093,95.37073,16.20093",
+    "geom:latitude":16.20093,
+    "geom:longitude":95.37073,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017024",
+    "gn:asciiname":"Kanzu",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320295,
+    "gn:latitude":16.20093,
+    "gn:longitude":95.37073,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320295
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9c43dce5ce681fb289e7448500027b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1326536877,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1326536877,
+    "wof:lastmodified":1536976726,
+    "wof:name":"Kanzu",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.37073,
+    16.20093,
+    95.37073,
+    16.20093
+],
+  "geometry": {"coordinates":[95.37072999999999,16.20093],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326918161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.80305,23.12556,98.80305,23.12556",
+    "geom:latitude":23.12556,
+    "geom:longitude":98.80305,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015021",
+    "gn:asciiname":"Na-hkang",
+    "gn:country_code":"MM",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307441,
+    "gn:latitude":23.12556,
+    "gn:longitude":98.80305,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Na-hkang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307441
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"af86f38660689a9355ca5c1616dd2cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1326918161,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326918161,
+    "wof:lastmodified":1536925800,
+    "wof:name":"Na-hkang",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.80305,
+    23.12556,
+    98.80305,
+    23.12556
+],
+  "geometry": {"coordinates":[98.80305,23.12556],"type":"Point"}
+}

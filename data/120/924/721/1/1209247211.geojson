@@ -1,0 +1,63 @@
+{
+  "id": 1209247211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.71022,25.5269,97.71022,25.5269",
+    "geom:latitude":25.5269,
+    "geom:longitude":97.71022,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001002",
+    "gn:asciiname":"Nangma",
+    "gn:country_code":"MM",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306164,
+    "gn:latitude":25.5269,
+    "gn:longitude":97.71022,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nangma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306164
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7d2591a6a5deeb83784ba957dfb1c364",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209247211
+        }
+    ],
+    "wof:id":1209247211,
+    "wof:lastmodified":1536293123,
+    "wof:name":"Nangma",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.71022,
+    25.5269,
+    97.71022,
+    25.5269
+],
+  "geometry": {"coordinates":[97.71022000000001,25.5269],"type":"Point"}
+}

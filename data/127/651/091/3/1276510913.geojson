@@ -1,0 +1,69 @@
+{
+  "id": 1276510913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.43125,19.03552,95.43125,19.03552",
+    "geom:latitude":19.03552,
+    "geom:longitude":95.43125,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008001",
+    "gn:asciiname":"Lebe",
+    "gn:country_code":"MM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314523,
+    "gn:latitude":19.03552,
+    "gn:longitude":95.43125,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Leb\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314523
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"41934966d0a247e0b1f9ba584d27c28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1276510913,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1276510913,
+    "wof:lastmodified":1537036686,
+    "wof:name":"Lebe",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.43125,
+    19.03552,
+    95.43125,
+    19.03552
+],
+  "geometry": {"coordinates":[95.43125000000001,19.03552],"type":"Point"}
+}

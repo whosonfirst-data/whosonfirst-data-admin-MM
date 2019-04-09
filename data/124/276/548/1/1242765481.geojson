@@ -1,0 +1,73 @@
+{
+  "id": 1242765481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52749,21.09434,100.52749,21.09434",
+    "geom:latitude":21.09434,
+    "geom:longitude":100.52749,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Hsenlongkiao",
+    "gn:country_code":"MM",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847519,
+    "gn:latitude":21.09434,
+    "gn:longitude":100.52749,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsenl\u014dngkiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsenl\u014dngkiao",
+        "W\u0101n Hsenl\u014dngkiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847519
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"129b21ce33f812db9ffb029a9541b50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1242765481,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242765481,
+    "wof:lastmodified":1537665561,
+    "wof:name":"Wan Hsenlongkiao",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52749,
+    21.09434,
+    100.52749,
+    21.09434
+],
+  "geometry": {"coordinates":[100.52749,21.09434],"type":"Point"}
+}

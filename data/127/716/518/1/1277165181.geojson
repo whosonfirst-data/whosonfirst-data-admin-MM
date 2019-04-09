@@ -1,0 +1,73 @@
+{
+  "id": 1277165181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.12512,22.72951,98.12512,22.72951",
+    "geom:latitude":22.72951,
+    "geom:longitude":98.12512,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Kunghsa",
+    "gn:country_code":"MM",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317875,
+    "gn:latitude":22.72951,
+    "gn:longitude":98.12512,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunghsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man Loi",
+        "Kunghsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317875
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cdd72338ce23f4bb35a83219aaf7b5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1277165181,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277165181,
+    "wof:lastmodified":1537665488,
+    "wof:name":"Kunghsa",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.12512,
+    22.72951,
+    98.12512,
+    22.72951
+],
+  "geometry": {"coordinates":[98.12512,22.72951],"type":"Point"}
+}

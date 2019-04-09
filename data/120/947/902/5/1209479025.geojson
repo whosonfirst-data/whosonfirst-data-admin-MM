@@ -1,0 +1,63 @@
+{
+  "id": 1209479025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.43333,18.71667,96.43333,18.71667",
+    "geom:latitude":18.71667,
+    "geom:longitude":96.43333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007013",
+    "gn:asciiname":"Odeinwa",
+    "gn:country_code":"MM",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303211,
+    "gn:latitude":18.71667,
+    "gn:longitude":96.43333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Odeinwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303211
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9b4b1222ab6493ce363e6e3d94228e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209479025
+        }
+    ],
+    "wof:id":1209479025,
+    "wof:lastmodified":1536285843,
+    "wof:name":"Odeinwa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.43333,
+    18.71667,
+    96.43333,
+    18.71667
+],
+  "geometry": {"coordinates":[96.43333,18.71667],"type":"Point"}
+}

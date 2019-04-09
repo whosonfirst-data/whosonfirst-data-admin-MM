@@ -1,0 +1,70 @@
+{
+  "id": 1343539835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.42458,21.83178,95.42458,21.83178",
+    "geom:latitude":21.83178,
+    "geom:longitude":95.42458,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005003",
+    "gn:asciiname":"Myaung",
+    "gn:country_code":"MM",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308102,
+    "gn:latitude":21.83178,
+    "gn:longitude":95.42458,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Myaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308102,
+        "wk:page":"Myaung"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"359f7d3aa37382ee7f4ac24da2828691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047295,
+            "locality_id":1343539835,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343539835,
+    "wof:lastmodified":1537568479,
+    "wof:name":"Myaung",
+    "wof:parent_id":1092047295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.42458,
+    21.83178,
+    95.42458,
+    21.83178
+],
+  "geometry": {"coordinates":[95.42458000000001,21.83178],"type":"Point"}
+}

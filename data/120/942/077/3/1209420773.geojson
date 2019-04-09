@@ -1,0 +1,63 @@
+{
+  "id": 1209420773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.0016,26.84791,98.0016,26.84791",
+    "geom:latitude":26.84791,
+    "geom:longitude":98.0016,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001018",
+    "gn:asciiname":"Lam Ga",
+    "gn:country_code":"MM",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314942,
+    "gn:latitude":26.84791,
+    "gn:longitude":98.0016,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lam Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314942
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6b29070917cac9ba683e9b1f9326ee69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209420773
+        }
+    ],
+    "wof:id":1209420773,
+    "wof:lastmodified":1536287538,
+    "wof:name":"Lam Ga",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.0016,
+    26.84791,
+    98.0016,
+    26.84791
+],
+  "geometry": {"coordinates":[98.0016,26.84791],"type":"Point"}
+}

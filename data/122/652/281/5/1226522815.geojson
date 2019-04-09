@@ -1,0 +1,69 @@
+{
+  "id": 1226522815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51795,20.39785,97.51795,20.39785",
+    "geom:latitude":20.39785,
+    "geom:longitude":97.51795,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Loikawng",
+    "gn:country_code":"MM",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313469,
+    "gn:latitude":20.39785,
+    "gn:longitude":97.51795,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loikawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313469
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a867ccd15d8fcd1ef3025465cf5ff3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1226522815,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226522815,
+    "wof:lastmodified":1537029861,
+    "wof:name":"Loikawng",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51795,
+    20.39785,
+    97.51795,
+    20.39785
+],
+  "geometry": {"coordinates":[97.51795,20.39785],"type":"Point"}
+}

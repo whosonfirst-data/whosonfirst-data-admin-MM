@@ -1,0 +1,73 @@
+{
+  "id": 1276206915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.615,21.21366,98.615,21.21366",
+    "geom:latitude":21.21366,
+    "geom:longitude":98.615,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014014",
+    "gn:asciiname":"Wan Maw-loi-ho",
+    "gn:country_code":"MM",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288148,
+    "gn:latitude":21.21366,
+    "gn:longitude":98.615,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Maw-loi-ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Mau-loi-h\u00f6",
+        "W\u0101n Maw-loi-ho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288148
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"72b46e3bf096580c474df0ba0644a45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1276206915,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276206915,
+    "wof:lastmodified":1537665320,
+    "wof:name":"Wan Maw-loi-ho",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.615,
+    21.21366,
+    98.615,
+    21.21366
+],
+  "geometry": {"coordinates":[98.61499999999999,21.21366],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209510119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.74641,24.26255,95.74641,24.26255",
+    "geom:latitude":24.26255,
+    "geom:longitude":95.74641,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005026",
+    "gn:asciiname":"Taungchiyin",
+    "gn:country_code":"MM",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294066,
+    "gn:latitude":24.26255,
+    "gn:longitude":95.74641,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungchiyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294066,
+        "wk:page":"Taungchiyin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2c0ad16c8408166cb99aa4a7a5508ae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209510119
+        }
+    ],
+    "wof:id":1209510119,
+    "wof:lastmodified":1537568457,
+    "wof:name":"Taungchiyin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.74641,
+    24.26255,
+    95.74641,
+    24.26255
+],
+  "geometry": {"coordinates":[95.74641,24.26255],"type":"Point"}
+}

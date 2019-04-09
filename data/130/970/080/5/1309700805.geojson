@@ -1,0 +1,69 @@
+{
+  "id": 1309700805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.2939,24.40543,96.2939,24.40543",
+    "geom:latitude":24.40543,
+    "geom:longitude":96.2939,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005020",
+    "gn:asciiname":"Hpapawnghkyet",
+    "gn:country_code":"MM",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323635,
+    "gn:latitude":24.40543,
+    "gn:longitude":96.2939,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpapawnghkyet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323635
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8570daef304d66ad7c03ae4830c8bbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1309700805,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1309700805,
+    "wof:lastmodified":1537079377,
+    "wof:name":"Hpapawnghkyet",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.2939,
+    24.40543,
+    96.2939,
+    24.40543
+],
+  "geometry": {"coordinates":[96.29389999999999,24.40543],"type":"Point"}
+}

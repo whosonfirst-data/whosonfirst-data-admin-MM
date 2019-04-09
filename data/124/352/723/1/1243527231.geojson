@@ -1,0 +1,69 @@
+{
+  "id": 1243527231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.36641,19.88805,95.36641,19.88805",
+    "geom:latitude":19.88805,
+    "geom:longitude":95.36641,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009004",
+    "gn:asciiname":"Kanyigon",
+    "gn:country_code":"MM",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320416,
+    "gn:latitude":19.88805,
+    "gn:longitude":95.36641,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanyigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320416
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"921e9c40d151424a2f5b38c46801e727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1243527231,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1243527231,
+    "wof:lastmodified":1536689271,
+    "wof:name":"Kanyigon",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.36641,
+    19.88805,
+    95.36641,
+    19.88805
+],
+  "geometry": {"coordinates":[95.36641,19.88805],"type":"Point"}
+}

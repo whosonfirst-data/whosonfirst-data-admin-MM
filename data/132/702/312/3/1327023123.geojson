@@ -1,0 +1,73 @@
+{
+  "id": 1327023123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.0231,15.77414,98.0231,15.77414",
+    "geom:latitude":15.77414,
+    "geom:longitude":98.0231,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Na-awn",
+    "gn:country_code":"MM",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307601,
+    "gn:latitude":15.77414,
+    "gn:longitude":98.0231,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Na-awn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yathanchaung",
+        "Na-awn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307601
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f80d7777e4d99ed636c329e03fb403cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1327023123,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1327023123,
+    "wof:lastmodified":1537665425,
+    "wof:name":"Na-awn",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.0231,
+    15.77414,
+    98.0231,
+    15.77414
+],
+  "geometry": {"coordinates":[98.0231,15.77414],"type":"Point"}
+}

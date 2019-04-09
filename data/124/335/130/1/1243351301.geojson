@@ -1,0 +1,73 @@
+{
+  "id": 1243351301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.42886,21.30763,98.42886,21.30763",
+    "geom:latitude":21.30763,
+    "geom:longitude":98.42886,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014014",
+    "gn:asciiname":"Wan Kontawng",
+    "gn:country_code":"MM",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288595,
+    "gn:latitude":21.30763,
+    "gn:longitude":98.42886,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Kontawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Kantawng",
+        "W\u0101n Kontawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288595
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"25d04624af9041a0fcd928a1507510f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1243351301,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243351301,
+    "wof:lastmodified":1537665324,
+    "wof:name":"Wan Kontawng",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.42886,
+    21.30763,
+    98.42886,
+    21.30763
+],
+  "geometry": {"coordinates":[98.42886,21.30763],"type":"Point"}
+}

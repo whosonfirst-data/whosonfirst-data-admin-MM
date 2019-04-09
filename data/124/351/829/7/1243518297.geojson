@@ -1,0 +1,69 @@
+{
+  "id": 1243518297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.83145,17.61982,96.83145,17.61982",
+    "geom:latitude":17.61982,
+    "geom:longitude":96.83145,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007004",
+    "gn:asciiname":"Waingbat",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289860,
+    "gn:latitude":17.61982,
+    "gn:longitude":96.83145,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Waingbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289860
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"33de79b446545b7118db128e3ca7796e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1243518297,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243518297,
+    "wof:lastmodified":1536702324,
+    "wof:name":"Waingbat",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.83145,
+    17.61982,
+    96.83145,
+    17.61982
+],
+  "geometry": {"coordinates":[96.83145,17.61982],"type":"Point"}
+}

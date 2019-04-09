@@ -1,0 +1,63 @@
+{
+  "id": 1209296473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.68891,18.18441,95.68891,18.18441",
+    "geom:latitude":18.18441,
+    "geom:longitude":95.68891,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008014",
+    "gn:asciiname":"Myetnikwin",
+    "gn:country_code":"MM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307920,
+    "gn:latitude":18.18441,
+    "gn:longitude":95.68891,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myetnikwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307920
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"89db8e7eeadc900fa6eec2ca5d2aee0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209296473
+        }
+    ],
+    "wof:id":1209296473,
+    "wof:lastmodified":1536291508,
+    "wof:name":"Myetnikwin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.68891,
+    18.18441,
+    95.68891,
+    18.18441
+],
+  "geometry": {"coordinates":[95.68891000000001,18.18441],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326730093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.23514,26.21336,98.23514,26.21336",
+    "geom:latitude":26.21336,
+    "geom:longitude":98.23514,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Longlam",
+    "gn:country_code":"MM",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313099,
+    "gn:latitude":26.21336,
+    "gn:longitude":98.23514,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Longlam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313099,
+        "wk:page":"Longlam"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"63fbd80d71731540f42e0c49f8ec8b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1326730093,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1326730093,
+    "wof:lastmodified":1537568487,
+    "wof:name":"Longlam",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.23514,
+    26.21336,
+    98.23514,
+    26.21336
+],
+  "geometry": {"coordinates":[98.23514,26.21336],"type":"Point"}
+}

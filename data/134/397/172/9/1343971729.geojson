@@ -1,0 +1,69 @@
+{
+  "id": 1343971729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.51847,20.43,93.51847,20.43",
+    "geom:latitude":20.43,
+    "geom:longitude":93.51847,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D005",
+    "gn:admin3_code":"MMR012005",
+    "gn:asciiname":"Menshaw",
+    "gn:country_code":"MM",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309659,
+    "gn:latitude":20.43,
+    "gn:longitude":93.51847,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Menshaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309659
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"751be0694ef3d2dd7c0aa3262df8c16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046765,
+            "locality_id":1343971729,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1343971729,
+    "wof:lastmodified":1537002898,
+    "wof:name":"Menshaw",
+    "wof:parent_id":1092046765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.51847,
+    20.43,
+    93.51847,
+    20.43
+],
+  "geometry": {"coordinates":[93.51846999999999,20.43],"type":"Point"}
+}

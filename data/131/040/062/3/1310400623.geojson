@@ -1,0 +1,73 @@
+{
+  "id": 1310400623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.27484,23.79625,96.27484,23.79625",
+    "geom:latitude":23.79625,
+    "geom:longitude":96.27484,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005022",
+    "gn:asciiname":"Tonbon",
+    "gn:country_code":"MM",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290747,
+    "gn:latitude":23.79625,
+    "gn:longitude":96.27484,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tonbon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tombon",
+        "Tonbon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290747
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e3439127e3bc4453919327f341328323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1310400623,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1310400623,
+    "wof:lastmodified":1537665339,
+    "wof:name":"Tonbon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.27484,
+    23.79625,
+    96.27484,
+    23.79625
+],
+  "geometry": {"coordinates":[96.27484,23.79625],"type":"Point"}
+}

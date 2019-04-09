@@ -1,0 +1,70 @@
+{
+  "id": 1226033533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.35429,23.28107,94.35429,23.28107",
+    "geom:latitude":23.28107,
+    "geom:longitude":94.35429,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005028",
+    "gn:asciiname":"Sabagyi",
+    "gn:country_code":"MM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298653,
+    "gn:latitude":23.28107,
+    "gn:longitude":94.35429,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sabagyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298653,
+        "wk:page":"Sabagyi"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5d98d3e5c53bf925215d110f9481396a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1226033533,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226033533,
+    "wof:lastmodified":1537568464,
+    "wof:name":"Sabagyi",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.35429,
+    23.28107,
+    94.35429,
+    23.28107
+],
+  "geometry": {"coordinates":[94.35429000000001,23.28107],"type":"Point"}
+}

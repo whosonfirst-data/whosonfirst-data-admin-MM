@@ -1,0 +1,69 @@
+{
+  "id": 1209903967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.24205,20.28738,97.24205,20.28738",
+    "geom:latitude":20.28738,
+    "geom:longitude":97.24205,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014004",
+    "gn:asciiname":"Nyawngkeng",
+    "gn:country_code":"MM",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303290,
+    "gn:latitude":20.28738,
+    "gn:longitude":97.24205,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyawngkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303290
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"89b3bf2aeb0266d4c69c6310dcafa11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1209903967,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1209903967,
+    "wof:lastmodified":1536385160,
+    "wof:name":"Nyawngkeng",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.24205,
+    20.28738,
+    97.24205,
+    20.28738
+],
+  "geometry": {"coordinates":[97.24205000000001,20.28738],"type":"Point"}
+}

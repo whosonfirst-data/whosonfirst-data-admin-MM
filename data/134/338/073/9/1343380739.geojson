@@ -1,0 +1,70 @@
+{
+  "id": 1343380739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.81345,20.64226,95.81345,20.64226",
+    "geom:latitude":20.64226,
+    "geom:longitude":95.81345,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010024",
+    "gn:asciiname":"Aingdo",
+    "gn:country_code":"MM",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329498,
+    "gn:latitude":20.64226,
+    "gn:longitude":95.81345,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aingdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329498,
+        "wk:page":"Aingdo"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d6f68bf517110c70db9e5c32d668102e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1343380739,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343380739,
+    "wof:lastmodified":1537568510,
+    "wof:name":"Aingdo",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.81345,
+    20.64226,
+    95.81345,
+    20.64226
+],
+  "geometry": {"coordinates":[95.81345,20.64226],"type":"Point"}
+}

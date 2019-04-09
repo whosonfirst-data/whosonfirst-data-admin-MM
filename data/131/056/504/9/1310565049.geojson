@@ -1,0 +1,73 @@
+{
+  "id": 1310565049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.5269,18.53181,96.5269,18.53181",
+    "geom:latitude":18.53181,
+    "geom:longitude":96.5269,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007012",
+    "gn:asciiname":"Zaunggyagon",
+    "gn:country_code":"MM",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284187,
+    "gn:latitude":18.53181,
+    "gn:longitude":96.5269,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zaunggyagon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaungyagon",
+        "Zaunggyagon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284187
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"094e15ebcf8b14a37fae2536c50c5410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1310565049,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1310565049,
+    "wof:lastmodified":1537665294,
+    "wof:name":"Zaunggyagon",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.5269,
+    18.53181,
+    96.5269,
+    18.53181
+],
+  "geometry": {"coordinates":[96.5269,18.53181],"type":"Point"}
+}

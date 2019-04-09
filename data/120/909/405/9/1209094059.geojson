@@ -1,0 +1,63 @@
+{
+  "id": 1209094059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.43981,22.00033,97.43981,22.00033",
+    "geom:latitude":22.00033,
+    "geom:longitude":97.43981,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Wan Konghsa",
+    "gn:country_code":"MM",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288630,
+    "gn:latitude":22.00033,
+    "gn:longitude":97.43981,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wan Konghsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288630
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e96d4a289555347c66b0bfbdef9b22fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209094059
+        }
+    ],
+    "wof:id":1209094059,
+    "wof:lastmodified":1536297944,
+    "wof:name":"Wan Konghsa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.43981,
+    22.00033,
+    97.43981,
+    22.00033
+],
+  "geometry": {"coordinates":[97.43980999999999,22.00033],"type":"Point"}
+}

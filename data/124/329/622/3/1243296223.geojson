@@ -1,0 +1,70 @@
+{
+  "id": 1243296223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.76842,24.46553,96.76842,24.46553",
+    "geom:latitude":24.46553,
+    "geom:longitude":96.76842,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Amatgyigon",
+    "gn:country_code":"MM",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329219,
+    "gn:latitude":24.46553,
+    "gn:longitude":96.76842,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Amatgyigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329219,
+        "wk:page":"Amatgyigon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4b3e9c78bb32d088c10952c4646033fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1243296223,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243296223,
+    "wof:lastmodified":1537568510,
+    "wof:name":"Amatgyigon",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.76842,
+    24.46553,
+    96.76842,
+    24.46553
+],
+  "geometry": {"coordinates":[96.76842000000001,24.46553],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421167335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.65441,16.73148,95.65441,16.73148",
+    "geom:latitude":16.73148,
+    "geom:longitude":95.65441,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ma-ubin"
+    ],
+    "name:fra_x_preferred":[
+        "Maubin"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1021\u1030\u1015\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:unk_x_variant":[
+        "Ma-oo-beng"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1310362,
+    "qs:gn_pop":51542,
+    "qs:name":"Ma-ubin",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Ayeyarwady",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":132685,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017561,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":737,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310362,
+        "gp:id":1017561,
+        "qs:id":132685,
+        "wd:id":"Q3300083",
+        "wk:page":"Ma-ubin"
+    },
+    "wof:country":"MM",
+    "wof:created":1459008727,
+    "wof:geomhash":"33e5626f00f7dacae883ceddbe6738c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":421167335,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":421167335,
+    "wof:lastmodified":1527716158,
+    "wof:name":"Ma-ubin",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:population":51542,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.65441,
+    16.73148,
+    95.65441,
+    16.73148
+],
+  "geometry": {"coordinates":[95.65441,16.73148],"type":"Point"}
+}

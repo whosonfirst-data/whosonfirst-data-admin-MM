@@ -1,0 +1,69 @@
+{
+  "id": 1243434831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.85645,20.02556,96.85645,20.02556",
+    "geom:latitude":20.02556,
+    "geom:longitude":96.85645,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014009",
+    "gn:asciiname":"Wan Palo",
+    "gn:country_code":"MM",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287449,
+    "gn:latitude":20.02556,
+    "gn:longitude":96.85645,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Palo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287449
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c3f57c7fb66ffe7252204eacccd0e32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1243434831,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243434831,
+    "wof:lastmodified":1536821400,
+    "wof:name":"Wan Palo",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.85645,
+    20.02556,
+    96.85645,
+    20.02556
+],
+  "geometry": {"coordinates":[96.85645,20.02556],"type":"Point"}
+}

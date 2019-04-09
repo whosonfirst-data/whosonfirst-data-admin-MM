@@ -1,0 +1,74 @@
+{
+  "id": 1226506315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.44758,18.7147,96.44758,18.7147",
+    "geom:latitude":18.7147,
+    "geom:longitude":96.44758,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007014",
+    "gn:asciiname":"Sabagyi Ashe",
+    "gn:country_code":"MM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298651,
+    "gn:latitude":18.7147,
+    "gn:longitude":96.44758,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sabagyi Ashe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabgyi Ashe",
+        "Sabakyi-atet",
+        "Sabagyi Ashe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298651
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"26ba83a4e5a3d940578bdfb8edeb64b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1226506315,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1226506315,
+    "wof:lastmodified":1537665383,
+    "wof:name":"Sabagyi Ashe",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.44758,
+    18.7147,
+    96.44758,
+    18.7147
+],
+  "geometry": {"coordinates":[96.44758,18.7147],"type":"Point"}
+}

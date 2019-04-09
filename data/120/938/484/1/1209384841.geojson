@@ -1,0 +1,63 @@
+{
+  "id": 1209384841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.39546,21.72889,94.39546,21.72889",
+    "geom:latitude":21.72889,
+    "geom:longitude":94.39546,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009021",
+    "gn:asciiname":"Kyaukmasin",
+    "gn:country_code":"MM",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316961,
+    "gn:latitude":21.72889,
+    "gn:longitude":94.39546,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukmasin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316961
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4096136b3583ba4cffb4700adb610601",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209384841
+        }
+    ],
+    "wof:id":1209384841,
+    "wof:lastmodified":1536288660,
+    "wof:name":"Kyaukmasin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.39546,
+    21.72889,
+    94.39546,
+    21.72889
+],
+  "geometry": {"coordinates":[94.39546,21.72889],"type":"Point"}
+}

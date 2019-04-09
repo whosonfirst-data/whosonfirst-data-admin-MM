@@ -1,0 +1,70 @@
+{
+  "id": 1293224001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.75813,24.08969,96.75813,24.08969",
+    "geom:latitude":24.08969,
+    "geom:longitude":96.75813,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Zayitin",
+    "gn:country_code":"MM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284095,
+    "gn:latitude":24.08969,
+    "gn:longitude":96.75813,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zayitin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284095,
+        "wk:page":"Zayitin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c3251a0f2afe49b3e8c0c7a1d89fc787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1293224001,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293224001,
+    "wof:lastmodified":1537568443,
+    "wof:name":"Zayitin",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.75813,
+    24.08969,
+    96.75813,
+    24.08969
+],
+  "geometry": {"coordinates":[96.75812999999999,24.08969],"type":"Point"}
+}

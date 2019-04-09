@@ -1,0 +1,63 @@
+{
+  "id": 1209693423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.2799,23.07486,98.2799,23.07486",
+    "geom:latitude":23.07486,
+    "geom:longitude":98.2799,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Man Pangwa",
+    "gn:country_code":"MM",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310833,
+    "gn:latitude":23.07486,
+    "gn:longitude":98.2799,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Pangwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310833
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"114222753a78775d682f6093577bafcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693423
+        }
+    ],
+    "wof:id":1209693423,
+    "wof:lastmodified":1536279160,
+    "wof:name":"Man Pangwa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.2799,
+    23.07486,
+    98.2799,
+    23.07486
+],
+  "geometry": {"coordinates":[98.2799,23.07486],"type":"Point"}
+}

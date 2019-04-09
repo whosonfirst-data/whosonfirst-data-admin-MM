@@ -1,0 +1,70 @@
+{
+  "id": 1276536467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.90109,23.99742,97.90109,23.99742",
+    "geom:latitude":23.99742,
+    "geom:longitude":97.90109,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015009",
+    "gn:asciiname":"Mu-se",
+    "gn:country_code":"MM",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308318,
+    "gn:latitude":23.99742,
+    "gn:longitude":97.90109,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Mu-se",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308318,
+        "wk:page":"Muse,_Burma"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"52d7e3f44287f7891a997f4ec222eb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1276536467,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276536467,
+    "wof:lastmodified":1537568479,
+    "wof:name":"Mu-se",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.90109,
+    23.99742,
+    97.90109,
+    23.99742
+],
+  "geometry": {"coordinates":[97.90109,23.99742],"type":"Point"}
+}

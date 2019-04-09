@@ -1,0 +1,63 @@
+{
+  "id": 1209427603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.68333,23.83333,93.68333,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":93.68333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Bizang",
+    "gn:country_code":"MM",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328153,
+    "gn:latitude":23.83333,
+    "gn:longitude":93.68333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bizang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328153
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7bae521df6ce3e0087f0c3d14076f003",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209427603
+        }
+    ],
+    "wof:id":1209427603,
+    "wof:lastmodified":1536287332,
+    "wof:name":"Bizang",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.68333,
+    23.83333,
+    93.68333,
+    23.83333
+],
+  "geometry": {"coordinates":[93.68333,23.83333],"type":"Point"}
+}

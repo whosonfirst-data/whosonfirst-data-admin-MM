@@ -1,0 +1,63 @@
+{
+  "id": 1209203211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.16175,22.99937,95.16175,22.99937",
+    "geom:latitude":22.99937,
+    "geom:longitude":95.16175,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Taunggyaung",
+    "gn:country_code":"MM",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293968,
+    "gn:latitude":22.99937,
+    "gn:longitude":95.16175,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taunggyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293968
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8689c173a81c1e672121ef2527667244",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209203211
+        }
+    ],
+    "wof:id":1209203211,
+    "wof:lastmodified":1536294539,
+    "wof:name":"Taunggyaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.16175,
+    22.999370000000006,
+    95.16175,
+    22.999370000000006
+],
+  "geometry": {"coordinates":[95.16175,22.99937000000001],"type":"Point"}
+}

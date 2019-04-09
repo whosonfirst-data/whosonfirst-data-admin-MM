@@ -1,0 +1,69 @@
+{
+  "id": 1309675839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.33674,19.024,96.33674,19.024",
+    "geom:latitude":19.024,
+    "geom:longitude":96.33674,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007009",
+    "gn:asciiname":"Nebugon",
+    "gn:country_code":"MM",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304817,
+    "gn:latitude":19.024,
+    "gn:longitude":96.33674,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nebugon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304817
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cf710827ea186c710edf9ff3ad560c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1309675839,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1309675839,
+    "wof:lastmodified":1536619508,
+    "wof:name":"Nebugon",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.33674,
+    19.024,
+    96.33674,
+    19.024
+],
+  "geometry": {"coordinates":[96.33674000000001,19.024],"type":"Point"}
+}

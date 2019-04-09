@@ -1,0 +1,69 @@
+{
+  "id": 1260161421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.53406,21.63081,99.53406,21.63081",
+    "geom:latitude":21.63081,
+    "geom:longitude":99.53406,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016002",
+    "gn:asciiname":"Wan Fai",
+    "gn:country_code":"MM",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289704,
+    "gn:latitude":21.63081,
+    "gn:longitude":99.53406,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Fai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289704
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d6f0ed864b4a10f06bc60f56a3d0f840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1260161421,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260161421,
+    "wof:lastmodified":1536877458,
+    "wof:name":"Wan Fai",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.53406,
+    21.63081,
+    99.53406,
+    21.63081
+],
+  "geometry": {"coordinates":[99.53406,21.63081],"type":"Point"}
+}

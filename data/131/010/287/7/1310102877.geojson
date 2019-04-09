@@ -1,0 +1,70 @@
+{
+  "id": 1310102877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.22995,19.8803,97.22995,19.8803",
+    "geom:latitude":19.8803,
+    "geom:longitude":97.22995,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002001",
+    "gn:asciiname":"Kong Pyek",
+    "gn:country_code":"MM",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318366,
+    "gn:latitude":19.8803,
+    "gn:longitude":97.22995,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kong Pyek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318366,
+        "wk:page":"Kong_Pyek"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec4b5d13077b58eeac7cb2af088a7dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1310102877,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1310102877,
+    "wof:lastmodified":1537568495,
+    "wof:name":"Kong Pyek",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.22995,
+    19.8803,
+    97.22995,
+    19.8803
+],
+  "geometry": {"coordinates":[97.22995,19.8803],"type":"Point"}
+}

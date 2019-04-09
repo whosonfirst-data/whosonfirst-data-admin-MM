@@ -1,0 +1,69 @@
+{
+  "id": 1343393393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.62456,26.21512,97.62456,26.21512",
+    "geom:latitude":26.21512,
+    "geom:longitude":97.62456,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001015",
+    "gn:asciiname":"Painamlang",
+    "gn:country_code":"MM",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302522,
+    "gn:latitude":26.21512,
+    "gn:longitude":97.62456,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Painamlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302522
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3be9bfe36acc407a1a63c4151dbfd847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1343393393,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343393393,
+    "wof:lastmodified":1536842035,
+    "wof:name":"Painamlang",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.62456,
+    26.21512,
+    97.62456,
+    26.21512
+],
+  "geometry": {"coordinates":[97.62456,26.21512],"type":"Point"}
+}

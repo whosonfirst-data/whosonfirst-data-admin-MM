@@ -1,0 +1,69 @@
+{
+  "id": 1344030601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.47643,19.74697,94.47643,19.74697",
+    "geom:latitude":19.74697,
+    "geom:longitude":94.47643,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009013",
+    "gn:asciiname":"Tabu",
+    "gn:country_code":"MM",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295330,
+    "gn:latitude":19.74697,
+    "gn:longitude":94.47643,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295330
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b276edad44ef1c5917b0bfc9375cd984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1344030601,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1344030601,
+    "wof:lastmodified":1536919419,
+    "wof:name":"Tabu",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.47643,
+    19.74697,
+    94.47643,
+    19.74697
+],
+  "geometry": {"coordinates":[94.47642999999999,19.74697],"type":"Point"}
+}

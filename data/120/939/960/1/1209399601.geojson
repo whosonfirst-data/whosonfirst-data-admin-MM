@@ -1,0 +1,63 @@
+{
+  "id": 1209399601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.08375,21.60742,96.08375,21.60742",
+    "geom:latitude":21.60742,
+    "geom:longitude":96.08375,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D003",
+    "gn:admin3_code":"MMR010013",
+    "gn:asciiname":"Kyetsin",
+    "gn:country_code":"MM",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316094,
+    "gn:latitude":21.60742,
+    "gn:longitude":96.08375,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyetsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316094
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"58f32c348b40801c85446e1c0a3290ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209399601
+        }
+    ],
+    "wof:id":1209399601,
+    "wof:lastmodified":1536288190,
+    "wof:name":"Kyetsin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.08375,
+    21.60742,
+    96.08375,
+    21.60742
+],
+  "geometry": {"coordinates":[96.08374999999999,21.60742],"type":"Point"}
+}

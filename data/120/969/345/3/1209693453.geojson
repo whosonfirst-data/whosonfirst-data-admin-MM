@@ -1,0 +1,63 @@
+{
+  "id": 1209693453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33625,21.12563,100.33625,21.12563",
+    "geom:latitude":21.12563,
+    "geom:longitude":100.33625,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Hsalimum",
+    "gn:country_code":"MM",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847569,
+    "gn:latitude":21.12563,
+    "gn:longitude":100.33625,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsalimum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847569
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8fdaa65b061100be927dc763b2dbc227",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693453
+        }
+    ],
+    "wof:id":1209693453,
+    "wof:lastmodified":1536279159,
+    "wof:name":"Wan Hsalimum",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33625,
+    21.12563,
+    100.33625,
+    21.12563
+],
+  "geometry": {"coordinates":[100.33625000000001,21.12563],"type":"Point"}
+}

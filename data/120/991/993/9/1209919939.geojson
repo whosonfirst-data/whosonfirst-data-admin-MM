@@ -1,0 +1,69 @@
+{
+  "id": 1209919939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.42569,27.18122,98.42569,27.18122",
+    "geom:latitude":27.18122,
+    "geom:longitude":98.42569,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001018",
+    "gn:asciiname":"Lamanchi",
+    "gn:country_code":"MM",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314950,
+    "gn:latitude":27.18122,
+    "gn:longitude":98.42569,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lamanchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314950
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dcedc84f54456bd12d57b11a61676273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1209919939,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209919939,
+    "wof:lastmodified":1536369545,
+    "wof:name":"Lamanchi",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.42569,
+    27.18122,
+    98.42569,
+    27.18122
+],
+  "geometry": {"coordinates":[98.42569,27.18122],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1360256273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.90053,15.14318,97.90053,15.14318",
+    "geom:latitude":15.14318,
+    "geom:longitude":97.90053,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011006",
+    "gn:asciiname":"Kumai",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317998,
+    "gn:latitude":15.14318,
+    "gn:longitude":97.90053,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kumai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317998
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e0ecb5eeef92dbe5afaae36f0e0879fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1360256273,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1360256273,
+    "wof:lastmodified":1536699045,
+    "wof:name":"Kumai",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.90053,
+    15.14318,
+    97.90053,
+    15.14318
+],
+  "geometry": {"coordinates":[97.90053,15.14318],"type":"Point"}
+}

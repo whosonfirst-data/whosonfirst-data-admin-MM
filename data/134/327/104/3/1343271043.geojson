@@ -1,0 +1,69 @@
+{
+  "id": 1343271043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.53359,17.94117,94.53359,17.94117",
+    "geom:latitude":17.94117,
+    "geom:longitude":94.53359,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012017",
+    "gn:asciiname":"Odein",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303216,
+    "gn:latitude":17.94117,
+    "gn:longitude":94.53359,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Odein",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303216
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6540d5d84c20ccdbaa70b4b89572a392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047569,
+            "locality_id":1343271043,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1343271043,
+    "wof:lastmodified":1537018731,
+    "wof:name":"Odein",
+    "wof:parent_id":1092047569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.53359,
+    17.94117,
+    94.53359,
+    17.94117
+],
+  "geometry": {"coordinates":[94.53359,17.94117],"type":"Point"}
+}

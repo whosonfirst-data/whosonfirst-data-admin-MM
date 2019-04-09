@@ -1,0 +1,73 @@
+{
+  "id": 1243418137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.43864,18.81814,96.43864,18.81814",
+    "geom:latitude":18.81814,
+    "geom:longitude":96.43864,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007014",
+    "gn:asciiname":"Onbin",
+    "gn:country_code":"MM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302998,
+    "gn:latitude":18.81814,
+    "gn:longitude":96.43864,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Onbin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onbinywa",
+        "Onbin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302998
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"828f309eb22eef22d8c5dd7a1e772675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1243418137,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243418137,
+    "wof:lastmodified":1537665403,
+    "wof:name":"Onbin",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.43864,
+    18.81814,
+    96.43864,
+    18.81814
+],
+  "geometry": {"coordinates":[96.43864000000001,18.81814],"type":"Point"}
+}

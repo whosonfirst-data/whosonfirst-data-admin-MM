@@ -1,0 +1,69 @@
+{
+  "id": 1310228437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.53664,24.86883,97.53664,24.86883",
+    "geom:latitude":24.86883,
+    "geom:longitude":97.53664,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001002",
+    "gn:asciiname":"Namsangyang",
+    "gn:country_code":"MM",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306436,
+    "gn:latitude":24.86883,
+    "gn:longitude":97.53664,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namsangyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306436
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a772d7ebd70b4d4d7bc9da10d0777d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1310228437,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1310228437,
+    "wof:lastmodified":1536818324,
+    "wof:name":"Namsangyang",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.53664,
+    24.86883,
+    97.53664,
+    24.86883
+],
+  "geometry": {"coordinates":[97.53664000000001,24.86883],"type":"Point"}
+}

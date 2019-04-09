@@ -1,0 +1,69 @@
+{
+  "id": 1243356743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.71149,16.90194,97.71149,16.90194",
+    "geom:latitude":16.90194,
+    "geom:longitude":97.71149,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003001",
+    "gn:asciiname":"Sanpannon",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297935,
+    "gn:latitude":16.90194,
+    "gn:longitude":97.71149,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sanpannon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297935
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bf4164e5c4cf7df4c61d5df4eed4dd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1243356743,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1243356743,
+    "wof:lastmodified":1536935677,
+    "wof:name":"Sanpannon",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.71149,
+    16.90194,
+    97.71149,
+    16.90194
+],
+  "geometry": {"coordinates":[97.71149,16.90194],"type":"Point"}
+}

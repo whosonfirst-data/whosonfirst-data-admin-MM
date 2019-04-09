@@ -1,0 +1,70 @@
+{
+  "id": 1225943947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.27214,24.26147,97.27214,24.26147",
+    "geom:latitude":24.26147,
+    "geom:longitude":97.27214,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Nayo",
+    "gn:country_code":"MM",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304883,
+    "gn:latitude":24.26147,
+    "gn:longitude":97.27214,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nayo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304883,
+        "wk:page":"Nayo"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2d12cbbb3ddf0116358ba2bbeab19147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1225943947,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1225943947,
+    "wof:lastmodified":1537568472,
+    "wof:name":"Nayo",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.27214,
+    24.26147000000001,
+    97.27214,
+    24.26147000000001
+],
+  "geometry": {"coordinates":[97.27213999999999,24.26147000000001],"type":"Point"}
+}

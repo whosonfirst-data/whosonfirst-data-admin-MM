@@ -1,0 +1,68 @@
+{
+  "id": 1209314391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.9878,25.93599,96.9878,25.93599",
+    "geom:latitude":25.93599,
+    "geom:longitude":96.9878,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001004",
+    "gn:asciiname":"Aushegahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328747,
+    "gn:latitude":25.93599,
+    "gn:longitude":96.9878,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aushegahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nseny\u0101ng",
+        "Aushe",
+        "Aushegahtawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328747
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f64eb4f190107ae64b9133c88663c72e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209314391
+        }
+    ],
+    "wof:id":1209314391,
+    "wof:lastmodified":1537665548,
+    "wof:name":"Aushegahtawng",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.9878,
+    25.93599,
+    96.9878,
+    25.93599
+],
+  "geometry": {"coordinates":[96.98779999999999,25.93599],"type":"Point"}
+}

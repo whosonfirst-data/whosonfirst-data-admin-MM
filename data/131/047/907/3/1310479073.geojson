@@ -1,0 +1,69 @@
+{
+  "id": 1310479073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.67148,22.94504,97.67148,22.94504",
+    "geom:latitude":22.94504,
+    "geom:longitude":97.67148,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Hkoe-nim",
+    "gn:country_code":"MM",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324684,
+    "gn:latitude":22.94504,
+    "gn:longitude":97.67148,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hk\u00f6-nim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324684
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2966bfe265b1028330acc33caa91571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1310479073,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310479073,
+    "wof:lastmodified":1536955137,
+    "wof:name":"Hkoe-nim",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.67148,
+    22.94504,
+    97.67148,
+    22.94504
+],
+  "geometry": {"coordinates":[97.67148,22.94504],"type":"Point"}
+}

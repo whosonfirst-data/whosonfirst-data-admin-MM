@@ -1,0 +1,69 @@
+{
+  "id": 1293871631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.54963,21.25555,96.54963,21.25555",
+    "geom:latitude":21.25555,
+    "geom:longitude":96.54963,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014007",
+    "gn:asciiname":"Thapanbin",
+    "gn:country_code":"MM",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292386,
+    "gn:latitude":21.25555,
+    "gn:longitude":96.54963,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thapanbin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292386
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3ffade6af9aa24f98236b65883dabf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1293871631,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293871631,
+    "wof:lastmodified":1536730798,
+    "wof:name":"Thapanbin",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.54963,
+    21.25555,
+    96.54963,
+    21.25555
+],
+  "geometry": {"coordinates":[96.54962999999999,21.25555],"type":"Point"}
+}

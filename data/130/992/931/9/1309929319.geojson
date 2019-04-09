@@ -1,0 +1,69 @@
+{
+  "id": 1309929319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.5092,24.10122,97.5092,24.10122",
+    "geom:latitude":24.10122,
+    "geom:longitude":97.5092,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Lung Hkat",
+    "gn:country_code":"MM",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312866,
+    "gn:latitude":24.10122,
+    "gn:longitude":97.5092,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lung Hkat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312866
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dc45bd71ae24ef082e63708dc91044a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1309929319,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1309929319,
+    "wof:lastmodified":1536753051,
+    "wof:name":"Lung Hkat",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.5092,
+    24.10122,
+    97.5092,
+    24.10122
+],
+  "geometry": {"coordinates":[97.50920000000001,24.10122],"type":"Point"}
+}

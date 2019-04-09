@@ -1,0 +1,73 @@
+{
+  "id": 1226521417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.86226,16.2318,97.86226,16.2318",
+    "geom:latitude":16.2318,
+    "geom:longitude":97.86226,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011002",
+    "gn:asciiname":"Thayetkon",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292093,
+    "gn:latitude":16.2318,
+    "gn:longitude":97.86226,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thayetkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tegun",
+        "Thayetkon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292093
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"477b82ea5de7c69869d0b7cd100e7599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1226521417,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1226521417,
+    "wof:lastmodified":1537665346,
+    "wof:name":"Thayetkon",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.86226,
+    16.2318,
+    97.86226,
+    16.2318
+],
+  "geometry": {"coordinates":[97.86226000000001,16.2318],"type":"Point"}
+}

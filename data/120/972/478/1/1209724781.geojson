@@ -1,0 +1,69 @@
+{
+  "id": 1209724781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.82859,20.38999,92.82859,20.38999",
+    "geom:latitude":20.38999,
+    "geom:longitude":92.82859,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D001",
+    "gn:admin3_code":"MMR012008",
+    "gn:asciiname":"Thaze",
+    "gn:country_code":"MM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291947,
+    "gn:latitude":20.38999,
+    "gn:longitude":92.82859,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thaze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291947
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5bf089773f83a631eff715178da5b567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":1209724781,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1209724781,
+    "wof:lastmodified":1536384725,
+    "wof:name":"Thaze",
+    "wof:parent_id":1092047375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.82859,
+    20.38999,
+    92.82859,
+    20.38999
+],
+  "geometry": {"coordinates":[92.82859000000001,20.38999],"type":"Point"}
+}

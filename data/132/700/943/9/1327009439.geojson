@@ -1,0 +1,73 @@
+{
+  "id": 1327009439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.85006,12.31375,98.85006,12.31375",
+    "geom:latitude":12.31375,
+    "geom:longitude":98.85006,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006005",
+    "gn:asciiname":"Konmaw Thagan",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318246,
+    "gn:latitude":12.31375,
+    "gn:longitude":98.85006,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Konmaw Thagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konmaw",
+        "Konmaw Thagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318246
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a25e23f424e7eb191a7c0f826f50f1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1327009439,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1327009439,
+    "wof:lastmodified":1537665490,
+    "wof:name":"Konmaw Thagan",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.85006,
+    12.31375,
+    98.85006,
+    12.31375
+],
+  "geometry": {"coordinates":[98.85006,12.31375],"type":"Point"}
+}

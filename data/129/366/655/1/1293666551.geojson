@@ -1,0 +1,69 @@
+{
+  "id": 1293666551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.39252,22.86223,99.39252,22.86223",
+    "geom:latitude":22.86223,
+    "geom:longitude":99.39252,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015007",
+    "gn:asciiname":"Yawngbre",
+    "gn:country_code":"MM",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285710,
+    "gn:latitude":22.86223,
+    "gn:longitude":99.39252,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yawngbre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285710
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"33f9f699ac7e25a79496a5c4c147fd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1293666551,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293666551,
+    "wof:lastmodified":1537025089,
+    "wof:name":"Yawngbre",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.39252,
+    22.86223,
+    99.39252,
+    22.86223
+],
+  "geometry": {"coordinates":[99.39252,22.86223],"type":"Point"}
+}

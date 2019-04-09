@@ -1,0 +1,73 @@
+{
+  "id": 1193256823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.69701,23.76812,95.69701,23.76812",
+    "geom:latitude":23.76812,
+    "geom:longitude":95.69701,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Da-taunggon-ywa",
+    "gn:country_code":"MM",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326805,
+    "gn:latitude":23.76812,
+    "gn:longitude":95.69701,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Da-taunggon-ywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da-taunggon",
+        "Da-taunggon-ywa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326805
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aacf88ed7193dda509ceb684e265c23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1193256823,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1193256823,
+    "wof:lastmodified":1537665537,
+    "wof:name":"Da-taunggon-ywa",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.69701,
+    23.76812,
+    95.69701,
+    23.76812
+],
+  "geometry": {"coordinates":[95.69701000000001,23.76812],"type":"Point"}
+}

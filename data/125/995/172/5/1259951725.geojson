@@ -1,0 +1,69 @@
+{
+  "id": 1259951725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.46667,18.58333,96.46667,18.58333",
+    "geom:latitude":18.58333,
+    "geom:longitude":96.46667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007012",
+    "gn:asciiname":"Kyu-in",
+    "gn:country_code":"MM",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315677,
+    "gn:latitude":18.58333,
+    "gn:longitude":96.46667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyu-in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315677
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1fa3d07f79a867e49a7b05295b519b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1259951725,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1259951725,
+    "wof:lastmodified":1536680924,
+    "wof:name":"Kyu-in",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.46667,
+    18.58333,
+    96.46667,
+    18.58333
+],
+  "geometry": {"coordinates":[96.46666999999999,18.58333],"type":"Point"}
+}

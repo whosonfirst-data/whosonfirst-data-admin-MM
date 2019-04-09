@@ -1,0 +1,73 @@
+{
+  "id": 1259656415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.01592,21.31122,95.01592,21.31122",
+    "geom:latitude":21.31122,
+    "geom:longitude":95.01592,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009018",
+    "gn:asciiname":"Kyunyogyi",
+    "gn:country_code":"MM",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315494,
+    "gn:latitude":21.31122,
+    "gn:longitude":95.01592,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyunyogyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyunnyogyi",
+        "Kyunyogyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315494
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3a2a68bdd81c52e2e8ca2dd8aa4f586c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1259656415,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1259656415,
+    "wof:lastmodified":1537665471,
+    "wof:name":"Kyunyogyi",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.01592,
+    21.31122,
+    95.01592,
+    21.31122
+],
+  "geometry": {"coordinates":[95.01591999999999,21.31122],"type":"Point"}
+}

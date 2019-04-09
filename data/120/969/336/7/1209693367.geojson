@@ -1,0 +1,63 @@
+{
+  "id": 1209693367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.15643,21.93902,99.15643,21.93902",
+    "geom:latitude":21.93902,
+    "geom:longitude":99.15643,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016003",
+    "gn:asciiname":"Wan Muenhkammun",
+    "gn:country_code":"MM",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288031,
+    "gn:latitude":21.93902,
+    "gn:longitude":99.15643,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n M\u00fcnhkamm\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288031
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"14e768811f12cfe7266c1a4d10b09466",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693367
+        }
+    ],
+    "wof:id":1209693367,
+    "wof:lastmodified":1536279162,
+    "wof:name":"Wan Muenhkammun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.15643,
+    21.939020000000006,
+    99.15643,
+    21.939020000000006
+],
+  "geometry": {"coordinates":[99.15643,21.93902000000001],"type":"Point"}
+}

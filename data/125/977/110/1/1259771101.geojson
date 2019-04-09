@@ -1,0 +1,69 @@
+{
+  "id": 1259771101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.6363,21.56457,98.6363,21.56457",
+    "geom:latitude":21.56457,
+    "geom:longitude":98.6363,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Wan Ta-sing",
+    "gn:country_code":"MM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286920,
+    "gn:latitude":21.56457,
+    "gn:longitude":98.6363,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n T\u0101-sing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286920
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b4249d405ebd76f70f48270e71637033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1259771101,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259771101,
+    "wof:lastmodified":1536941597,
+    "wof:name":"Wan Ta-sing",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.6363,
+    21.56457,
+    98.6363,
+    21.56457
+],
+  "geometry": {"coordinates":[98.63630000000001,21.56457],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293765645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.74097,18.46467,96.74097,18.46467",
+    "geom:latitude":18.46467,
+    "geom:longitude":96.74097,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Mepok Ale",
+    "gn:country_code":"MM",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309621,
+    "gn:latitude":18.46467,
+    "gn:longitude":96.74097,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00e8pok Ale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sizongon",
+        "M\u00e8b\u00f4k Adet",
+        "M\u00e8b\u00f4k Al\u00e8",
+        "M\u00e8pok Ale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309621
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ad7563ba1b2bb8f8e5d6ff66db15737b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1293765645,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1293765645,
+    "wof:lastmodified":1537665439,
+    "wof:name":"Mepok Ale",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.74097,
+    18.46467,
+    96.74097,
+    18.46467
+],
+  "geometry": {"coordinates":[96.74097,18.46467],"type":"Point"}
+}

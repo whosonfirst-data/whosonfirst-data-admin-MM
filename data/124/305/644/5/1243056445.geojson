@@ -1,0 +1,70 @@
+{
+  "id": 1243056445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.03505,24.73521,95.03505,24.73521",
+    "geom:latitude":24.73521,
+    "geom:longitude":95.03505,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Mongkun",
+    "gn:country_code":"MM",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308693,
+    "gn:latitude":24.73521,
+    "gn:longitude":95.03505,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mongkun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308693,
+        "wk:page":"Mongkun"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"04be64b820d1c49247f2c9d44846c8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1243056445,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243056445,
+    "wof:lastmodified":1537568480,
+    "wof:name":"Mongkun",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.03505,
+    24.73521,
+    95.03505,
+    24.73521
+],
+  "geometry": {"coordinates":[95.03505,24.73521],"type":"Point"}
+}

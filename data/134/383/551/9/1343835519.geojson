@@ -1,0 +1,73 @@
+{
+  "id": 1343835519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.4581,23.40121,97.4581,23.40121",
+    "geom:latitude":23.40121,
+    "geom:longitude":97.4581,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015019",
+    "gn:asciiname":"Pang-yak",
+    "gn:country_code":"MM",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301539,
+    "gn:latitude":23.40121,
+    "gn:longitude":97.4581,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pang-yak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pang-yok",
+        "Pang-yak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301539
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7881f7a9287f8fb02f083d159f0d393f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1343835519,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343835519,
+    "wof:lastmodified":1537665397,
+    "wof:name":"Pang-yak",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.4581,
+    23.40121,
+    97.4581,
+    23.40121
+],
+  "geometry": {"coordinates":[97.4581,23.40121],"type":"Point"}
+}

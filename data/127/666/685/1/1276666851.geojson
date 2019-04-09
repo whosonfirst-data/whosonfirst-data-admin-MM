@@ -1,0 +1,69 @@
+{
+  "id": 1276666851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.73146,19.06595,93.73146,19.06595",
+    "geom:latitude":19.06595,
+    "geom:longitude":93.73146,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012013",
+    "gn:asciiname":"Pyinnyin",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298974,
+    "gn:latitude":19.06595,
+    "gn:longitude":93.73146,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyinnyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298974
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"98765fc46673347a988040050a5fc4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1276666851,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1276666851,
+    "wof:lastmodified":1536827827,
+    "wof:name":"Pyinnyin",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.73146,
+    19.06595,
+    93.73146,
+    19.06595
+],
+  "geometry": {"coordinates":[93.73146,19.06595],"type":"Point"}
+}

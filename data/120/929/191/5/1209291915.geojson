@@ -1,0 +1,63 @@
+{
+  "id": 1209291915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.33773,20.32482,98.33773,20.32482",
+    "geom:latitude":20.32482,
+    "geom:longitude":98.33773,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014021",
+    "gn:asciiname":"Namtueng-awn",
+    "gn:country_code":"MM",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478212,
+    "gn:latitude":20.32482,
+    "gn:longitude":98.33773,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"N\u0101mt\u00fcng-awn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478212
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8f7b4ea92770723d04b58da752666535",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209291915
+        }
+    ],
+    "wof:id":1209291915,
+    "wof:lastmodified":1536291664,
+    "wof:name":"Namtueng-awn",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.33773,
+    20.324820000000006,
+    98.33773,
+    20.324820000000006
+],
+  "geometry": {"coordinates":[98.33772999999999,20.32482000000001],"type":"Point"}
+}

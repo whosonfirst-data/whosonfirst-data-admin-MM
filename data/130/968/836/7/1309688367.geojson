@@ -1,0 +1,69 @@
+{
+  "id": 1309688367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.09968,17.09098,96.09968,17.09098",
+    "geom:latitude":17.09098,
+    "geom:longitude":96.09968,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013003",
+    "gn:asciiname":"Banbwegon",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328524,
+    "gn:latitude":17.09098,
+    "gn:longitude":96.09968,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Banbwegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328524
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0fdaab959a94a632269361171eb7d1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1309688367,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1309688367,
+    "wof:lastmodified":1536600267,
+    "wof:name":"Banbwegon",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.09968,
+    17.09098,
+    96.09968,
+    17.09098
+],
+  "geometry": {"coordinates":[96.09968000000001,17.09098],"type":"Point"}
+}

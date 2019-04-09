@@ -1,0 +1,67 @@
+{
+  "id": 1209479041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.77694,17.98004,96.77694,17.98004",
+    "geom:latitude":17.98004,
+    "geom:longitude":96.77694,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007005",
+    "gn:asciiname":"Pazunmyaung",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300562,
+    "gn:latitude":17.98004,
+    "gn:longitude":96.77694,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pazunmyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paxunmyaung",
+        "Pazunmyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300562
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"532a0c09cffe0ef62bb1fb4ef6fb07aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209479041
+        }
+    ],
+    "wof:id":1209479041,
+    "wof:lastmodified":1537665392,
+    "wof:name":"Pazunmyaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.77694,
+    17.98004,
+    96.77694,
+    17.98004
+],
+  "geometry": {"coordinates":[96.77694,17.98004],"type":"Point"}
+}

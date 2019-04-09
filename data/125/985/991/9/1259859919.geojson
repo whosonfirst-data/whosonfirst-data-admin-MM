@@ -1,0 +1,69 @@
+{
+  "id": 1259859919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.64211,22.83777,98.64211,22.83777",
+    "geom:latitude":22.83777,
+    "geom:longitude":98.64211,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Yawng Nawng",
+    "gn:country_code":"MM",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285661,
+    "gn:latitude":22.83777,
+    "gn:longitude":98.64211,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yawng Nawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285661
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1c6a638bc3ce8e1c76e724aec92aa5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1259859919,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259859919,
+    "wof:lastmodified":1536812580,
+    "wof:name":"Yawng Nawng",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.64211,
+    22.83777000000001,
+    98.64211,
+    22.83777000000001
+],
+  "geometry": {"coordinates":[98.64211,22.83777000000001],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209190481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.20858,17.21098,96.20858,17.21098",
+    "geom:latitude":17.21098,
+    "geom:longitude":96.20858,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Ngazutaung",
+    "gn:country_code":"MM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480133,
+    "gn:latitude":17.21098,
+    "gn:longitude":96.20858,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngazutaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480133
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9e9b97ac45afa5064910eec5825cccff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209190481
+        }
+    ],
+    "wof:id":1209190481,
+    "wof:lastmodified":1536294952,
+    "wof:name":"Ngazutaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.20858,
+    17.21098,
+    96.20858,
+    17.21098
+],
+  "geometry": {"coordinates":[96.20858,17.21098],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276421171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.99902,21.45724,98.99902,21.45724",
+    "geom:latitude":21.45724,
+    "geom:longitude":98.99902,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016007",
+    "gn:asciiname":"Wan Na-hkawn",
+    "gn:country_code":"MM",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287965,
+    "gn:latitude":21.45724,
+    "gn:longitude":98.99902,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Na-hkawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287965
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f7931bf4940080f2c20e043a1c06b59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1276421171,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276421171,
+    "wof:lastmodified":1536661035,
+    "wof:name":"Wan Na-hkawn",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.99902,
+    21.45724,
+    98.99902,
+    21.45724
+],
+  "geometry": {"coordinates":[98.99902,21.45724],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242936959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.10234,18.2683,97.10234,18.2683",
+    "geom:latitude":18.2683,
+    "geom:longitude":97.10234,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Mawlaw",
+    "gn:country_code":"MM",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310116,
+    "gn:latitude":18.2683,
+    "gn:longitude":97.10234,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mawlaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malaw",
+        "Mawlaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310116
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ccb0597cb768d5ddc31dbf753477d952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1242936959,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1242936959,
+    "wof:lastmodified":1537665443,
+    "wof:name":"Mawlaw",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.10234,
+    18.2683,
+    97.10234,
+    18.2683
+],
+  "geometry": {"coordinates":[97.10234,18.2683],"type":"Point"}
+}

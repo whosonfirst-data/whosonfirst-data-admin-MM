@@ -1,0 +1,63 @@
+{
+  "id": 1209127827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.49949,19.72297,97.49949,19.72297",
+    "geom:latitude":19.72297,
+    "geom:longitude":97.49949,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002004",
+    "gn:asciiname":"Daw Kawle",
+    "gn:country_code":"MM",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326614,
+    "gn:latitude":19.72297,
+    "gn:longitude":97.49949,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Daw Kawl\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326614
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2d00301e8d60de69de077ef996122fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209127827
+        }
+    ],
+    "wof:id":1209127827,
+    "wof:lastmodified":1536296901,
+    "wof:name":"Daw Kawle",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.49949,
+    19.72297,
+    97.49949,
+    19.72297
+],
+  "geometry": {"coordinates":[97.49948999999999,19.72297],"type":"Point"}
+}

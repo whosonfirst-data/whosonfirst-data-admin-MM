@@ -1,0 +1,69 @@
+{
+  "id": 1243343991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.83621,21.96396,97.83621,21.96396",
+    "geom:latitude":21.96396,
+    "geom:longitude":97.83621,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Sang-wan",
+    "gn:country_code":"MM",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297994,
+    "gn:latitude":21.96396,
+    "gn:longitude":97.83621,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sang-wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297994
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2d7910711e0c6fb19dd60ba4f22a0918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1243343991,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243343991,
+    "wof:lastmodified":1536953434,
+    "wof:name":"Sang-wan",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.83621,
+    21.96396,
+    97.83621,
+    21.96396
+],
+  "geometry": {"coordinates":[97.83620999999999,21.96396],"type":"Point"}
+}

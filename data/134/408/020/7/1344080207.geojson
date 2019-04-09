@@ -1,0 +1,70 @@
+{
+  "id": 1344080207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.19046,26.19576,98.19046,26.19576",
+    "geom:latitude":26.19576,
+    "geom:longitude":98.19046,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Lawngyaw",
+    "gn:country_code":"MM",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314588,
+    "gn:latitude":26.19576,
+    "gn:longitude":98.19046,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lawngyaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314588,
+        "wk:page":"Lawngyaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ae221cfc909e920244f6f3b91272f1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1344080207,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1344080207,
+    "wof:lastmodified":1537568488,
+    "wof:name":"Lawngyaw",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.19046,
+    26.19576,
+    98.19046,
+    26.19576
+],
+  "geometry": {"coordinates":[98.19046,26.19576],"type":"Point"}
+}

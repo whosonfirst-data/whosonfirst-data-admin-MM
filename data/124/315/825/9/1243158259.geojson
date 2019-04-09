@@ -1,0 +1,69 @@
+{
+  "id": 1243158259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.28544,16.77504,97.28544,16.77504",
+    "geom:latitude":16.77504,
+    "geom:longitude":97.28544,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011008",
+    "gn:asciiname":"Kangyisu",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320671,
+    "gn:latitude":16.77504,
+    "gn:longitude":97.28544,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kangyisu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320671
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ee338d5445591298396fbf9c99312ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1243158259,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1243158259,
+    "wof:lastmodified":1536724436,
+    "wof:name":"Kangyisu",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.28544,
+    16.77504,
+    97.28544,
+    16.77504
+],
+  "geometry": {"coordinates":[97.28543999999999,16.77504],"type":"Point"}
+}

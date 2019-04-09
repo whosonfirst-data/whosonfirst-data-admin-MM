@@ -1,0 +1,73 @@
+{
+  "id": 1242936971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.04466,17.62055,97.04466,17.62055",
+    "geom:latitude":17.62055,
+    "geom:longitude":97.04466,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Terkyikhi",
+    "gn:country_code":"MM",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293094,
+    "gn:latitude":17.62055,
+    "gn:longitude":97.04466,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Terkyikhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teinkyiki",
+        "Terkyikhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293094
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d2f52fe5568596c6bef640704e81cb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1242936971,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1242936971,
+    "wof:lastmodified":1537665353,
+    "wof:name":"Terkyikhi",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.04466,
+    17.62055,
+    97.04466,
+    17.62055
+],
+  "geometry": {"coordinates":[97.04465999999999,17.62055],"type":"Point"}
+}

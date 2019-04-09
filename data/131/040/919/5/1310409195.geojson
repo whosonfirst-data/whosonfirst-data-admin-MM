@@ -1,0 +1,65 @@
+{
+  "id": 1310409195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.92172,20.24197,92.92172,20.24197",
+    "geom:latitude":20.24197,
+    "geom:longitude":92.92172,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D001",
+    "gn:admin3_code":"MMR012002",
+    "gn:asciiname":"Sabata",
+    "gn:country_code":"MM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298632,
+    "gn:latitude":20.24197,
+    "gn:longitude":92.92172,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sabata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298632
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"776ff6c18a461b306831f6354c1ef081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310409195,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310409195,
+    "wof:lastmodified":1537053605,
+    "wof:name":"Sabata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.92172,
+    20.24197,
+    92.92172,
+    20.24197
+],
+  "geometry": {"coordinates":[92.92171999999999,20.24197],"type":"Point"}
+}

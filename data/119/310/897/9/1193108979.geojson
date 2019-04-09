@@ -1,0 +1,73 @@
+{
+  "id": 1193108979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.16238,17.60744,97.16238,17.60744",
+    "geom:latitude":17.60744,
+    "geom:longitude":97.16238,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Mekakhi",
+    "gn:country_code":"MM",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309770,
+    "gn:latitude":17.60744,
+    "gn:longitude":97.16238,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mekakhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e8kaki",
+        "Mekakhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309770
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fd420745625692aee8a50f38ea7d1e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1193108979,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1193108979,
+    "wof:lastmodified":1537665440,
+    "wof:name":"Mekakhi",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.16238,
+    17.60744,
+    97.16238,
+    17.60744
+],
+  "geometry": {"coordinates":[97.16238,17.60744],"type":"Point"}
+}

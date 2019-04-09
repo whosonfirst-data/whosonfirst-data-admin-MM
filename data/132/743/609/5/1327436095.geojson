@@ -1,0 +1,73 @@
+{
+  "id": 1327436095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.55171,17.5901,97.55171,17.5901",
+    "geom:latitude":17.5901,
+    "geom:longitude":97.55171,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Bawkyawhta",
+    "gn:country_code":"MM",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328334,
+    "gn:latitude":17.5901,
+    "gn:longitude":97.55171,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bawkyawhta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aungleba",
+        "Bawkyawhta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328334
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7b47a2b3a305306077325069ee9f5663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1327436095,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1327436095,
+    "wof:lastmodified":1537665545,
+    "wof:name":"Bawkyawhta",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.55171,
+    17.5901,
+    97.55171,
+    17.5901
+],
+  "geometry": {"coordinates":[97.55171,17.5901],"type":"Point"}
+}

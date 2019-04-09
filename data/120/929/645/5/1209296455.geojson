@@ -1,0 +1,67 @@
+{
+  "id": 1209296455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.75843,18.10256,95.75843,18.10256",
+    "geom:latitude":18.10256,
+    "geom:longitude":95.75843,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008010",
+    "gn:asciiname":"Gonminsho",
+    "gn:country_code":"MM",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325871,
+    "gn:latitude":18.10256,
+    "gn:longitude":95.75843,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gonminsho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonminshol",
+        "Gonminsho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325871
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f38158fa1ce5133b98d1eb8b8aa8f3df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209296455
+        }
+    ],
+    "wof:id":1209296455,
+    "wof:lastmodified":1537665533,
+    "wof:name":"Gonminsho",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.75843,
+    18.10256,
+    95.75843,
+    18.10256
+],
+  "geometry": {"coordinates":[95.75843,18.10256],"type":"Point"}
+}

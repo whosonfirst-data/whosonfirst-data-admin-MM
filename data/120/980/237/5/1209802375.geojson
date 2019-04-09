@@ -1,0 +1,69 @@
+{
+  "id": 1209802375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.05355,12.36255,99.05355,12.36255",
+    "geom:latitude":12.36255,
+    "geom:longitude":99.05355,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006008",
+    "gn:asciiname":"Ponchaung",
+    "gn:country_code":"MM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299747,
+    "gn:latitude":12.36255,
+    "gn:longitude":99.05355,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ponchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299747
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1a32819a75cee986a734e36178bc37f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1209802375,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1209802375,
+    "wof:lastmodified":1536390131,
+    "wof:name":"Ponchaung",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.05355,
+    12.36255,
+    99.05355,
+    12.36255
+],
+  "geometry": {"coordinates":[99.05355,12.36255],"type":"Point"}
+}

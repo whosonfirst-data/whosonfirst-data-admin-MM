@@ -1,0 +1,69 @@
+{
+  "id": 1327226955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.5787,16.77866,97.5787,16.77866",
+    "geom:latitude":16.77866,
+    "geom:longitude":97.5787,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003001",
+    "gn:asciiname":"Thittogon",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291252,
+    "gn:latitude":16.77866,
+    "gn:longitude":97.5787,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thittogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291252
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e4db7eb1d06cd2e0eea72f0dfd1ca936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1327226955,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1327226955,
+    "wof:lastmodified":1536976916,
+    "wof:name":"Thittogon",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.5787,
+    16.77866,
+    97.5787,
+    16.77866
+],
+  "geometry": {"coordinates":[97.5787,16.77866],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209686995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.53021,16.35903,97.53021,16.35903",
+    "geom:latitude":16.35903,
+    "geom:longitude":97.53021,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011003",
+    "gn:asciiname":"Tagukana",
+    "gn:country_code":"MM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464318,
+    "gn:latitude":16.35903,
+    "gn:longitude":97.53021,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tagukana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464318
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"21626dec87397cb7103a5b37477a585b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209686995
+        }
+    ],
+    "wof:id":1209686995,
+    "wof:lastmodified":1536279376,
+    "wof:name":"Tagukana",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.53021,
+    16.359029999999994,
+    97.53021,
+    16.359029999999994
+],
+  "geometry": {"coordinates":[97.53021,16.35902999999999],"type":"Point"}
+}

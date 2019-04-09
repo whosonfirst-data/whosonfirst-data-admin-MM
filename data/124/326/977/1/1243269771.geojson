@@ -1,0 +1,74 @@
+{
+  "id": 1243269771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.32944,25.88066,98.32944,25.88066",
+    "geom:latitude":25.88066,
+    "geom:longitude":98.32944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Taiawhtu",
+    "gn:country_code":"MM",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295099,
+    "gn:latitude":25.88066,
+    "gn:longitude":98.32944,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taiawhtu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tajawhtu",
+        "Taiawhtu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295099,
+        "wk:page":"Taiawhtu"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"81776a918cbe066c4bae7402e05ae234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1243269771,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243269771,
+    "wof:lastmodified":1537665363,
+    "wof:name":"Taiawhtu",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.32944,
+    25.88066,
+    98.32944,
+    25.88066
+],
+  "geometry": {"coordinates":[98.32944000000001,25.88066],"type":"Point"}
+}

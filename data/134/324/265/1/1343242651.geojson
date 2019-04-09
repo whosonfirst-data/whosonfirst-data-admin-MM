@@ -1,0 +1,73 @@
+{
+  "id": 1343242651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.85112,22.18122,96.85112,22.18122",
+    "geom:latitude":22.18122,
+    "geom:longitude":96.85112,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Shwe-mote-htaw",
+    "gn:country_code":"MM",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296525,
+    "gn:latitude":22.18122,
+    "gn:longitude":96.85112,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwe-mote-htaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shwe-mot-htaw",
+        "Shwe-mote-htaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296525
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bd201e3abfc1673f5469979ea15964eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1343242651,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343242651,
+    "wof:lastmodified":1537665371,
+    "wof:name":"Shwe-mote-htaw",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.85112,
+    22.18122,
+    96.85112,
+    22.18122
+],
+  "geometry": {"coordinates":[96.85111999999999,22.18122],"type":"Point"}
+}

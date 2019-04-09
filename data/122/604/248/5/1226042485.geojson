@@ -1,0 +1,70 @@
+{
+  "id": 1226042485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.8163,27.50032,97.8163,27.50032",
+    "geom:latitude":27.50032,
+    "geom:longitude":97.8163,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001017",
+    "gn:asciiname":"Nogmung",
+    "gn:country_code":"MM",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304034,
+    "gn:latitude":27.50032,
+    "gn:longitude":97.8163,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nogmung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304034,
+        "wk:page":"Nogmung"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5fd610a3289b56dd71faf923c12f2708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1226042485,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226042485,
+    "wof:lastmodified":1537568471,
+    "wof:name":"Nogmung",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.8163,
+    27.50032,
+    97.8163,
+    27.50032
+],
+  "geometry": {"coordinates":[97.8163,27.50032],"type":"Point"}
+}

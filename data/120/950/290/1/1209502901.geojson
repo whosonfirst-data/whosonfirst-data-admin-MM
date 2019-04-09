@@ -1,0 +1,63 @@
+{
+  "id": 1209502901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.68811,20.69862,96.68811,20.69862",
+    "geom:latitude":20.69862,
+    "geom:longitude":96.68811,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014005",
+    "gn:asciiname":"Nanthun",
+    "gn:country_code":"MM",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305976,
+    "gn:latitude":20.69862,
+    "gn:longitude":96.68811,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nanthun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305976
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"64d1f3db34ff3ee992f0d632f705cbb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209502901
+        }
+    ],
+    "wof:id":1209502901,
+    "wof:lastmodified":1536285124,
+    "wof:name":"Nanthun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.68811,
+    20.69862,
+    96.68811,
+    20.69862
+],
+  "geometry": {"coordinates":[96.68810999999999,20.69862],"type":"Point"}
+}

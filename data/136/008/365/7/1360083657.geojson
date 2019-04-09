@@ -1,0 +1,69 @@
+{
+  "id": 1360083657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.38219,17.96507,97.38219,17.96507",
+    "geom:latitude":17.96507,
+    "geom:longitude":97.38219,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Urekhi",
+    "gn:country_code":"MM",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290183,
+    "gn:latitude":17.96507,
+    "gn:longitude":97.38219,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Urekhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290183
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"66c3974f451ff171228a92e771fcc65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1360083657,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1360083657,
+    "wof:lastmodified":1536948086,
+    "wof:name":"Urekhi",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.38219,
+    17.96507,
+    97.38219,
+    17.96507
+],
+  "geometry": {"coordinates":[97.38218999999999,17.96507],"type":"Point"}
+}

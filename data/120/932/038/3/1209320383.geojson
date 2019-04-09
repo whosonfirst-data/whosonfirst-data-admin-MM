@@ -1,0 +1,63 @@
+{
+  "id": 1209320383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.89535,25.91394,96.89535,25.91394",
+    "geom:latitude":25.91394,
+    "geom:longitude":96.89535,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Tanaibum Ga",
+    "gn:country_code":"MM",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294741,
+    "gn:latitude":25.91394,
+    "gn:longitude":96.89535,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tanaibum Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294741
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"395ce685979c6741827fbc8a808e8227",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209320383
+        }
+    ],
+    "wof:id":1209320383,
+    "wof:lastmodified":1536290716,
+    "wof:name":"Tanaibum Ga",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.89535,
+    25.91394,
+    96.89535,
+    25.91394
+],
+  "geometry": {"coordinates":[96.89534999999999,25.91394],"type":"Point"}
+}

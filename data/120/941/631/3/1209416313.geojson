@@ -1,0 +1,63 @@
+{
+  "id": 1209416313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.13068,16.99848,95.13068,16.99848",
+    "geom:latitude":16.99848,
+    "geom:longitude":95.13068,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017007",
+    "gn:asciiname":"Bilin",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328201,
+    "gn:latitude":16.99848,
+    "gn:longitude":95.13068,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328201
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d3b1ee2e05f1d423097d8985cbc1c282",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209416313
+        }
+    ],
+    "wof:id":1209416313,
+    "wof:lastmodified":1536287677,
+    "wof:name":"Bilin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.13068,
+    16.998479999999994,
+    95.13068,
+    16.998479999999994
+],
+  "geometry": {"coordinates":[95.13068,16.99847999999999],"type":"Point"}
+}

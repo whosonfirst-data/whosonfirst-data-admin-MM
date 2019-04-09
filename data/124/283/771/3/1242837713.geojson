@@ -1,0 +1,69 @@
+{
+  "id": 1242837713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.28211,16.73494,96.28211,16.73494",
+    "geom:latitude":16.73494,
+    "geom:longitude":96.28211,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013023",
+    "gn:asciiname":"Kannyinbingyaung",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6262501,
+    "gn:latitude":16.73494,
+    "gn:longitude":96.28211,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kannyinbingyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6262501
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5692a2cbd514099d45444b71db284e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1242837713,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1242837713,
+    "wof:lastmodified":1536689225,
+    "wof:name":"Kannyinbingyaung",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.28211,
+    16.73494,
+    96.28211,
+    16.73494
+],
+  "geometry": {"coordinates":[96.28211,16.73494],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1225924441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9035,21.44779,100.9035,21.44779",
+    "geom:latitude":21.44779,
+    "geom:longitude":100.9035,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Sa-inta",
+    "gn:country_code":"MM",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847165,
+    "gn:latitude":21.44779,
+    "gn:longitude":100.9035,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Sa-inta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847165
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7b80cdd33a1abf510802a45a6476e391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1225924441,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225924441,
+    "wof:lastmodified":1536900278,
+    "wof:name":"Wan Sa-inta",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9035,
+    21.44779,
+    100.9035,
+    21.44779
+],
+  "geometry": {"coordinates":[100.90349999999999,21.44779],"type":"Point"}
+}

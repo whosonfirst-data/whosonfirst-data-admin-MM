@@ -1,0 +1,64 @@
+{
+  "id": 1209208701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.85628,24.1867,95.85628,24.1867",
+    "geom:latitude":24.1867,
+    "geom:longitude":95.85628,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Peinnebin",
+    "gn:country_code":"MM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300379,
+    "gn:latitude":24.1867,
+    "gn:longitude":95.85628,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Peinnebin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300379,
+        "wk:page":"Peinnebin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b01a688aa3b2df561bfcc23fac237924",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209208701
+        }
+    ],
+    "wof:id":1209208701,
+    "wof:lastmodified":1537568466,
+    "wof:name":"Peinnebin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.85628,
+    24.1867,
+    95.85628,
+    24.1867
+],
+  "geometry": {"coordinates":[95.85628,24.1867],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293377775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.01095,22.68809,98.01095,22.68809",
+    "geom:latitude":22.68809,
+    "geom:longitude":98.01095,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015003",
+    "gn:asciiname":"Holan",
+    "gn:country_code":"MM",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324092,
+    "gn:latitude":22.68809,
+    "gn:longitude":98.01095,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Holan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324092
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d5937fd46163cdaed1fb9ff99ba99194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1293377775,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293377775,
+    "wof:lastmodified":1536945623,
+    "wof:name":"Holan",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.01095,
+    22.68809,
+    98.01095,
+    22.68809
+],
+  "geometry": {"coordinates":[98.01094999999999,22.68809],"type":"Point"}
+}

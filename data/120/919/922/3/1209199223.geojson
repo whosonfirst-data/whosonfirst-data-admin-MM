@@ -1,0 +1,63 @@
+{
+  "id": 1209199223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.88847,20.97936,94.88847,20.97936",
+    "geom:latitude":20.97936,
+    "geom:longitude":94.88847,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010022",
+    "gn:asciiname":"Legan",
+    "gn:country_code":"MM",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314409,
+    "gn:latitude":20.97936,
+    "gn:longitude":94.88847,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Legan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314409
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6167b5605f191a65874f515a59568302",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209199223
+        }
+    ],
+    "wof:id":1209199223,
+    "wof:lastmodified":1536294668,
+    "wof:name":"Legan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.88847,
+    20.97936,
+    94.88847,
+    20.97936
+],
+  "geometry": {"coordinates":[94.88847,20.97936],"type":"Point"}
+}

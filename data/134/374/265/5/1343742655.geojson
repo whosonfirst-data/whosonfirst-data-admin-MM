@@ -1,0 +1,69 @@
+{
+  "id": 1343742655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.36118,21.11365,97.36118,21.11365",
+    "geom:latitude":21.11365,
+    "geom:longitude":97.36118,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014011",
+    "gn:asciiname":"Paw Noi",
+    "gn:country_code":"MM",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300809,
+    "gn:latitude":21.11365,
+    "gn:longitude":97.36118,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paw Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300809
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e0008837330705ce8c9baeefd05f410c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1343742655,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343742655,
+    "wof:lastmodified":1536835553,
+    "wof:name":"Paw Noi",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.36118,
+    21.11365,
+    97.36118,
+    21.11365
+],
+  "geometry": {"coordinates":[97.36118,21.11365],"type":"Point"}
+}

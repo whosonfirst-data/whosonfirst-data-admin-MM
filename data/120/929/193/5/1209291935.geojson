@@ -1,0 +1,67 @@
+{
+  "id": 1209291935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.89672,19.66436,97.89672,19.66436",
+    "geom:latitude":19.66436,
+    "geom:longitude":97.89672,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Wan Htungpa-ka",
+    "gn:country_code":"MM",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289015,
+    "gn:latitude":19.66436,
+    "gn:longitude":97.89672,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Htungpa-ka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Htungha-ka",
+        "W\u0101n Htungpa-ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289015
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"57099885e87230f2f44ce32e469ee797",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209291935
+        }
+    ],
+    "wof:id":1209291935,
+    "wof:lastmodified":1537665328,
+    "wof:name":"Wan Htungpa-ka",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.89672,
+    19.66436,
+    97.89672,
+    19.66436
+],
+  "geometry": {"coordinates":[97.89672,19.66436],"type":"Point"}
+}

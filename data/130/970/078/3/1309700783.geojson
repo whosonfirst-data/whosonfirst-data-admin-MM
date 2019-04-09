@@ -1,0 +1,67 @@
+{
+  "id": 1309700783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.44678,21.3551,94.44678,21.3551",
+    "geom:latitude":21.3551,
+    "geom:longitude":94.44678,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kaingle",
+    "gn:country_code":"MM",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8433538,
+    "gn:latitude":21.3551,
+    "gn:longitude":94.44678,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Kaingle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8433538
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ae197d5e9dd835be584a031394873fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1309700783,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1309700783,
+    "wof:lastmodified":1537079408,
+    "wof:name":"Kaingle",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.44678,
+    21.3551,
+    94.44678,
+    21.3551
+],
+  "geometry": {"coordinates":[94.44678,21.3551],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209721373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.19154,24.3833,97.19154,24.3833",
+    "geom:latitude":24.3833,
+    "geom:longitude":97.19154,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Longjung",
+    "gn:country_code":"MM",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313124,
+    "gn:latitude":24.3833,
+    "gn:longitude":97.19154,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Longjung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313124,
+        "wk:page":"Longjung"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"92512c82d7f000a23331327e74024648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1209721373,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209721373,
+    "wof:lastmodified":1537568487,
+    "wof:name":"Longjung",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.19154,
+    24.3833,
+    97.19154,
+    24.3833
+],
+  "geometry": {"coordinates":[97.19154,24.3833],"type":"Point"}
+}

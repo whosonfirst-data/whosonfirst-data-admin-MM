@@ -1,0 +1,73 @@
+{
+  "id": 1226323195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.41036,22.15013,97.41036,22.15013",
+    "geom:latitude":22.15013,
+    "geom:longitude":97.41036,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Koenghsatapi",
+    "gn:country_code":"MM",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318540,
+    "gn:latitude":22.15013,
+    "gn:longitude":97.41036,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"K\u00f6nghsatapi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6nghs\u0101-ta-pa",
+        "K\u00f6nghsatapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318540
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9ccf8b408e7f2ab46ee0229ff37e6a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1226323195,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226323195,
+    "wof:lastmodified":1537665491,
+    "wof:name":"Koenghsatapi",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.41036,
+    22.15013,
+    97.41036,
+    22.15013
+],
+  "geometry": {"coordinates":[97.41036,22.15013],"type":"Point"}
+}

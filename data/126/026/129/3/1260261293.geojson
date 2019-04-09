@@ -1,0 +1,69 @@
+{
+  "id": 1260261293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.52729,23.00552,95.52729,23.00552",
+    "geom:latitude":23.00552,
+    "geom:longitude":95.52729,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005007",
+    "gn:asciiname":"Nyaungzin",
+    "gn:country_code":"MM",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303302,
+    "gn:latitude":23.00552,
+    "gn:longitude":95.52729,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaungzin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303302
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"da8aa60bed880e4cbe9f2813a69e2d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1260261293,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260261293,
+    "wof:lastmodified":1536741686,
+    "wof:name":"Nyaungzin",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.52729,
+    23.00552,
+    95.52729,
+    23.00552
+],
+  "geometry": {"coordinates":[95.52728999999999,23.00552],"type":"Point"}
+}

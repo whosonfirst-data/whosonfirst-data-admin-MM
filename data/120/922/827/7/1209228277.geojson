@@ -1,0 +1,63 @@
+{
+  "id": 1209228277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.39313,18.50189,94.39313,18.50189",
+    "geom:latitude":18.50189,
+    "geom:longitude":94.39313,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012015",
+    "gn:asciiname":"Zigon",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283874,
+    "gn:latitude":18.50189,
+    "gn:longitude":94.39313,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283874
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6e45bb7c3b2eb247ca2065559b846fd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209228277
+        }
+    ],
+    "wof:id":1209228277,
+    "wof:lastmodified":1536293723,
+    "wof:name":"Zigon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.39313,
+    18.50189,
+    94.39313,
+    18.50189
+],
+  "geometry": {"coordinates":[94.39313,18.50189],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209502943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.10523,19.7656,97.10523,19.7656",
+    "geom:latitude":19.7656,
+    "geom:longitude":97.10523,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014010",
+    "gn:asciiname":"La-le",
+    "gn:country_code":"MM",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314990,
+    "gn:latitude":19.7656,
+    "gn:longitude":97.10523,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"La-l\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314990
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"81d3547823fcfe1e4cc25c41c3e43bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209502943
+        }
+    ],
+    "wof:id":1209502943,
+    "wof:lastmodified":1536285123,
+    "wof:name":"La-le",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.10523,
+    19.7656,
+    97.10523,
+    19.7656
+],
+  "geometry": {"coordinates":[97.10523000000001,19.7656],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293762137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.25015,22.93117,95.25015,22.93117",
+    "geom:latitude":22.93117,
+    "geom:longitude":95.25015,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Kyetsugan",
+    "gn:country_code":"MM",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316088,
+    "gn:latitude":22.93117,
+    "gn:longitude":95.25015,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyetsugan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyetsugon",
+        "Kyetsugen",
+        "Kyetsugan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316088
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"df49c7856c9375f9c7d36cb1d493a364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1293762137,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293762137,
+    "wof:lastmodified":1537665475,
+    "wof:name":"Kyetsugan",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.25015,
+    22.93117,
+    95.25015,
+    22.93117
+],
+  "geometry": {"coordinates":[95.25015,22.93117],"type":"Point"}
+}

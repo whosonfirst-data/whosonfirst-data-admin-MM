@@ -1,0 +1,74 @@
+{
+  "id": 1343260509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.3499,18.13572,97.3499,18.13572",
+    "geom:latitude":18.13572,
+    "geom:longitude":97.3499,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Lowakodo",
+    "gn:country_code":"MM",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312979,
+    "gn:latitude":18.13572,
+    "gn:longitude":97.3499,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lowakodo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lowakedo",
+        "Lowakdo",
+        "Lowakodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312979
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b7a1964fc90b745091f15b156eef970d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1343260509,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1343260509,
+    "wof:lastmodified":1537665458,
+    "wof:name":"Lowakodo",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.3499,
+    18.13572000000001,
+    97.3499,
+    18.13572000000001
+],
+  "geometry": {"coordinates":[97.34990000000001,18.13572000000001],"type":"Point"}
+}

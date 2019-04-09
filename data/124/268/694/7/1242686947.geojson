@@ -1,0 +1,63 @@
+{
+  "id": 1242686947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.5311,19.49722,93.5311,19.49722",
+    "geom:latitude":19.49722,
+    "geom:longitude":93.5311,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012011",
+    "gn:asciiname":"Tankharo",
+    "gn:country_code":"MM",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294518,
+    "gn:latitude":19.49722,
+    "gn:longitude":93.5311,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tankharo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294518
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"84242b4c32b0481d4e5617594338e05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242686947,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242686947,
+    "wof:lastmodified":1536906426,
+    "wof:name":"Tankharo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.5311,
+    19.49722,
+    93.5311,
+    19.49722
+],
+  "geometry": {"coordinates":[93.5311,19.49722],"type":"Point"}
+}

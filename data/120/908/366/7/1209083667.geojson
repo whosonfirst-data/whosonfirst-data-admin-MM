@@ -1,0 +1,63 @@
+{
+  "id": 1209083667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.66378,20.72394,97.66378,20.72394",
+    "geom:latitude":20.72394,
+    "geom:longitude":97.66378,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014013",
+    "gn:asciiname":"Nalongpuheng",
+    "gn:country_code":"MM",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307226,
+    "gn:latitude":20.72394,
+    "gn:longitude":97.66378,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"N\u0101longpuheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307226
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cd89b0f0e653f0961d01627110fc97b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209083667
+        }
+    ],
+    "wof:id":1209083667,
+    "wof:lastmodified":1536298256,
+    "wof:name":"Nalongpuheng",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.66378,
+    20.72394,
+    97.66378,
+    20.72394
+],
+  "geometry": {"coordinates":[97.66378,20.72394],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343646445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.38982,22.9022,96.38982,22.9022",
+    "geom:latitude":22.9022,
+    "geom:longitude":96.38982,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010011",
+    "gn:asciiname":"Ye-e",
+    "gn:country_code":"MM",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285389,
+    "gn:latitude":22.9022,
+    "gn:longitude":96.38982,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ye-e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285389
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a59cb50c605af49e574099be785e4528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1343646445,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343646445,
+    "wof:lastmodified":1536974789,
+    "wof:name":"Ye-e",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.38982,
+    22.9022,
+    96.38982,
+    22.9022
+],
+  "geometry": {"coordinates":[96.38982,22.9022],"type":"Point"}
+}

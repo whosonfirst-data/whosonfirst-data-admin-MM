@@ -1,0 +1,63 @@
+{
+  "id": 1209210405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.3615,21.90009,96.3615,21.90009",
+    "geom:latitude":21.90009,
+    "geom:longitude":96.3615,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010008",
+    "gn:asciiname":"Thon-daung-ywa-ma",
+    "gn:country_code":"MM",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291204,
+    "gn:latitude":21.90009,
+    "gn:longitude":96.3615,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thon-daung-ywa-ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291204
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dc9a0bdd496d1729f2fe75151387fa28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209210405
+        }
+    ],
+    "wof:id":1209210405,
+    "wof:lastmodified":1536294310,
+    "wof:name":"Thon-daung-ywa-ma",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.3615,
+    21.90009,
+    96.3615,
+    21.90009
+],
+  "geometry": {"coordinates":[96.36150000000001,21.90009],"type":"Point"}
+}

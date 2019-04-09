@@ -1,0 +1,63 @@
+{
+  "id": 1209088335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.72589,17.91405,96.72589,17.91405",
+    "geom:latitude":17.91405,
+    "geom:longitude":96.72589,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007005",
+    "gn:asciiname":"Sanpe",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297932,
+    "gn:latitude":17.91405,
+    "gn:longitude":96.72589,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sanpe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297932
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d63597f941c82bf8fe465630465454ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209088335
+        }
+    ],
+    "wof:id":1209088335,
+    "wof:lastmodified":1536298114,
+    "wof:name":"Sanpe",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.72589,
+    17.91405,
+    96.72589,
+    17.91405
+],
+  "geometry": {"coordinates":[96.72589000000001,17.91405],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260291745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.63238,17.15269,95.63238,17.15269",
+    "geom:latitude":17.15269,
+    "geom:longitude":95.63238,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017022",
+    "gn:asciiname":"Thabyugyaung",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292841,
+    "gn:latitude":17.15269,
+    "gn:longitude":95.63238,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thabyugyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292841
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3f6b48a027bbd1519012e094a949d9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1260291745,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1260291745,
+    "wof:lastmodified":1536701087,
+    "wof:name":"Thabyugyaung",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.63238,
+    17.15269,
+    95.63238,
+    17.15269
+],
+  "geometry": {"coordinates":[95.63238,17.15269],"type":"Point"}
+}

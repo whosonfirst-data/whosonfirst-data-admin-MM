@@ -1,0 +1,70 @@
+{
+  "id": 1327157687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.06723,24.29015,97.06723,24.29015",
+    "geom:latitude":24.29015,
+    "geom:longitude":97.06723,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Punoi",
+    "gn:country_code":"MM",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299390,
+    "gn:latitude":24.29015,
+    "gn:longitude":97.06723,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Punoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299390,
+        "wk:page":"Punoi"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3579d4402e9fa6b6a6575071fac2845b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1327157687,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327157687,
+    "wof:lastmodified":1537568465,
+    "wof:name":"Punoi",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.06723,
+    24.29015,
+    97.06723,
+    24.29015
+],
+  "geometry": {"coordinates":[97.06723,24.29015],"type":"Point"}
+}

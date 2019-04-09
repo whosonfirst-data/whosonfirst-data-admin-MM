@@ -1,0 +1,70 @@
+{
+  "id": 1343464449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.21791,24.44017,97.21791,24.44017",
+    "geom:latitude":24.44017,
+    "geom:longitude":97.21791,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Tawka",
+    "gn:country_code":"MM",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293525,
+    "gn:latitude":24.44017,
+    "gn:longitude":97.21791,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293525,
+        "wk:page":"Tawka"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9e11122a1a47202db35df331a782aa5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1343464449,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1343464449,
+    "wof:lastmodified":1537568456,
+    "wof:name":"Tawka",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.21791,
+    24.44017,
+    97.21791,
+    24.44017
+],
+  "geometry": {"coordinates":[97.21791,24.44017],"type":"Point"}
+}

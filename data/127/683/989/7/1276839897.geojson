@@ -1,0 +1,73 @@
+{
+  "id": 1276839897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.0388,20.24269,95.0388,20.24269",
+    "geom:latitude":20.24269,
+    "geom:longitude":95.0388,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009001",
+    "gn:asciiname":"Kangyibya",
+    "gn:country_code":"MM",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320688,
+    "gn:latitude":20.24269,
+    "gn:longitude":95.0388,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kangyibya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangyibyu",
+        "Kangyibya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320688
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d5b54be4f1ba3b2026d49176dd03049b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1276839897,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1276839897,
+    "wof:lastmodified":1537665505,
+    "wof:name":"Kangyibya",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.0388,
+    20.24269,
+    95.0388,
+    20.24269
+],
+  "geometry": {"coordinates":[95.03879999999999,20.24269],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209421925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.19949,17.92893,95.19949,17.92893",
+    "geom:latitude":17.92893,
+    "geom:longitude":95.19949,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017013",
+    "gn:asciiname":"Ainggalaw",
+    "gn:country_code":"MM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329494,
+    "gn:latitude":17.92893,
+    "gn:longitude":95.19949,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ainggalaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329494
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3c0472e761bb922dbdb546d91dba6bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209421925
+        }
+    ],
+    "wof:id":1209421925,
+    "wof:lastmodified":1536287502,
+    "wof:name":"Ainggalaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.19949,
+    17.928929999999994,
+    95.19949,
+    17.928929999999994
+],
+  "geometry": {"coordinates":[95.19949,17.92892999999999],"type":"Point"}
+}

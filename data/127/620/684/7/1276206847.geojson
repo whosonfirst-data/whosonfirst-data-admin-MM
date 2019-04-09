@@ -1,0 +1,69 @@
+{
+  "id": 1276206847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.81762,21.80498,97.81762,21.80498",
+    "geom:latitude":21.80498,
+    "geom:longitude":97.81762,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Nawngwo",
+    "gn:country_code":"MM",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304948,
+    "gn:latitude":21.80498,
+    "gn:longitude":97.81762,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawngwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304948
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"628e34625b24601b0bf99805af299391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1276206847,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276206847,
+    "wof:lastmodified":1536948873,
+    "wof:name":"Nawngwo",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.81762,
+    21.80498,
+    97.81762,
+    21.80498
+],
+  "geometry": {"coordinates":[97.81762000000001,21.80498],"type":"Point"}
+}

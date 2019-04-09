@@ -1,0 +1,73 @@
+{
+  "id": 1293755461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.09831,17.63273,97.09831,17.63273",
+    "geom:latitude":17.63273,
+    "geom:longitude":97.09831,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Htinyana",
+    "gn:country_code":"MM",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322715,
+    "gn:latitude":17.63273,
+    "gn:longitude":97.09831,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htinyana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanyana",
+        "Htinyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322715
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c319584ebb494aa7ad2fb61049ad279c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1293755461,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1293755461,
+    "wof:lastmodified":1537665516,
+    "wof:name":"Htinyana",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.09831,
+    17.63273,
+    97.09831,
+    17.63273
+],
+  "geometry": {"coordinates":[97.09831,17.63273],"type":"Point"}
+}

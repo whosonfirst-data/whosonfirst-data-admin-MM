@@ -1,0 +1,69 @@
+{
+  "id": 1243233595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.75214,20.89211,94.75214,20.89211",
+    "geom:latitude":20.89211,
+    "geom:longitude":94.75214,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009022",
+    "gn:asciiname":"Gwebingyaung",
+    "gn:country_code":"MM",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325785,
+    "gn:latitude":20.89211,
+    "gn:longitude":94.75214,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gwebingyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325785
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"97e370df862e6be052e09646ce7a36fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1243233595,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1243233595,
+    "wof:lastmodified":1536613070,
+    "wof:name":"Gwebingyaung",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.75214,
+    20.89211,
+    94.75214,
+    20.89211
+],
+  "geometry": {"coordinates":[94.75214,20.89211],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193106983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.40224,20.41432,95.40224,20.41432",
+    "geom:latitude":20.41432,
+    "geom:longitude":95.40224,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009006",
+    "gn:asciiname":"Kywemagya",
+    "gn:country_code":"MM",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315348,
+    "gn:latitude":20.41432,
+    "gn:longitude":95.40224,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kywemagya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kywemdgya",
+        "Kywemagya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315348
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e27bb4f73740dec82cd744029c7b3bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1193106983,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1193106983,
+    "wof:lastmodified":1537665470,
+    "wof:name":"Kywemagya",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.40224,
+    20.41432,
+    95.40224,
+    20.41432
+],
+  "geometry": {"coordinates":[95.40224000000001,20.41432],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209693449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.03301,20.80684,97.03301,20.80684",
+    "geom:latitude":20.80684,
+    "geom:longitude":97.03301,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014001",
+    "gn:asciiname":"Myothit",
+    "gn:country_code":"MM",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307625,
+    "gn:latitude":20.80684,
+    "gn:longitude":97.03301,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myothit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307625
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e1c17300837ea511ecd5cc1ff9a0d0be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693449
+        }
+    ],
+    "wof:id":1209693449,
+    "wof:lastmodified":1536279159,
+    "wof:name":"Myothit",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.03301,
+    20.80684,
+    97.03301,
+    20.80684
+],
+  "geometry": {"coordinates":[97.03301,20.80684],"type":"Point"}
+}

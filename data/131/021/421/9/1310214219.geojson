@@ -1,0 +1,69 @@
+{
+  "id": 1310214219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.96796,18.80826,93.96796,18.80826",
+    "geom:latitude":18.80826,
+    "geom:longitude":93.96796,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012013",
+    "gn:asciiname":"Yegaungchaung",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285353,
+    "gn:latitude":18.80826,
+    "gn:longitude":93.96796,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yegaungchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285353
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7640678e7b1047005b24089f4513aac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1310214219,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1310214219,
+    "wof:lastmodified":1536838567,
+    "wof:name":"Yegaungchaung",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.96796,
+    18.80826,
+    93.96796,
+    18.80826
+],
+  "geometry": {"coordinates":[93.96796000000001,18.80826],"type":"Point"}
+}

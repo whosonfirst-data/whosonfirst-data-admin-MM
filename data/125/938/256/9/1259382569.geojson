@@ -1,0 +1,70 @@
+{
+  "id": 1259382569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.63783,24.47697,96.63783,24.47697",
+    "geom:latitude":24.47697,
+    "geom:longitude":96.63783,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Mege",
+    "gn:country_code":"MM",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309842,
+    "gn:latitude":24.47697,
+    "gn:longitude":96.63783,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mege",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309842,
+        "wk:page":"Mege"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bf71dc972a76fab84e19ebb5bc3fbc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1259382569,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259382569,
+    "wof:lastmodified":1537568481,
+    "wof:name":"Mege",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.63783,
+    24.47697,
+    96.63783,
+    24.47697
+],
+  "geometry": {"coordinates":[96.63782999999999,24.47697],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243176677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.58333,15.5,98.58333,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":98.58333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kwisoakkhi",
+    "gn:country_code":"MM",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317519,
+    "gn:latitude":15.5,
+    "gn:longitude":98.58333,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kwisoakkhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678663,
+        1108731847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317519
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"77a6eff9bdfd38d9c3d54e0bce78703e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108731847,
+            "locality_id":1243176677,
+            "region_id":85678663
+        }
+    ],
+    "wof:id":1243176677,
+    "wof:lastmodified":1536697704,
+    "wof:name":"Kwisoakkhi",
+    "wof:parent_id":1108731847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.58333,
+    15.5,
+    98.58333,
+    15.5
+],
+  "geometry": {"coordinates":[98.58333,15.5],"type":"Point"}
+}

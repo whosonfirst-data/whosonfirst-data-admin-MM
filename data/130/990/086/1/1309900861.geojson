@@ -1,0 +1,74 @@
+{
+  "id": 1309900861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.0,26.71667,96.0,26.71667",
+    "geom:latitude":26.71667,
+    "geom:longitude":96.0,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005037",
+    "gn:asciiname":"Ringhkau Ga",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298746,
+    "gn:latitude":26.71667,
+    "gn:longitude":96.0,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ringhkau Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ringhku Ga",
+        "Ringhkau Ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298746
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fcb5ed607c9ed3441e56d7f67a15cbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1309900861,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1309900861,
+    "wof:lastmodified":1537665383,
+    "wof:name":"Ringhkau Ga",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.0,
+    26.71667,
+    96.0,
+    26.71667
+],
+  "geometry": {"coordinates":[96.0,26.71667],"type":"Point"}
+}

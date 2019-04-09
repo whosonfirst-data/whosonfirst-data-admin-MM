@@ -1,0 +1,73 @@
+{
+  "id": 1310412893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.63338,16.61956,94.63338,16.61956",
+    "geom:latitude":16.61956,
+    "geom:longitude":94.63338,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017004",
+    "gn:asciiname":"Hinogyaung",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325141,
+    "gn:latitude":16.61956,
+    "gn:longitude":94.63338,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hinogyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hinoyaung",
+        "Hinogyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325141
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b6ac0dce1498b532f3653c663f2a48d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1310412893,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1310412893,
+    "wof:lastmodified":1537665528,
+    "wof:name":"Hinogyaung",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.63338,
+    16.61956,
+    94.63338,
+    16.61956
+],
+  "geometry": {"coordinates":[94.63338,16.61956],"type":"Point"}
+}

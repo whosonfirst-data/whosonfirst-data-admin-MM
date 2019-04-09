@@ -1,0 +1,78 @@
+{
+  "id": 1343249939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.67984,23.83342,97.67984,23.83342",
+    "geom:latitude":23.83342,
+    "geom:longitude":97.67984,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015010",
+    "gn:asciiname":"Namhkam",
+    "gn:country_code":"MM",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307101,
+    "gn:latitude":23.83342,
+    "gn:longitude":97.67984,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hambkan",
+        "Nam Khan",
+        "Namkham",
+        "Nangan",
+        "Namkam",
+        "Namhkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307101,
+        "wk:page":"Namhkam_%28Shan_State%29"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"260157055a3214e14fe057310943379f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1343249939,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343249939,
+    "wof:lastmodified":1537665423,
+    "wof:name":"Namhkam",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.67984,
+    23.83342,
+    97.67984,
+    23.83342
+],
+  "geometry": {"coordinates":[97.67984,23.83342],"type":"Point"}
+}

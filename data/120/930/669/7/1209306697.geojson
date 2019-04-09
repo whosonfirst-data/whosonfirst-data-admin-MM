@@ -1,0 +1,63 @@
+{
+  "id": 1209306697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.48047,19.11979,97.48047,19.11979",
+    "geom:latitude":19.11979,
+    "geom:longitude":97.48047,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Wan Namsa-lan",
+    "gn:country_code":"MM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287734,
+    "gn:latitude":19.11979,
+    "gn:longitude":97.48047,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Namsa-lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287734
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6a78127f62fbfe103727e083c0018bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209306697
+        }
+    ],
+    "wof:id":1209306697,
+    "wof:lastmodified":1536291170,
+    "wof:name":"Wan Namsa-lan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.48047,
+    19.11979,
+    97.48047,
+    19.11979
+],
+  "geometry": {"coordinates":[97.48047,19.11979],"type":"Point"}
+}

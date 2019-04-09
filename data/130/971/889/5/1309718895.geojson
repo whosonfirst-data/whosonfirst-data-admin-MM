@@ -1,0 +1,69 @@
+{
+  "id": 1309718895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.7668,16.23649,95.7668,16.23649",
+    "geom:latitude":16.23649,
+    "geom:longitude":95.7668,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017026",
+    "gn:asciiname":"Kyonhpe",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315797,
+    "gn:latitude":16.23649,
+    "gn:longitude":95.7668,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ky\u00f4nhp\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315797
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"da733216232a4c27cae6cf6b4240787d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1309718895,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1309718895,
+    "wof:lastmodified":1537053992,
+    "wof:name":"Kyonhpe",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.7668,
+    16.23649,
+    95.7668,
+    16.23649
+],
+  "geometry": {"coordinates":[95.7668,16.23649],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310098737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.09623,18.61641,97.09623,18.61641",
+    "geom:latitude":18.61641,
+    "geom:longitude":97.09623,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Htitapolawdo",
+    "gn:country_code":"MM",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322652,
+    "gn:latitude":18.61641,
+    "gn:longitude":97.09623,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htitapolawdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hititanolawdo",
+        "Htitapolawdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322652
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d3449f27a429730d7c83e6fed34db0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1310098737,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310098737,
+    "wof:lastmodified":1537665516,
+    "wof:name":"Htitapolawdo",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.09623,
+    18.61641,
+    97.09623,
+    18.61641
+],
+  "geometry": {"coordinates":[97.09623000000001,18.61641],"type":"Point"}
+}

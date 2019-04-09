@@ -1,0 +1,63 @@
+{
+  "id": 1259346185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.19051,16.77031,96.19051,16.77031",
+    "geom:latitude":16.77031,
+    "geom:longitude":96.19051,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D002",
+    "gn:admin3_code":"MMR013017",
+    "gn:asciiname":"Mayo Basti",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481828,
+    "gn:latitude":16.77031,
+    "gn:longitude":96.19051,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mayo Basti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481828
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bd9c7e21fc6b9bb109cf27aa137e852c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259346185,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259346185,
+    "wof:lastmodified":1537053767,
+    "wof:name":"Mayo Basti",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.19051,
+    16.77031,
+    96.19051,
+    16.77031
+],
+  "geometry": {"coordinates":[96.19051,16.77031],"type":"Point"}
+}

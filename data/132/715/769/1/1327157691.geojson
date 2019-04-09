@@ -1,0 +1,70 @@
+{
+  "id": 1327157691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.2,24.25,97.2,24.25",
+    "geom:latitude":24.25,
+    "geom:longitude":97.2,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Naungka",
+    "gn:country_code":"MM",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305555,
+    "gn:latitude":24.25,
+    "gn:longitude":97.2,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naungka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305555,
+        "wk:page":"Naungka"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"451467ec4e5c3fd44b1aaa4d28cbec2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1327157691,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327157691,
+    "wof:lastmodified":1537568474,
+    "wof:name":"Naungka",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.2,
+    24.25,
+    97.2,
+    24.25
+],
+  "geometry": {"coordinates":[97.2,24.25],"type":"Point"}
+}

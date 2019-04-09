@@ -1,0 +1,69 @@
+{
+  "id": 1209794187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.09398,22.5132,95.09398,22.5132",
+    "geom:latitude":22.5132,
+    "geom:longitude":95.09398,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005013",
+    "gn:asciiname":"Indaing",
+    "gn:country_code":"MM",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322237,
+    "gn:latitude":22.5132,
+    "gn:longitude":95.09398,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Indaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322237
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9d75fda83b47ea0eb70804c33fb16641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046719,
+            "locality_id":1209794187,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209794187,
+    "wof:lastmodified":1536393643,
+    "wof:name":"Indaing",
+    "wof:parent_id":1092046719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.09398,
+    22.5132,
+    95.09398,
+    22.5132
+],
+  "geometry": {"coordinates":[95.09398,22.5132],"type":"Point"}
+}

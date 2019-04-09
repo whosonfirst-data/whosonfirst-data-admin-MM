@@ -1,0 +1,73 @@
+{
+  "id": 1309692793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.32149,21.77913,98.32149,21.77913",
+    "geom:latitude":21.77913,
+    "geom:longitude":98.32149,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014017",
+    "gn:asciiname":"Wan Hpakha",
+    "gn:country_code":"MM",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289364,
+    "gn:latitude":21.77913,
+    "gn:longitude":98.32149,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hpakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpakha",
+        "W\u0101n Hpakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289364
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"827d20a24ac8aa3362113694a72bd951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1309692793,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309692793,
+    "wof:lastmodified":1537665332,
+    "wof:name":"Wan Hpakha",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.32149,
+    21.77913,
+    98.32149,
+    21.77913
+],
+  "geometry": {"coordinates":[98.32149,21.77913],"type":"Point"}
+}

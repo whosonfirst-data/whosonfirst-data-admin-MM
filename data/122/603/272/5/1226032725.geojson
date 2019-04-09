@@ -1,0 +1,73 @@
+{
+  "id": 1226032725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.00818,22.93188,97.00818,22.93188",
+    "geom:latitude":22.93188,
+    "geom:longitude":97.00818,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Pongkalau",
+    "gn:country_code":"MM",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299715,
+    "gn:latitude":22.93188,
+    "gn:longitude":97.00818,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pongkalau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pongkalao",
+        "Pongkalau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299715
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0a0b18ce8991be8087f230dd2749571c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1226032725,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226032725,
+    "wof:lastmodified":1537665388,
+    "wof:name":"Pongkalau",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.00818,
+    22.93188,
+    97.00818,
+    22.93188
+],
+  "geometry": {"coordinates":[97.00818,22.93188],"type":"Point"}
+}

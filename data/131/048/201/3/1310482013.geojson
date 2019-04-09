@@ -1,0 +1,69 @@
+{
+  "id": 1310482013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.88925,19.38997,96.88925,19.38997",
+    "geom:latitude":19.38997,
+    "geom:longitude":96.88925,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014010",
+    "gn:asciiname":"Bithu Auk",
+    "gn:country_code":"MM",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438408,
+    "gn:latitude":19.38997,
+    "gn:longitude":96.88925,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bithu Auk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438408
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5bc5eaeb6d2563285329ef010096677d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1310482013,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310482013,
+    "wof:lastmodified":1536951036,
+    "wof:name":"Bithu Auk",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.88925,
+    19.38997,
+    96.88925,
+    19.38997
+],
+  "geometry": {"coordinates":[96.88925,19.38997],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293000443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.88351,24.34484,96.88351,24.34484",
+    "geom:latitude":24.34484,
+    "geom:longitude":96.88351,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Namolai",
+    "gn:country_code":"MM",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306609,
+    "gn:latitude":24.34484,
+    "gn:longitude":96.88351,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namolai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306609,
+        "wk:page":"Namolai"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"19201ae5f9931093ad36864bbe992612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1293000443,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293000443,
+    "wof:lastmodified":1537568476,
+    "wof:name":"Namolai",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.88351,
+    24.34484,
+    96.88351,
+    24.34484
+],
+  "geometry": {"coordinates":[96.88351,24.34484],"type":"Point"}
+}

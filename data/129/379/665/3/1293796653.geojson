@@ -1,0 +1,69 @@
+{
+  "id": 1293796653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.88333,22.91667,93.88333,22.91667",
+    "geom:latitude":22.91667,
+    "geom:longitude":93.88333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004001",
+    "gn:asciiname":"Klorzan",
+    "gn:country_code":"MM",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318858,
+    "gn:latitude":22.91667,
+    "gn:longitude":93.88333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Klorzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318858
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"63192801236e1d71c2e16b7c389f42e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1293796653,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1293796653,
+    "wof:lastmodified":1536837344,
+    "wof:name":"Klorzan",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.88333,
+    22.91667,
+    93.88333,
+    22.91667
+],
+  "geometry": {"coordinates":[93.88333,22.91667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259881147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.01153,15.93059,95.01153,15.93059",
+    "geom:latitude":15.93059,
+    "geom:longitude":95.01153,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D004",
+    "gn:admin3_code":"MMR017016",
+    "gn:asciiname":"Danizeik Kangon",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326853,
+    "gn:latitude":15.93059,
+    "gn:longitude":95.01153,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Danizeik Kang\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangon",
+        "Danizeik Kang\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326853
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b4aa7ce1898517adf93c338c0cf2f354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045903,
+            "locality_id":1259881147,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1259881147,
+    "wof:lastmodified":1537665537,
+    "wof:name":"Danizeik Kangon",
+    "wof:parent_id":1092045903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.01153,
+    15.93059,
+    95.01153,
+    15.93059
+],
+  "geometry": {"coordinates":[95.01152999999999,15.93059],"type":"Point"}
+}

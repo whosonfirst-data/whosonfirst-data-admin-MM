@@ -1,0 +1,73 @@
+{
+  "id": 1260260135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.32733,20.72015,98.32733,20.72015",
+    "geom:latitude":20.72015,
+    "geom:longitude":98.32733,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Mwe-tawhpaklit",
+    "gn:country_code":"MM",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308248,
+    "gn:latitude":20.72015,
+    "gn:longitude":98.32733,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mwe-tawhpaklit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hw\u00e8-tawnpaklit",
+        "Mwe-tawhpaklit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308248
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"04dfc8a49c638cd34bf1cdc4e99cacf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1260260135,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260260135,
+    "wof:lastmodified":1537665429,
+    "wof:name":"Mwe-tawhpaklit",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.32733,
+    20.72015,
+    98.32733,
+    20.72015
+],
+  "geometry": {"coordinates":[98.32733,20.72015],"type":"Point"}
+}

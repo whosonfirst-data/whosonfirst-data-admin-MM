@@ -1,0 +1,69 @@
+{
+  "id": 1226728277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.07463,25.15765,95.07463,25.15765",
+    "geom:latitude":25.15765,
+    "geom:longitude":95.07463,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Naungyin",
+    "gn:country_code":"MM",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305445,
+    "gn:latitude":25.15765,
+    "gn:longitude":95.07463,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naungyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305445
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3df97d29a9929df612b25f9984c505de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1226728277,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226728277,
+    "wof:lastmodified":1536740544,
+    "wof:name":"Naungyin",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.07463,
+    25.15765,
+    95.07463,
+    25.15765
+],
+  "geometry": {"coordinates":[95.07463,25.15765],"type":"Point"}
+}

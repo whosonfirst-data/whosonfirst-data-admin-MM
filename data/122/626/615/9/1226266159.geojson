@@ -1,0 +1,74 @@
+{
+  "id": 1226266159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.52681,24.99146,96.52681,24.99146",
+    "geom:latitude":24.99146,
+    "geom:longitude":96.52681,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001007",
+    "gn:asciiname":"Hopin",
+    "gn:country_code":"MM",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323949,
+    "gn:latitude":24.99146,
+    "gn:longitude":96.52681,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hopin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hobin",
+        "Hopin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323949,
+        "wk:page":"Hopin%2C_Kachin_State"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8869b30774941331850793340176979d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1226266159,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226266159,
+    "wof:lastmodified":1537665523,
+    "wof:name":"Hopin",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.52681,
+    24.99146,
+    96.52681,
+    24.99146
+],
+  "geometry": {"coordinates":[96.52681,24.99146],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310084167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.39356,23.17673,95.39356,23.17673",
+    "geom:latitude":23.17673,
+    "geom:longitude":95.39356,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005007",
+    "gn:asciiname":"Myedu",
+    "gn:country_code":"MM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308011,
+    "gn:latitude":23.17673,
+    "gn:longitude":95.39356,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myedu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308011,
+        "wk:page":"Myedu"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"079e46f7e37c8fea854a83599ee2bd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1310084167,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1310084167,
+    "wof:lastmodified":1537568478,
+    "wof:name":"Myedu",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.39356,
+    23.17673,
+    95.39356,
+    23.17673
+],
+  "geometry": {"coordinates":[95.39355999999999,23.17673],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193109815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.39839,20.46461,95.39839,20.46461",
+    "geom:latitude":20.46461,
+    "geom:longitude":95.39839,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009006",
+    "gn:asciiname":"Ywathit",
+    "gn:country_code":"MM",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284429,
+    "gn:latitude":20.46461,
+    "gn:longitude":95.39839,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywathit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yawthit",
+        "Ywathit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284429
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5e9d59e8e64a2cfeac9443c1c7734f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1193109815,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1193109815,
+    "wof:lastmodified":1537665295,
+    "wof:name":"Ywathit",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.39839,
+    20.46461,
+    95.39839,
+    20.46461
+],
+  "geometry": {"coordinates":[95.39839000000001,20.46461],"type":"Point"}
+}

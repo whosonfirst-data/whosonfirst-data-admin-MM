@@ -1,0 +1,69 @@
+{
+  "id": 1326912937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.66321,20.65576,94.66321,20.65576",
+    "geom:latitude":20.65576,
+    "geom:longitude":94.66321,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009010",
+    "gn:asciiname":"Ahmu",
+    "gn:country_code":"MM",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329546,
+    "gn:latitude":20.65576,
+    "gn:longitude":94.66321,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ahmu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329546
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4269ad9ebccbbc4ad7e5c31b3e5d007e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1326912937,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1326912937,
+    "wof:lastmodified":1536933384,
+    "wof:name":"Ahmu",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.66321,
+    20.65576,
+    94.66321,
+    20.65576
+],
+  "geometry": {"coordinates":[94.66321000000001,20.65576],"type":"Point"}
+}

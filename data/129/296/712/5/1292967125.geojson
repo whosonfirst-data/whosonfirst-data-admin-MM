@@ -1,0 +1,69 @@
+{
+  "id": 1292967125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.0056,16.77367,96.0056,16.77367",
+    "geom:latitude":16.77367,
+    "geom:longitude":96.0056,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013027",
+    "gn:asciiname":"Kapali",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463199,
+    "gn:latitude":16.77367,
+    "gn:longitude":96.0056,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kapali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463199
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"548eef9c66000b5032d252f082e2d220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1292967125,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1292967125,
+    "wof:lastmodified":1537038630,
+    "wof:name":"Kapali",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.0056,
+    16.77367000000001,
+    96.0056,
+    16.77367000000001
+],
+  "geometry": {"coordinates":[96.0056,16.77367000000001],"type":"Point"}
+}

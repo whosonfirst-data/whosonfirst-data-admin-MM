@@ -1,0 +1,73 @@
+{
+  "id": 1293789635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.89399,26.60299,97.89399,26.60299",
+    "geom:latitude":26.60299,
+    "geom:longitude":97.89399,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001015",
+    "gn:asciiname":"Htingnan Gahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322736,
+    "gn:latitude":26.60299,
+    "gn:longitude":97.89399,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htingnan Gahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Htingnan Ga",
+        "Htingnan Gahtawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322736
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8d2a656d4a723f00909e05173cdc6530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1293789635,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293789635,
+    "wof:lastmodified":1537665517,
+    "wof:name":"Htingnan Gahtawng",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.89399,
+    26.60299,
+    97.89399,
+    26.60299
+],
+  "geometry": {"coordinates":[97.89399,26.60299],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209024375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.62647,22.93929,95.62647,22.93929",
+    "geom:latitude":22.93929,
+    "geom:longitude":95.62647,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005007",
+    "gn:asciiname":"Ta-naunggaing",
+    "gn:country_code":"MM",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294720,
+    "gn:latitude":22.93929,
+    "gn:longitude":95.62647,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta-naunggaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294720
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"489b3d643f2f7cf2deaa2213fba97c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209024375
+        }
+    ],
+    "wof:id":1209024375,
+    "wof:lastmodified":1536300048,
+    "wof:name":"Ta-naunggaing",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.62647,
+    22.93929,
+    95.62647,
+    22.93929
+],
+  "geometry": {"coordinates":[95.62647,22.93929],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310217755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.17805,21.36277,93.17805,21.36277",
+    "geom:latitude":21.36277,
+    "geom:longitude":93.17805,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004009",
+    "gn:asciiname":"La Haw",
+    "gn:country_code":"MM",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315181,
+    "gn:latitude":21.36277,
+    "gn:longitude":93.17805,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"La Haw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315181
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1f29f7144219346b1afcc2af91787671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1310217755,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1310217755,
+    "wof:lastmodified":1536833501,
+    "wof:name":"La Haw",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.17805,
+    21.36277,
+    93.17805,
+    21.36277
+],
+  "geometry": {"coordinates":[93.17805,21.36277],"type":"Point"}
+}

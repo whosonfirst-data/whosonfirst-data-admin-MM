@@ -1,0 +1,75 @@
+{
+  "id": 1210010171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.90916,24.86667,94.90916,24.86667",
+    "geom:latitude":24.86667,
+    "geom:longitude":94.90916,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Homalin",
+    "gn:country_code":"MM",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324074,
+    "gn:latitude":24.86667,
+    "gn:longitude":94.90916,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Homalin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f4nmalin",
+        "Hommalinn",
+        "Homalin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324074,
+        "wk:page":"Homalin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b3c620a3cd2bc31fc4bc5c5d041af7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1210010171,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1210010171,
+    "wof:lastmodified":1537665524,
+    "wof:name":"Homalin",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.90916,
+    24.86667000000001,
+    94.90916,
+    24.86667000000001
+],
+  "geometry": {"coordinates":[94.90916,24.86667000000001],"type":"Point"}
+}

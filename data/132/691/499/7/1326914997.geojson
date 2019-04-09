@@ -1,0 +1,69 @@
+{
+  "id": 1326914997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.06577,21.14303,96.06577,21.14303",
+    "geom:latitude":21.14303,
+    "geom:longitude":96.06577,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010031",
+    "gn:asciiname":"Khingyi",
+    "gn:country_code":"MM",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319179,
+    "gn:latitude":21.14303,
+    "gn:longitude":96.06577,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Khingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319179
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b83480dcae6d78974352141489b8af3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1326914997,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326914997,
+    "wof:lastmodified":1536930389,
+    "wof:name":"Khingyi",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.06577,
+    21.14303,
+    96.06577,
+    21.14303
+],
+  "geometry": {"coordinates":[96.06577,21.14303],"type":"Point"}
+}

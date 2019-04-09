@@ -1,0 +1,63 @@
+{
+  "id": 1209393435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.42192,23.55308,95.42192,23.55308",
+    "geom:latitude":23.55308,
+    "geom:longitude":95.42192,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Panmaye",
+    "gn:country_code":"MM",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301447,
+    "gn:latitude":23.55308,
+    "gn:longitude":95.42192,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Panmaye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301447
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"22a9e9e45d79e73eaf5a935c9370495b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209393435
+        }
+    ],
+    "wof:id":1209393435,
+    "wof:lastmodified":1536288382,
+    "wof:name":"Panmaye",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.42192,
+    23.55308,
+    95.42192,
+    23.55308
+],
+  "geometry": {"coordinates":[95.42192,23.55308],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209194853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.29575,20.75852,98.29575,20.75852",
+    "geom:latitude":20.75852,
+    "geom:longitude":98.29575,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Keng Tawng",
+    "gn:country_code":"MM",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319367,
+    "gn:latitude":20.75852,
+    "gn:longitude":98.29575,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"K\u0113ng Tawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0113ng Tawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319367,
+        "wk:page":"Keng_Tawng"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eeeded1048a909dc645d16e571dc280c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209194853
+        }
+    ],
+    "wof:id":1209194853,
+    "wof:lastmodified":1537665497,
+    "wof:name":"Keng Tawng",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.29575,
+    20.75852,
+    98.29575,
+    20.75852
+],
+  "geometry": {"coordinates":[98.29575,20.75852],"type":"Point"}
+}

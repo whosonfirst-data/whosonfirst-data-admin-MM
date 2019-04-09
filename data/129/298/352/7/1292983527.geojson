@@ -1,0 +1,69 @@
+{
+  "id": 1292983527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.31183,19.37023,95.31183,19.37023",
+    "geom:latitude":19.37023,
+    "geom:longitude":95.31183,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009016",
+    "gn:asciiname":"Kyetyongale",
+    "gn:country_code":"MM",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316038,
+    "gn:latitude":19.37023,
+    "gn:longitude":95.31183,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyetyongale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316038
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a7f2a082a2dd957863935c931edc9daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1292983527,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1292983527,
+    "wof:lastmodified":1537015838,
+    "wof:name":"Kyetyongale",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.31183,
+    19.37023,
+    95.31183,
+    19.37023
+],
+  "geometry": {"coordinates":[95.31183,19.37023],"type":"Point"}
+}

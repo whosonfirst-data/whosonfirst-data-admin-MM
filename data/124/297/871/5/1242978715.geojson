@@ -1,0 +1,69 @@
+{
+  "id": 1242978715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.63493,21.60068,92.63493,21.60068",
+    "geom:latitude":21.60068,
+    "geom:longitude":92.63493,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004009",
+    "gn:asciiname":"Labawa",
+    "gn:country_code":"MM",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315259,
+    "gn:latitude":21.60068,
+    "gn:longitude":92.63493,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Labawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315259
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2341edf492571e71bd5673d607993f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1242978715,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1242978715,
+    "wof:lastmodified":1536982114,
+    "wof:name":"Labawa",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.63493,
+    21.60068,
+    92.63493,
+    21.60068
+],
+  "geometry": {"coordinates":[92.63493,21.60068],"type":"Point"}
+}

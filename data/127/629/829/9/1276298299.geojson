@@ -1,0 +1,73 @@
+{
+  "id": 1276298299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.16088,16.75829,96.16088,16.75829",
+    "geom:latitude":16.75829,
+    "geom:longitude":96.16088,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013030",
+    "gn:asciiname":"Dala",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326929,
+    "gn:latitude":16.75829,
+    "gn:longitude":96.16088,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalla",
+        "Dala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326929
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c69d548219d8edc43ca3a862787cbec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1276298299,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1276298299,
+    "wof:lastmodified":1537665537,
+    "wof:name":"Dala",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.16088,
+    16.75829,
+    96.16088,
+    16.75829
+],
+  "geometry": {"coordinates":[96.16088000000001,16.75829],"type":"Point"}
+}

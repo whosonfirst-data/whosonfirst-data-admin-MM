@@ -1,0 +1,63 @@
+{
+  "id": 1209516649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.84201,16.44227,94.84201,16.44227",
+    "geom:latitude":16.44227,
+    "geom:longitude":94.84201,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017014",
+    "gn:asciiname":"Theinla-gatsu",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291716,
+    "gn:latitude":16.44227,
+    "gn:longitude":94.84201,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Theinla-gatsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291716
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"593fb71978f71f3e46ca3b3744fc3548",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209516649
+        }
+    ],
+    "wof:id":1209516649,
+    "wof:lastmodified":1536284712,
+    "wof:name":"Theinla-gatsu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.84201,
+    16.44227,
+    94.84201,
+    16.44227
+],
+  "geometry": {"coordinates":[94.84201,16.44227],"type":"Point"}
+}

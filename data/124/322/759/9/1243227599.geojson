@@ -1,0 +1,73 @@
+{
+  "id": 1243227599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.68517,18.50538,95.68517,18.50538",
+    "geom:latitude":18.50538,
+    "geom:longitude":95.68517,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008012",
+    "gn:asciiname":"Kyaukkwet",
+    "gn:country_code":"MM",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317015,
+    "gn:latitude":18.50538,
+    "gn:longitude":95.68517,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukkwet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyaukkwat",
+        "Kyaukkwet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317015
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a3aabf1e5801fa934257fecbd2c97e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1243227599,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243227599,
+    "wof:lastmodified":1537665481,
+    "wof:name":"Kyaukkwet",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.68517,
+    18.50538,
+    95.68517,
+    18.50538
+],
+  "geometry": {"coordinates":[95.68517,18.50538],"type":"Point"}
+}

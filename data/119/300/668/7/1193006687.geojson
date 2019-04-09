@@ -1,0 +1,69 @@
+{
+  "id": 1193006687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.90253,22.66284,94.90253,22.66284",
+    "geom:latitude":22.66284,
+    "geom:longitude":94.90253,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D009",
+    "gn:admin3_code":"MMR005017",
+    "gn:asciiname":"Pyinhmaw",
+    "gn:country_code":"MM",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299033,
+    "gn:latitude":22.66284,
+    "gn:longitude":94.90253,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyinhmaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299033
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d25f2d5cb28c1061c8985895d238dd63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047961,
+            "locality_id":1193006687,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1193006687,
+    "wof:lastmodified":1536365476,
+    "wof:name":"Pyinhmaw",
+    "wof:parent_id":1092047961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.90253,
+    22.66284,
+    94.90253,
+    22.66284
+],
+  "geometry": {"coordinates":[94.90253,22.66284],"type":"Point"}
+}

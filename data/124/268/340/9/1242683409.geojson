@@ -1,0 +1,70 @@
+{
+  "id": 1242683409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.28606,26.28281,98.28606,26.28281",
+    "geom:latitude":26.28281,
+    "geom:longitude":98.28606,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Shangkyok",
+    "gn:country_code":"MM",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297146,
+    "gn:latitude":26.28281,
+    "gn:longitude":98.28606,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shangkyok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297146,
+        "wk:page":"Shangkyok"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dddaf75de77465ef93f25122dd499bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1242683409,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1242683409,
+    "wof:lastmodified":1537568462,
+    "wof:name":"Shangkyok",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.28606,
+    26.28281,
+    98.28606,
+    26.28281
+],
+  "geometry": {"coordinates":[98.28606000000001,26.28281],"type":"Point"}
+}

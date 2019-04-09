@@ -1,0 +1,74 @@
+{
+  "id": 1243045411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.25,19.93333,98.25,19.93333",
+    "geom:latitude":19.93333,
+    "geom:longitude":98.25,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Wan Maipok",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288270,
+    "gn:latitude":19.93333,
+    "gn:longitude":98.25,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Maipok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maipok",
+        "W\u0101n Maipok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288270
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ff97f5bcb6699abef709adc5fe3276cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1243045411,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243045411,
+    "wof:lastmodified":1537665321,
+    "wof:name":"Wan Maipok",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.25,
+    19.93333,
+    98.25,
+    19.93333
+],
+  "geometry": {"coordinates":[98.25,19.93333],"type":"Point"}
+}

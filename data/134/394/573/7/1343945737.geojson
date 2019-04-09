@@ -1,0 +1,73 @@
+{
+  "id": 1343945737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.32491,21.76657,97.32491,21.76657",
+    "geom:latitude":21.76657,
+    "geom:longitude":97.32491,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014016",
+    "gn:asciiname":"Wan Kongkeng",
+    "gn:country_code":"MM",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288623,
+    "gn:latitude":21.76657,
+    "gn:longitude":97.32491,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Kongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Kowkeng",
+        "W\u0101n Kongkeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288623
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eb2ec40ba3fdfb7988079119cccad2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1343945737,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343945737,
+    "wof:lastmodified":1537665324,
+    "wof:name":"Wan Kongkeng",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.32491,
+    21.76657,
+    97.32491,
+    21.76657
+],
+  "geometry": {"coordinates":[97.32491,21.76657],"type":"Point"}
+}

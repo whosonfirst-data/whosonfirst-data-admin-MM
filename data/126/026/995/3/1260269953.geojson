@@ -1,0 +1,69 @@
+{
+  "id": 1260269953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.14828,12.12093,99.14828,12.12093",
+    "geom:latitude":12.12093,
+    "geom:longitude":99.14828,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006008",
+    "gn:asciiname":"Bangyok",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328489,
+    "gn:latitude":12.12093,
+    "gn:longitude":99.14828,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bangyok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328489
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d92380b7312fe91f2e81692fa20b98cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1260269953,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1260269953,
+    "wof:lastmodified":1536730414,
+    "wof:name":"Bangyok",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.14828,
+    12.12093,
+    99.14828,
+    12.12093
+],
+  "geometry": {"coordinates":[99.14828,12.12093],"type":"Point"}
+}

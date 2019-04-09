@@ -1,0 +1,69 @@
+{
+  "id": 1309733599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.17587,19.88731,97.17587,19.88731",
+    "geom:latitude":19.88731,
+    "geom:longitude":97.17587,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002001",
+    "gn:asciiname":"Wan Ung-sang",
+    "gn:country_code":"MM",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286807,
+    "gn:latitude":19.88731,
+    "gn:longitude":97.17587,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ung-sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286807
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c5529ca5e48e7c7dc17556960e78deee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1309733599,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1309733599,
+    "wof:lastmodified":1537033764,
+    "wof:name":"Wan Ung-sang",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.17587,
+    19.88731,
+    97.17587,
+    19.88731
+],
+  "geometry": {"coordinates":[97.17587,19.88731],"type":"Point"}
+}

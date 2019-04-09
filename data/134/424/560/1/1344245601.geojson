@@ -1,0 +1,70 @@
+{
+  "id": 1344245601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.02608,25.10009,96.02608,25.10009",
+    "geom:latitude":25.10009,
+    "geom:longitude":96.02608,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Saingme",
+    "gn:country_code":"MM",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298363,
+    "gn:latitude":25.10009,
+    "gn:longitude":96.02608,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Saingme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298363,
+        "wk:page":"Saingme"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6d964c7fe9fb2f04013885e0ac1c0cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1344245601,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1344245601,
+    "wof:lastmodified":1537568463,
+    "wof:name":"Saingme",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.02608,
+    25.10009,
+    96.02608,
+    25.10009
+],
+  "geometry": {"coordinates":[96.02607999999999,25.10009],"type":"Point"}
+}

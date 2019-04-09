@@ -1,0 +1,77 @@
+{
+  "id": 421194235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.39965,21.4715,95.39965,21.4715",
+    "geom:latitude":21.4715,
+    "geom:longitude":95.39965,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1327595,
+    "qs:gn_pop":0,
+    "qs:name":"Chaungdaung North",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Mandalay",
+    "qs:photos":116,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":116,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1039483,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":982481,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1092046999,
+        85674559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327595,
+        "gp:id":982481,
+        "qs:id":1039483
+    },
+    "wof:country":"MM",
+    "wof:created":1459009798,
+    "wof:geomhash":"47614e46579f9f65df9f4d180828c66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":-1,
+            "neighbourhood_id":421194235,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":421194235,
+    "wof:lastmodified":1531858726,
+    "wof:name":"Chaungdaung North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.39965,
+    21.4715,
+    95.39965,
+    21.4715
+],
+  "geometry": {"coordinates":[95.39964999999999,21.4715],"type":"Point"}
+}

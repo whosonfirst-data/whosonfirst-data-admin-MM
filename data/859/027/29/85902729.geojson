@@ -1,0 +1,105 @@
+{
+  "id": 85902729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17101563.80397,
+    "geom:bbox":"92.899166,20.144939,92.899166,20.144939",
+    "geom:latitude":20.144939,
+    "geom:longitude":92.899166,
+    "gn:latitude":20.15136,
+    "gn:longitude":92.89635,
+    "iso:country":"MM",
+    "lbl:latitude":20.144939,
+    "lbl:longitude":92.899166,
+    "mps:latitude":20.145858,
+    "mps:longitude":92.899686,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Shwebya"
+    ],
+    "name:unk_x_variant":[
+        "Shwebya"
+    ],
+    "qs:gn_adm0_cc":"MM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1295765,
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Shwebya",
+    "qs:local_max":174,
+    "qs:local_sum":174,
+    "qs:localhoods":1,
+    "qs:name":"Shwebya",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Rakhine State",
+    "qs:name_local":"Sittwe",
+    "qs:photo_max":30,
+    "qs:photo_sum":174,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424763,
+    "qs:woe_adm1":2344810,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1017865,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1092047375,
+        85674579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296720,
+        "gp:id":1006114,
+        "qs:id":1117302
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a8fd759412bcfd487dbcbac0979ecec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":-1,
+            "neighbourhood_id":85902729,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":85902729,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935929,
+    "wof:name":"Shwebya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.899166,
+    20.144939,
+    92.899166,
+    20.144939
+],
+  "geometry": {"coordinates":[92.89916599999999,20.144939],"type":"Point"}
+}

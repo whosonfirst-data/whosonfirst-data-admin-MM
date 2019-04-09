@@ -1,0 +1,73 @@
+{
+  "id": 1259763679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.81068,21.32239,97.81068,21.32239",
+    "geom:latitude":21.32239,
+    "geom:longitude":97.81068,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014012",
+    "gn:asciiname":"Wan Hti",
+    "gn:country_code":"MM",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289018,
+    "gn:latitude":21.32239,
+    "gn:longitude":97.81068,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hti",
+        "W\u0101n Hti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289018
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d2afa6845178b8b92bdbdc0be6f6e5da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1259763679,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259763679,
+    "wof:lastmodified":1537665328,
+    "wof:name":"Wan Hti",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.81068,
+    21.32239,
+    97.81068,
+    21.32239
+],
+  "geometry": {"coordinates":[97.81068,21.32239],"type":"Point"}
+}

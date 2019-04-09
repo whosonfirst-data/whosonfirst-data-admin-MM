@@ -1,0 +1,67 @@
+{
+  "id": 1209495637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.27369,21.7156,98.27369,21.7156",
+    "geom:latitude":21.7156,
+    "geom:longitude":98.27369,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014017",
+    "gn:asciiname":"Nawnghkit",
+    "gn:country_code":"MM",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305291,
+    "gn:latitude":21.7156,
+    "gn:longitude":98.27369,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawnghkit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawnghit",
+        "Nawnghkit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305291
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3fd2db3563a8f04c879e1f69bbceb981",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209495637
+        }
+    ],
+    "wof:id":1209495637,
+    "wof:lastmodified":1537665415,
+    "wof:name":"Nawnghkit",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.27369,
+    21.7156,
+    98.27369,
+    21.7156
+],
+  "geometry": {"coordinates":[98.27369,21.7156],"type":"Point"}
+}

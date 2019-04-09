@@ -1,0 +1,69 @@
+{
+  "id": 1326602681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.73046,20.62814,94.73046,20.62814",
+    "geom:latitude":20.62814,
+    "geom:longitude":94.73046,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009010",
+    "gn:asciiname":"Sandwin",
+    "gn:country_code":"MM",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298067,
+    "gn:latitude":20.62814,
+    "gn:longitude":94.73046,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sandwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298067
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b8876232748df3f4d4c2db2c09e09955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1326602681,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1326602681,
+    "wof:lastmodified":1536881890,
+    "wof:name":"Sandwin",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.73046,
+    20.62814,
+    94.73046,
+    20.62814
+],
+  "geometry": {"coordinates":[94.73045999999999,20.62814],"type":"Point"}
+}

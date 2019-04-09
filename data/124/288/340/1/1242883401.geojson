@@ -1,0 +1,73 @@
+{
+  "id": 1242883401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.74392,18.9775,93.74392,18.9775",
+    "geom:latitude":18.9775,
+    "geom:longitude":93.74392,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012013",
+    "gn:asciiname":"Aunghlabyin",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328814,
+    "gn:latitude":18.9775,
+    "gn:longitude":93.74392,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aunghlabyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ounglapyin",
+        "Aunghlabyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328814
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5193169da794b988a9d977787d189558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1242883401,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1242883401,
+    "wof:lastmodified":1537665548,
+    "wof:name":"Aunghlabyin",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.74392,
+    18.9775,
+    93.74392,
+    18.9775
+],
+  "geometry": {"coordinates":[93.74392,18.9775],"type":"Point"}
+}

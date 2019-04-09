@@ -1,0 +1,69 @@
+{
+  "id": 1226138007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.82653,24.3154,95.82653,24.3154",
+    "geom:latitude":24.3154,
+    "geom:longitude":95.82653,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Kanni",
+    "gn:country_code":"MM",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320549,
+    "gn:latitude":24.3154,
+    "gn:longitude":95.82653,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320549
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ba19c286e1d73950a2a59ed85e05ebb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1226138007,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226138007,
+    "wof:lastmodified":1537085702,
+    "wof:name":"Kanni",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.82653,
+    24.3154,
+    95.82653,
+    24.3154
+],
+  "geometry": {"coordinates":[95.82653000000001,24.3154],"type":"Point"}
+}

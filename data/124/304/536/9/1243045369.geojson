@@ -1,0 +1,73 @@
+{
+  "id": 1243045369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.00776,23.48723,97.00776,23.48723",
+    "geom:latitude":23.48723,
+    "geom:longitude":97.00776,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D008",
+    "gn:admin3_code":"MMR015018",
+    "gn:asciiname":"Pa-sau",
+    "gn:country_code":"MM",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301302,
+    "gn:latitude":23.48723,
+    "gn:longitude":97.00776,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pa-sau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpa-saw",
+        "Pa-sau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301302
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e58e564847c46ca202ab21ae329564b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1243045369,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243045369,
+    "wof:lastmodified":1537665396,
+    "wof:name":"Pa-sau",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.00776,
+    23.48723,
+    97.00776,
+    23.48723
+],
+  "geometry": {"coordinates":[97.00776,23.48723],"type":"Point"}
+}

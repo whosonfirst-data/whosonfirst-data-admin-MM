@@ -1,0 +1,69 @@
+{
+  "id": 1343438495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.74493,22.07683,98.74493,22.07683",
+    "geom:latitude":22.07683,
+    "geom:longitude":98.74493,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Man Panglem",
+    "gn:country_code":"MM",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310863,
+    "gn:latitude":22.07683,
+    "gn:longitude":98.74493,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n P\u0101nglem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310863
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1e9232df4ad5974e2b32d817a60ca1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1343438495,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343438495,
+    "wof:lastmodified":1536778519,
+    "wof:name":"Man Panglem",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.74493,
+    22.07683,
+    98.74493,
+    22.07683
+],
+  "geometry": {"coordinates":[98.74493,22.07683],"type":"Point"}
+}

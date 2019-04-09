@@ -1,0 +1,67 @@
+{
+  "id": 1209803961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.63466,21.70267,95.63466,21.70267",
+    "geom:latitude":21.70267,
+    "geom:longitude":95.63466,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nawadat",
+    "gn:country_code":"MM",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305433,
+    "gn:latitude":21.70267,
+    "gn:longitude":95.63466,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Nawadat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305433
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"99e7b362c2fca7e8c22fb30048901607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1209803961,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1209803961,
+    "wof:lastmodified":1536389449,
+    "wof:name":"Nawadat",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.63466,
+    21.70267,
+    95.63466,
+    21.70267
+],
+  "geometry": {"coordinates":[95.63466,21.70267],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226228221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.5187,16.46356,97.5187,16.46356",
+    "geom:latitude":16.46356,
+    "geom:longitude":97.5187,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011003",
+    "gn:asciiname":"Kamamo",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321128,
+    "gn:latitude":16.46356,
+    "gn:longitude":97.5187,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kamamo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321128
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3c0a6b81b1fe523295bc2bfd7fe4e0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1226228221,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1226228221,
+    "wof:lastmodified":1536958911,
+    "wof:name":"Kamamo",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.5187,
+    16.46356,
+    97.5187,
+    16.46356
+],
+  "geometry": {"coordinates":[97.5187,16.46356],"type":"Point"}
+}

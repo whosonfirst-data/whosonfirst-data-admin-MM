@@ -1,0 +1,63 @@
+{
+  "id": 1209337977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.32914,24.36245,97.32914,24.36245",
+    "geom:latitude":24.36245,
+    "geom:longitude":97.32914,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Kabani",
+    "gn:country_code":"MM",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321771,
+    "gn:latitude":24.36245,
+    "gn:longitude":97.32914,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kabani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321771
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"754a8890aefb1933cc0a673d5df6a805",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209337977
+        }
+    ],
+    "wof:id":1209337977,
+    "wof:lastmodified":1536290155,
+    "wof:name":"Kabani",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.32914,
+    24.36245,
+    97.32914,
+    24.36245
+],
+  "geometry": {"coordinates":[97.32914,24.36245],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209395369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.89263,20.47676,96.89263,20.47676",
+    "geom:latitude":20.47676,
+    "geom:longitude":96.89263,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014002",
+    "gn:asciiname":"Thale",
+    "gn:country_code":"MM",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292714,
+    "gn:latitude":20.47676,
+    "gn:longitude":96.89263,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292714
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f5c1be1a711db3b3d34edc2643d25fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209395369
+        }
+    ],
+    "wof:id":1209395369,
+    "wof:lastmodified":1536288320,
+    "wof:name":"Thale",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.89263,
+    20.47676,
+    96.89263,
+    20.47676
+],
+  "geometry": {"coordinates":[96.89263,20.47676],"type":"Point"}
+}

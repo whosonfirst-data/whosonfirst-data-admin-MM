@@ -1,0 +1,69 @@
+{
+  "id": 1226156687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.28506,19.01303,94.28506,19.01303",
+    "geom:latitude":19.01303,
+    "geom:longitude":94.28506,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012016",
+    "gn:asciiname":"Thabon",
+    "gn:country_code":"MM",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293022,
+    "gn:latitude":19.01303,
+    "gn:longitude":94.28506,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thab\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293022
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ba3d03c4e8c5d9c66675263fe853ccb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047569,
+            "locality_id":1226156687,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1226156687,
+    "wof:lastmodified":1537059271,
+    "wof:name":"Thabon",
+    "wof:parent_id":1092047569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.28506,
+    19.01303,
+    94.28506,
+    19.01303
+],
+  "geometry": {"coordinates":[94.28506,19.01303],"type":"Point"}
+}

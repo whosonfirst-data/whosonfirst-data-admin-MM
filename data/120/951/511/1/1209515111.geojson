@@ -1,0 +1,64 @@
+{
+  "id": 1209515111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.29249,24.24335,97.29249,24.24335",
+    "geom:latitude":24.24335,
+    "geom:longitude":97.29249,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Si-in",
+    "gn:country_code":"MM",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296357,
+    "gn:latitude":24.24335,
+    "gn:longitude":97.29249,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Si-in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296357,
+        "wk:page":"Si-in"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1492257a152a36cfac80ae9ca94a9dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209515111
+        }
+    ],
+    "wof:id":1209515111,
+    "wof:lastmodified":1537568460,
+    "wof:name":"Si-in",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.29249,
+    24.24335,
+    97.29249,
+    24.24335
+],
+  "geometry": {"coordinates":[97.29249,24.24335],"type":"Point"}
+}

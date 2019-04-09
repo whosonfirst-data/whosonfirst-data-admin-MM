@@ -1,0 +1,69 @@
+{
+  "id": 1226046053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.01318,20.64453,93.01318,20.64453",
+    "geom:latitude":20.64453,
+    "geom:longitude":93.01318,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D005",
+    "gn:admin3_code":"MMR012004",
+    "gn:asciiname":"Pauklewa Myauk",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301110,
+    "gn:latitude":20.64453,
+    "gn:longitude":93.01318,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pauklewa Myauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301110
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cc321f434110d66391c4810ff16aa19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046765,
+            "locality_id":1226046053,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1226046053,
+    "wof:lastmodified":1536725046,
+    "wof:name":"Pauklewa Myauk",
+    "wof:parent_id":1092046765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.01318,
+    20.64453,
+    93.01318,
+    20.64453
+],
+  "geometry": {"coordinates":[93.01318000000001,20.64453],"type":"Point"}
+}

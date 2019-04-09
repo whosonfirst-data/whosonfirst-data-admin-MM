@@ -1,0 +1,63 @@
+{
+  "id": 1209290667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.3616,16.9859,96.3616,16.9859",
+    "geom:latitude":16.9859,
+    "geom:longitude":96.3616,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Thaminchaung",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463033,
+    "gn:latitude":16.9859,
+    "gn:longitude":96.3616,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thaminchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463033
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"53f43e98ee786be9bde656927116e00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209290667
+        }
+    ],
+    "wof:id":1209290667,
+    "wof:lastmodified":1536291705,
+    "wof:name":"Thaminchaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.3616,
+    16.9859,
+    96.3616,
+    16.9859
+],
+  "geometry": {"coordinates":[96.3616,16.9859],"type":"Point"}
+}

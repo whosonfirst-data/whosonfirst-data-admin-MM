@@ -1,0 +1,73 @@
+{
+  "id": 1309881575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.99896,19.85872,95.99896,19.85872",
+    "geom:latitude":19.85872,
+    "geom:longitude":95.99896,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D001",
+    "gn:admin3_code":"MMR018008",
+    "gn:asciiname":"Taikma",
+    "gn:country_code":"MM",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295080,
+    "gn:latitude":19.85872,
+    "gn:longitude":95.99896,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Taikma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teikkama",
+        "Taikma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295080
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"835342fe39cb88d8fb97b5125d96e9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1309881575,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1309881575,
+    "wof:lastmodified":1537665363,
+    "wof:name":"Taikma",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.99896,
+    19.85872,
+    95.99896,
+    19.85872
+],
+  "geometry": {"coordinates":[95.99896,19.85872],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1125866413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.39742,16.29416,95.39742,16.29416",
+    "geom:latitude":16.29416,
+    "geom:longitude":95.39742,
+    "gn:gn_country":"MM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":68938,
+    "gn:population":68938,
+    "iso:country":"MM",
+    "lbl:latitude":16.29416,
+    "lbl:longitude":95.39742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u043b\u0435"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u102d\u102f\u1000\u101c\u1031\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:dut_x_preferred":[
+        "Bogale"
+    ],
+    "name:eng_x_preferred":[
+        "Bogale"
+    ],
+    "name:nob_x_preferred":[
+        "Bogale"
+    ],
+    "name:pol_x_preferred":[
+        "Bogalay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bogale"
+    ],
+    "qs_pg:aaroncc":"MM",
+    "qs_pg:gn_country":"MM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1328121,
+    "qs_pg:gn_pop":68938,
+    "qs_pg:name":"Bogale",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":132712,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328121,
+        "qs_pg:id":132712,
+        "wd:id":"Q3358197"
+    },
+    "wof:country":"MM",
+    "wof:created":1497294062,
+    "wof:geomhash":"1b7db2a55c51000e009507d419854d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1125866413,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1125866413,
+    "wof:lastmodified":1514484838,
+    "wof:name":"Bogale",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:population":68938,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.39742,
+    16.29416,
+    95.39742,
+    16.29416
+],
+  "geometry": {"coordinates":[95.39742,16.29416],"type":"Point"}
+}

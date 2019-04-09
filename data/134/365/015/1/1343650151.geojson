@@ -1,0 +1,74 @@
+{
+  "id": 1343650151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.16826,25.91538,95.16826,25.91538",
+    "geom:latitude":25.91538,
+    "geom:longitude":95.16826,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005036",
+    "gn:asciiname":"Tinmaung",
+    "gn:country_code":"MM",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290900,
+    "gn:latitude":25.91538,
+    "gn:longitude":95.16826,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tinmaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangmong",
+        "Tinmaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290900,
+        "wk:page":"Tinmaung"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"99df0d9646498f3989fd102b6803d46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1343650151,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343650151,
+    "wof:lastmodified":1537665340,
+    "wof:name":"Tinmaung",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.16826,
+    25.91538,
+    95.16826,
+    25.91538
+],
+  "geometry": {"coordinates":[95.16826,25.91538],"type":"Point"}
+}

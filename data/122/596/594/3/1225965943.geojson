@@ -1,0 +1,69 @@
+{
+  "id": 1225965943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.32184,19.82692,97.32184,19.82692",
+    "geom:latitude":19.82692,
+    "geom:longitude":97.32184,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002001",
+    "gn:asciiname":"Nam Pa-mong",
+    "gn:country_code":"MM",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306558,
+    "gn:latitude":19.82692,
+    "gn:longitude":97.32184,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nam Pa-mong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306558
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1176788536503ba8347781f5b7d0e998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1225965943,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1225965943,
+    "wof:lastmodified":1536839172,
+    "wof:name":"Nam Pa-mong",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.32184,
+    19.82692,
+    97.32184,
+    19.82692
+],
+  "geometry": {"coordinates":[97.32183999999999,19.82692],"type":"Point"}
+}

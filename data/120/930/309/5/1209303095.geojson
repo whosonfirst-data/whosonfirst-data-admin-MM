@@ -1,0 +1,63 @@
+{
+  "id": 1209303095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.44159,23.60912,95.44159,23.60912",
+    "geom:latitude":23.60912,
+    "geom:longitude":95.44159,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Taunggya",
+    "gn:country_code":"MM",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293973,
+    "gn:latitude":23.60912,
+    "gn:longitude":95.44159,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taunggya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293973
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a2dbfa203febb5e91f0ec41d27ac05e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209303095
+        }
+    ],
+    "wof:id":1209303095,
+    "wof:lastmodified":1536291288,
+    "wof:name":"Taunggya",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.44159,
+    23.60912,
+    95.44159,
+    23.60912
+],
+  "geometry": {"coordinates":[95.44159000000001,23.60912],"type":"Point"}
+}

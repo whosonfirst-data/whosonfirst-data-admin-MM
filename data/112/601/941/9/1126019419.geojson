@@ -1,0 +1,78 @@
+{
+  "id": 1126019419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.13586,16.82985,96.13586,16.82985",
+    "geom:latitude":16.82985,
+    "geom:longitude":96.13586,
+    "gn:gn_country":"MM",
+    "gn:gn_fcode":"UNIV",
+    "gn:gn_pop":7000,
+    "gn:population":7000,
+    "iso:country":"MM",
+    "lbl:latitude":16.82985,
+    "lbl:longitude":96.13586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MM",
+    "qs_pg:gn_country":"MM",
+    "qs_pg:gn_fcode":"UNIV",
+    "qs_pg:gn_id":6254984,
+    "qs_pg:gn_pop":7000,
+    "qs_pg:name":"Yangon University",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":616323,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254984,
+        "qs_pg:id":616323
+    },
+    "wof:country":"MM",
+    "wof:created":1497300743,
+    "wof:geomhash":"4cd2f72c7be5c5de3635b2e81ad3c8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047923,
+            "locality_id":1126019419,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1126019419,
+    "wof:lastmodified":1509407125,
+    "wof:name":"Yangon University",
+    "wof:parent_id":1092047923,
+    "wof:placetype":"locality",
+    "wof:population":7000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.13586,
+    16.82985,
+    96.13586,
+    16.82985
+],
+  "geometry": {"coordinates":[96.13585999999999,16.82985],"type":"Point"}
+}

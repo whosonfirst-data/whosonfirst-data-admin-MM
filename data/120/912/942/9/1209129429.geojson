@@ -1,0 +1,63 @@
+{
+  "id": 1209129429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.41944,27.2943,98.41944,27.2943",
+    "geom:latitude":27.2943,
+    "geom:longitude":98.41944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001018",
+    "gn:asciiname":"Tangthodam",
+    "gn:country_code":"MM",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294555,
+    "gn:latitude":27.2943,
+    "gn:longitude":98.41944,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tangthodam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294555
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"405adfc4e064c9cfb3890c07e245a6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209129429
+        }
+    ],
+    "wof:id":1209129429,
+    "wof:lastmodified":1536296852,
+    "wof:name":"Tangthodam",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.41944,
+    27.2943,
+    98.41944,
+    27.2943
+],
+  "geometry": {"coordinates":[98.41943999999999,27.2943],"type":"Point"}
+}

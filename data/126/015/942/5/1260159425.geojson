@@ -1,0 +1,69 @@
+{
+  "id": 1260159425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.2263,24.38437,96.2263,24.38437",
+    "geom:latitude":24.38437,
+    "geom:longitude":96.2263,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005021",
+    "gn:asciiname":"Nahpi",
+    "gn:country_code":"MM",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307405,
+    "gn:latitude":24.38437,
+    "gn:longitude":96.2263,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"N\u0101hpi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307405
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"448c298f4ed47d715a1f997905fa26de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1260159425,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260159425,
+    "wof:lastmodified":1536880286,
+    "wof:name":"Nahpi",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.2263,
+    24.38437,
+    96.2263,
+    24.38437
+],
+  "geometry": {"coordinates":[96.22629999999999,24.38437],"type":"Point"}
+}

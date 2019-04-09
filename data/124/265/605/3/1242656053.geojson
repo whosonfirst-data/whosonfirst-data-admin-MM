@@ -1,0 +1,73 @@
+{
+  "id": 1242656053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.35395,24.70578,95.35395,24.70578",
+    "geom:latitude":24.70578,
+    "geom:longitude":95.35395,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Manlinta",
+    "gn:country_code":"MM",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311337,
+    "gn:latitude":24.70578,
+    "gn:longitude":95.35395,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101nlinta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101nlinta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311337,
+        "wk:page":"Manlinta"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"20174a15c0309ab0ea57e7fba01d2bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1242656053,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1242656053,
+    "wof:lastmodified":1537665451,
+    "wof:name":"Manlinta",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.35395,
+    24.70578,
+    95.35395,
+    24.70578
+],
+  "geometry": {"coordinates":[95.35395,24.70578],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293883415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.8177,24.22446,96.8177,24.22446",
+    "geom:latitude":24.22446,
+    "geom:longitude":96.8177,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Yele",
+    "gn:country_code":"MM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285235,
+    "gn:latitude":24.22446,
+    "gn:longitude":96.8177,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285235
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cb4e5ab976ead512c63d0570ec094530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1293883415,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293883415,
+    "wof:lastmodified":1536713805,
+    "wof:name":"Yele",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.8177,
+    24.22446,
+    96.8177,
+    24.22446
+],
+  "geometry": {"coordinates":[96.8177,24.22446],"type":"Point"}
+}

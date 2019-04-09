@@ -1,0 +1,69 @@
+{
+  "id": 1343749749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.53544,20.20644,97.53544,20.20644",
+    "geom:latitude":20.20644,
+    "geom:longitude":97.53544,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Nawnghi",
+    "gn:country_code":"MM",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305340,
+    "gn:latitude":20.20644,
+    "gn:longitude":97.53544,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawnghi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305340
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f587048d661606ce6464030814d30561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1343749749,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343749749,
+    "wof:lastmodified":1536825430,
+    "wof:name":"Nawnghi",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.53544,
+    20.20644,
+    97.53544,
+    20.20644
+],
+  "geometry": {"coordinates":[97.53543999999999,20.20644],"type":"Point"}
+}

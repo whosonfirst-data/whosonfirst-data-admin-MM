@@ -1,0 +1,73 @@
+{
+  "id": 1243245511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.38523,17.3901,96.38523,17.3901",
+    "geom:latitude":17.3901,
+    "geom:longitude":96.38523,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007001",
+    "gn:asciiname":"Pyinkado Le-einsu",
+    "gn:country_code":"MM",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299029,
+    "gn:latitude":17.3901,
+    "gn:longitude":96.38523,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyinkado Le-einsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyinkado Le-einzu",
+        "Pyinkado Le-einsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299029
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0dde7370d752aaae14401648bc539125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1243245511,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243245511,
+    "wof:lastmodified":1537665384,
+    "wof:name":"Pyinkado Le-einsu",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.38523,
+    17.3901,
+    96.38523,
+    17.3901
+],
+  "geometry": {"coordinates":[96.38523000000001,17.3901],"type":"Point"}
+}

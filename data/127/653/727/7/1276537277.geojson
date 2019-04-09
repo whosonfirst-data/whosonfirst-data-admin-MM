@@ -1,0 +1,73 @@
+{
+  "id": 1276537277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.61207,23.07006,95.61207,23.07006",
+    "geom:latitude":23.07006,
+    "geom:longitude":95.61207,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005007",
+    "gn:asciiname":"Ingadaung",
+    "gn:country_code":"MM",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322147,
+    "gn:latitude":23.07006,
+    "gn:longitude":95.61207,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ingadaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingagaung",
+        "Ingadaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322147
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b2fb6afcec84bb30f7458fdc67ed7fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1276537277,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276537277,
+    "wof:lastmodified":1537665513,
+    "wof:name":"Ingadaung",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.61207,
+    23.07006,
+    95.61207,
+    23.07006
+],
+  "geometry": {"coordinates":[95.61207,23.07006],"type":"Point"}
+}

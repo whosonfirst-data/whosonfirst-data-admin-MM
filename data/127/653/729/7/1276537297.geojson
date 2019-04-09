@@ -1,0 +1,69 @@
+{
+  "id": 1276537297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.97683,26.68354,95.97683,26.68354",
+    "geom:latitude":26.68354,
+    "geom:longitude":95.97683,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005037",
+    "gn:asciiname":"Semtik Ga",
+    "gn:country_code":"MM",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297372,
+    "gn:latitude":26.68354,
+    "gn:longitude":95.97683,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Semtik Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297372
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a09c6815ceaaba320eb6a537a3eb58b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1276537297,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276537297,
+    "wof:lastmodified":1537001905,
+    "wof:name":"Semtik Ga",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.97683,
+    26.68354,
+    95.97683,
+    26.68354
+],
+  "geometry": {"coordinates":[95.97683000000001,26.68354],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344239597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.89889,19.88554,94.89889,19.88554",
+    "geom:latitude":19.88554,
+    "geom:longitude":94.89889,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009013",
+    "gn:asciiname":"Yebo",
+    "gn:country_code":"MM",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285578,
+    "gn:latitude":19.88554,
+    "gn:longitude":94.89889,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yebo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yepo",
+        "Yebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285578
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3013c7d663ca06aaa73c6cd49c80ab50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1344239597,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1344239597,
+    "wof:lastmodified":1537665300,
+    "wof:name":"Yebo",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.89889,
+    19.88554,
+    94.89889,
+    19.88554
+],
+  "geometry": {"coordinates":[94.89888999999999,19.88554],"type":"Point"}
+}

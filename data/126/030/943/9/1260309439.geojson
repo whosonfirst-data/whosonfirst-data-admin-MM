@@ -1,0 +1,69 @@
+{
+  "id": 1260309439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.37345,24.8199,96.37345,24.8199",
+    "geom:latitude":24.8199,
+    "geom:longitude":96.37345,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001007",
+    "gn:asciiname":"Mayingon",
+    "gn:country_code":"MM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309948,
+    "gn:latitude":24.8199,
+    "gn:longitude":96.37345,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mayingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309948
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"342fe18d90cd03cb458862916fa4cd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1260309439,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1260309439,
+    "wof:lastmodified":1536677159,
+    "wof:name":"Mayingon",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.37345,
+    24.8199,
+    96.37345,
+    24.8199
+],
+  "geometry": {"coordinates":[96.37345000000001,24.8199],"type":"Point"}
+}

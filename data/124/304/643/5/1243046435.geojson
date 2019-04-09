@@ -1,0 +1,67 @@
+{
+  "id": 1243046435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.88776,21.60432,95.88776,21.60432",
+    "geom:latitude":21.60432,
+    "geom:longitude":95.88776,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nwachangyigon",
+    "gn:country_code":"MM",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303890,
+    "gn:latitude":21.60432,
+    "gn:longitude":95.88776,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Nwachangyigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303890
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"74cab0a51cda7ab374684bc737153bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1243046435,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1243046435,
+    "wof:lastmodified":1536884682,
+    "wof:name":"Nwachangyigon",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.88776,
+    21.60432,
+    95.88776,
+    21.60432
+],
+  "geometry": {"coordinates":[95.88776,21.60432],"type":"Point"}
+}

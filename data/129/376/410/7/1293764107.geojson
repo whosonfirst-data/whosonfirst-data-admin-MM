@@ -1,0 +1,73 @@
+{
+  "id": 1293764107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71818,20.72963,96.71818,20.72963",
+    "geom:latitude":20.72963,
+    "geom:longitude":96.71818,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014005",
+    "gn:asciiname":"Tingyigyat West",
+    "gn:country_code":"MM",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290918,
+    "gn:latitude":20.72963,
+    "gn:longitude":96.71818,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tingyigyat West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tingyigyat",
+        "Tingyigyat West"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290918
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fc9766e8da62fe9e4fc824b338b3934d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1293764107,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293764107,
+    "wof:lastmodified":1537665341,
+    "wof:name":"Tingyigyat West",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71818,
+    20.72963,
+    96.71818,
+    20.72963
+],
+  "geometry": {"coordinates":[96.71818,20.72963],"type":"Point"}
+}

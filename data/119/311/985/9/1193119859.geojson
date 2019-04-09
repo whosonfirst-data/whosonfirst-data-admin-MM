@@ -1,0 +1,73 @@
+{
+  "id": 1193119859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.36326,20.01113,95.36326,20.01113",
+    "geom:latitude":20.01113,
+    "geom:longitude":95.36326,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009004",
+    "gn:asciiname":"Inywagyi",
+    "gn:country_code":"MM",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321860,
+    "gn:latitude":20.01113,
+    "gn:longitude":95.36326,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Inywagyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inwagyi",
+        "Inywagyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321860
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f34d7a17d4af39dae09aac2f4af9afd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1193119859,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1193119859,
+    "wof:lastmodified":1537665512,
+    "wof:name":"Inywagyi",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.36326,
+    20.01113,
+    95.36326,
+    20.01113
+],
+  "geometry": {"coordinates":[95.36326,20.01113],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310683159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.77231,18.35622,96.77231,18.35622",
+    "geom:latitude":18.35622,
+    "geom:longitude":96.77231,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Shanywathit",
+    "gn:country_code":"MM",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297065,
+    "gn:latitude":18.35622,
+    "gn:longitude":96.77231,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shanywathit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297065
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"30d7cbc6f0a40c747fcd52309b1ead96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1310683159,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1310683159,
+    "wof:lastmodified":1536660682,
+    "wof:name":"Shanywathit",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.77231,
+    18.35622,
+    96.77231,
+    18.35622
+],
+  "geometry": {"coordinates":[96.77231,18.35622],"type":"Point"}
+}

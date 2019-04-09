@@ -1,0 +1,63 @@
+{
+  "id": 1209408047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.91973,18.76532,96.91973,18.76532",
+    "geom:latitude":18.76532,
+    "geom:longitude":96.91973,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Thakwizo",
+    "gn:country_code":"MM",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292725,
+    "gn:latitude":18.76532,
+    "gn:longitude":96.91973,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thakwizo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292725
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aeda42dc4d17d302ee28af75bda6c518",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209408047
+        }
+    ],
+    "wof:id":1209408047,
+    "wof:lastmodified":1536287931,
+    "wof:name":"Thakwizo",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.91973,
+    18.765320000000006,
+    96.91973,
+    18.765320000000006
+],
+  "geometry": {"coordinates":[96.91973,18.76532000000001],"type":"Point"}
+}

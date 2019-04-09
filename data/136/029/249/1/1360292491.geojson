@@ -1,0 +1,73 @@
+{
+  "id": 1360292491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.78992,16.95407,95.78992,16.95407",
+    "geom:latitude":16.95407,
+    "geom:longitude":95.78992,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017021",
+    "gn:asciiname":"Posonsu",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299603,
+    "gn:latitude":16.95407,
+    "gn:longitude":95.78992,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Posonsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Posonzu",
+        "Posonsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299603
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d15fd281912ca1c19ce4abbb1bfcc9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1360292491,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1360292491,
+    "wof:lastmodified":1537665388,
+    "wof:name":"Posonsu",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.78992,
+    16.95407,
+    95.78992,
+    16.95407
+],
+  "geometry": {"coordinates":[95.78992,16.95407],"type":"Point"}
+}

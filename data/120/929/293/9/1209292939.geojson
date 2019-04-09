@@ -1,0 +1,63 @@
+{
+  "id": 1209292939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.21171,22.92116,95.21171,22.92116",
+    "geom:latitude":22.92116,
+    "geom:longitude":95.21171,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Satpya-aing",
+    "gn:country_code":"MM",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297807,
+    "gn:latitude":22.92116,
+    "gn:longitude":95.21171,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Satpya-aing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297807
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ac9389a4f915012b65582f714bf6927",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209292939
+        }
+    ],
+    "wof:id":1209292939,
+    "wof:lastmodified":1536291630,
+    "wof:name":"Satpya-aing",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.21171,
+    22.92116,
+    95.21171,
+    22.92116
+],
+  "geometry": {"coordinates":[95.21171,22.92116],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343423581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.11256,19.77756,96.11256,19.77756",
+    "geom:latitude":19.77756,
+    "geom:longitude":96.11256,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D002",
+    "gn:admin3_code":"MMR018002",
+    "gn:asciiname":"Kwe-ngapyumyaung",
+    "gn:country_code":"MM",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317600,
+    "gn:latitude":19.77756,
+    "gn:longitude":96.11256,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwe-ngapyumyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kw\u00e8-ngabyubyaung",
+        "Kwe-ngapyumyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092045099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317600
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"69f020b1063d380abd0242a4784f1ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045099,
+            "locality_id":1343423581,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1343423581,
+    "wof:lastmodified":1537665486,
+    "wof:name":"Kwe-ngapyumyaung",
+    "wof:parent_id":1092045099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.11256,
+    19.77756,
+    96.11256,
+    19.77756
+],
+  "geometry": {"coordinates":[96.11256,19.77756],"type":"Point"}
+}

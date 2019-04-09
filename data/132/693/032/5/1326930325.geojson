@@ -1,0 +1,73 @@
+{
+  "id": 1326930325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.62452,25.96735,98.62452,25.96735",
+    "geom:latitude":25.96735,
+    "geom:longitude":98.62452,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Machulo",
+    "gn:country_code":"MM",
+    "gn:dem":2087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312692,
+    "gn:latitude":25.96735,
+    "gn:longitude":98.62452,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101chulo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101chulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312692,
+        "wk:page":"Machulo"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ef10dcae6aba03dfd13996f5017e557d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1326930325,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1326930325,
+    "wof:lastmodified":1537665457,
+    "wof:name":"Machulo",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.62452,
+    25.96735,
+    98.62452,
+    25.96735
+],
+  "geometry": {"coordinates":[98.62452,25.96735],"type":"Point"}
+}

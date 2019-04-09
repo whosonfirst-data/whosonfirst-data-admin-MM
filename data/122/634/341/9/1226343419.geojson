@@ -1,0 +1,73 @@
+{
+  "id": 1226343419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.65172,16.57568,95.65172,16.57568",
+    "geom:latitude":16.57568,
+    "geom:longitude":95.65172,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Minhlasu",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309160,
+    "gn:latitude":16.57568,
+    "gn:longitude":95.65172,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minhlasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minhlazu",
+        "Minhlasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309160
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1c956027d86b6f5db7bc799cd582b9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1226343419,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1226343419,
+    "wof:lastmodified":1537665436,
+    "wof:name":"Minhlasu",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.65172,
+    16.57568,
+    95.65172,
+    16.57568
+],
+  "geometry": {"coordinates":[95.65172,16.57568],"type":"Point"}
+}

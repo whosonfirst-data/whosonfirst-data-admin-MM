@@ -1,0 +1,73 @@
+{
+  "id": 1293192853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.31378,18.85386,97.31378,18.85386",
+    "geom:latitude":18.85386,
+    "geom:longitude":97.31378,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002006",
+    "gn:asciiname":"Nammawkom",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306711,
+    "gn:latitude":18.85386,
+    "gn:longitude":97.31378,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nammawkom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nammaukom",
+        "Nammawkom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306711
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"146979fe4f1e9e6818e33821fc07e8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1293192853,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1293192853,
+    "wof:lastmodified":1537665421,
+    "wof:name":"Nammawkom",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.31378,
+    18.85386,
+    97.31378,
+    18.85386
+],
+  "geometry": {"coordinates":[97.31377999999999,18.85386],"type":"Point"}
+}

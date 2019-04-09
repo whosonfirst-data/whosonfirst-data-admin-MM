@@ -1,0 +1,69 @@
+{
+  "id": 1259583135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.17484,23.80072,97.17484,23.80072",
+    "geom:latitude":23.80072,
+    "geom:longitude":97.17484,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Sawbong",
+    "gn:country_code":"MM",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1297693,
+    "gn:latitude":23.80072,
+    "gn:longitude":97.17484,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sawbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297693
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"50f1c8030b793c246855fc5b561d1ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1259583135,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259583135,
+    "wof:lastmodified":1536715671,
+    "wof:name":"Sawbong",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.17484,
+    23.80072,
+    97.17484,
+    23.80072
+],
+  "geometry": {"coordinates":[97.17484,23.80072],"type":"Point"}
+}

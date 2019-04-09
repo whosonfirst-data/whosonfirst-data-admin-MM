@@ -1,0 +1,73 @@
+{
+  "id": 1293292501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.93394,25.6309,96.93394,25.6309",
+    "geom:latitude":25.6309,
+    "geom:longitude":96.93394,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001008",
+    "gn:asciiname":"Sama",
+    "gn:country_code":"MM",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298181,
+    "gn:latitude":25.6309,
+    "gn:longitude":96.93394,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thama",
+        "Sama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298181
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5737b4c9a5034f4969d02a9831847347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1293292501,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293292501,
+    "wof:lastmodified":1537665380,
+    "wof:name":"Sama",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.93394,
+    25.6309,
+    96.93394,
+    25.6309
+],
+  "geometry": {"coordinates":[96.93394000000001,25.6309],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276335877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.72258,16.63591,95.72258,16.63591",
+    "geom:latitude":16.63591,
+    "geom:longitude":95.72258,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017019",
+    "gn:asciiname":"Payathonzu",
+    "gn:country_code":"MM",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300635,
+    "gn:latitude":16.63591,
+    "gn:longitude":95.72258,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Payathonzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300635
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a2e8517352178fc83a074373159a4137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046289,
+            "locality_id":1276335877,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1276335877,
+    "wof:lastmodified":1536775709,
+    "wof:name":"Payathonzu",
+    "wof:parent_id":1092046289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.72258,
+    16.63591,
+    95.72258,
+    16.63591
+],
+  "geometry": {"coordinates":[95.72257999999999,16.63591],"type":"Point"}
+}

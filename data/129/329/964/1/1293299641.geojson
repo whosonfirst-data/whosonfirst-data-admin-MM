@@ -1,0 +1,69 @@
+{
+  "id": 1293299641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.061,16.39289,95.061,16.39289",
+    "geom:latitude":16.39289,
+    "geom:longitude":95.061,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017017",
+    "gn:asciiname":"Shwegon",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296655,
+    "gn:latitude":16.39289,
+    "gn:longitude":95.061,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shweg\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296655
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"abf3520e17998109ce3ee1bc27559022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1293299641,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1293299641,
+    "wof:lastmodified":1537055355,
+    "wof:name":"Shwegon",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.061,
+    16.39289,
+    95.061,
+    16.39289
+],
+  "geometry": {"coordinates":[95.06100000000001,16.39289],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242977739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.19937,16.75534,95.19937,16.75534",
+    "geom:latitude":16.75534,
+    "geom:longitude":95.19937,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017017",
+    "gn:asciiname":"Wegyi-ywama",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286445,
+    "gn:latitude":16.75534,
+    "gn:longitude":95.19937,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wegyi-ywama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286445
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"87533f13704d7b142e5012e949a1f78e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1242977739,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1242977739,
+    "wof:lastmodified":1536983463,
+    "wof:name":"Wegyi-ywama",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.19937,
+    16.75534,
+    95.19937,
+    16.75534
+],
+  "geometry": {"coordinates":[95.19937,16.75534],"type":"Point"}
+}

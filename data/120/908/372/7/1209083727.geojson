@@ -1,0 +1,63 @@
+{
+  "id": 1209083727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.67114,23.19681,98.67114,23.19681",
+    "geom:latitude":23.19681,
+    "geom:longitude":98.67114,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015021",
+    "gn:asciiname":"Moeng Yom",
+    "gn:country_code":"MM",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308559,
+    "gn:latitude":23.19681,
+    "gn:longitude":98.67114,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00f6ng Yom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308559
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"98dbafcd13eed98550780f42f5bc09e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209083727
+        }
+    ],
+    "wof:id":1209083727,
+    "wof:lastmodified":1536298254,
+    "wof:name":"Moeng Yom",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.67114,
+    23.19681,
+    98.67114,
+    23.19681
+],
+  "geometry": {"coordinates":[98.67113999999999,23.19681],"type":"Point"}
+}

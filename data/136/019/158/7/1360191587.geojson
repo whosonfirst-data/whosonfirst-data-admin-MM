@@ -1,0 +1,69 @@
+{
+  "id": 1360191587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.05836,16.69918,95.05836,16.69918",
+    "geom:latitude":16.69918,
+    "geom:longitude":95.05836,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017015",
+    "gn:asciiname":"Ywagale",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284601,
+    "gn:latitude":16.69918,
+    "gn:longitude":95.05836,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywagale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284601
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b22d23a9318fddc0b58b8c759b51854d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1360191587,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1360191587,
+    "wof:lastmodified":1536792285,
+    "wof:name":"Ywagale",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.05836,
+    16.69918,
+    95.05836,
+    16.69918
+],
+  "geometry": {"coordinates":[95.05835999999999,16.69918],"type":"Point"}
+}

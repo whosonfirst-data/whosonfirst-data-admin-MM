@@ -1,0 +1,73 @@
+{
+  "id": 1276752509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.88602,24.1887,94.88602,24.1887",
+    "geom:latitude":24.1887,
+    "geom:longitude":94.88602,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Yenan",
+    "gn:country_code":"MM",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285180,
+    "gn:latitude":24.1887,
+    "gn:longitude":94.88602,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yenan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanan",
+        "Yenan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285180
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0e112eba2beedc52ca03ae841d921343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046361,
+            "locality_id":1276752509,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276752509,
+    "wof:lastmodified":1537665299,
+    "wof:name":"Yenan",
+    "wof:parent_id":1092046361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.88602,
+    24.1887,
+    94.88602,
+    24.1887
+],
+  "geometry": {"coordinates":[94.88602,24.1887],"type":"Point"}
+}

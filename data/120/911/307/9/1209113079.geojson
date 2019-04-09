@@ -1,0 +1,63 @@
+{
+  "id": 1209113079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.3948,15.95405,94.3948,15.95405",
+    "geom:latitude":15.95405,
+    "geom:longitude":94.3948,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017004",
+    "gn:asciiname":"Ainggo",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329493,
+    "gn:latitude":15.95405,
+    "gn:longitude":94.3948,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ainggo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329493
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"72b4b488817f89138fdacacb25ccbec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209113079
+        }
+    ],
+    "wof:id":1209113079,
+    "wof:lastmodified":1536297342,
+    "wof:name":"Ainggo",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.3948,
+    15.95405,
+    94.3948,
+    15.95405
+],
+  "geometry": {"coordinates":[94.3948,15.95405],"type":"Point"}
+}

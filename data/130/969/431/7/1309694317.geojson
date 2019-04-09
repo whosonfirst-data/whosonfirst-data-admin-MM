@@ -1,0 +1,73 @@
+{
+  "id": 1309694317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.14412,17.67037,97.14412,17.67037",
+    "geom:latitude":17.67037,
+    "geom:longitude":97.14412,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Lo-e-khi",
+    "gn:country_code":"MM",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313616,
+    "gn:latitude":17.67037,
+    "gn:longitude":97.14412,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lo-e-khi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo-egyi",
+        "Lo-e-khi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313616
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"514529af6732a7dee68d6440ec4633a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1309694317,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1309694317,
+    "wof:lastmodified":1537665461,
+    "wof:name":"Lo-e-khi",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.14412,
+    17.67037000000001,
+    97.14412,
+    17.67037000000001
+],
+  "geometry": {"coordinates":[97.14412,17.67037000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293213169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.73333,23.28333,93.73333,23.28333",
+    "geom:latitude":23.28333,
+    "geom:longitude":93.73333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004004",
+    "gn:asciiname":"Phunom",
+    "gn:country_code":"MM",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300098,
+    "gn:latitude":23.28333,
+    "gn:longitude":93.73333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Phunom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300098,
+        "wk:page":"Phunom"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cc26a2e6565590d8efd66cebba09c0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1293213169,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1293213169,
+    "wof:lastmodified":1537568466,
+    "wof:name":"Phunom",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.73333,
+    23.28333,
+    93.73333,
+    23.28333
+],
+  "geometry": {"coordinates":[93.73333,23.28333],"type":"Point"}
+}

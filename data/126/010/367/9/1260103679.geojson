@@ -1,0 +1,70 @@
+{
+  "id": 1260103679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.08801,24.14609,97.08801,24.14609",
+    "geom:latitude":24.14609,
+    "geom:longitude":97.08801,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Pinthet",
+    "gn:country_code":"MM",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299895,
+    "gn:latitude":24.14609,
+    "gn:longitude":97.08801,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pinthet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299895,
+        "wk:page":"Pinthet"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d8347bdb35bcef90e272c5cbeb74b504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1260103679,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1260103679,
+    "wof:lastmodified":1537568466,
+    "wof:name":"Pinthet",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.08801,
+    24.14609,
+    97.08801,
+    24.14609
+],
+  "geometry": {"coordinates":[97.08801,24.14609],"type":"Point"}
+}

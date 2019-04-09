@@ -1,0 +1,69 @@
+{
+  "id": 1243240989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.08974,21.01977,100.08974,21.01977",
+    "geom:latitude":21.01977,
+    "geom:longitude":100.08974,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016010",
+    "gn:asciiname":"Wan Moeng-ngen",
+    "gn:country_code":"MM",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847380,
+    "gn:latitude":21.01977,
+    "gn:longitude":100.08974,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n M\u00f6ng-ngen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847380
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"58ef88e285ee70943674167192ca7b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1243240989,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243240989,
+    "wof:lastmodified":1536601659,
+    "wof:name":"Wan Moeng-ngen",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.08974,
+    21.01977,
+    100.08974,
+    21.01977
+],
+  "geometry": {"coordinates":[100.08974000000001,21.01977],"type":"Point"}
+}

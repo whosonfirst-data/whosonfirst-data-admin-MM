@@ -1,0 +1,69 @@
+{
+  "id": 1343239621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.65511,21.14907,96.65511,21.14907",
+    "geom:latitude":21.14907,
+    "geom:longitude":96.65511,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014008",
+    "gn:asciiname":"Yebyan",
+    "gn:country_code":"MM",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285515,
+    "gn:latitude":21.14907,
+    "gn:longitude":96.65511,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yebyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285515
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fc1526f37a0591577349bb747113227a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1343239621,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343239621,
+    "wof:lastmodified":1537062324,
+    "wof:name":"Yebyan",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.65511,
+    21.14907,
+    96.65511,
+    21.14907
+],
+  "geometry": {"coordinates":[96.65510999999999,21.14907],"type":"Point"}
+}

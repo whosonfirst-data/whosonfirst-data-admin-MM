@@ -1,0 +1,71 @@
+{
+  "id": 1360263611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.11442,26.6889,96.11442,26.6889",
+    "geom:latitude":26.6889,
+    "geom:longitude":96.11442,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Simyi Ga",
+    "gn:country_code":"MM",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296314,
+    "gn:latitude":26.6889,
+    "gn:longitude":96.11442,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Simyi Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jum Ga",
+        "Simyi Ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296314
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"23399868027aa3ee1b5fb7787dc2ce8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1360263611,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1360263611,
+    "wof:lastmodified":1537665369,
+    "wof:name":"Simyi Ga",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.11442,
+    26.6889,
+    96.11442,
+    26.6889
+],
+  "geometry": {"coordinates":[96.11442,26.6889],"type":"Point"}
+}

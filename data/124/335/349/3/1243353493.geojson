@@ -1,0 +1,69 @@
+{
+  "id": 1243353493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.07412,22.2935,96.07412,22.2935",
+    "geom:latitude":22.2935,
+    "geom:longitude":96.07412,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010009",
+    "gn:asciiname":"Sinywa",
+    "gn:country_code":"MM",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295913,
+    "gn:latitude":22.2935,
+    "gn:longitude":96.07412,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295913
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"04b6787f1d036b130320051b4318be36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1243353493,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1243353493,
+    "wof:lastmodified":1536940262,
+    "wof:name":"Sinywa",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.07412,
+    22.2935,
+    96.07412,
+    22.2935
+],
+  "geometry": {"coordinates":[96.07411999999999,22.2935],"type":"Point"}
+}

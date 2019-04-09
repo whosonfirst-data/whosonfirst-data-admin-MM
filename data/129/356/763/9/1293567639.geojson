@@ -1,0 +1,70 @@
+{
+  "id": 1293567639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.37846,26.10812,95.37846,26.10812",
+    "geom:latitude":26.10812,
+    "geom:longitude":95.37846,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005036",
+    "gn:asciiname":"Hwekum",
+    "gn:country_code":"MM",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322430,
+    "gn:latitude":26.10812,
+    "gn:longitude":95.37846,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hwekum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322430,
+        "wk:page":"Hwekum"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"94633d4f205e4452242c2ee4f8194a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1293567639,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293567639,
+    "wof:lastmodified":1537568501,
+    "wof:name":"Hwekum",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.37846,
+    26.10812,
+    95.37846,
+    26.10812
+],
+  "geometry": {"coordinates":[95.37846,26.10812],"type":"Point"}
+}

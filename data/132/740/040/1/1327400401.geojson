@@ -1,0 +1,70 @@
+{
+  "id": 1327400401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.04158,17.09929,96.04158,17.09929",
+    "geom:latitude":17.09929,
+    "geom:longitude":96.04158,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013003",
+    "gn:asciiname":"Hmawbi",
+    "gn:country_code":"MM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324383,
+    "gn:latitude":17.09929,
+    "gn:longitude":96.04158,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Hmawbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324383,
+        "wk:page":"Hmawbi_Township"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b26561bd411b4b5eb2cf83c60eddb4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1327400401,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1327400401,
+    "wof:lastmodified":1537568503,
+    "wof:name":"Hmawbi",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.04158,
+    17.09929,
+    96.04158,
+    17.09929
+],
+  "geometry": {"coordinates":[96.04158,17.09929],"type":"Point"}
+}

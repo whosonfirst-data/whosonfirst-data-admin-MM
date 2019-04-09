@@ -1,0 +1,73 @@
+{
+  "id": 1293081521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50225,20.934,100.50225,20.934",
+    "geom:latitude":20.934,
+    "geom:longitude":100.50225,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016009",
+    "gn:asciiname":"Wan Paw-hpal",
+    "gn:country_code":"MM",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847252,
+    "gn:latitude":20.934,
+    "gn:longitude":100.50225,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Paw-hpal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Paw-hpat",
+        "W\u0101n Paw-hpal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847252
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f2cecc8de4e88565eb07b0842b33299e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047397,
+            "locality_id":1293081521,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293081521,
+    "wof:lastmodified":1537665557,
+    "wof:name":"Wan Paw-hpal",
+    "wof:parent_id":1092047397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50225,
+    20.934,
+    100.50225,
+    20.934
+],
+  "geometry": {"coordinates":[100.50225,20.934],"type":"Point"}
+}

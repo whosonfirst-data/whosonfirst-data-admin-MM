@@ -1,0 +1,70 @@
+{
+  "id": 1242951537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.33822,23.45516,94.33822,23.45516",
+    "geom:latitude":23.45516,
+    "geom:longitude":94.33822,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005028",
+    "gn:asciiname":"Paluzawa",
+    "gn:country_code":"MM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302276,
+    "gn:latitude":23.45516,
+    "gn:longitude":94.33822,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paluzawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302276,
+        "wk:page":"Paluzawa"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"edfe7ed1dce995ba0a49400f33e083d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1242951537,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1242951537,
+    "wof:lastmodified":1537568469,
+    "wof:name":"Paluzawa",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.33822,
+    23.45516,
+    94.33822,
+    23.45516
+],
+  "geometry": {"coordinates":[94.33822000000001,23.45516],"type":"Point"}
+}

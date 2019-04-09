@@ -1,0 +1,63 @@
+{
+  "id": 1209687655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.67568,17.04801,96.67568,17.04801",
+    "geom:latitude":17.04801,
+    "geom:longitude":96.67568,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007003",
+    "gn:asciiname":"Pyawbwe-athin",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299175,
+    "gn:latitude":17.04801,
+    "gn:longitude":96.67568,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyawbw\u0113-athin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299175
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"032e1c5b34200ab1945081ba938b2589",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209687655
+        }
+    ],
+    "wof:id":1209687655,
+    "wof:lastmodified":1536279355,
+    "wof:name":"Pyawbwe-athin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.67568,
+    17.04801,
+    96.67568,
+    17.04801
+],
+  "geometry": {"coordinates":[96.67568,17.04801],"type":"Point"}
+}

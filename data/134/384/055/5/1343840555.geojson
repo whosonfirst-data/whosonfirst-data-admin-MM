@@ -1,0 +1,73 @@
+{
+  "id": 1343840555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.05562,20.48184,95.05562,20.48184",
+    "geom:latitude":20.48184,
+    "geom:longitude":95.05562,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009002",
+    "gn:asciiname":"Shwegyinkan",
+    "gn:country_code":"MM",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296602,
+    "gn:latitude":20.48184,
+    "gn:longitude":95.05562,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwegyinkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shwegyingan",
+        "Shwegyinkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296602
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e7d23fd3c98fa9ed213d3300568739a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1343840555,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1343840555,
+    "wof:lastmodified":1537665371,
+    "wof:name":"Shwegyinkan",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.05562,
+    20.48184,
+    95.05562,
+    20.48184
+],
+  "geometry": {"coordinates":[95.05562,20.48184],"type":"Point"}
+}

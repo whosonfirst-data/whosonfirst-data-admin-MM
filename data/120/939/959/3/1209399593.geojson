@@ -1,0 +1,63 @@
+{
+  "id": 1209399593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.00554,23.3842,96.00554,23.3842",
+    "geom:latitude":23.3842,
+    "geom:longitude":96.00554,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010012",
+    "gn:asciiname":"Yeyin",
+    "gn:country_code":"MM",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284966,
+    "gn:latitude":23.3842,
+    "gn:longitude":96.00554,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yeyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284966
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"699b1fee29732ebae75ee1603552d199",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209399593
+        }
+    ],
+    "wof:id":1209399593,
+    "wof:lastmodified":1536288190,
+    "wof:name":"Yeyin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.00554,
+    23.3842,
+    96.00554,
+    23.3842
+],
+  "geometry": {"coordinates":[96.00554,23.3842],"type":"Point"}
+}

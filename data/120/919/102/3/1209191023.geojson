@@ -1,0 +1,63 @@
+{
+  "id": 1209191023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.73087,12.49377,98.73087,12.49377",
+    "geom:latitude":12.49377,
+    "geom:longitude":98.73087,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006005",
+    "gn:asciiname":"Wunpo",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286006,
+    "gn:latitude":12.49377,
+    "gn:longitude":98.73087,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wunpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286006
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"47a87a7f4de3606613443375d7ac6e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209191023
+        }
+    ],
+    "wof:id":1209191023,
+    "wof:lastmodified":1536294934,
+    "wof:name":"Wunpo",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.73087,
+    12.49377,
+    98.73087,
+    12.49377
+],
+  "geometry": {"coordinates":[98.73087,12.49377],"type":"Point"}
+}

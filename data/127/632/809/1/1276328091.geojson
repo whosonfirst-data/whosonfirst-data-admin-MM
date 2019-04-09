@@ -1,0 +1,73 @@
+{
+  "id": 1276328091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.08886,22.38895,95.08886,22.38895",
+    "geom:latitude":22.38895,
+    "geom:longitude":95.08886,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005013",
+    "gn:asciiname":"Kyetyogon",
+    "gn:country_code":"MM",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316039,
+    "gn:latitude":22.38895,
+    "gn:longitude":95.08886,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyetyogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyetogon",
+        "Kyetyogon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316039
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"88d5a2d74ad32b04b0537c3049a7a289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046719,
+            "locality_id":1276328091,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276328091,
+    "wof:lastmodified":1537665475,
+    "wof:name":"Kyetyogon",
+    "wof:parent_id":1092046719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.08886,
+    22.38895,
+    95.08886,
+    22.38895
+],
+  "geometry": {"coordinates":[95.08886,22.38895],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421188859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.598822,12.437723,98.598822,12.437723",
+    "geom:latitude":12.437723,
+    "geom:longitude":98.598822,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mergui",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Tenasserim",
+    "qs:photos":171,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":171,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104700,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017608,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1017608,
+        "qs:id":1104700
+    },
+    "wof:country":"MM",
+    "wof:created":1459009586,
+    "wof:geomhash":"23302f76c831e04b221f0ad8d36dbba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":421188859,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":421188859,
+    "wof:lastmodified":1500016924,
+    "wof:name":"Mergui",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.598822,
+    12.437723,
+    98.598822,
+    12.437723
+],
+  "geometry": {"coordinates":[98.598822,12.437723],"type":"Point"}
+}

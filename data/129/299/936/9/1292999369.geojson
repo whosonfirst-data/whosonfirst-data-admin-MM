@@ -1,0 +1,69 @@
+{
+  "id": 1292999369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.82394,17.07624,97.82394,17.07624",
+    "geom:latitude":17.07624,
+    "geom:longitude":97.82394,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003002",
+    "gn:asciiname":"Kawye",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319550,
+    "gn:latitude":17.07624,
+    "gn:longitude":97.82394,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319550
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bc3563445a33605bd55da8a5443abe87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1292999369,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1292999369,
+    "wof:lastmodified":1536992923,
+    "wof:name":"Kawye",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.82394,
+    17.07624,
+    97.82394,
+    17.07624
+],
+  "geometry": {"coordinates":[97.82393999999999,17.07624],"type":"Point"}
+}

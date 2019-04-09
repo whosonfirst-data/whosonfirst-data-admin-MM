@@ -1,0 +1,63 @@
+{
+  "id": 1209084761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.18254,21.99001,95.18254,21.99001",
+    "geom:latitude":21.99001,
+    "geom:longitude":95.18254,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005012",
+    "gn:asciiname":"Mayogon",
+    "gn:country_code":"MM",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309921,
+    "gn:latitude":21.99001,
+    "gn:longitude":95.18254,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mayogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309921
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7eb1a91aaf8fba109750df62cd95c10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209084761
+        }
+    ],
+    "wof:id":1209084761,
+    "wof:lastmodified":1536298223,
+    "wof:name":"Mayogon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.18254,
+    21.99001,
+    95.18254,
+    21.99001
+],
+  "geometry": {"coordinates":[95.18254,21.99001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293855647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.61602,17.27307,96.61602,17.27307",
+    "geom:latitude":17.27307,
+    "geom:longitude":96.61602,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007002",
+    "gn:asciiname":"Kalaing",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321336,
+    "gn:latitude":17.27307,
+    "gn:longitude":96.61602,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kalaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321336
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ddb5ae97e35e009bd18890b2c462a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1293855647,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1293855647,
+    "wof:lastmodified":1536753522,
+    "wof:name":"Kalaing",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.61602,
+    17.27307,
+    96.61602,
+    17.27307
+],
+  "geometry": {"coordinates":[96.61602000000001,17.27307],"type":"Point"}
+}

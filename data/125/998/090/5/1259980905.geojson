@@ -1,0 +1,69 @@
+{
+  "id": 1259980905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.32646,16.19886,95.32646,16.19886",
+    "geom:latitude":16.19886,
+    "geom:longitude":95.32646,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017024",
+    "gn:asciiname":"Kyonsein",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315747,
+    "gn:latitude":16.19886,
+    "gn:longitude":95.32646,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ky\u00f4nsein",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315747
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c882b957b03b2bcd4ca81b5a05260ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1259980905,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1259980905,
+    "wof:lastmodified":1536637764,
+    "wof:name":"Kyonsein",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.32646,
+    16.19886,
+    95.32646,
+    16.19886
+],
+  "geometry": {"coordinates":[95.32646,16.19886],"type":"Point"}
+}

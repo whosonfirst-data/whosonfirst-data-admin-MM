@@ -1,0 +1,69 @@
+{
+  "id": 1343651673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.03208,20.8151,96.03208,20.8151",
+    "geom:latitude":20.8151,
+    "geom:longitude":96.03208,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010030",
+    "gn:asciiname":"Inwin",
+    "gn:country_code":"MM",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321888,
+    "gn:latitude":20.8151,
+    "gn:longitude":96.03208,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Inwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321888
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f9c488b5cc6e6509c19152d5c4df9825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1343651673,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343651673,
+    "wof:lastmodified":1536967442,
+    "wof:name":"Inwin",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.03208,
+    20.8151,
+    96.03208,
+    20.8151
+],
+  "geometry": {"coordinates":[96.03207999999999,20.8151],"type":"Point"}
+}

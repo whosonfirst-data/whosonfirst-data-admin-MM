@@ -1,0 +1,69 @@
+{
+  "id": 1310077303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.07599,19.32983,96.07599,19.32983",
+    "geom:latitude":19.32983,
+    "geom:longitude":96.07599,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007010",
+    "gn:asciiname":"Hlebwegyi",
+    "gn:country_code":"MM",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324511,
+    "gn:latitude":19.32983,
+    "gn:longitude":96.07599,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hlebwegyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324511
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"650684cfb2a64a6977a858a9ec11afba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1310077303,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1310077303,
+    "wof:lastmodified":1537035731,
+    "wof:name":"Hlebwegyi",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.07599,
+    19.32983,
+    96.07599,
+    19.32983
+],
+  "geometry": {"coordinates":[96.07599,19.32983],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276537285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.41325,23.08926,95.41325,23.08926",
+    "geom:latitude":23.08926,
+    "geom:longitude":95.41325,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Beyin",
+    "gn:country_code":"MM",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328221,
+    "gn:latitude":23.08926,
+    "gn:longitude":95.41325,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Beyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biyin",
+        "Beyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328221
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3b1c3ccf27804190eb80ede7e4f92c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1276537285,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276537285,
+    "wof:lastmodified":1537665544,
+    "wof:name":"Beyin",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.41325,
+    23.08926,
+    95.41325,
+    23.08926
+],
+  "geometry": {"coordinates":[95.41325000000001,23.08926],"type":"Point"}
+}

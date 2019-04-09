@@ -1,0 +1,69 @@
+{
+  "id": 1193144097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.1025,16.1553,95.1025,16.1553",
+    "geom:latitude":16.1553,
+    "geom:longitude":95.1025,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D004",
+    "gn:admin3_code":"MMR017018",
+    "gn:asciiname":"Hlaingbon",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324568,
+    "gn:latitude":16.1553,
+    "gn:longitude":95.1025,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hlaingb\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324568
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"03cd5cff3c0c89328aa47d7922280cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045903,
+            "locality_id":1193144097,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1193144097,
+    "wof:lastmodified":1536363873,
+    "wof:name":"Hlaingbon",
+    "wof:parent_id":1092045903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.1025,
+    16.1553,
+    95.1025,
+    16.1553
+],
+  "geometry": {"coordinates":[95.10250000000001,16.1553],"type":"Point"}
+}

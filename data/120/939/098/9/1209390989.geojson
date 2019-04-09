@@ -1,0 +1,63 @@
+{
+  "id": 1209390989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.25804,17.05174,96.25804,17.05174",
+    "geom:latitude":17.05174,
+    "geom:longitude":96.25804,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Kaukkwe",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320071,
+    "gn:latitude":17.05174,
+    "gn:longitude":96.25804,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaukkwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320071
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"04fcf5633b54400b29a6262215dcc82a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209390989
+        }
+    ],
+    "wof:id":1209390989,
+    "wof:lastmodified":1536288461,
+    "wof:name":"Kaukkwe",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.25804,
+    17.05174,
+    96.25804,
+    17.05174
+],
+  "geometry": {"coordinates":[96.25803999999999,17.05174],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209185931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.12481,17.74268,97.12481,17.74268",
+    "geom:latitude":17.74268,
+    "geom:longitude":97.12481,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Hohta",
+    "gn:country_code":"MM",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324142,
+    "gn:latitude":17.74268,
+    "gn:longitude":97.12481,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hohta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bota",
+        "Hohta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324142
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5640dc2c05b3f13223d558027075f584",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209185931
+        }
+    ],
+    "wof:id":1209185931,
+    "wof:lastmodified":1537665524,
+    "wof:name":"Hohta",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.12481,
+    17.74268,
+    97.12481,
+    17.74268
+],
+  "geometry": {"coordinates":[97.12481,17.74268],"type":"Point"}
+}

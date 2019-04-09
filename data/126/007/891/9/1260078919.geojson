@@ -1,0 +1,75 @@
+{
+  "id": 1260078919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.29247,18.42977,97.29247,18.42977",
+    "geom:latitude":18.42977,
+    "geom:longitude":97.29247,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Pochanado",
+    "gn:country_code":"MM",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299844,
+    "gn:latitude":18.42977,
+    "gn:longitude":97.29247,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pochanado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pochando",
+        "Pochanard\u00f6",
+        "Poohanado",
+        "Pochanado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299844
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4f4e6c3d2baf9ca641316b78841251a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1260078919,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1260078919,
+    "wof:lastmodified":1537665389,
+    "wof:name":"Pochanado",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.29247,
+    18.42977,
+    97.29247,
+    18.42977
+],
+  "geometry": {"coordinates":[97.29246999999999,18.42977],"type":"Point"}
+}

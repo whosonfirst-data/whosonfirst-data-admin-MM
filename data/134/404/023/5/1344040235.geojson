@@ -1,0 +1,69 @@
+{
+  "id": 1344040235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.40614,20.38167,95.40614,20.38167",
+    "geom:latitude":20.38167,
+    "geom:longitude":95.40614,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009006",
+    "gn:asciiname":"Zetha",
+    "gn:country_code":"MM",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284047,
+    "gn:latitude":20.38167,
+    "gn:longitude":95.40614,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zetha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284047
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a340ad305c8ece114447eb9c256b9713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1344040235,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1344040235,
+    "wof:lastmodified":1536905035,
+    "wof:name":"Zetha",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.40614,
+    20.38167,
+    95.40614,
+    20.38167
+],
+  "geometry": {"coordinates":[95.40613999999999,20.38167],"type":"Point"}
+}

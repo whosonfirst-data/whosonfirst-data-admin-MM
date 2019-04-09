@@ -1,0 +1,73 @@
+{
+  "id": 1326719065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.46498,23.08796,95.46498,23.08796",
+    "geom:latitude":23.08796,
+    "geom:longitude":95.46498,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005007",
+    "gn:asciiname":"Inboktaw",
+    "gn:country_code":"MM",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322262,
+    "gn:latitude":23.08796,
+    "gn:longitude":95.46498,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Inboktaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inbettaw",
+        "Inboktaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322262
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ea0a9066be974ae9bfd83db98c26790b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1326719065,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1326719065,
+    "wof:lastmodified":1537665514,
+    "wof:name":"Inboktaw",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.46498,
+    23.08796,
+    95.46498,
+    23.08796
+],
+  "geometry": {"coordinates":[95.46498,23.08796],"type":"Point"}
+}

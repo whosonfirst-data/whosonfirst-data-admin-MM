@@ -1,0 +1,68 @@
+{
+  "id": 1209595849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71108,21.06956,96.71108,21.06956",
+    "geom:latitude":21.06956,
+    "geom:longitude":96.71108,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014006",
+    "gn:asciiname":"Mai-in",
+    "gn:country_code":"MM",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312271,
+    "gn:latitude":21.06956,
+    "gn:longitude":96.71108,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mai-in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mong-ing",
+        "Mong Ang",
+        "Mai-in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312271
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"86357a66b1e8d9cc2d25b57995bfd6ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209595849
+        }
+    ],
+    "wof:id":1209595849,
+    "wof:lastmodified":1537665455,
+    "wof:name":"Mai-in",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71108,
+    21.06956,
+    96.71108,
+    21.06956
+],
+  "geometry": {"coordinates":[96.71108,21.06956],"type":"Point"}
+}

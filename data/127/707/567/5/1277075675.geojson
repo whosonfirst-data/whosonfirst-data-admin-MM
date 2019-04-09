@@ -1,0 +1,69 @@
+{
+  "id": 1277075675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.59385,16.79899,94.59385,16.79899",
+    "geom:latitude":16.79899,
+    "geom:longitude":94.59385,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017001",
+    "gn:asciiname":"Kyettu-ywe",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316057,
+    "gn:latitude":16.79899,
+    "gn:longitude":94.59385,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyettu-ywe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316057
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5f89d6f585b91050280b4c3eaeaba7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1277075675,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1277075675,
+    "wof:lastmodified":1536778325,
+    "wof:name":"Kyettu-ywe",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.59385,
+    16.79899,
+    94.59385,
+    16.79899
+],
+  "geometry": {"coordinates":[94.59385,16.79899],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226323211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98663,21.99137,98.98663,21.99137",
+    "geom:latitude":21.99137,
+    "geom:longitude":98.98663,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Wan Pa-lao-no",
+    "gn:country_code":"MM",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287455,
+    "gn:latitude":21.99137,
+    "gn:longitude":98.98663,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n P\u0101-lao-n\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287455
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a928beb9ee133b90b98b612d5cb29a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1226323211,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226323211,
+    "wof:lastmodified":1536821172,
+    "wof:name":"Wan Pa-lao-no",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98663,
+    21.99137,
+    98.98663,
+    21.99137
+],
+  "geometry": {"coordinates":[98.98663000000001,21.99137],"type":"Point"}
+}

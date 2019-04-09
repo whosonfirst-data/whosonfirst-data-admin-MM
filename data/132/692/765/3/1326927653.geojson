@@ -1,0 +1,69 @@
+{
+  "id": 1326927653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.13553,19.56839,97.13553,19.56839",
+    "geom:latitude":19.56839,
+    "geom:longitude":97.13553,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Kyawngka-wa-ringta",
+    "gn:country_code":"MM",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479007,
+    "gn:latitude":19.56839,
+    "gn:longitude":97.13553,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyawngka-wa-ringta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479007
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4c883e79721bc9936aabb86edbd39ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1326927653,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1326927653,
+    "wof:lastmodified":1536911779,
+    "wof:name":"Kyawngka-wa-ringta",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.13553,
+    19.56839,
+    97.13553,
+    19.56839
+],
+  "geometry": {"coordinates":[97.13553,19.56839],"type":"Point"}
+}

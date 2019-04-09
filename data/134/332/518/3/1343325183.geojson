@@ -1,0 +1,69 @@
+{
+  "id": 1343325183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.19402,16.66237,96.19402,16.66237",
+    "geom:latitude":16.66237,
+    "geom:longitude":96.19402,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013030",
+    "gn:asciiname":"Totingan-tawng",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482250,
+    "gn:latitude":16.66237,
+    "gn:longitude":96.19402,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Totingan-tawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482250
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5e30dfc859258412129b110c849722b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1343325183,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1343325183,
+    "wof:lastmodified":1536942207,
+    "wof:name":"Totingan-tawng",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.19402,
+    16.66237000000001,
+    96.19402,
+    16.66237000000001
+],
+  "geometry": {"coordinates":[96.19401999999999,16.66237000000001],"type":"Point"}
+}

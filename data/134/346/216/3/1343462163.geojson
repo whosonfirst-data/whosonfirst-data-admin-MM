@@ -1,0 +1,69 @@
+{
+  "id": 1343462163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.68177,18.79351,93.68177,18.79351",
+    "geom:latitude":18.79351,
+    "geom:longitude":93.68177,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012012",
+    "gn:asciiname":"Ngaungbin Hla",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304397,
+    "gn:latitude":18.79351,
+    "gn:longitude":93.68177,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngaungbin Hla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304397
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ac7efa28003e56a409b6b95f2c14f07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1343462163,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1343462163,
+    "wof:lastmodified":1536743388,
+    "wof:name":"Ngaungbin Hla",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.68177,
+    18.79351,
+    93.68177,
+    18.79351
+],
+  "geometry": {"coordinates":[93.68177,18.79351],"type":"Point"}
+}

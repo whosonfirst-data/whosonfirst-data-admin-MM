@@ -1,0 +1,63 @@
+{
+  "id": 1209086791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.78914,19.65889,97.78914,19.65889",
+    "geom:latitude":19.65889,
+    "geom:longitude":97.78914,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Wan Hwe-hpakkut",
+    "gn:country_code":"MM",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288941,
+    "gn:latitude":19.65889,
+    "gn:longitude":97.78914,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hw\u00e8-hpakk\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288941
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fd73a51a632e681620ef10fa4051f786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209086791
+        }
+    ],
+    "wof:id":1209086791,
+    "wof:lastmodified":1536298161,
+    "wof:name":"Wan Hwe-hpakkut",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.78914,
+    19.65889,
+    97.78914,
+    19.65889
+],
+  "geometry": {"coordinates":[97.78914,19.65889],"type":"Point"}
+}

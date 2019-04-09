@@ -1,0 +1,69 @@
+{
+  "id": 1277069971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.41767,18.16201,97.41767,18.16201",
+    "geom:latitude":18.16201,
+    "geom:longitude":97.41767,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Mewado",
+    "gn:country_code":"MM",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309508,
+    "gn:latitude":18.16201,
+    "gn:longitude":97.41767,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mewado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309508
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a5b24f70159ecc0aee25ec9a4a911e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1277069971,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1277069971,
+    "wof:lastmodified":1536786527,
+    "wof:name":"Mewado",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.41767,
+    18.16201,
+    97.41767,
+    18.16201
+],
+  "geometry": {"coordinates":[97.41767,18.16201],"type":"Point"}
+}

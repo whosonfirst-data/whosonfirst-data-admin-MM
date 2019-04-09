@@ -1,0 +1,69 @@
+{
+  "id": 1259560943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.87042,20.98886,96.87042,20.98886",
+    "geom:latitude":20.98886,
+    "geom:longitude":96.87042,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014001",
+    "gn:asciiname":"Tongyimyaung",
+    "gn:country_code":"MM",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290685,
+    "gn:latitude":20.98886,
+    "gn:longitude":96.87042,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tongyimyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290685
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"57e61c0b7321f0d9224df30a1a91fc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1259560943,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259560943,
+    "wof:lastmodified":1536747167,
+    "wof:name":"Tongyimyaung",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.87042,
+    20.98886,
+    96.87042,
+    20.98886
+],
+  "geometry": {"coordinates":[96.87042,20.98886],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1125783145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.67882,16.28543,95.67882,16.28543",
+    "geom:latitude":16.28543,
+    "geom:longitude":95.67882,
+    "gn:gn_country":"MM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":65601,
+    "gn:population":65601,
+    "iso:country":"MM",
+    "lbl:latitude":16.28543,
+    "lbl:longitude":95.67882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0628\u0648\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u044f\u043f\u043e\u043d"
+    ],
+    "name:bur_x_preferred":[
+        "\u1016\u103b\u102c\u1015\u102f\u1036\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Pyapon"
+    ],
+    "name:chi_x_preferred":[
+        "\u76ae\u4e9e\u670b"
+    ],
+    "name:dut_x_preferred":[
+        "Pyapon"
+    ],
+    "name:eng_x_preferred":[
+        "Pyapon"
+    ],
+    "name:fre_x_preferred":[
+        "Pyapon"
+    ],
+    "name:por_x_preferred":[
+        "Pyapon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044c\u044f\u043f\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Pyapon"
+    ],
+    "name:unk_x_variant":[
+        "Pyab\u00f4n"
+    ],
+    "qs_pg:aaroncc":"MM",
+    "qs_pg:gn_country":"MM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1299237,
+    "qs_pg:gn_pop":65601,
+    "qs_pg:name":"Pyapon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":132663,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299237,
+        "qs_pg:id":132663,
+        "wd:id":"Q3411169"
+    },
+    "wof:country":"MM",
+    "wof:created":1497290568,
+    "wof:geomhash":"d6c76478c0b2cdb831a06258d287e6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1125783145,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1125783145,
+    "wof:lastmodified":1514484891,
+    "wof:name":"Pyapon",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:population":65601,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.67882,
+    16.28543,
+    95.67882,
+    16.28543
+],
+  "geometry": {"coordinates":[95.67882,16.28543],"type":"Point"}
+}

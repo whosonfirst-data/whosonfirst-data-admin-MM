@@ -1,0 +1,75 @@
+{
+  "id": 1243542499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36629,21.398,100.36629,21.398",
+    "geom:latitude":21.398,
+    "geom:longitude":100.36629,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Lawnkwai-nawn",
+    "gn:country_code":"MM",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847418,
+    "gn:latitude":21.398,
+    "gn:longitude":100.36629,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Lawnkwai-nawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lawnkwai-nawn",
+        "Lawnhwai-nawn",
+        "W\u0101n Lawnkwai",
+        "W\u0101n Lawnkwai-nawn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847418
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"46b89ad2704d9c81689af44d97093d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1243542499,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243542499,
+    "wof:lastmodified":1537665560,
+    "wof:name":"Wan Lawnkwai-nawn",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36629,
+    21.398,
+    100.36629,
+    21.398
+],
+  "geometry": {"coordinates":[100.36629000000001,21.398],"type":"Point"}
+}

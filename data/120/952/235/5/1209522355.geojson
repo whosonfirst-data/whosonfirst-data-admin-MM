@@ -1,0 +1,63 @@
+{
+  "id": 1209522355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.61339,16.64325,94.61339,16.64325",
+    "geom:latitude":16.64325,
+    "geom:longitude":94.61339,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017001",
+    "gn:asciiname":"Taungdangon",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294060,
+    "gn:latitude":16.64325,
+    "gn:longitude":94.61339,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungdang\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294060
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6da1faa6543a7b4e49397565ecd0b072",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209522355
+        }
+    ],
+    "wof:id":1209522355,
+    "wof:lastmodified":1536284540,
+    "wof:name":"Taungdangon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.61339,
+    16.64325,
+    94.61339,
+    16.64325
+],
+  "geometry": {"coordinates":[94.61339,16.64325],"type":"Point"}
+}

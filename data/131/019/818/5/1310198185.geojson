@@ -1,0 +1,69 @@
+{
+  "id": 1310198185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.5608,16.92652,97.5608,16.92652",
+    "geom:latitude":16.92652,
+    "geom:longitude":97.5608,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003001",
+    "gn:asciiname":"Kywepalaung",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315337,
+    "gn:latitude":16.92652,
+    "gn:longitude":97.5608,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kywepalaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315337
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fd76d0987aeaea73ded99fd16c0516a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1310198185,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310198185,
+    "wof:lastmodified":1536861450,
+    "wof:name":"Kywepalaung",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.5608,
+    16.92652,
+    97.5608,
+    16.92652
+],
+  "geometry": {"coordinates":[97.5608,16.92652],"type":"Point"}
+}

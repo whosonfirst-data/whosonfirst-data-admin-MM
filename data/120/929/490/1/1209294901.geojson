@@ -1,0 +1,63 @@
+{
+  "id": 1209294901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.69574,21.31078,99.69574,21.31078",
+    "geom:latitude":21.31078,
+    "geom:longitude":99.69574,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016001",
+    "gn:asciiname":"Wan Ten",
+    "gn:country_code":"MM",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286894,
+    "gn:latitude":21.31078,
+    "gn:longitude":99.69574,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286894
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"259941bafe22129cb94416a45ce493d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209294901
+        }
+    ],
+    "wof:id":1209294901,
+    "wof:lastmodified":1536291563,
+    "wof:name":"Wan Ten",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.69574,
+    21.31078,
+    99.69574,
+    21.31078
+],
+  "geometry": {"coordinates":[99.69574,21.31078],"type":"Point"}
+}

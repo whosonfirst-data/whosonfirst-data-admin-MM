@@ -1,0 +1,73 @@
+{
+  "id": 1243173433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.68326,15.99343,95.68326,15.99343",
+    "geom:latitude":15.99343,
+    "geom:longitude":95.68326,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017023",
+    "gn:asciiname":"Kalahteik",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321337,
+    "gn:latitude":15.99343,
+    "gn:longitude":95.68326,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kalahteik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalahtain",
+        "Kalahteik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321337
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"421f282a3d253f3951cc709e4e305a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1243173433,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243173433,
+    "wof:lastmodified":1537665509,
+    "wof:name":"Kalahteik",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.68326,
+    15.99343,
+    95.68326,
+    15.99343
+],
+  "geometry": {"coordinates":[95.68326,15.99343],"type":"Point"}
+}

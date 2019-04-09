@@ -1,0 +1,69 @@
+{
+  "id": 1293205083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.10326,18.66016,97.10326,18.66016",
+    "geom:latitude":18.66016,
+    "geom:longitude":97.10326,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Kokawdo",
+    "gn:country_code":"MM",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318776,
+    "gn:latitude":18.66016,
+    "gn:longitude":97.10326,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kokawdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318776
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b79971e4ef4f22cb53b7d2ab3ff83ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1293205083,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1293205083,
+    "wof:lastmodified":1536697375,
+    "wof:name":"Kokawdo",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.10326,
+    18.66016,
+    97.10326,
+    18.66016
+],
+  "geometry": {"coordinates":[97.10326000000001,18.66016],"type":"Point"}
+}

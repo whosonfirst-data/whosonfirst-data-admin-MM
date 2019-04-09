@@ -1,0 +1,63 @@
+{
+  "id": 1209539197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.73508,26.84207,97.73508,26.84207",
+    "geom:latitude":26.84207,
+    "geom:longitude":97.73508,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001016",
+    "gn:asciiname":"Tinghpang",
+    "gn:country_code":"MM",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290984,
+    "gn:latitude":26.84207,
+    "gn:longitude":97.73508,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tinghpang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290984
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e98eae5bab66d579a7a604e3b7b96f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209539197
+        }
+    ],
+    "wof:id":1209539197,
+    "wof:lastmodified":1536284039,
+    "wof:name":"Tinghpang",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.73508,
+    26.84207,
+    97.73508,
+    26.84207
+],
+  "geometry": {"coordinates":[97.73508,26.84207],"type":"Point"}
+}

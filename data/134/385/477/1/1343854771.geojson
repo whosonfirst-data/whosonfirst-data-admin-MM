@@ -1,0 +1,69 @@
+{
+  "id": 1343854771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.82371,21.47807,95.82371,21.47807",
+    "geom:latitude":21.47807,
+    "geom:longitude":95.82371,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010019",
+    "gn:asciiname":"Letpan",
+    "gn:country_code":"MM",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314005,
+    "gn:latitude":21.47807,
+    "gn:longitude":95.82371,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Letpan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314005
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4a81f386c6d23c7e892a4fa537f83bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1343854771,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343854771,
+    "wof:lastmodified":1536674832,
+    "wof:name":"Letpan",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.82371,
+    21.47807,
+    95.82371,
+    21.47807
+],
+  "geometry": {"coordinates":[95.82371000000001,21.47807],"type":"Point"}
+}

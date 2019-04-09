@@ -1,0 +1,69 @@
+{
+  "id": 1259470813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.25569,23.76436,98.25569,23.76436",
+    "geom:latitude":23.76436,
+    "geom:longitude":98.25569,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Maue",
+    "gn:country_code":"MM",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311195,
+    "gn:latitude":23.76436,
+    "gn:longitude":98.25569,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Ma\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311195
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a90be83a3ca9d05ffeeace0a281dbf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1259470813,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259470813,
+    "wof:lastmodified":1536876096,
+    "wof:name":"Man Maue",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.25569,
+    23.76436,
+    98.25569,
+    23.76436
+],
+  "geometry": {"coordinates":[98.25569,23.76436],"type":"Point"}
+}

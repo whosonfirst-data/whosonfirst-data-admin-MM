@@ -1,0 +1,70 @@
+{
+  "id": 1327466365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.23602,26.23418,98.23602,26.23418",
+    "geom:latitude":26.23418,
+    "geom:longitude":98.23602,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001006",
+    "gn:asciiname":"Hpongsauk",
+    "gn:country_code":"MM",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323476,
+    "gn:latitude":26.23418,
+    "gn:longitude":98.23602,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpongsauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323476,
+        "wk:page":"Hpongsauk"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9676d2f056101038ee356ef9baff713e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1327466365,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327466365,
+    "wof:lastmodified":1537568502,
+    "wof:name":"Hpongsauk",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.23602,
+    26.23418,
+    98.23602,
+    26.23418
+],
+  "geometry": {"coordinates":[98.23602,26.23418],"type":"Point"}
+}

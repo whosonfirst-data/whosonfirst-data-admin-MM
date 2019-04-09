@@ -1,0 +1,69 @@
+{
+  "id": 1309786309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.95827,21.87394,96.95827,21.87394",
+    "geom:latitude":21.87394,
+    "geom:longitude":96.95827,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014008",
+    "gn:asciiname":"Kontha",
+    "gn:country_code":"MM",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318190,
+    "gn:latitude":21.87394,
+    "gn:longitude":96.95827,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kontha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318190
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c8de1c8a9de5fc7b03cb9852315e67bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1309786309,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309786309,
+    "wof:lastmodified":1536959186,
+    "wof:name":"Kontha",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.95827,
+    21.87394,
+    96.95827,
+    21.87394
+],
+  "geometry": {"coordinates":[96.95827,21.87394],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209280085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.0686,19.63668,96.0686,19.63668",
+    "geom:latitude":19.63668,
+    "geom:longitude":96.0686,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D002",
+    "gn:admin3_code":"MMR018007",
+    "gn:asciiname":"Shanzugyi",
+    "gn:country_code":"MM",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297034,
+    "gn:latitude":19.63668,
+    "gn:longitude":96.0686,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shanzugyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297034
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d77ed2c978b9194bd189359041208e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209280085
+        }
+    ],
+    "wof:id":1209280085,
+    "wof:lastmodified":1536292054,
+    "wof:name":"Shanzugyi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.0686,
+    19.63668,
+    96.0686,
+    19.63668
+],
+  "geometry": {"coordinates":[96.0686,19.63668],"type":"Point"}
+}

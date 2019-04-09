@@ -1,0 +1,69 @@
+{
+  "id": 1344162823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.04965,26.21506,98.04965,26.21506",
+    "geom:latitude":26.21506,
+    "geom:longitude":98.04965,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001003",
+    "gn:asciiname":"Share Ga",
+    "gn:country_code":"MM",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297012,
+    "gn:latitude":26.21506,
+    "gn:longitude":98.04965,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shar\u0113 Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297012
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f471938d5428f88def649729acc7d1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1344162823,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1344162823,
+    "wof:lastmodified":1536728220,
+    "wof:name":"Share Ga",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.04965,
+    26.21506,
+    98.04965,
+    26.21506
+],
+  "geometry": {"coordinates":[98.04965,26.21506],"type":"Point"}
+}

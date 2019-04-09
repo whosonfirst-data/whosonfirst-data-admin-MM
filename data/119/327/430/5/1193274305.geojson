@@ -1,0 +1,72 @@
+{
+  "id": 1193274305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.32708,16.26967,98.32708,16.26967",
+    "geom:latitude":16.26967,
+    "geom:longitude":98.32708,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Kawsein",
+    "gn:country_code":"MM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319591,
+    "gn:latitude":16.26967,
+    "gn:longitude":98.32708,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawsein",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawsaing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319591
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1ae00d8471e51f81de4be3fcaaa5a505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1193274305,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1193274305,
+    "wof:lastmodified":1537665499,
+    "wof:name":"Kawsein",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.32708,
+    16.26967,
+    98.32708,
+    16.26967
+],
+  "geometry": {"coordinates":[98.32708,16.26967],"type":"Point"}
+}

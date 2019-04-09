@@ -1,0 +1,63 @@
+{
+  "id": 1209094819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.95,22.33333,95.95,22.33333",
+    "geom:latitude":22.33333,
+    "geom:longitude":95.95,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005006",
+    "gn:asciiname":"Sinma-ywa",
+    "gn:country_code":"MM",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296014,
+    "gn:latitude":22.33333,
+    "gn:longitude":95.95,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinma-ywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296014
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8ad04e5a0b8f8edc0184d29943baeb7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209094819
+        }
+    ],
+    "wof:id":1209094819,
+    "wof:lastmodified":1536297921,
+    "wof:name":"Sinma-ywa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.95,
+    22.33333,
+    95.95,
+    22.33333
+],
+  "geometry": {"coordinates":[95.95,22.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209936011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.96729,22.90275,95.96729,22.90275",
+    "geom:latitude":22.90275,
+    "geom:longitude":95.96729,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hmantha",
+    "gn:country_code":"MM",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324398,
+    "gn:latitude":22.90275,
+    "gn:longitude":95.96729,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Hmantha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324398
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1d51de438deba5ba0514882be5485f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1209936011,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209936011,
+    "wof:lastmodified":1536390620,
+    "wof:name":"Hmantha",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.96729,
+    22.90275,
+    95.96729,
+    22.90275
+],
+  "geometry": {"coordinates":[95.96729000000001,22.90275],"type":"Point"}
+}

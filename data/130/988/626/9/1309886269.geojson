@@ -1,0 +1,69 @@
+{
+  "id": 1309886269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.83216,20.14404,96.83216,20.14404",
+    "geom:latitude":20.14404,
+    "geom:longitude":96.83216,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014009",
+    "gn:asciiname":"Htingo",
+    "gn:country_code":"MM",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322730,
+    "gn:latitude":20.14404,
+    "gn:longitude":96.83216,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htingo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322730
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bc16cd076d34c7da3f87b756e7f8edf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1309886269,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309886269,
+    "wof:lastmodified":1536814475,
+    "wof:name":"Htingo",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.83216,
+    20.14404,
+    96.83216,
+    20.14404
+],
+  "geometry": {"coordinates":[96.83216,20.14404],"type":"Point"}
+}

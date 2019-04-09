@@ -1,0 +1,67 @@
+{
+  "id": 1209384853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.88316,20.22282,94.88316,20.22282",
+    "geom:latitude":20.22282,
+    "geom:longitude":94.88316,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009007",
+    "gn:asciiname":"Letpadaw",
+    "gn:country_code":"MM",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314037,
+    "gn:latitude":20.22282,
+    "gn:longitude":94.88316,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Letpadaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lethadaw",
+        "Letpadaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314037
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"248e09d0553dcf1a45ed1bea1b99af22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209384853
+        }
+    ],
+    "wof:id":1209384853,
+    "wof:lastmodified":1537665463,
+    "wof:name":"Letpadaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.88316,
+    20.22282,
+    94.88316,
+    20.22282
+],
+  "geometry": {"coordinates":[94.88316,20.22282],"type":"Point"}
+}

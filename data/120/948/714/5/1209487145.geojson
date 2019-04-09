@@ -1,0 +1,67 @@
+{
+  "id": 1209487145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.69799,18.55477,96.69799,18.55477",
+    "geom:latitude":18.55477,
+    "geom:longitude":96.69799,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Kyaungzu",
+    "gn:country_code":"MM",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316319,
+    "gn:latitude":18.55477,
+    "gn:longitude":96.69799,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaungzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Midaingtaw",
+        "Kyaungzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316319
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ad58084fb76c3eeaaa3e0056e092b043",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209487145
+        }
+    ],
+    "wof:id":1209487145,
+    "wof:lastmodified":1537665477,
+    "wof:name":"Kyaungzu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.69799,
+    18.55477,
+    96.69799,
+    18.55477
+],
+  "geometry": {"coordinates":[96.69799,18.55477],"type":"Point"}
+}

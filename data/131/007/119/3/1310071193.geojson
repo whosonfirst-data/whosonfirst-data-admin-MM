@@ -1,0 +1,73 @@
+{
+  "id": 1310071193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.90004,19.50627,95.90004,19.50627",
+    "geom:latitude":19.50627,
+    "geom:longitude":95.90004,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D002",
+    "gn:admin3_code":"MMR018007",
+    "gn:asciiname":"Sanwingyi",
+    "gn:country_code":"MM",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297918,
+    "gn:latitude":19.50627,
+    "gn:longitude":95.90004,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sanwingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanwingyin",
+        "Sanwingyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092045099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297918
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0b92f9eabf0d31fbb23a8a090de2f5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045099,
+            "locality_id":1310071193,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1310071193,
+    "wof:lastmodified":1537665379,
+    "wof:name":"Sanwingyi",
+    "wof:parent_id":1092045099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.90004,
+    19.50627,
+    95.90004,
+    19.50627
+],
+  "geometry": {"coordinates":[95.90004,19.50627],"type":"Point"}
+}

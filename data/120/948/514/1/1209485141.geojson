@@ -1,0 +1,63 @@
+{
+  "id": 1209485141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.61059,20.89797,94.61059,20.89797",
+    "geom:latitude":20.89797,
+    "geom:longitude":94.61059,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009010",
+    "gn:asciiname":"Baluywa",
+    "gn:country_code":"MM",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328559,
+    "gn:latitude":20.89797,
+    "gn:longitude":94.61059,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Baluywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328559
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8d5ce3f4409d5313aa31318f725f0726",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209485141
+        }
+    ],
+    "wof:id":1209485141,
+    "wof:lastmodified":1536285660,
+    "wof:name":"Baluywa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.61059,
+    20.89797,
+    94.61059,
+    20.89797
+],
+  "geometry": {"coordinates":[94.61059,20.89797],"type":"Point"}
+}

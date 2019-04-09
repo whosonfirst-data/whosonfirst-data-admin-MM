@@ -1,0 +1,64 @@
+{
+  "id": 1209303121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.71575,24.59405,94.71575,24.59405",
+    "geom:latitude":24.59405,
+    "geom:longitude":94.71575,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Nampwehlaing",
+    "gn:country_code":"MM",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306466,
+    "gn:latitude":24.59405,
+    "gn:longitude":94.71575,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nampwehlaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306466,
+        "wk:page":"Nampwehlaing"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bc2a1d5c7aa322d19c4464c49dfd0b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209303121
+        }
+    ],
+    "wof:id":1209303121,
+    "wof:lastmodified":1537568476,
+    "wof:name":"Nampwehlaing",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.71575,
+    24.59405,
+    94.71575,
+    24.59405
+],
+  "geometry": {"coordinates":[94.71575,24.59405],"type":"Point"}
+}

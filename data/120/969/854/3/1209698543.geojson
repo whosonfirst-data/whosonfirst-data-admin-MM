@@ -1,0 +1,69 @@
+{
+  "id": 1209698543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.98432,20.47177,94.98432,20.47177",
+    "geom:latitude":20.47177,
+    "geom:longitude":94.98432,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009002",
+    "gn:asciiname":"Kanbabyu",
+    "gn:country_code":"MM",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320982,
+    "gn:latitude":20.47177,
+    "gn:longitude":94.98432,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanbabyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320982
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"08017ec61d71cacf79622747019780d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1209698543,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1209698543,
+    "wof:lastmodified":1536396037,
+    "wof:name":"Kanbabyu",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.98432,
+    20.47177000000001,
+    94.98432,
+    20.47177000000001
+],
+  "geometry": {"coordinates":[94.98432,20.47177000000001],"type":"Point"}
+}

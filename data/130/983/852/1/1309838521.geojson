@@ -1,0 +1,73 @@
+{
+  "id": 1309838521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.69578,25.10033,96.69578,25.10033",
+    "geom:latitude":25.10033,
+    "geom:longitude":96.69578,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001008",
+    "gn:asciiname":"Pagunyang",
+    "gn:country_code":"MM",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302607,
+    "gn:latitude":25.10033,
+    "gn:longitude":96.69578,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pagunyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagunyarg",
+        "Pagunyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302607
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8730d6b6010f647c56f3f84ef35578db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1309838521,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1309838521,
+    "wof:lastmodified":1537665401,
+    "wof:name":"Pagunyang",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.69578,
+    25.10033,
+    96.69578,
+    25.10033
+],
+  "geometry": {"coordinates":[96.69578,25.10033],"type":"Point"}
+}

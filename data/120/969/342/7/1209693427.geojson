@@ -1,0 +1,67 @@
+{
+  "id": 1209693427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.52713,21.98031,98.52713,21.98031",
+    "geom:latitude":21.98031,
+    "geom:longitude":98.52713,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Wan Namlap",
+    "gn:country_code":"MM",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287817,
+    "gn:latitude":21.98031,
+    "gn:longitude":98.52713,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Namlap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Namplap",
+        "W\u0101n Namlap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287817
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"21d856d20f1f36a6b3c22071053c19e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693427
+        }
+    ],
+    "wof:id":1209693427,
+    "wof:lastmodified":1537665316,
+    "wof:name":"Wan Namlap",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.52713,
+    21.98031,
+    98.52713,
+    21.98031
+],
+  "geometry": {"coordinates":[98.52713,21.98031],"type":"Point"}
+}

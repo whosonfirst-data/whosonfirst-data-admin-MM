@@ -1,0 +1,73 @@
+{
+  "id": 1226166271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.46525,23.90972,97.46525,23.90972",
+    "geom:latitude":23.90972,
+    "geom:longitude":97.46525,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Dingsa",
+    "gn:country_code":"MM",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326357,
+    "gn:latitude":23.90972,
+    "gn:longitude":97.46525,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dingsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaubung",
+        "Dingsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326357
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1c4f11daeb38c7d910ff6070bb39eb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1226166271,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226166271,
+    "wof:lastmodified":1537665535,
+    "wof:name":"Dingsa",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.46525,
+    23.90972,
+    97.46525,
+    23.90972
+],
+  "geometry": {"coordinates":[97.46525,23.90972],"type":"Point"}
+}

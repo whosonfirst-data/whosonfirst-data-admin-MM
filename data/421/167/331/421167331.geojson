@@ -1,0 +1,79 @@
+{
+  "id": 421167331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.92866,16.71047,95.92866,16.71047",
+    "geom:latitude":16.71047,
+    "geom:longitude":95.92866,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1290374,
+    "qs:gn_pop":46516,
+    "qs:name":"Twante",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Yangon",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":132629,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017932,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290374,
+        "gp:id":1017932,
+        "qs:id":132629
+    },
+    "wof:country":"MM",
+    "wof:created":1459008727,
+    "wof:geomhash":"60688653bf2bbb1fe3174955af3ee8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":421167331,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":421167331,
+    "wof:lastmodified":1505340585,
+    "wof:name":"Twante",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:population":46516,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.92866,
+    16.71047,
+    95.92866,
+    16.71047
+],
+  "geometry": {"coordinates":[95.92865999999999,16.71047],"type":"Point"}
+}

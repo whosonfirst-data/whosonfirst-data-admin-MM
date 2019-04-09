@@ -1,0 +1,69 @@
+{
+  "id": 1193141699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.28378,16.86604,98.28378,16.86604",
+    "geom:latitude":16.86604,
+    "geom:longitude":98.28378,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D002",
+    "gn:admin3_code":"MMR003005",
+    "gn:asciiname":"Htothukhi",
+    "gn:country_code":"MM",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322577,
+    "gn:latitude":16.86604,
+    "gn:longitude":98.28378,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htothukhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092046901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322577
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b13cbf33254b0a24508535bef35861f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046901,
+            "locality_id":1193141699,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1193141699,
+    "wof:lastmodified":1536365492,
+    "wof:name":"Htothukhi",
+    "wof:parent_id":1092046901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.28378,
+    16.86604,
+    98.28378,
+    16.86604
+],
+  "geometry": {"coordinates":[98.28377999999999,16.86604],"type":"Point"}
+}

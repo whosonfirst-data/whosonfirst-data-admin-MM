@@ -1,0 +1,69 @@
+{
+  "id": 1277154591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.4497,22.97635,98.4497,22.97635",
+    "geom:latitude":22.97635,
+    "geom:longitude":98.4497,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Penglao",
+    "gn:country_code":"MM",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300271,
+    "gn:latitude":22.97635,
+    "gn:longitude":98.4497,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Penglao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300271
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"779f739f1c5c90d7800498cad11c1c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1277154591,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277154591,
+    "wof:lastmodified":1536664181,
+    "wof:name":"Penglao",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.4497,
+    22.97635,
+    98.4497,
+    22.97635
+],
+  "geometry": {"coordinates":[98.44970000000001,22.97635],"type":"Point"}
+}

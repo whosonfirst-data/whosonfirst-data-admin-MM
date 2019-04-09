@@ -1,0 +1,63 @@
+{
+  "id": 1209129413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.4586,25.37017,97.4586,25.37017",
+    "geom:latitude":25.37017,
+    "geom:longitude":97.4586,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001002",
+    "gn:asciiname":"Sara-gahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297871,
+    "gn:latitude":25.37017,
+    "gn:longitude":97.4586,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sara-gahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297871
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9bc556f150fa5cfd991507aa7eb4d48a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209129413
+        }
+    ],
+    "wof:id":1209129413,
+    "wof:lastmodified":1536296852,
+    "wof:name":"Sara-gahtawng",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.4586,
+    25.37017,
+    97.4586,
+    25.37017
+],
+  "geometry": {"coordinates":[97.4586,25.37017],"type":"Point"}
+}

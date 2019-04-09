@@ -1,0 +1,73 @@
+{
+  "id": 1226142709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.18606,25.9576,98.18606,25.9576",
+    "geom:latitude":25.9576,
+    "geom:longitude":98.18606,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"La-hok",
+    "gn:country_code":"MM",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315155,
+    "gn:latitude":25.9576,
+    "gn:longitude":98.18606,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"L\u0101-hok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101-hok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315155,
+        "wk:page":"La-hok"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d2163961603e02fc776d712ae7d94c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1226142709,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226142709,
+    "wof:lastmodified":1537665469,
+    "wof:name":"La-hok",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.18606,
+    25.9576,
+    98.18606,
+    25.9576
+],
+  "geometry": {"coordinates":[98.18606,25.9576],"type":"Point"}
+}

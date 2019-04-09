@@ -1,0 +1,69 @@
+{
+  "id": 1326725585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.09318,21.44072,96.09318,21.44072",
+    "geom:latitude":21.44072,
+    "geom:longitude":96.09318,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D003",
+    "gn:admin3_code":"MMR010015",
+    "gn:asciiname":"Inyan",
+    "gn:country_code":"MM",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321876,
+    "gn:latitude":21.44072,
+    "gn:longitude":96.09318,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Inyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321876
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6ef766ad51ced19d654769afc4447eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1326725585,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326725585,
+    "wof:lastmodified":1536705682,
+    "wof:name":"Inyan",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.09318,
+    21.44072,
+    96.09318,
+    21.44072
+],
+  "geometry": {"coordinates":[96.09318,21.44072],"type":"Point"}
+}

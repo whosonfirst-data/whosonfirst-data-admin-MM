@@ -1,0 +1,70 @@
+{
+  "id": 1276849249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.87012,24.89645,94.87012,24.89645",
+    "geom:latitude":24.89645,
+    "geom:longitude":94.87012,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Tonleik",
+    "gn:country_code":"MM",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290649,
+    "gn:latitude":24.89645,
+    "gn:longitude":94.87012,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tonleik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290649,
+        "wk:page":"Tonleik"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2af937fe8dcea2ccf603f48df9a1d47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1276849249,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276849249,
+    "wof:lastmodified":1537568452,
+    "wof:name":"Tonleik",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.87012,
+    24.89645,
+    94.87012,
+    24.89645
+],
+  "geometry": {"coordinates":[94.87012,24.89645],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310203619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.14438,16.80184,98.14438,16.80184",
+    "geom:latitude":16.80184,
+    "geom:longitude":98.14438,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003006",
+    "gn:asciiname":"Wawle",
+    "gn:country_code":"MM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286583,
+    "gn:latitude":16.80184,
+    "gn:longitude":98.14438,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wawle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286583
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e495b279c23fdaad51a991f735068e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1310203619,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310203619,
+    "wof:lastmodified":1536853907,
+    "wof:name":"Wawle",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.14438,
+    16.80184,
+    98.14438,
+    16.80184
+],
+  "geometry": {"coordinates":[98.14438,16.80184],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243143883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.54694,18.32297,95.54694,18.32297",
+    "geom:latitude":18.32297,
+    "geom:longitude":95.54694,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008012",
+    "gn:asciiname":"Wanetyon",
+    "gn:country_code":"MM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289706,
+    "gn:latitude":18.32297,
+    "gn:longitude":95.54694,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wanetyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289706
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"37eec59e167660cd876494d551eba266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1243143883,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243143883,
+    "wof:lastmodified":1536744613,
+    "wof:name":"Wanetyon",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.54694,
+    18.32297,
+    95.54694,
+    18.32297
+],
+  "geometry": {"coordinates":[95.54694000000001,18.32297],"type":"Point"}
+}

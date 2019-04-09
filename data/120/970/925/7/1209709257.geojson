@@ -1,0 +1,70 @@
+{
+  "id": 1209709257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.07662,23.15796,94.07662,23.15796",
+    "geom:latitude":23.15796,
+    "geom:longitude":94.07662,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Kanbale",
+    "gn:country_code":"MM",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320976,
+    "gn:latitude":23.15796,
+    "gn:longitude":94.07662,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanbale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320976,
+        "wk:page":"Kanbale"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eec5ee41d50b5a4acee93ffa33038f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1209709257,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209709257,
+    "wof:lastmodified":1537568499,
+    "wof:name":"Kanbale",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.07662,
+    23.15796,
+    94.07662,
+    23.15796
+],
+  "geometry": {"coordinates":[94.07662000000001,23.15796],"type":"Point"}
+}

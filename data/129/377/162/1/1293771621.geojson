@@ -1,0 +1,69 @@
+{
+  "id": 1293771621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.14481,22.54966,97.14481,22.54966",
+    "geom:latitude":22.54966,
+    "geom:longitude":97.14481,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Hawngheng",
+    "gn:country_code":"MM",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325294,
+    "gn:latitude":22.54966,
+    "gn:longitude":97.14481,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hawngheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325294
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"833b3e46aa2cdc12970c20dc70f4a0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1293771621,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293771621,
+    "wof:lastmodified":1536873573,
+    "wof:name":"Hawngheng",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.14481,
+    22.54966,
+    97.14481,
+    22.54966
+],
+  "geometry": {"coordinates":[97.14481000000001,22.54966],"type":"Point"}
+}

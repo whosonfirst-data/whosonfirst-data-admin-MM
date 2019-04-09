@@ -1,0 +1,69 @@
+{
+  "id": 1193265327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.53955,12.22975,98.53955,12.22975",
+    "geom:latitude":12.22975,
+    "geom:longitude":98.53955,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006006",
+    "gn:asciiname":"Chaungnyi-ako",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327436,
+    "gn:latitude":12.22975,
+    "gn:longitude":98.53955,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chaungnyi-ako",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327436
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"61bce59dc456133f9abc3a6ca7d4a0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1193265327,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1193265327,
+    "wof:lastmodified":1536376508,
+    "wof:name":"Chaungnyi-ako",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.53955,
+    12.22975,
+    98.53955,
+    12.22975
+],
+  "geometry": {"coordinates":[98.53955000000001,12.22975],"type":"Point"}
+}

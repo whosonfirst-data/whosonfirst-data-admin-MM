@@ -1,0 +1,63 @@
+{
+  "id": 1209390985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.02011,17.20766,96.02011,17.20766",
+    "geom:latitude":17.20766,
+    "geom:longitude":96.02011,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013003",
+    "gn:asciiname":"Pha-in",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480098,
+    "gn:latitude":17.20766,
+    "gn:longitude":96.02011,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pha-in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480098
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"322d915dad5a5e4c70a0aa0d567f0fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209390985
+        }
+    ],
+    "wof:id":1209390985,
+    "wof:lastmodified":1536288461,
+    "wof:name":"Pha-in",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.02011,
+    17.20766,
+    96.02011,
+    17.20766
+],
+  "geometry": {"coordinates":[96.02011,17.20766],"type":"Point"}
+}

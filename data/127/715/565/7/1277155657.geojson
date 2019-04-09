@@ -1,0 +1,72 @@
+{
+  "id": 1277155657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.66772,23.55533,95.66772,23.55533",
+    "geom:latitude":23.55533,
+    "geom:longitude":95.66772,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005007",
+    "gn:asciiname":"Kangyi W",
+    "gn:country_code":"MM",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320694,
+    "gn:latitude":23.55533,
+    "gn:longitude":95.66772,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kangyi W",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320694
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"60607fe2224334bfb5b86a076f947d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1277155657,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1277155657,
+    "wof:lastmodified":1537665505,
+    "wof:name":"Kangyi W",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.66772,
+    23.55533,
+    95.66772,
+    23.55533
+],
+  "geometry": {"coordinates":[95.66772,23.55533],"type":"Point"}
+}

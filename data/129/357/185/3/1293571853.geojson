@@ -1,0 +1,69 @@
+{
+  "id": 1293571853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.51797,20.64809,94.51797,20.64809",
+    "geom:latitude":20.64809,
+    "geom:longitude":94.51797,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009010",
+    "gn:asciiname":"Nyaungni",
+    "gn:country_code":"MM",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303383,
+    "gn:latitude":20.64809,
+    "gn:longitude":94.51797,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaungni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303383
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e0149e349281c09720b09cff1666db70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1293571853,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1293571853,
+    "wof:lastmodified":1536665505,
+    "wof:name":"Nyaungni",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.51797,
+    20.64809,
+    94.51797,
+    20.64809
+],
+  "geometry": {"coordinates":[94.51797000000001,20.64809],"type":"Point"}
+}

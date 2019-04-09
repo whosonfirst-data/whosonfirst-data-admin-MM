@@ -1,0 +1,63 @@
+{
+  "id": 1209202455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.21125,20.60698,97.21125,20.60698",
+    "geom:latitude":20.60698,
+    "geom:longitude":97.21125,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014003",
+    "gn:asciiname":"Nampon",
+    "gn:country_code":"MM",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306486,
+    "gn:latitude":20.60698,
+    "gn:longitude":97.21125,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nampon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306486
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f0c6bc67c1fc585417b534f7fd8f0b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209202455
+        }
+    ],
+    "wof:id":1209202455,
+    "wof:lastmodified":1536294562,
+    "wof:name":"Nampon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.21125,
+    20.60698,
+    97.21125,
+    20.60698
+],
+  "geometry": {"coordinates":[97.21125000000001,20.60698],"type":"Point"}
+}

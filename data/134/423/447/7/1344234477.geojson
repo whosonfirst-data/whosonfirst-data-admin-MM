@@ -1,0 +1,69 @@
+{
+  "id": 1344234477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.60049,23.15498,98.60049,23.15498",
+    "geom:latitude":23.15498,
+    "geom:longitude":98.60049,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015021",
+    "gn:asciiname":"Vingkao",
+    "gn:country_code":"MM",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290073,
+    "gn:latitude":23.15498,
+    "gn:longitude":98.60049,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Vingkao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290073
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d70174d933a774e6fb33676bc52f0b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1344234477,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344234477,
+    "wof:lastmodified":1536622537,
+    "wof:name":"Vingkao",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.60049,
+    23.15498,
+    98.60049,
+    23.15498
+],
+  "geometry": {"coordinates":[98.60048999999999,23.15498],"type":"Point"}
+}

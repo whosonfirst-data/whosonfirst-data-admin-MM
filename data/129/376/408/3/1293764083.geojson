@@ -1,0 +1,73 @@
+{
+  "id": 1293764083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.90091,22.98776,97.90091,22.98776",
+    "geom:latitude":22.98776,
+    "geom:longitude":97.90091,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Namee",
+    "gn:country_code":"MM",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307151,
+    "gn:latitude":22.98776,
+    "gn:longitude":97.90091,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nami",
+        "Namee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307151
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"adc67794a7e95650caf7e513aa6b2158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1293764083,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293764083,
+    "wof:lastmodified":1537665424,
+    "wof:name":"Namee",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.90091,
+    22.98776,
+    97.90091,
+    22.98776
+],
+  "geometry": {"coordinates":[97.90091,22.98776],"type":"Point"}
+}

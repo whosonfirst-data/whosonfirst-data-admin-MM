@@ -1,0 +1,69 @@
+{
+  "id": 1260068041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.66374,22.38908,98.66374,22.38908",
+    "geom:latitude":22.38908,
+    "geom:longitude":98.66374,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Man Na-aw",
+    "gn:country_code":"MM",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311114,
+    "gn:latitude":22.38908,
+    "gn:longitude":98.66374,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Na-aw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311114
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c51c39456d96561559c67437288d9368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1260068041,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260068041,
+    "wof:lastmodified":1537009589,
+    "wof:name":"Man Na-aw",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.66374,
+    22.38908,
+    98.66374,
+    22.38908
+],
+  "geometry": {"coordinates":[98.66374,22.38908],"type":"Point"}
+}

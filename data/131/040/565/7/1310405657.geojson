@@ -1,0 +1,70 @@
+{
+  "id": 1310405657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.84586,24.19267,96.84586,24.19267",
+    "geom:latitude":24.19267,
+    "geom:longitude":96.84586,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001011",
+    "gn:asciiname":"Thinbawin",
+    "gn:country_code":"MM",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291513,
+    "gn:latitude":24.19267,
+    "gn:longitude":96.84586,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thinbawin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291513,
+        "wk:page":"Thinbawin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f534cb06ed81b2103be4360c2ae1f263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1310405657,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1310405657,
+    "wof:lastmodified":1537568454,
+    "wof:name":"Thinbawin",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.84586,
+    24.19267,
+    96.84586,
+    24.19267
+],
+  "geometry": {"coordinates":[96.84586,24.19267],"type":"Point"}
+}

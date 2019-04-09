@@ -1,0 +1,66 @@
+{
+  "id": 1226031797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.58542,12.45083,98.58542,12.45083",
+    "geom:latitude":12.45083,
+    "geom:longitude":98.58542,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006006",
+    "gn:asciiname":"Pataw",
+    "gn:country_code":"MM",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301264,
+    "gn:latitude":12.45083,
+    "gn:longitude":98.58542,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pataw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301264
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"af90832547d20d4c370d206b9f232d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "locality_id":1226031797,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226031797,
+    "wof:lastmodified":1536744979,
+    "wof:name":"Pataw",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.58542,
+    12.45083,
+    98.58542,
+    12.45083
+],
+  "geometry": {"coordinates":[98.58542,12.45083],"type":"Point"}
+}

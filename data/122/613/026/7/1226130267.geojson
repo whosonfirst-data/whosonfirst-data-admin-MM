@@ -1,0 +1,69 @@
+{
+  "id": 1226130267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.29285,23.7548,98.29285,23.7548",
+    "geom:latitude":23.7548,
+    "geom:longitude":98.29285,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Nawnghkam",
+    "gn:country_code":"MM",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305318,
+    "gn:latitude":23.7548,
+    "gn:longitude":98.29285,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawnghkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305318
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e773b01b545e9a38f16d9ca47a90da19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1226130267,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226130267,
+    "wof:lastmodified":1537096783,
+    "wof:name":"Nawnghkam",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.29285,
+    23.7548,
+    98.29285,
+    23.7548
+],
+  "geometry": {"coordinates":[98.29285,23.7548],"type":"Point"}
+}

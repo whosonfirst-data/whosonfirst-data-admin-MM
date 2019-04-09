@@ -1,0 +1,73 @@
+{
+  "id": 1276313551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.4075,21.19904,100.4075,21.19904",
+    "geom:latitude":21.19904,
+    "geom:longitude":100.4075,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Ho-yang",
+    "gn:country_code":"MM",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847669,
+    "gn:latitude":21.19904,
+    "gn:longitude":100.4075,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ho-yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-yang",
+        "W\u0101n Ho-yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847669
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"90f025a379609f7f144c25bdb1d53de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1276313551,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276313551,
+    "wof:lastmodified":1537665565,
+    "wof:name":"Wan Ho-yang",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.4075,
+    21.19904,
+    100.4075,
+    21.19904
+],
+  "geometry": {"coordinates":[100.4075,21.19904],"type":"Point"}
+}

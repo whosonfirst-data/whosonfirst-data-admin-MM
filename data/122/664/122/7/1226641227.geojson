@@ -1,0 +1,69 @@
+{
+  "id": 1226641227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.48123,26.47092,95.48123,26.47092",
+    "geom:latitude":26.47092,
+    "geom:longitude":95.48123,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005036",
+    "gn:asciiname":"Langtai Pungshao",
+    "gn:country_code":"MM",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314852,
+    "gn:latitude":26.47092,
+    "gn:longitude":95.48123,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Langtai Pungshao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314852
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c60b5955e6ff6917ea72f39f8173d479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1226641227,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226641227,
+    "wof:lastmodified":1536864630,
+    "wof:name":"Langtai Pungshao",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.48123,
+    26.47092,
+    95.48123,
+    26.47092
+],
+  "geometry": {"coordinates":[95.48123,26.47092],"type":"Point"}
+}

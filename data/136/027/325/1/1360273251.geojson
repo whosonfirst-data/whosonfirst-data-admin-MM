@@ -1,0 +1,69 @@
+{
+  "id": 1360273251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.82816,20.01828,96.82816,20.01828",
+    "geom:latitude":20.01828,
+    "geom:longitude":96.82816,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014009",
+    "gn:asciiname":"Kawlin Htikalauk",
+    "gn:country_code":"MM",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319863,
+    "gn:latitude":20.01828,
+    "gn:longitude":96.82816,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawlin Htikalauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319863
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e6e959c583aa05d6e1bfa9c02e6e2ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1360273251,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360273251,
+    "wof:lastmodified":1536674177,
+    "wof:name":"Kawlin Htikalauk",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.82816,
+    20.01828,
+    96.82816,
+    20.01828
+],
+  "geometry": {"coordinates":[96.82816,20.01828],"type":"Point"}
+}

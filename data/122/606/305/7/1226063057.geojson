@@ -1,0 +1,69 @@
+{
+  "id": 1226063057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.32311,22.63197,95.32311,22.63197",
+    "geom:latitude":22.63197,
+    "geom:longitude":95.32311,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005010",
+    "gn:asciiname":"Pagan",
+    "gn:country_code":"MM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302637,
+    "gn:latitude":22.63197,
+    "gn:longitude":95.32311,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302637
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"50855af4b219d16b194cf1e04291fe51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1226063057,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226063057,
+    "wof:lastmodified":1536700537,
+    "wof:name":"Pagan",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.32311,
+    22.63197000000001,
+    95.32311,
+    22.63197000000001
+],
+  "geometry": {"coordinates":[95.32311,22.63197000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243341943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.18263,22.43224,95.18263,22.43224",
+    "geom:latitude":22.43224,
+    "geom:longitude":95.18263,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005013",
+    "gn:asciiname":"Pebyittaw East",
+    "gn:country_code":"MM",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300517,
+    "gn:latitude":22.43224,
+    "gn:longitude":95.18263,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u00e8byittaw East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e8byittaw",
+        "P\u00e8byittaw East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300517
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4bb5e40a029b89b9812e07c1dffeda4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046719,
+            "locality_id":1243341943,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243341943,
+    "wof:lastmodified":1537665392,
+    "wof:name":"Pebyittaw East",
+    "wof:parent_id":1092046719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.18263,
+    22.43224,
+    95.18263,
+    22.43224
+],
+  "geometry": {"coordinates":[95.18263,22.43224],"type":"Point"}
+}

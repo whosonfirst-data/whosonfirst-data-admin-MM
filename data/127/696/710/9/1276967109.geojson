@@ -1,0 +1,69 @@
+{
+  "id": 1276967109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.57552,22.93699,98.57552,22.93699",
+    "geom:latitude":22.93699,
+    "geom:longitude":98.57552,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D006",
+    "gn:admin3_code":"MMR015008",
+    "gn:asciiname":"Ta Kawngpong",
+    "gn:country_code":"MM",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295031,
+    "gn:latitude":22.93699,
+    "gn:longitude":98.57552,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta Kawngpong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295031
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c9c33f40f4f8a417c91d4879df8d47b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045367,
+            "locality_id":1276967109,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276967109,
+    "wof:lastmodified":1536925111,
+    "wof:name":"Ta Kawngpong",
+    "wof:parent_id":1092045367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.57552,
+    22.93699,
+    98.57552,
+    22.93699
+],
+  "geometry": {"coordinates":[98.57552,22.93699],"type":"Point"}
+}

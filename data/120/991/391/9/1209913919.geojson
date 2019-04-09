@@ -1,0 +1,73 @@
+{
+  "id": 1209913919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.64877,25.44381,96.64877,25.44381",
+    "geom:latitude":25.44381,
+    "geom:longitude":96.64877,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Sabyigahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298592,
+    "gn:latitude":25.44381,
+    "gn:longitude":96.64877,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sabyigahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabyi Ga",
+        "Sabyigahtawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298592
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2323582d82c202d2db51ee090325fed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1209913919,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209913919,
+    "wof:lastmodified":1537665382,
+    "wof:name":"Sabyigahtawng",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.64877,
+    25.44381,
+    96.64877,
+    25.44381
+],
+  "geometry": {"coordinates":[96.64877,25.44381],"type":"Point"}
+}

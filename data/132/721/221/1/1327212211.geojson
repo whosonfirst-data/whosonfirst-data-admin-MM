@@ -1,0 +1,70 @@
+{
+  "id": 1327212211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.4416,25.71481,95.4416,25.71481",
+    "geom:latitude":25.71481,
+    "geom:longitude":95.4416,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005033",
+    "gn:asciiname":"Kauktaung-anauk",
+    "gn:country_code":"MM",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320052,
+    "gn:latitude":25.71481,
+    "gn:longitude":95.4416,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kauktaung-anauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320052,
+        "wk:page":"Kauktaung-anauk"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ab31352d77802dc4b5c27eb20c60a7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1327212211,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1327212211,
+    "wof:lastmodified":1537568498,
+    "wof:name":"Kauktaung-anauk",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.4416,
+    25.71481,
+    95.4416,
+    25.71481
+],
+  "geometry": {"coordinates":[95.44159999999999,25.71481],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326635821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.34925,26.57167,96.34925,26.57167",
+    "geom:latitude":26.57167,
+    "geom:longitude":96.34925,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001004",
+    "gn:asciiname":"Kantau",
+    "gn:country_code":"MM",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320515,
+    "gn:latitude":26.57167,
+    "gn:longitude":96.34925,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kantau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320515
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5de0552bbbc785a04e4b9b12fc6b7890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1326635821,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1326635821,
+    "wof:lastmodified":1536833558,
+    "wof:name":"Kantau",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.34925,
+    26.57167,
+    96.34925,
+    26.57167
+],
+  "geometry": {"coordinates":[96.34925,26.57167],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344055597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.57854,19.26062,96.57854,19.26062",
+    "geom:latitude":19.26062,
+    "geom:longitude":96.57854,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003004",
+    "gn:asciiname":"Thitkhaung",
+    "gn:country_code":"MM",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291378,
+    "gn:latitude":19.26062,
+    "gn:longitude":96.57854,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thitkhaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291378
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5b9e647b14829d76fbcf61f3d5eeb279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1344055597,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1344055597,
+    "wof:lastmodified":1536881946,
+    "wof:name":"Thitkhaung",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.57854,
+    19.26062,
+    96.57854,
+    19.26062
+],
+  "geometry": {"coordinates":[96.57854,19.26062],"type":"Point"}
+}

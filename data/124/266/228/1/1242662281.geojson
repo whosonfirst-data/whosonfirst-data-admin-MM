@@ -1,0 +1,69 @@
+{
+  "id": 1242662281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.97302,21.30281,95.97302,21.30281",
+    "geom:latitude":21.30281,
+    "geom:longitude":95.97302,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010031",
+    "gn:asciiname":"Kyatkan",
+    "gn:country_code":"MM",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317183,
+    "gn:latitude":21.30281,
+    "gn:longitude":95.97302,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyatkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317183
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"be5420ee3030178e6ced4b2dd091455a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1242662281,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1242662281,
+    "wof:lastmodified":1536942434,
+    "wof:name":"Kyatkan",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.97302,
+    21.30281,
+    95.97302,
+    21.30281
+],
+  "geometry": {"coordinates":[95.97302000000001,21.30281],"type":"Point"}
+}

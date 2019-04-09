@@ -1,0 +1,69 @@
+{
+  "id": 1209821185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.08638,23.76438,97.08638,23.76438",
+    "geom:latitude":23.76438,
+    "geom:longitude":97.08638,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Paukkon",
+    "gn:country_code":"MM",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301126,
+    "gn:latitude":23.76438,
+    "gn:longitude":97.08638,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paukkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301126
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"078dd22d8c7f71d59f5f54663291b582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1209821185,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209821185,
+    "wof:lastmodified":1536378547,
+    "wof:name":"Paukkon",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.08638,
+    23.76438,
+    97.08638,
+    23.76438
+],
+  "geometry": {"coordinates":[97.08638000000001,23.76438],"type":"Point"}
+}

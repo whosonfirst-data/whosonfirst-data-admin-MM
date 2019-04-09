@@ -1,0 +1,69 @@
+{
+  "id": 1276205449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.4529,16.63256,97.4529,16.63256",
+    "geom:latitude":16.63256,
+    "geom:longitude":97.4529,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011008",
+    "gn:asciiname":"Dawezu",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326684,
+    "gn:latitude":16.63256,
+    "gn:longitude":97.4529,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dawezu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326684
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a77b262d93e6fe20b22d217851a9b268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1276205449,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1276205449,
+    "wof:lastmodified":1536950668,
+    "wof:name":"Dawezu",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.4529,
+    16.63256,
+    97.4529,
+    16.63256
+],
+  "geometry": {"coordinates":[97.4529,16.63256],"type":"Point"}
+}

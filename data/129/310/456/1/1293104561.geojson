@@ -1,0 +1,69 @@
+{
+  "id": 1293104561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.90131,25.96634,96.90131,25.96634",
+    "geom:latitude":25.96634,
+    "geom:longitude":96.90131,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001004",
+    "gn:asciiname":"Kumrai Ga",
+    "gn:country_code":"MM",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317960,
+    "gn:latitude":25.96634,
+    "gn:longitude":96.90131,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kumrai Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317960
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6aa22bb4070af5c2ef144eaf305c3834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1293104561,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293104561,
+    "wof:lastmodified":1536841037,
+    "wof:name":"Kumrai Ga",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.90131,
+    25.96634,
+    96.90131,
+    25.96634
+],
+  "geometry": {"coordinates":[96.90131,25.96634],"type":"Point"}
+}

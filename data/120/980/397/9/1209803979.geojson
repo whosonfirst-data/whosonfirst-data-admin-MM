@@ -1,0 +1,69 @@
+{
+  "id": 1209803979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.44093,22.67532,95.44093,22.67532",
+    "geom:latitude":22.67532,
+    "geom:longitude":95.44093,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005005",
+    "gn:asciiname":"Inpetlet",
+    "gn:country_code":"MM",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321944,
+    "gn:latitude":22.67532,
+    "gn:longitude":95.44093,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Inpetlet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321944
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0c22a6af138c9f832aec2f66ddac8db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1209803979,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209803979,
+    "wof:lastmodified":1536389441,
+    "wof:name":"Inpetlet",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.44093,
+    22.67532000000001,
+    95.44093,
+    22.67532000000001
+],
+  "geometry": {"coordinates":[95.44092999999999,22.67532000000001],"type":"Point"}
+}

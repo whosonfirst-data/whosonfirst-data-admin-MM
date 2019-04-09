@@ -1,0 +1,67 @@
+{
+  "id": 1209086839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.39569,21.66008,99.39569,21.66008",
+    "geom:latitude":21.66008,
+    "geom:longitude":99.39569,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016002",
+    "gn:asciiname":"Wan Ennoi",
+    "gn:country_code":"MM",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289720,
+    "gn:latitude":21.66008,
+    "gn:longitude":99.39569,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ennoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Noi",
+        "W\u0101n Ennoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289720
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e8be311544b3f92d3873cc8f094ec59c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209086839
+        }
+    ],
+    "wof:id":1209086839,
+    "wof:lastmodified":1537665334,
+    "wof:name":"Wan Ennoi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.39569,
+    21.66008,
+    99.39569,
+    21.66008
+],
+  "geometry": {"coordinates":[99.39569,21.66008],"type":"Point"}
+}

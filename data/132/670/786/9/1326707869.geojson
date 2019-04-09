@@ -1,0 +1,69 @@
+{
+  "id": 1326707869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16179,24.05485,98.16179,24.05485",
+    "geom:latitude":24.05485,
+    "geom:longitude":98.16179,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015009",
+    "gn:asciiname":"Hkai-lekhko",
+    "gn:country_code":"MM",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325038,
+    "gn:latitude":24.05485,
+    "gn:longitude":98.16179,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hkai-lekhko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325038
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"38e38489587b35ce7bead81cbaf28918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1326707869,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326707869,
+    "wof:lastmodified":1536731224,
+    "wof:name":"Hkai-lekhko",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16179,
+    24.05485,
+    98.16179,
+    24.05485
+],
+  "geometry": {"coordinates":[98.16179,24.05485],"type":"Point"}
+}

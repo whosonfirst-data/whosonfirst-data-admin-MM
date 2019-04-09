@@ -1,0 +1,69 @@
+{
+  "id": 1293669591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.26753,20.07119,98.26753,20.07119",
+    "geom:latitude":20.07119,
+    "geom:longitude":98.26753,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014021",
+    "gn:asciiname":"Hukumngoen",
+    "gn:country_code":"MM",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1479872,
+    "gn:latitude":20.07119,
+    "gn:longitude":98.26753,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hukumng\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479872
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ae3b995c6d86b23f2847c7971de11828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1293669591,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293669591,
+    "wof:lastmodified":1537020880,
+    "wof:name":"Hukumngoen",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.26753,
+    20.07119,
+    98.26753,
+    20.07119
+],
+  "geometry": {"coordinates":[98.26752999999999,20.07119],"type":"Point"}
+}

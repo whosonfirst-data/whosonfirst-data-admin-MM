@@ -1,0 +1,70 @@
+{
+  "id": 1293598311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.07013,19.44961,94.07013,19.44961",
+    "geom:latitude":19.44961,
+    "geom:longitude":94.07013,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012014",
+    "gn:asciiname":"Kwingyi",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317541,
+    "gn:latitude":19.44961,
+    "gn:longitude":94.07013,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kwingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317541,
+        "wk:page":"Kwingyi"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"113d0b31d4ee9953ad49853d09c31288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1293598311,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1293598311,
+    "wof:lastmodified":1537568494,
+    "wof:name":"Kwingyi",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.07013,
+    19.44961,
+    94.07013,
+    19.44961
+],
+  "geometry": {"coordinates":[94.07013000000001,19.44961],"type":"Point"}
+}

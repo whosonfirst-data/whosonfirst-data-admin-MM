@@ -1,0 +1,63 @@
+{
+  "id": 1209495625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.27433,22.07861,98.27433,22.07861",
+    "geom:latitude":22.07861,
+    "geom:longitude":98.27433,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Hai-pa",
+    "gn:country_code":"MM",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325460,
+    "gn:latitude":22.07861,
+    "gn:longitude":98.27433,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hai-pa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325460
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"739a3e1c818e018aeceed70e0b82f859",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209495625
+        }
+    ],
+    "wof:id":1209495625,
+    "wof:lastmodified":1536285346,
+    "wof:name":"Hai-pa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.27433,
+    22.07861,
+    98.27433,
+    22.07861
+],
+  "geometry": {"coordinates":[98.27433000000001,22.07861],"type":"Point"}
+}

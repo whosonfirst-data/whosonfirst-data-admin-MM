@@ -1,0 +1,63 @@
+{
+  "id": 1209184041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.48333,19.83333,95.48333,19.83333",
+    "geom:latitude":19.83333,
+    "geom:longitude":95.48333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009004",
+    "gn:asciiname":"Minywa",
+    "gn:country_code":"MM",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309060,
+    "gn:latitude":19.83333,
+    "gn:longitude":95.48333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309060
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d02fb4ed7935dca3b85ed9239ee2dc2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209184041
+        }
+    ],
+    "wof:id":1209184041,
+    "wof:lastmodified":1536295162,
+    "wof:name":"Minywa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.48333,
+    19.83333,
+    95.48333,
+    19.83333
+],
+  "geometry": {"coordinates":[95.48333,19.83333],"type":"Point"}
+}

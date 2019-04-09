@@ -1,0 +1,69 @@
+{
+  "id": 1293747027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.27207,16.91061,96.27207,16.91061",
+    "geom:latitude":16.91061,
+    "geom:longitude":96.27207,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D002",
+    "gn:admin3_code":"MMR013020",
+    "gn:asciiname":"Tewainggyi",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293066,
+    "gn:latitude":16.91061,
+    "gn:longitude":96.27207,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tewainggyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293066
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"754d395a00fc8628bd00b6b79397c0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047809,
+            "locality_id":1293747027,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1293747027,
+    "wof:lastmodified":1536910509,
+    "wof:name":"Tewainggyi",
+    "wof:parent_id":1092047809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.27207,
+    16.91061,
+    96.27207,
+    16.91061
+],
+  "geometry": {"coordinates":[96.27207,16.91061],"type":"Point"}
+}

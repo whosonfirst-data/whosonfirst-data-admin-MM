@@ -1,0 +1,73 @@
+{
+  "id": 1260245739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.35743,18.35581,95.35743,18.35581",
+    "geom:latitude":18.35581,
+    "geom:longitude":95.35743,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008012",
+    "gn:asciiname":"Thangyogan",
+    "gn:country_code":"MM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292449,
+    "gn:latitude":18.35581,
+    "gn:longitude":95.35743,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thangyogan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thandawgan",
+        "Thangyogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292449
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"621ba512e85e1629df49eec0ce93fafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1260245739,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1260245739,
+    "wof:lastmodified":1537665350,
+    "wof:name":"Thangyogan",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.35743,
+    18.35581,
+    95.35743,
+    18.35581
+],
+  "geometry": {"coordinates":[95.35742999999999,18.35581],"type":"Point"}
+}

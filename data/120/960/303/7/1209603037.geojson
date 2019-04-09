@@ -1,0 +1,63 @@
+{
+  "id": 1209603037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.45246,20.4538,97.45246,20.4538",
+    "geom:latitude":20.4538,
+    "geom:longitude":97.45246,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014004",
+    "gn:asciiname":"Loi-yawkya",
+    "gn:country_code":"MM",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313217,
+    "gn:latitude":20.4538,
+    "gn:longitude":97.45246,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi-yawkya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313217
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"694665c9b0e58c3580ec58dbbb5b4300",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209603037
+        }
+    ],
+    "wof:id":1209603037,
+    "wof:lastmodified":1536282103,
+    "wof:name":"Loi-yawkya",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.45246,
+    20.4538,
+    97.45246,
+    20.4538
+],
+  "geometry": {"coordinates":[97.45246,20.4538],"type":"Point"}
+}

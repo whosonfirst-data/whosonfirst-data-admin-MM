@@ -1,0 +1,63 @@
+{
+  "id": 1209101083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.36924,22.71066,95.36924,22.71066",
+    "geom:latitude":22.71066,
+    "geom:longitude":95.36924,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005009",
+    "gn:asciiname":"Aungtha",
+    "gn:country_code":"MM",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328770,
+    "gn:latitude":22.71066,
+    "gn:longitude":95.36924,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aungtha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328770
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a39ee8584ca9224922670703c27ae656",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209101083
+        }
+    ],
+    "wof:id":1209101083,
+    "wof:lastmodified":1536297730,
+    "wof:name":"Aungtha",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.36924,
+    22.71066,
+    95.36924,
+    22.71066
+],
+  "geometry": {"coordinates":[95.36924,22.71066],"type":"Point"}
+}

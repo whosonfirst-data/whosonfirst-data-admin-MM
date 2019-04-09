@@ -1,0 +1,73 @@
+{
+  "id": 1242665381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.04358,20.14145,98.04358,20.14145",
+    "geom:latitude":20.14145,
+    "geom:longitude":98.04358,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Wan Kawngtu",
+    "gn:country_code":"MM",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288716,
+    "gn:latitude":20.14145,
+    "gn:longitude":98.04358,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Kawngtu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Kawngta",
+        "W\u0101n Kawngtu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288716
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2686fa79517deed519dfdca0fdb132c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1242665381,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242665381,
+    "wof:lastmodified":1537665325,
+    "wof:name":"Wan Kawngtu",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.04358,
+    20.14145,
+    98.04358,
+    20.14145
+],
+  "geometry": {"coordinates":[98.04358000000001,20.14145],"type":"Point"}
+}

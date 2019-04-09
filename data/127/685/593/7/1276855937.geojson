@@ -1,0 +1,67 @@
+{
+  "id": 1276855937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.28333,20.68333,95.28333,20.68333",
+    "geom:latitude":20.68333,
+    "geom:longitude":95.28333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ingon",
+    "gn:country_code":"MM",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322105,
+    "gn:latitude":20.68333,
+    "gn:longitude":95.28333,
+    "gn:modification_date":"2009-04-08",
+    "gn:name":"Ingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322105
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0647e4cd7f2667e157df71361563a863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1276855937,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1276855937,
+    "wof:lastmodified":1537070145,
+    "wof:name":"Ingon",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.28333,
+    20.68333,
+    95.28333,
+    20.68333
+],
+  "geometry": {"coordinates":[95.28333000000001,20.68333],"type":"Point"}
+}

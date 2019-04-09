@@ -1,0 +1,63 @@
+{
+  "id": 1209101087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.22389,23.78579,96.22389,23.78579",
+    "geom:latitude":23.78579,
+    "geom:longitude":96.22389,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005022",
+    "gn:asciiname":"Satkya",
+    "gn:country_code":"MM",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297820,
+    "gn:latitude":23.78579,
+    "gn:longitude":96.22389,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Satkya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297820
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ee10d456e85f0a72f8063cc4b854d385",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209101087
+        }
+    ],
+    "wof:id":1209101087,
+    "wof:lastmodified":1536297730,
+    "wof:name":"Satkya",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.22389,
+    23.78579,
+    96.22389,
+    23.78579
+],
+  "geometry": {"coordinates":[96.22389,23.78579],"type":"Point"}
+}

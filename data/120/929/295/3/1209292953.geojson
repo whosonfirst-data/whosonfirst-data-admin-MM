@@ -1,0 +1,64 @@
+{
+  "id": 1209292953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.50232,24.75672,95.50232,24.75672",
+    "geom:latitude":24.75672,
+    "geom:longitude":95.50232,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Namaw",
+    "gn:country_code":"MM",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307187,
+    "gn:latitude":24.75672,
+    "gn:longitude":95.50232,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307187,
+        "wk:page":"Namaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"06fa3f127c4be8505d4ff0cccc665317",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209292953
+        }
+    ],
+    "wof:id":1209292953,
+    "wof:lastmodified":1537568477,
+    "wof:name":"Namaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.50232,
+    24.75672,
+    95.50232,
+    24.75672
+],
+  "geometry": {"coordinates":[95.50232,24.75672],"type":"Point"}
+}

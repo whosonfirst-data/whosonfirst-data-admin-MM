@@ -1,0 +1,69 @@
+{
+  "id": 1209793085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.76242,21.80737,97.76242,21.80737",
+    "geom:latitude":21.80737,
+    "geom:longitude":97.76242,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Tunmoeng",
+    "gn:country_code":"MM",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290405,
+    "gn:latitude":21.80737,
+    "gn:longitude":97.76242,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tunm\u00f6ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290405
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1e35b99adf7d22d06b174b79710d0c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1209793085,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1209793085,
+    "wof:lastmodified":1536394117,
+    "wof:name":"Tunmoeng",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.76242,
+    21.80737,
+    97.76242,
+    21.80737
+],
+  "geometry": {"coordinates":[97.76242000000001,21.80737],"type":"Point"}
+}

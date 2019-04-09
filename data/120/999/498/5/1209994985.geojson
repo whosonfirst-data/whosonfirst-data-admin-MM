@@ -1,0 +1,69 @@
+{
+  "id": 1209994985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.81798,22.84252,94.81798,22.84252",
+    "geom:latitude":22.84252,
+    "geom:longitude":94.81798,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005009",
+    "gn:asciiname":"Taungbyinnge",
+    "gn:country_code":"MM",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294084,
+    "gn:latitude":22.84252,
+    "gn:longitude":94.81798,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungbyinnge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294084
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f85468dac96eeca3adf779e4c3fb149f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1209994985,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209994985,
+    "wof:lastmodified":1536384666,
+    "wof:name":"Taungbyinnge",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.81798,
+    22.84252,
+    94.81798,
+    22.84252
+],
+  "geometry": {"coordinates":[94.81798000000001,22.84252],"type":"Point"}
+}

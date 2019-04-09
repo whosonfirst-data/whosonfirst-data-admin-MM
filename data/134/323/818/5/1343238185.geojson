@@ -1,0 +1,70 @@
+{
+  "id": 1343238185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.9167,17.1333,95.9167,17.1333",
+    "geom:latitude":17.1333,
+    "geom:longitude":95.9167,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013006",
+    "gn:asciiname":"Htantabin Township",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10242629,
+    "gn:latitude":17.1333,
+    "gn:longitude":95.9167,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htantabin Township",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10242629,
+        "wk:page":"Htantabin_Township"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"81084b8c03a3c3e75a722f8755522ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1343238185,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1343238185,
+    "wof:lastmodified":1537568512,
+    "wof:name":"Htantabin Township",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.9167,
+    17.1333,
+    95.9167,
+    17.1333
+],
+  "geometry": {"coordinates":[95.91670000000001,17.1333],"type":"Point"}
+}

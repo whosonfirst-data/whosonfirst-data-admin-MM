@@ -1,0 +1,69 @@
+{
+  "id": 1276849271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.51467,22.34592,95.51467,22.34592",
+    "geom:latitude":22.34592,
+    "geom:longitude":95.51467,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005014",
+    "gn:asciiname":"Taunghmwa",
+    "gn:country_code":"MM",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293928,
+    "gn:latitude":22.34592,
+    "gn:longitude":95.51467,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taunghmwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293928
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c0f79e7b5283a51644287f8a932fb46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046719,
+            "locality_id":1276849271,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276849271,
+    "wof:lastmodified":1537078978,
+    "wof:name":"Taunghmwa",
+    "wof:parent_id":1092046719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.51467,
+    22.34592,
+    95.51467,
+    22.34592
+],
+  "geometry": {"coordinates":[95.51467,22.34592],"type":"Point"}
+}

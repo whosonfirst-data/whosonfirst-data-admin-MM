@@ -1,0 +1,68 @@
+{
+  "id": 1209514047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.6,16.16667,98.6,16.16667",
+    "geom:latitude":16.16667,
+    "geom:longitude":98.6,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D002",
+    "gn:admin3_code":"MMR003005",
+    "gn:asciiname":"Maung E",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310277,
+    "gn:latitude":16.16667,
+    "gn:longitude":98.6,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Maung E",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maung",
+        "Maung E"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310277
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dee8807ffb10788c74a9ba00dc239183",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209514047
+        }
+    ],
+    "wof:id":1209514047,
+    "wof:lastmodified":1537665444,
+    "wof:name":"Maung E",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.6,
+    16.16667,
+    98.6,
+    16.16667
+],
+  "geometry": {"coordinates":[98.59999999999999,16.16667],"type":"Point"}
+}

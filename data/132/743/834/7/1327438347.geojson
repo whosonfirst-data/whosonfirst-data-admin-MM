@@ -1,0 +1,69 @@
+{
+  "id": 1327438347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.67205,16.57896,95.67205,16.57896",
+    "geom:latitude":16.57896,
+    "geom:longitude":95.67205,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Htalu",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322971,
+    "gn:latitude":16.57896,
+    "gn:longitude":95.67205,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322971
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a1c6f8804752c5e058893f9037866b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1327438347,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1327438347,
+    "wof:lastmodified":1536672119,
+    "wof:name":"Htalu",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.67205,
+    16.57896,
+    95.67205,
+    16.57896
+],
+  "geometry": {"coordinates":[95.67205,16.57896],"type":"Point"}
+}

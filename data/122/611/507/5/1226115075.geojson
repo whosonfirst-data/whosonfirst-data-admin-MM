@@ -1,0 +1,73 @@
+{
+  "id": 1226115075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.67566,20.58852,94.67566,20.58852",
+    "geom:latitude":20.58852,
+    "geom:longitude":94.67566,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009010",
+    "gn:asciiname":"Minyingon",
+    "gn:country_code":"MM",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309070,
+    "gn:latitude":20.58852,
+    "gn:longitude":94.67566,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minyingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melingon",
+        "Minyingon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309070
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"986d63244d20d742e16f68b9013eda0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1226115075,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1226115075,
+    "wof:lastmodified":1537665435,
+    "wof:name":"Minyingon",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.67566,
+    20.58852000000001,
+    94.67566,
+    20.58852000000001
+],
+  "geometry": {"coordinates":[94.67565999999999,20.58852000000001],"type":"Point"}
+}

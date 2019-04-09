@@ -1,0 +1,70 @@
+{
+  "id": 1327053587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.2533,24.39717,97.2533,24.39717",
+    "geom:latitude":24.39717,
+    "geom:longitude":97.2533,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Teinthaw",
+    "gn:country_code":"MM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293155,
+    "gn:latitude":24.39717,
+    "gn:longitude":97.2533,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Teinthaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293155,
+        "wk:page":"Teinthaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2f275b821e02d9b9c98c37a9a1b4c6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1327053587,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327053587,
+    "wof:lastmodified":1537568456,
+    "wof:name":"Teinthaw",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.2533,
+    24.39717000000001,
+    97.2533,
+    24.39717000000001
+],
+  "geometry": {"coordinates":[97.2533,24.39717000000001],"type":"Point"}
+}

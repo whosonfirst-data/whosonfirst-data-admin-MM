@@ -1,0 +1,69 @@
+{
+  "id": 1260378821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.41788,22.26369,98.41788,22.26369",
+    "geom:latitude":22.26369,
+    "geom:longitude":98.41788,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Nawngleng",
+    "gn:country_code":"MM",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305163,
+    "gn:latitude":22.26369,
+    "gn:longitude":98.41788,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawngleng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305163
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7f028cc2d3b628f8b98505ecffce76fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1260378821,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260378821,
+    "wof:lastmodified":1537078142,
+    "wof:name":"Nawngleng",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.41788,
+    22.26369,
+    98.41788,
+    22.26369
+],
+  "geometry": {"coordinates":[98.41788,22.26369],"type":"Point"}
+}

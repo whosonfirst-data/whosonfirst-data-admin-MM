@@ -1,0 +1,70 @@
+{
+  "id": 1276313455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.87568,20.59511,96.87568,20.59511",
+    "geom:latitude":20.59511,
+    "geom:longitude":96.87568,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014002",
+    "gn:asciiname":"Khaung Daing",
+    "gn:country_code":"MM",
+    "gn:dem":906,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048943,
+    "gn:latitude":20.59511,
+    "gn:longitude":96.87568,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Khaung Daing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048943
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cc46bcc5f1f3c6399b3d4f73ca13086c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1276313455,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276313455,
+    "wof:lastmodified":1536805208,
+    "wof:name":"Khaung Daing",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.87568,
+    20.59511,
+    96.87568,
+    20.59511
+],
+  "geometry": {"coordinates":[96.87568,20.59511],"type":"Point"}
+}

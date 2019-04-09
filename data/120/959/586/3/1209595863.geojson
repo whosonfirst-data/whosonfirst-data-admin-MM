@@ -1,0 +1,63 @@
+{
+  "id": 1209595863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.39469,23.51536,97.39469,23.51536",
+    "geom:latitude":23.51536,
+    "geom:longitude":97.39469,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015019",
+    "gn:asciiname":"Se-kao",
+    "gn:country_code":"MM",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297400,
+    "gn:latitude":23.51536,
+    "gn:longitude":97.39469,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Se-kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297400
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"304250499bbb5fcd24ffebfd6c6c2ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209595863
+        }
+    ],
+    "wof:id":1209595863,
+    "wof:lastmodified":1536282326,
+    "wof:name":"Se-kao",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.39469,
+    23.51536,
+    97.39469,
+    23.51536
+],
+  "geometry": {"coordinates":[97.39469,23.51536],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209221567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.53943,15.84256,95.53943,15.84256",
+    "geom:latitude":15.84256,
+    "geom:longitude":95.53943,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017023",
+    "gn:asciiname":"Yogon",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284791,
+    "gn:latitude":15.84256,
+    "gn:longitude":95.53943,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yog\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284791
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0dcd041a0ba72c1e9f4d5412c9a82f32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209221567
+        }
+    ],
+    "wof:id":1209221567,
+    "wof:lastmodified":1536293944,
+    "wof:name":"Yogon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.53943,
+    15.84256,
+    95.53943,
+    15.84256
+],
+  "geometry": {"coordinates":[95.53943,15.84256],"type":"Point"}
+}

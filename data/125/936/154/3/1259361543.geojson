@@ -1,0 +1,69 @@
+{
+  "id": 1259361543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.79023,24.35478,94.79023,24.35478",
+    "geom:latitude":24.35478,
+    "geom:longitude":94.79023,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Zibyugon",
+    "gn:country_code":"MM",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283954,
+    "gn:latitude":24.35478,
+    "gn:longitude":94.79023,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zibyugon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283954
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e79cb9b3195f075db3ab01fd13c781bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046361,
+            "locality_id":1259361543,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259361543,
+    "wof:lastmodified":1537032483,
+    "wof:name":"Zibyugon",
+    "wof:parent_id":1092046361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.79023,
+    24.35478,
+    94.79023,
+    24.35478
+],
+  "geometry": {"coordinates":[94.79022999999999,24.35478],"type":"Point"}
+}

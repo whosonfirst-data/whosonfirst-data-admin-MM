@@ -1,0 +1,70 @@
+{
+  "id": 1225932537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.94939,24.78358,94.94939,24.78358",
+    "geom:latitude":24.78358,
+    "geom:longitude":94.94939,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Payit",
+    "gn:country_code":"MM",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300610,
+    "gn:latitude":24.78358,
+    "gn:longitude":94.94939,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Payit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300610,
+        "wk:page":"Payit"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"703645ca1e6024c5dfb1fce8e58b19d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1225932537,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1225932537,
+    "wof:lastmodified":1537568467,
+    "wof:name":"Payit",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.94939,
+    24.78358,
+    94.94939,
+    24.78358
+],
+  "geometry": {"coordinates":[94.94938999999999,24.78358],"type":"Point"}
+}

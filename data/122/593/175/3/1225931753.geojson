@@ -1,0 +1,73 @@
+{
+  "id": 1225931753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.95189,21.18833,99.95189,21.18833",
+    "geom:latitude":21.18833,
+    "geom:longitude":99.95189,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016010",
+    "gn:asciiname":"Wan Hwe-loe",
+    "gn:country_code":"MM",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288911,
+    "gn:latitude":21.18833,
+    "gn:longitude":99.95189,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hw\u00e8-l\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Kwi Hwe-l\u00f6",
+        "W\u0101n Hw\u00e8-l\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288911
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"832b0e8d339f1569ac8c929d2a9e0d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1225931753,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225931753,
+    "wof:lastmodified":1537665327,
+    "wof:name":"Wan Hwe-loe",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.95189,
+    21.18833,
+    99.95189,
+    21.18833
+],
+  "geometry": {"coordinates":[99.95189000000001,21.18833],"type":"Point"}
+}

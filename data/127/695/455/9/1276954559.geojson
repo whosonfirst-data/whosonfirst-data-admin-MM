@@ -1,0 +1,73 @@
+{
+  "id": 1276954559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.93954,17.06289,95.93954,17.06289",
+    "geom:latitude":17.06289,
+    "geom:longitude":95.93954,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013006",
+    "gn:asciiname":"Thaungdaw",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292262,
+    "gn:latitude":17.06289,
+    "gn:longitude":95.93954,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thaungdaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taungdaw",
+        "Thaungdaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292262
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d3b86b62c0c19d9cd65a51579cb3b3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1276954559,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1276954559,
+    "wof:lastmodified":1537665348,
+    "wof:name":"Thaungdaw",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.93954,
+    17.06289,
+    95.93954,
+    17.06289
+],
+  "geometry": {"coordinates":[95.93953999999999,17.06289],"type":"Point"}
+}

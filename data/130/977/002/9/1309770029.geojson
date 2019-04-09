@@ -1,0 +1,73 @@
+{
+  "id": 1309770029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.56874,17.75129,95.56874,17.75129",
+    "geom:latitude":17.75129,
+    "geom:longitude":95.56874,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008008",
+    "gn:asciiname":"Thingangyaung",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291456,
+    "gn:latitude":17.75129,
+    "gn:longitude":95.56874,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thingangyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thinganchaung",
+        "Thingangyaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291456
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8f2ef8836cb7b307e34ae3df2fd16ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1309770029,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1309770029,
+    "wof:lastmodified":1537665343,
+    "wof:name":"Thingangyaung",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.56874,
+    17.75129,
+    95.56874,
+    17.75129
+],
+  "geometry": {"coordinates":[95.56874000000001,17.75129],"type":"Point"}
+}

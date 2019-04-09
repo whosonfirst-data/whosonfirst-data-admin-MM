@@ -1,0 +1,69 @@
+{
+  "id": 1293014279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.13642,19.70484,94.13642,19.70484",
+    "geom:latitude":19.70484,
+    "geom:longitude":94.13642,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012014",
+    "gn:asciiname":"Paungwa",
+    "gn:country_code":"MM",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300913,
+    "gn:latitude":19.70484,
+    "gn:longitude":94.13642,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paungwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300913
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cef70c532934328e3fc2d39d16583071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1293014279,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1293014279,
+    "wof:lastmodified":1536971765,
+    "wof:name":"Paungwa",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.13642,
+    19.70484,
+    94.13642,
+    19.70484
+],
+  "geometry": {"coordinates":[94.13642,19.70484],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293009751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.11794,20.90573,93.11794,20.90573",
+    "geom:latitude":20.90573,
+    "geom:longitude":93.11794,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D005",
+    "gn:admin3_code":"MMR012004",
+    "gn:asciiname":"Kanbe",
+    "gn:country_code":"MM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320936,
+    "gn:latitude":20.90573,
+    "gn:longitude":93.11794,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanbe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320936
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"eed8e1b9ebfc726fc4db3bf52e1a7f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046765,
+            "locality_id":1293009751,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1293009751,
+    "wof:lastmodified":1536978051,
+    "wof:name":"Kanbe",
+    "wof:parent_id":1092046765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.11794,
+    20.90573,
+    93.11794,
+    20.90573
+],
+  "geometry": {"coordinates":[93.11794,20.90573],"type":"Point"}
+}

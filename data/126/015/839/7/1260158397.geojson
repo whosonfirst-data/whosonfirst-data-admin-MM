@@ -1,0 +1,69 @@
+{
+  "id": 1260158397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.40897,22.34914,98.40897,22.34914",
+    "geom:latitude":22.34914,
+    "geom:longitude":98.40897,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Ho-pang",
+    "gn:country_code":"MM",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323956,
+    "gn:latitude":22.34914,
+    "gn:longitude":98.40897,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ho-pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323956
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e042e6adec3c46a065ffb2176bbb0c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1260158397,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260158397,
+    "wof:lastmodified":1536881756,
+    "wof:name":"Ho-pang",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.40897,
+    22.34914,
+    98.40897,
+    22.34914
+],
+  "geometry": {"coordinates":[98.40897,22.34914],"type":"Point"}
+}

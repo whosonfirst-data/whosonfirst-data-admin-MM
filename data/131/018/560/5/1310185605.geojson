@@ -1,0 +1,74 @@
+{
+  "id": 1310185605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.29711,23.10226,97.29711,23.10226",
+    "geom:latitude":23.10226,
+    "geom:longitude":97.29711,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015015",
+    "gn:asciiname":"Bawdwin",
+    "gn:country_code":"MM",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328361,
+    "gn:latitude":23.10226,
+    "gn:longitude":97.29711,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bawdwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bawdwin Mines",
+        "Bawdwingyi",
+        "Bawdwin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328361
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"524e6774fabe054e22747051fc5deb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1310185605,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310185605,
+    "wof:lastmodified":1537665546,
+    "wof:name":"Bawdwin",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.29711,
+    23.10226,
+    97.29711,
+    23.10226
+],
+  "geometry": {"coordinates":[97.29711,23.10226],"type":"Point"}
+}

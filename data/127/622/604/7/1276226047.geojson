@@ -1,0 +1,71 @@
+{
+  "id": 1276226047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.8989,16.09684,97.8989,16.09684",
+    "geom:latitude":16.09684,
+    "geom:longitude":97.8989,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Kale",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:elevation":"19.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321241,
+    "gn:latitude":16.09684,
+    "gn:longitude":97.8989,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321241,
+        "wk:page":"Kale%2C_Karen_State"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bea60484d488b41cd401dc6999c2b002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1276226047,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1276226047,
+    "wof:lastmodified":1537568499,
+    "wof:name":"Kale",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.8989,
+    16.09684,
+    97.8989,
+    16.09684
+],
+  "geometry": {"coordinates":[97.8989,16.09684],"type":"Point"}
+}

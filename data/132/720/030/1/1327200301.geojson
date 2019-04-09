@@ -1,0 +1,73 @@
+{
+  "id": 1327200301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.26203,17.30948,96.26203,17.30948",
+    "geom:latitude":17.30948,
+    "geom:longitude":96.26203,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Kokkine",
+    "gn:country_code":"MM",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318765,
+    "gn:latitude":17.30948,
+    "gn:longitude":96.26203,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kokkine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokkaing",
+        "Kokkine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318765
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b51c9c9e47fa33b31c95f4aac0d547b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1327200301,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1327200301,
+    "wof:lastmodified":1537665492,
+    "wof:name":"Kokkine",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.26203,
+    17.30947999999999,
+    96.26203,
+    17.30947999999999
+],
+  "geometry": {"coordinates":[96.26203,17.30947999999999],"type":"Point"}
+}

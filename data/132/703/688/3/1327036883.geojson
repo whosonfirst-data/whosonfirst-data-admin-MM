@@ -1,0 +1,69 @@
+{
+  "id": 1327036883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.26508,17.20637,95.26508,17.20637",
+    "geom:latitude":17.20637,
+    "geom:longitude":95.26508,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017005",
+    "gn:asciiname":"Shwekanyinbin",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296574,
+    "gn:latitude":17.20637,
+    "gn:longitude":95.26508,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwekanyinbin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296574
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"68be33c4344eb6bd269adc96f1923b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1327036883,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1327036883,
+    "wof:lastmodified":1536753904,
+    "wof:name":"Shwekanyinbin",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.26508,
+    17.20637,
+    95.26508,
+    17.20637
+],
+  "geometry": {"coordinates":[95.26508,17.20637],"type":"Point"}
+}

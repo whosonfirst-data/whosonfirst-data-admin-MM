@@ -1,0 +1,73 @@
+{
+  "id": 1260263273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.78464,23.58071,98.78464,23.58071",
+    "geom:latitude":23.58071,
+    "geom:longitude":98.78464,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Hai-hsinshui",
+    "gn:country_code":"MM",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325486,
+    "gn:latitude":23.58071,
+    "gn:longitude":98.78464,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hai-hsinshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai-hsi-hshui",
+        "Hai-hsinshui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325486
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0998da783eb0109c230a6c7c0defbcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1260263273,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260263273,
+    "wof:lastmodified":1537665530,
+    "wof:name":"Hai-hsinshui",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.78464,
+    23.58071,
+    98.78464,
+    23.58071
+],
+  "geometry": {"coordinates":[98.78464,23.58071],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 85902717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":35800192.006345,
+    "geom:bbox":"96.48561,17.327353,96.48561,17.327353",
+    "geom:latitude":17.327353,
+    "geom:longitude":96.48561,
+    "gn:latitude":17.29778,
+    "gn:longitude":96.49049,
+    "iso:country":"MM",
+    "lbl:latitude":17.327353,
+    "lbl:longitude":96.48561,
+    "mps:latitude":17.327703,
+    "mps:longitude":96.483675,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Atet Sidi"
+    ],
+    "name:unk_x_variant":[
+        "Atet Sidi"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"16",
+    "qs:gn_name":"Atet Sidi",
+    "qs:local_max":118,
+    "qs:local_sum":118,
+    "qs:localhoods":1,
+    "qs:name":"Atet Sidi",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Bago",
+    "qs:name_local":"Pegu",
+    "qs:photo_max":18,
+    "qs:photo_sum":118,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424763,
+    "qs:woe_adm1":2344818,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1017780,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85674565,
+        102191569,
+        85632181,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328977,
+        "gp:id":981444,
+        "qs:id":478667
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1dc95548bedf7d1a63ed4a3fc3241ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":-1,
+            "neighbourhood_id":85902717,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":85902717,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379380,
+    "wof:name":"Atet Sidi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[
+        1126107089
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.48561,
+    17.327353,
+    96.48561,
+    17.327353
+],
+  "geometry": {"coordinates":[96.48560999999999,17.327353],"type":"Point"}
+}

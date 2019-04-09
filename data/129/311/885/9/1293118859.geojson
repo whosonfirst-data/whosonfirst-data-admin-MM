@@ -1,0 +1,70 @@
+{
+  "id": 1293118859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.82607,26.12465,95.82607,26.12465",
+    "geom:latitude":26.12465,
+    "geom:longitude":95.82607,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005033",
+    "gn:asciiname":"Ritu Ga",
+    "gn:country_code":"MM",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298724,
+    "gn:latitude":26.12465,
+    "gn:longitude":95.82607,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ritu Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298724,
+        "wk:page":"Ritu_Ga"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f2258fed0934abb510e3221662090ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1293118859,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293118859,
+    "wof:lastmodified":1537568464,
+    "wof:name":"Ritu Ga",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.82607,
+    26.12465,
+    95.82607,
+    26.12465
+],
+  "geometry": {"coordinates":[95.82607,26.12465],"type":"Point"}
+}

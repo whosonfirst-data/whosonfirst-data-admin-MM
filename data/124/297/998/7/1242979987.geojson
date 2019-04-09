@@ -1,0 +1,69 @@
+{
+  "id": 1242979987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.14033,20.60806,93.14033,20.60806",
+    "geom:latitude":20.60806,
+    "geom:longitude":93.14033,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D005",
+    "gn:admin3_code":"MMR012003",
+    "gn:asciiname":"Pazunbe",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300571,
+    "gn:latitude":20.60806,
+    "gn:longitude":93.14033,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pazunbe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300571
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cfb08db7b48893836ca9f9872bace080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046765,
+            "locality_id":1242979987,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1242979987,
+    "wof:lastmodified":1536980304,
+    "wof:name":"Pazunbe",
+    "wof:parent_id":1092046765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.14033,
+    20.60806,
+    93.14033,
+    20.60806
+],
+  "geometry": {"coordinates":[93.14033000000001,20.60806],"type":"Point"}
+}

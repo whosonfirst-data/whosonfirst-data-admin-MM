@@ -1,0 +1,69 @@
+{
+  "id": 1293070893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.45062,19.89219,94.45062,19.89219",
+    "geom:latitude":19.89219,
+    "geom:longitude":94.45062,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009009",
+    "gn:asciiname":"Pazi",
+    "gn:country_code":"MM",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300592,
+    "gn:latitude":19.89219,
+    "gn:longitude":94.45062,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300592
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e5b2bc064c2ae2aba63fafa98cc8f393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1293070893,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1293070893,
+    "wof:lastmodified":1536890439,
+    "wof:name":"Pazi",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.45062,
+    19.89219,
+    94.45062,
+    19.89219
+],
+  "geometry": {"coordinates":[94.45062,19.89219],"type":"Point"}
+}

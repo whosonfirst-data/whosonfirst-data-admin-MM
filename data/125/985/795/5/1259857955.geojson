@@ -1,0 +1,69 @@
+{
+  "id": 1259857955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.37485,23.54788,95.37485,23.54788",
+    "geom:latitude":23.54788,
+    "geom:longitude":95.37485,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005008",
+    "gn:asciiname":"Ywashe",
+    "gn:country_code":"MM",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284523,
+    "gn:latitude":23.54788,
+    "gn:longitude":95.37485,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywashe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284523
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f081ee568baacb1fcf1162b8c5f2e1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1259857955,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259857955,
+    "wof:lastmodified":1536815221,
+    "wof:name":"Ywashe",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.37485,
+    23.54788,
+    95.37485,
+    23.54788
+],
+  "geometry": {"coordinates":[95.37485,23.54788],"type":"Point"}
+}

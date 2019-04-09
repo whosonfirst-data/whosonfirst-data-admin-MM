@@ -1,0 +1,70 @@
+{
+  "id": 1259672305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.89825,24.91309,94.89825,24.91309",
+    "geom:latitude":24.91309,
+    "geom:longitude":94.89825,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Kawngkan",
+    "gn:country_code":"MM",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319749,
+    "gn:latitude":24.91309,
+    "gn:longitude":94.89825,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawngkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319749,
+        "wk:page":"Kawngkan_%2824%C2%B055%22N_94%C2%B054%22E%29"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5da439dd2bb0504c53f0469de0aae581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1259672305,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259672305,
+    "wof:lastmodified":1537568497,
+    "wof:name":"Kawngkan",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.89825,
+    24.91309,
+    94.89825,
+    24.91309
+],
+  "geometry": {"coordinates":[94.89825,24.91309],"type":"Point"}
+}

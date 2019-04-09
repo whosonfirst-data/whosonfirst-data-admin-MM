@@ -1,0 +1,69 @@
+{
+  "id": 1260370797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.22521,22.82037,97.22521,22.82037",
+    "geom:latitude":22.82037,
+    "geom:longitude":97.22521,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015016",
+    "gn:asciiname":"Namkeu",
+    "gn:country_code":"MM",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306870,
+    "gn:latitude":22.82037,
+    "gn:longitude":97.22521,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namkeu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306870
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"970023ca4a6c389e270e9295fc3573a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1260370797,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260370797,
+    "wof:lastmodified":1537088720,
+    "wof:name":"Namkeu",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.22521,
+    22.82037,
+    97.22521,
+    22.82037
+],
+  "geometry": {"coordinates":[97.22521,22.82037],"type":"Point"}
+}

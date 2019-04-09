@@ -1,0 +1,63 @@
+{
+  "id": 1209191827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.27966,20.76777,98.27966,20.76777",
+    "geom:latitude":20.76777,
+    "geom:longitude":98.27966,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Wan Kongpin",
+    "gn:country_code":"MM",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479618,
+    "gn:latitude":20.76777,
+    "gn:longitude":98.27966,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Kongpin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479618
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7aa6e0e3d7208ddcb5830bef6701c274",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209191827
+        }
+    ],
+    "wof:id":1209191827,
+    "wof:lastmodified":1536294908,
+    "wof:name":"Wan Kongpin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.27966,
+    20.76777,
+    98.27966,
+    20.76777
+],
+  "geometry": {"coordinates":[98.27966000000001,20.76777],"type":"Point"}
+}

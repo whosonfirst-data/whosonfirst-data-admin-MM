@@ -1,0 +1,73 @@
+{
+  "id": 1326725587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.8851,21.2605,95.8851,21.2605",
+    "geom:latitude":21.2605,
+    "geom:longitude":95.8851,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010031",
+    "gn:asciiname":"Padin",
+    "gn:country_code":"MM",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302673,
+    "gn:latitude":21.2605,
+    "gn:longitude":95.8851,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Padin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padi",
+        "Padin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302673
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fc19328824fd6f3befccb6cb76a4eabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1326725587,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326725587,
+    "wof:lastmodified":1537665401,
+    "wof:name":"Padin",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.8851,
+    21.2605,
+    95.8851,
+    21.2605
+],
+  "geometry": {"coordinates":[95.88509999999999,21.2605],"type":"Point"}
+}

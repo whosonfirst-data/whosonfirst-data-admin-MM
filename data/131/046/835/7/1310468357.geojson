@@ -1,0 +1,69 @@
+{
+  "id": 1310468357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.21791,17.17069,96.21791,17.17069",
+    "geom:latitude":17.17069,
+    "geom:longitude":96.21791,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Kyaukkkadin",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480171,
+    "gn:latitude":17.17069,
+    "gn:longitude":96.21791,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukkkadin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480171
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b5bf1e1e63291b066e5c43b764ffc7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1310468357,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1310468357,
+    "wof:lastmodified":1536970259,
+    "wof:name":"Kyaukkkadin",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.21791,
+    17.17069,
+    96.21791,
+    17.17069
+],
+  "geometry": {"coordinates":[96.21791,17.17069],"type":"Point"}
+}

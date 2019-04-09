@@ -1,0 +1,69 @@
+{
+  "id": 1309993795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.89999,22.18288,98.89999,22.18288",
+    "geom:latitude":22.18288,
+    "geom:longitude":98.89999,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Man Makhkam",
+    "gn:country_code":"MM",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311245,
+    "gn:latitude":22.18288,
+    "gn:longitude":98.89999,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Makhkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311245
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec753aeee8df6342b1f1034f7f8d3dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1309993795,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309993795,
+    "wof:lastmodified":1536660255,
+    "wof:name":"Man Makhkam",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.89999,
+    22.18288,
+    98.89999,
+    22.18288
+],
+  "geometry": {"coordinates":[98.89999,22.18288],"type":"Point"}
+}

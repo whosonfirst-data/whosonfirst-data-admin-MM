@@ -1,0 +1,69 @@
+{
+  "id": 1293470311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.60312,22.47448,98.60312,22.47448",
+    "geom:latitude":22.47448,
+    "geom:longitude":98.60312,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Man Panghai",
+    "gn:country_code":"MM",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310894,
+    "gn:latitude":22.47448,
+    "gn:longitude":98.60312,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Panghai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310894
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2003021117b0c5a8debb5d55dfb9897b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1293470311,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293470311,
+    "wof:lastmodified":1536811377,
+    "wof:name":"Man Panghai",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.60312,
+    22.47448,
+    98.60312,
+    22.47448
+],
+  "geometry": {"coordinates":[98.60312,22.47448],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209403335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.74658,22.90677,94.74658,22.90677",
+    "geom:latitude":22.90677,
+    "geom:longitude":94.74658,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005029",
+    "gn:asciiname":"Laungbyit",
+    "gn:country_code":"MM",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314700,
+    "gn:latitude":22.90677,
+    "gn:longitude":94.74658,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Laungbyit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lanbyi",
+        "Laungbyit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314700,
+        "wk:page":"Laungbyit"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"29e5b22c56dc8e21619f5cab9493bfa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209403335
+        }
+    ],
+    "wof:id":1209403335,
+    "wof:lastmodified":1537665467,
+    "wof:name":"Laungbyit",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.74658,
+    22.90677,
+    94.74658,
+    22.90677
+],
+  "geometry": {"coordinates":[94.74657999999999,22.90677],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209594043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.66164,22.09932,95.66164,22.09932",
+    "geom:latitude":22.09932,
+    "geom:longitude":95.66164,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005001",
+    "gn:asciiname":"Zayatpyu",
+    "gn:country_code":"MM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284111,
+    "gn:latitude":22.09932,
+    "gn:longitude":95.66164,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zayatpyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zayatbyu",
+        "Zayatpyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284111
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d4b448f043bdc79b7cec61a2b88e34b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209594043
+        }
+    ],
+    "wof:id":1209594043,
+    "wof:lastmodified":1537665293,
+    "wof:name":"Zayatpyu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.66164,
+    22.09932,
+    95.66164,
+    22.09932
+],
+  "geometry": {"coordinates":[95.66164000000001,22.09932],"type":"Point"}
+}

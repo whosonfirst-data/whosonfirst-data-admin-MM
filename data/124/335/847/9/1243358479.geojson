@@ -1,0 +1,70 @@
+{
+  "id": 1243358479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.98945,25.00213,94.98945,25.00213",
+    "geom:latitude":25.00213,
+    "geom:longitude":94.98945,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Poktho",
+    "gn:country_code":"MM",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299780,
+    "gn:latitude":25.00213,
+    "gn:longitude":94.98945,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Poktho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299780,
+        "wk:page":"Poktho"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bdbfa43acf8f2a65c825be79b0707800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1243358479,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243358479,
+    "wof:lastmodified":1537568465,
+    "wof:name":"Poktho",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.98945,
+    25.00213,
+    94.98945,
+    25.00213
+],
+  "geometry": {"coordinates":[94.98945000000001,25.00213],"type":"Point"}
+}

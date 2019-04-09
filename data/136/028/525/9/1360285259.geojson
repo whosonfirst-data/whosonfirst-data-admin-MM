@@ -1,0 +1,74 @@
+{
+  "id": 1360285259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.56741,26.54728,97.56741,26.54728",
+    "geom:latitude":26.54728,
+    "geom:longitude":97.56741,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001015",
+    "gn:asciiname":"Sumprabum",
+    "gn:country_code":"MM",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295513,
+    "gn:latitude":26.54728,
+    "gn:longitude":97.56741,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sumprabum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sunbayabun",
+        "Sumprabum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295513,
+        "wk:page":"Sumprabum"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"451fb3d4715ed4830ca426047942647a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1360285259,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1360285259,
+    "wof:lastmodified":1537665366,
+    "wof:name":"Sumprabum",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.56741,
+    26.54728,
+    97.56741,
+    26.54728
+],
+  "geometry": {"coordinates":[97.56741,26.54728],"type":"Point"}
+}

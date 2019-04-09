@@ -1,0 +1,67 @@
+{
+  "id": 1209410173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.38056,21.81213,95.38056,21.81213",
+    "geom:latitude":21.81213,
+    "geom:longitude":95.38056,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005003",
+    "gn:asciiname":"Pwasaw",
+    "gn:country_code":"MM",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299344,
+    "gn:latitude":21.81213,
+    "gn:longitude":95.38056,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pwasaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bwasaw",
+        "Pwasaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299344
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ba4a6be72f68f9c63adf330a04e87884",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209410173
+        }
+    ],
+    "wof:id":1209410173,
+    "wof:lastmodified":1537665386,
+    "wof:name":"Pwasaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.38056,
+    21.81213,
+    95.38056,
+    21.81213
+],
+  "geometry": {"coordinates":[95.38056,21.81213],"type":"Point"}
+}

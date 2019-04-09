@@ -1,0 +1,69 @@
+{
+  "id": 1327221661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.72956,20.96451,96.72956,20.96451",
+    "geom:latitude":20.96451,
+    "geom:longitude":96.72956,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014006",
+    "gn:asciiname":"Taungbat",
+    "gn:country_code":"MM",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294157,
+    "gn:latitude":20.96451,
+    "gn:longitude":96.72956,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294157
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5c93eb4eb9419d679694a21384fac8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1327221661,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327221661,
+    "wof:lastmodified":1536984349,
+    "wof:name":"Taungbat",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.72956,
+    20.96451,
+    96.72956,
+    20.96451
+],
+  "geometry": {"coordinates":[96.72956000000001,20.96451],"type":"Point"}
+}

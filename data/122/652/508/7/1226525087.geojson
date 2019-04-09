@@ -1,0 +1,69 @@
+{
+  "id": 1226525087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.47362,19.73597,95.47362,19.73597",
+    "geom:latitude":19.73597,
+    "geom:longitude":95.47362,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009004",
+    "gn:asciiname":"Thitkokkwin",
+    "gn:country_code":"MM",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291376,
+    "gn:latitude":19.73597,
+    "gn:longitude":95.47362,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thitkokkwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291376
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"78ecf425082abc452a616ca07c1bd791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1226525087,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1226525087,
+    "wof:lastmodified":1537026674,
+    "wof:name":"Thitkokkwin",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.47362,
+    19.73597,
+    95.47362,
+    19.73597
+],
+  "geometry": {"coordinates":[95.47362,19.73597],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310285431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.6352,22.33282,98.6352,22.33282",
+    "geom:latitude":22.33282,
+    "geom:longitude":98.6352,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Man Namket",
+    "gn:country_code":"MM",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311071,
+    "gn:latitude":22.33282,
+    "gn:longitude":98.6352,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Namk\u0113t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311071
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9dc625d8b79c50d7d662a129b680ff40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1310285431,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310285431,
+    "wof:lastmodified":1536736908,
+    "wof:name":"Man Namket",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.6352,
+    22.33282,
+    98.6352,
+    22.33282
+],
+  "geometry": {"coordinates":[98.6352,22.33282],"type":"Point"}
+}

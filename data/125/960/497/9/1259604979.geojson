@@ -1,0 +1,69 @@
+{
+  "id": 1259604979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.49897,19.4449,97.49897,19.4449",
+    "geom:latitude":19.4449,
+    "geom:longitude":97.49897,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002001",
+    "gn:asciiname":"Ta-hke-pra-le",
+    "gn:country_code":"MM",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295137,
+    "gn:latitude":19.4449,
+    "gn:longitude":97.49897,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta-hk\u00e8-pra-l\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295137
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"10df7bae0b65591422fcdd2d3d0a0205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1259604979,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1259604979,
+    "wof:lastmodified":1536683815,
+    "wof:name":"Ta-hke-pra-le",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.49897,
+    19.4449,
+    97.49897,
+    19.4449
+],
+  "geometry": {"coordinates":[97.49897,19.4449],"type":"Point"}
+}

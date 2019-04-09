@@ -1,0 +1,73 @@
+{
+  "id": 1293468807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.37507,17.59654,97.37507,17.59654",
+    "geom:latitude":17.59654,
+    "geom:longitude":97.37507,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011010",
+    "gn:asciiname":"Hpotu-ywa",
+    "gn:country_code":"MM",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323462,
+    "gn:latitude":17.59654,
+    "gn:longitude":97.37507,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpotu-ywa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bawnawkhi",
+        "Hpotu-ywa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323462
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"93eda02f764ba849b51f034d17781865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1293468807,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1293468807,
+    "wof:lastmodified":1537665521,
+    "wof:name":"Hpotu-ywa",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.37507,
+    17.59654,
+    97.37507,
+    17.59654
+],
+  "geometry": {"coordinates":[97.37506999999999,17.59654],"type":"Point"}
+}

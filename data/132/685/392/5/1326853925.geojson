@@ -1,0 +1,69 @@
+{
+  "id": 1326853925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.29038,25.19788,96.29038,25.19788",
+    "geom:latitude":25.19788,
+    "geom:longitude":96.29038,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001007",
+    "gn:asciiname":"Taungpaw",
+    "gn:country_code":"MM",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293770,
+    "gn:latitude":25.19788,
+    "gn:longitude":96.29038,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungpaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293770
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f452100925c8426d6b9ae3df05e2e39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1326853925,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1326853925,
+    "wof:lastmodified":1537016805,
+    "wof:name":"Taungpaw",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.29038,
+    25.19788,
+    96.29038,
+    25.19788
+],
+  "geometry": {"coordinates":[96.29038,25.19788],"type":"Point"}
+}

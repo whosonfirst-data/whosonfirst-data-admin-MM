@@ -1,0 +1,69 @@
+{
+  "id": 1326731597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.15341,16.4568,95.15341,16.4568",
+    "geom:latitude":16.4568,
+    "geom:longitude":95.15341,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017017",
+    "gn:asciiname":"Hngetkyagyaung",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324271,
+    "gn:latitude":16.4568,
+    "gn:longitude":95.15341,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hngetkyagyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324271
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d3d4043aa4c41c8ac2ae6a0f3e519604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1326731597,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1326731597,
+    "wof:lastmodified":1536696872,
+    "wof:name":"Hngetkyagyaung",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.15341,
+    16.4568,
+    95.15341,
+    16.4568
+],
+  "geometry": {"coordinates":[95.15340999999999,16.4568],"type":"Point"}
+}

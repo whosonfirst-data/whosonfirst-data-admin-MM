@@ -1,0 +1,74 @@
+{
+  "id": 1243149701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.8244,22.00688,96.8244,22.00688",
+    "geom:latitude":22.00688,
+    "geom:longitude":96.8244,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015013",
+    "gn:asciiname":"Hsin-hsok",
+    "gn:country_code":"MM",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323124,
+    "gn:latitude":22.00688,
+    "gn:longitude":96.8244,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hsin-hsok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lsang-sok",
+        "Sang-sok",
+        "Hsin-hsok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323124
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"df749fe7bd566e35682983a89f1ecdc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1243149701,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243149701,
+    "wof:lastmodified":1537665519,
+    "wof:name":"Hsin-hsok",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.8244,
+    22.00688,
+    96.8244,
+    22.00688
+],
+  "geometry": {"coordinates":[96.8244,22.00688],"type":"Point"}
+}

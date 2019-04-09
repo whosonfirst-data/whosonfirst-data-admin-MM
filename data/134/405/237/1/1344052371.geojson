@@ -1,0 +1,69 @@
+{
+  "id": 1344052371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.05968,20.6725,96.05968,20.6725",
+    "geom:latitude":20.6725,
+    "geom:longitude":96.05968,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010024",
+    "gn:asciiname":"Shawbyubin",
+    "gn:country_code":"MM",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296956,
+    "gn:latitude":20.6725,
+    "gn:longitude":96.05968,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shawbyubin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296956
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"09115ea9f66dce67893e4fe10478c677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1344052371,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1344052371,
+    "wof:lastmodified":1536886870,
+    "wof:name":"Shawbyubin",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.05968,
+    20.6725,
+    96.05968,
+    20.6725
+],
+  "geometry": {"coordinates":[96.05968,20.6725],"type":"Point"}
+}

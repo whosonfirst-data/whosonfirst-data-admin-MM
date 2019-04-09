@@ -1,0 +1,69 @@
+{
+  "id": 1260073841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.94789,23.223,94.94789,23.223",
+    "geom:latitude":23.223,
+    "geom:longitude":94.94789,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005011",
+    "gn:asciiname":"Wainggyaung",
+    "gn:country_code":"MM",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1289854,
+    "gn:latitude":23.223,
+    "gn:longitude":94.94789,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wainggyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289854
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c45d8616c5026e5b37835883b14a4956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1260073841,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260073841,
+    "wof:lastmodified":1537001196,
+    "wof:name":"Wainggyaung",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.94789,
+    23.22300000000001,
+    94.94789,
+    23.22300000000001
+],
+  "geometry": {"coordinates":[94.94789,23.22300000000001],"type":"Point"}
+}

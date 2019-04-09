@@ -1,0 +1,63 @@
+{
+  "id": 1209083687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.69122,22.19579,98.69122,22.19579",
+    "geom:latitude":22.19579,
+    "geom:longitude":98.69122,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Man Ton",
+    "gn:country_code":"MM",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310595,
+    "gn:latitude":22.19579,
+    "gn:longitude":98.69122,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n T\u014dn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310595
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"51d1b47981d933e465b79cb348c79a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209083687
+        }
+    ],
+    "wof:id":1209083687,
+    "wof:lastmodified":1536298255,
+    "wof:name":"Man Ton",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.69122,
+    22.19579,
+    98.69122,
+    22.19579
+],
+  "geometry": {"coordinates":[98.69122,22.19579],"type":"Point"}
+}

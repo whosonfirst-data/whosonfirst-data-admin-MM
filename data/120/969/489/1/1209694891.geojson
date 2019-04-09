@@ -1,0 +1,63 @@
+{
+  "id": 1209694891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.48388,16.54738,97.48388,16.54738",
+    "geom:latitude":16.54738,
+    "geom:longitude":97.48388,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011008",
+    "gn:asciiname":"Kawkarin",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319897,
+    "gn:latitude":16.54738,
+    "gn:longitude":97.48388,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawkarin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319897
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d381216b7e63d94f1f81b2ee9be9fa01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209694891
+        }
+    ],
+    "wof:id":1209694891,
+    "wof:lastmodified":1536279110,
+    "wof:name":"Kawkarin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.48388,
+    16.54738,
+    97.48388,
+    16.54738
+],
+  "geometry": {"coordinates":[97.48388,16.54738],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209487137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.90492,18.61977,96.90492,18.61977",
+    "geom:latitude":18.61977,
+    "geom:longitude":96.90492,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Wamitala",
+    "gn:country_code":"MM",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289777,
+    "gn:latitude":18.61977,
+    "gn:longitude":96.90492,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wamitala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wamatala",
+        "Wamitala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289777
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"33bd732f37865acadef0609166c53820",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209487137
+        }
+    ],
+    "wof:id":1209487137,
+    "wof:lastmodified":1537665335,
+    "wof:name":"Wamitala",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.90492,
+    18.61977000000001,
+    96.90492,
+    18.61977000000001
+],
+  "geometry": {"coordinates":[96.90492,18.61977000000001],"type":"Point"}
+}

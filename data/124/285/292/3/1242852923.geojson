@@ -1,0 +1,70 @@
+{
+  "id": 1242852923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.05,23.26667,94.05,23.26667",
+    "geom:latitude":23.26667,
+    "geom:longitude":94.05,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Thekondan",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291689,
+    "gn:latitude":23.26667,
+    "gn:longitude":94.05,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thekondan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291689,
+        "wk:page":"Thekondan"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5d91cd8ab43cf09d2fb0249c46454e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1242852923,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1242852923,
+    "wof:lastmodified":1537568454,
+    "wof:name":"Thekondan",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.05,
+    23.26667,
+    94.05,
+    23.26667
+],
+  "geometry": {"coordinates":[94.05,23.26667],"type":"Point"}
+}

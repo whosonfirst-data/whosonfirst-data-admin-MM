@@ -1,0 +1,69 @@
+{
+  "id": 1309692721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.02988,20.42241,97.02988,20.42241",
+    "geom:latitude":20.42241,
+    "geom:longitude":97.02988,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014001",
+    "gn:asciiname":"Htiri",
+    "gn:country_code":"MM",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322675,
+    "gn:latitude":20.42241,
+    "gn:longitude":97.02988,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322675
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a3f892debf011d284303ff39a26df49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1309692721,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309692721,
+    "wof:lastmodified":1537090955,
+    "wof:name":"Htiri",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.02988,
+    20.42241,
+    97.02988,
+    20.42241
+],
+  "geometry": {"coordinates":[97.02988000000001,20.42241],"type":"Point"}
+}

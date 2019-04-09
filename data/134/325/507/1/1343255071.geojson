@@ -1,0 +1,73 @@
+{
+  "id": 1343255071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.63565,17.51139,97.63565,17.51139",
+    "geom:latitude":17.51139,
+    "geom:longitude":97.63565,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Megala",
+    "gn:country_code":"MM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309854,
+    "gn:latitude":17.51139,
+    "gn:longitude":97.63565,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Megala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaungma",
+        "Megala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309854
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ae1127be49ffe9873333e3893ac0ee0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1343255071,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1343255071,
+    "wof:lastmodified":1537665441,
+    "wof:name":"Megala",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.63565,
+    17.51139,
+    97.63565,
+    17.51139
+],
+  "geometry": {"coordinates":[97.63565,17.51139],"type":"Point"}
+}

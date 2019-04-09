@@ -1,0 +1,69 @@
+{
+  "id": 1209895835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.96691,12.38612,98.96691,12.38612",
+    "geom:latitude":12.38612,
+    "geom:longitude":98.96691,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006008",
+    "gn:asciiname":"Peinchaung",
+    "gn:country_code":"MM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300426,
+    "gn:latitude":12.38612,
+    "gn:longitude":98.96691,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Peinchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300426
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"df7fbe4bdf40e03252ddf6c69b0968a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "locality_id":1209895835,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1209895835,
+    "wof:lastmodified":1536388665,
+    "wof:name":"Peinchaung",
+    "wof:parent_id":1092046951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.96691,
+    12.38612,
+    98.96691,
+    12.38612
+],
+  "geometry": {"coordinates":[98.96691,12.38612],"type":"Point"}
+}

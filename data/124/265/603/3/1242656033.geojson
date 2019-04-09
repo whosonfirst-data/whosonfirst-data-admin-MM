@@ -1,0 +1,70 @@
+{
+  "id": 1242656033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.11644,23.1535,94.11644,23.1535",
+    "geom:latitude":23.1535,
+    "geom:longitude":94.11644,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Uyin",
+    "gn:country_code":"MM",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290152,
+    "gn:latitude":23.1535,
+    "gn:longitude":94.11644,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Uyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290152,
+        "wk:page":"Uyin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"971417478f4fa5d72b2b9a557c85cc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1242656033,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1242656033,
+    "wof:lastmodified":1537568451,
+    "wof:name":"Uyin",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.11644,
+    23.1535,
+    94.11644,
+    23.1535
+],
+  "geometry": {"coordinates":[94.11644,23.1535],"type":"Point"}
+}

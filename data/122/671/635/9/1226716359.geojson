@@ -1,0 +1,69 @@
+{
+  "id": 1226716359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.97094,17.34758,95.97094,17.34758",
+    "geom:latitude":17.34758,
+    "geom:longitude":95.97094,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013005",
+    "gn:asciiname":"Kayangon",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319529,
+    "gn:latitude":17.34758,
+    "gn:longitude":95.97094,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kayangon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319529
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0b26c1f3528f783f9c7b42005ad6b867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1226716359,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1226716359,
+    "wof:lastmodified":1536758170,
+    "wof:name":"Kayangon",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.97094,
+    17.34757999999999,
+    95.97094,
+    17.34757999999999
+],
+  "geometry": {"coordinates":[95.97094,17.34757999999999],"type":"Point"}
+}

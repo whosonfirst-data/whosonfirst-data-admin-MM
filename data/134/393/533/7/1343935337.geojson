@@ -1,0 +1,69 @@
+{
+  "id": 1343935337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.10161,23.42618,98.10161,23.42618",
+    "geom:latitude":23.42618,
+    "geom:longitude":98.10161,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Loi-sawng",
+    "gn:country_code":"MM",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313277,
+    "gn:latitude":23.42618,
+    "gn:longitude":98.10161,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi-sawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313277
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7d6fa0c4a9360165405c89f46f11786a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1343935337,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343935337,
+    "wof:lastmodified":1537053984,
+    "wof:name":"Loi-sawng",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.10161,
+    23.42618,
+    98.10161,
+    23.42618
+],
+  "geometry": {"coordinates":[98.10160999999999,23.42618],"type":"Point"}
+}

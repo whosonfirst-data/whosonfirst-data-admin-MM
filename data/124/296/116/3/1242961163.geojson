@@ -1,0 +1,73 @@
+{
+  "id": 1242961163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.79227,21.95834,98.79227,21.95834",
+    "geom:latitude":21.95834,
+    "geom:longitude":98.79227,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Wan Kang",
+    "gn:country_code":"MM",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288805,
+    "gn:latitude":21.95834,
+    "gn:longitude":98.79227,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kang",
+        "W\u0101n Kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288805
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"132f80ca7ae4abee24e2d687891c0c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1242961163,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242961163,
+    "wof:lastmodified":1537665326,
+    "wof:name":"Wan Kang",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.79227,
+    21.95834,
+    98.79227,
+    21.95834
+],
+  "geometry": {"coordinates":[98.79227,21.95834],"type":"Point"}
+}

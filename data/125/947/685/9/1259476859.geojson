@@ -1,0 +1,73 @@
+{
+  "id": 1259476859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.2671,23.91247,94.2671,23.91247",
+    "geom:latitude":23.91247,
+    "geom:longitude":94.2671,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D006",
+    "gn:admin3_code":"MMR005030",
+    "gn:asciiname":"Minthami",
+    "gn:country_code":"MM",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309100,
+    "gn:latitude":23.91247,
+    "gn:longitude":94.2671,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minthami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mintham",
+        "Minthami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309100
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b5149cd142e0ac9608164b3427db7b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047447,
+            "locality_id":1259476859,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259476859,
+    "wof:lastmodified":1537665435,
+    "wof:name":"Minthami",
+    "wof:parent_id":1092047447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.2671,
+    23.91247000000001,
+    94.2671,
+    23.91247000000001
+],
+  "geometry": {"coordinates":[94.2671,23.91247000000001],"type":"Point"}
+}

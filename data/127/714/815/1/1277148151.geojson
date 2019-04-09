@@ -1,0 +1,69 @@
+{
+  "id": 1277148151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.2114,17.26589,97.2114,17.26589",
+    "geom:latitude":17.26589,
+    "geom:longitude":97.2114,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011010",
+    "gn:asciiname":"Bambwegon",
+    "gn:country_code":"MM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328547,
+    "gn:latitude":17.26589,
+    "gn:longitude":97.2114,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bambwegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328547
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4f659feb16c8c22d448fff1b2dce5cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1277148151,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1277148151,
+    "wof:lastmodified":1536673404,
+    "wof:name":"Bambwegon",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.2114,
+    17.26589,
+    97.2114,
+    17.26589
+],
+  "geometry": {"coordinates":[97.2114,17.26589],"type":"Point"}
+}

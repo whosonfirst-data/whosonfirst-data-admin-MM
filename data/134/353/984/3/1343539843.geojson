@@ -1,0 +1,75 @@
+{
+  "id": 1343539843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.69969,24.42533,94.69969,24.42533",
+    "geom:latitude":24.42533,
+    "geom:longitude":94.69969,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Thaungdut",
+    "gn:country_code":"MM",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292259,
+    "gn:latitude":24.42533,
+    "gn:longitude":94.69969,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thaungdut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsawng Hsup",
+        "Tsaunghsup",
+        "Thaungdut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292259,
+        "wk:page":"Thaungdut"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fb0cf9583fb72162ffd8f8f53f2c8dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1343539843,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343539843,
+    "wof:lastmodified":1537665348,
+    "wof:name":"Thaungdut",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.69969,
+    24.42533,
+    94.69969,
+    24.42533
+],
+  "geometry": {"coordinates":[94.69969,24.42533],"type":"Point"}
+}

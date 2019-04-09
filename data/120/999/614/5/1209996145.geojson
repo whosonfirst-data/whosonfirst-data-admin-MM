@@ -1,0 +1,73 @@
+{
+  "id": 1209996145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.85172,11.39461,98.85172,11.39461",
+    "geom:latitude":11.39461,
+    "geom:longitude":98.85172,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006010",
+    "gn:asciiname":"Wachaung",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289973,
+    "gn:latitude":11.39461,
+    "gn:longitude":98.85172,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wachaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wagyaung",
+        "Wachaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289973
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c249c721bb4490be3e204b5a4f3589c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1209996145,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1209996145,
+    "wof:lastmodified":1537665336,
+    "wof:name":"Wachaung",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.85172,
+    11.39461,
+    98.85172,
+    11.39461
+],
+  "geometry": {"coordinates":[98.85172,11.39461],"type":"Point"}
+}

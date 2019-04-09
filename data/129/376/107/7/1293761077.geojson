@@ -1,0 +1,73 @@
+{
+  "id": 1293761077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.16527,20.72303,98.16527,20.72303",
+    "geom:latitude":20.72303,
+    "geom:longitude":98.16527,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014013",
+    "gn:asciiname":"Wan Hai",
+    "gn:country_code":"MM",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289489,
+    "gn:latitude":20.72303,
+    "gn:longitude":98.16527,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u00e3n Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Hoi",
+        "W\u00e3n Hai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289489
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"546114586334fa8f033497189bc7f23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1293761077,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293761077,
+    "wof:lastmodified":1537665333,
+    "wof:name":"Wan Hai",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.16527,
+    20.72303,
+    98.16527,
+    20.72303
+],
+  "geometry": {"coordinates":[98.16527000000001,20.72303],"type":"Point"}
+}

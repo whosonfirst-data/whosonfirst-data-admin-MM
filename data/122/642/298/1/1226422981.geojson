@@ -1,0 +1,67 @@
+{
+  "id": 1226422981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.23389,19.7025,98.23389,19.7025",
+    "geom:latitude":19.7025,
+    "geom:longitude":98.23389,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Wan Kawp",
+    "gn:country_code":"MM",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288713,
+    "gn:latitude":19.7025,
+    "gn:longitude":98.23389,
+    "gn:modification_date":"2005-04-15",
+    "gn:name":"W\u0101n Kawp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288713
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"188af1cde5debc6433cdb842ed17810d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1226422981,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226422981,
+    "wof:lastmodified":1536678329,
+    "wof:name":"Wan Kawp",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.23389,
+    19.7025,
+    98.23389,
+    19.7025
+],
+  "geometry": {"coordinates":[98.23389,19.7025],"type":"Point"}
+}

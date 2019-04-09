@@ -1,0 +1,69 @@
+{
+  "id": 1242658003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.63308,21.07834,97.63308,21.07834",
+    "geom:latitude":21.07834,
+    "geom:longitude":97.63308,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014011",
+    "gn:asciiname":"Linkyawng",
+    "gn:country_code":"MM",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313675,
+    "gn:latitude":21.07834,
+    "gn:longitude":97.63308,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Linkyawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313675
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a0d1ff19e8315461adb03efbbb0ab028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1242658003,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242658003,
+    "wof:lastmodified":1536948383,
+    "wof:name":"Linkyawng",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.63308,
+    21.07834,
+    97.63308,
+    21.07834
+],
+  "geometry": {"coordinates":[97.63308000000001,21.07834],"type":"Point"}
+}

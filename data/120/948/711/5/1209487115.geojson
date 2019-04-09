@@ -1,0 +1,63 @@
+{
+  "id": 1209487115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.43887,17.32307,96.43887,17.32307",
+    "geom:latitude":17.32307,
+    "geom:longitude":96.43887,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007001",
+    "gn:asciiname":"Konpetlet",
+    "gn:country_code":"MM",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480334,
+    "gn:latitude":17.32307,
+    "gn:longitude":96.43887,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Konpetlet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480334
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4f5abb2a71c0063634934fc0585d14f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209487115
+        }
+    ],
+    "wof:id":1209487115,
+    "wof:lastmodified":1536285601,
+    "wof:name":"Konpetlet",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.43887,
+    17.32307,
+    96.43887,
+    17.32307
+],
+  "geometry": {"coordinates":[96.43886999999999,17.32307],"type":"Point"}
+}

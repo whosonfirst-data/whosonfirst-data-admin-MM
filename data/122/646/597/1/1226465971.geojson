@@ -1,0 +1,70 @@
+{
+  "id": 1226465971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.1412,24.33133,97.1412,24.33133",
+    "geom:latitude":24.33133,
+    "geom:longitude":97.1412,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Myazedi",
+    "gn:country_code":"MM",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308036,
+    "gn:latitude":24.33133,
+    "gn:longitude":97.1412,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myazedi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308036,
+        "wk:page":"Myazedi"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e8bf9bb1705dab89a9ffa1449b923373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1226465971,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226465971,
+    "wof:lastmodified":1537568478,
+    "wof:name":"Myazedi",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.1412,
+    24.33133,
+    97.1412,
+    24.33133
+],
+  "geometry": {"coordinates":[97.1412,24.33133],"type":"Point"}
+}

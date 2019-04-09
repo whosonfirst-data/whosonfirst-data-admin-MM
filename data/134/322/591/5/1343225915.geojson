@@ -1,0 +1,67 @@
+{
+  "id": 1343225915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.64654,16.99096,96.64654,16.99096",
+    "geom:latitude":16.99096,
+    "geom:longitude":96.64654,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Takawkan",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295036,
+    "gn:latitude":16.99096,
+    "gn:longitude":96.64654,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Takawkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295036
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"818647ecb753cf1919b08c5bd9372402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1343225915,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1343225915,
+    "wof:lastmodified":1537081794,
+    "wof:name":"Takawkan",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.64654,
+    16.99096,
+    96.64654,
+    16.99096
+],
+  "geometry": {"coordinates":[96.64654,16.99096],"type":"Point"}
+}

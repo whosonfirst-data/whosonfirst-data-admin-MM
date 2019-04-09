@@ -1,0 +1,73 @@
+{
+  "id": 1259760611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.34111,19.72444,98.34111,19.72444",
+    "geom:latitude":19.72444,
+    "geom:longitude":98.34111,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Wan Pu-hpya-maue",
+    "gn:country_code":"MM",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287146,
+    "gn:latitude":19.72444,
+    "gn:longitude":98.34111,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"W\u0101n Pu-hpya-ma\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Pu-hpya-mao",
+        "W\u0101n Pu-hpya-ma\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287146
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4decfccc2f9cf67431640f973891a098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1259760611,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259760611,
+    "wof:lastmodified":1537665310,
+    "wof:name":"Wan Pu-hpya-maue",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.34111,
+    19.72444,
+    98.34111,
+    19.72444
+],
+  "geometry": {"coordinates":[98.34111,19.72444],"type":"Point"}
+}

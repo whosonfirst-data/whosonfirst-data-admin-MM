@@ -1,0 +1,70 @@
+{
+  "id": 1326616163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.00035,15.40874,98.00035,15.40874",
+    "geom:latitude":15.40874,
+    "geom:longitude":98.00035,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011006",
+    "gn:asciiname":"Minhla",
+    "gn:country_code":"MM",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309171,
+    "gn:latitude":15.40874,
+    "gn:longitude":98.00035,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Minhla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309171,
+        "wk:page":"Minhla"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bddbcd94df64eb4b4cd888a218ae5d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1326616163,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1326616163,
+    "wof:lastmodified":1537568480,
+    "wof:name":"Minhla",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.00035,
+    15.40874,
+    98.00035,
+    15.40874
+],
+  "geometry": {"coordinates":[98.00035,15.40874],"type":"Point"}
+}

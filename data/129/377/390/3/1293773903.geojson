@@ -1,0 +1,70 @@
+{
+  "id": 1293773903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.20719,19.73661,96.20719,19.73661",
+    "geom:latitude":19.73661,
+    "geom:longitude":96.20719,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Naypyidaw",
+    "gn:country_code":"MM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6545142,
+    "gn:latitude":19.73661,
+    "gn:longitude":96.20719,
+    "gn:modification_date":"2007-06-25",
+    "gn:name":"Naypyidaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nay Pyi Taw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092045099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545142
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6b21f88e359a913ed3677747d92a8383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045099,
+            "locality_id":1293773903,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1293773903,
+    "wof:lastmodified":1537665566,
+    "wof:name":"Naypyidaw",
+    "wof:parent_id":1092045099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.20719,
+    19.73661,
+    96.20719,
+    19.73661
+],
+  "geometry": {"coordinates":[96.20719,19.73661],"type":"Point"}
+}

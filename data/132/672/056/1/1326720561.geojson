@@ -1,0 +1,69 @@
+{
+  "id": 1326720561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.86044,21.13251,94.86044,21.13251",
+    "geom:latitude":21.13251,
+    "geom:longitude":94.86044,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010022",
+    "gn:asciiname":"Thiyipyitsaya",
+    "gn:country_code":"MM",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291223,
+    "gn:latitude":21.13251,
+    "gn:longitude":94.86044,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thiyipyitsaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291223
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"24cd12a395fa6a70717ec14f65b7f3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047061,
+            "locality_id":1326720561,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1326720561,
+    "wof:lastmodified":1536712933,
+    "wof:name":"Thiyipyitsaya",
+    "wof:parent_id":1092047061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.86044,
+    21.13251,
+    94.86044,
+    21.13251
+],
+  "geometry": {"coordinates":[94.86044,21.13251],"type":"Point"}
+}

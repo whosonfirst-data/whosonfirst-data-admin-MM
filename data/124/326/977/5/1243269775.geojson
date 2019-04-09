@@ -1,0 +1,69 @@
+{
+  "id": 1243269775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.83854,26.51648,97.83854,26.51648",
+    "geom:latitude":26.51648,
+    "geom:longitude":97.83854,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001015",
+    "gn:asciiname":"'Nting Uma",
+    "gn:country_code":"MM",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303927,
+    "gn:latitude":26.51648,
+    "gn:longitude":97.83854,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"\u2019Nting Uma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303927
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ba7d3dde518ae9dfc19a9b3a1b0ff097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1243269775,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243269775,
+    "wof:lastmodified":1537057628,
+    "wof:name":"'Nting Uma",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.83854,
+    26.51648,
+    97.83854,
+    26.51648
+],
+  "geometry": {"coordinates":[97.83853999999999,26.51648],"type":"Point"}
+}

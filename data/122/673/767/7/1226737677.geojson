@@ -1,0 +1,73 @@
+{
+  "id": 1226737677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.17969,21.04321,97.17969,21.04321",
+    "geom:latitude":21.04321,
+    "geom:longitude":97.17969,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014003",
+    "gn:asciiname":"Wan Ming Ak",
+    "gn:country_code":"MM",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288101,
+    "gn:latitude":21.04321,
+    "gn:longitude":97.17969,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ming Ak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Hing Ak",
+        "W\u0101n Ming Ak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288101
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3d95fb49b8fe59e36c04eb1f9ed914b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1226737677,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226737677,
+    "wof:lastmodified":1537665319,
+    "wof:name":"Wan Ming Ak",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.17969,
+    21.04321,
+    97.17969,
+    21.04321
+],
+  "geometry": {"coordinates":[97.17968999999999,21.04321],"type":"Point"}
+}

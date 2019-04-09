@@ -1,0 +1,74 @@
+{
+  "id": 1242656039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.81274,26.10672,95.81274,26.10672",
+    "geom:latitude":26.10672,
+    "geom:longitude":95.81274,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005033",
+    "gn:asciiname":"Kawala",
+    "gn:country_code":"MM",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319985,
+    "gn:latitude":26.10672,
+    "gn:longitude":95.81274,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaw\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peingu",
+        "Kaw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319985,
+        "wk:page":"Kawala%2C_Burma"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bcd405ff449b027498a863042fabc241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1242656039,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1242656039,
+    "wof:lastmodified":1537665501,
+    "wof:name":"Kawala",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.81274,
+    26.10672000000001,
+    95.81274,
+    26.10672000000001
+],
+  "geometry": {"coordinates":[95.81274000000001,26.10672000000001],"type":"Point"}
+}

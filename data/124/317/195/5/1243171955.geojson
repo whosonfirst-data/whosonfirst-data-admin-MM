@@ -1,0 +1,70 @@
+{
+  "id": 1243171955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.98428,24.07356,96.98428,24.07356",
+    "geom:latitude":24.07356,
+    "geom:longitude":96.98428,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Wapyat",
+    "gn:country_code":"MM",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286675,
+    "gn:latitude":24.07356,
+    "gn:longitude":96.98428,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wapyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286675,
+        "wk:page":"Wapyat"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"201dda8cf24ab5df994590434d677ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1243171955,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243171955,
+    "wof:lastmodified":1537568447,
+    "wof:name":"Wapyat",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.98428,
+    24.07356,
+    96.98428,
+    24.07356
+],
+  "geometry": {"coordinates":[96.98428,24.07356],"type":"Point"}
+}

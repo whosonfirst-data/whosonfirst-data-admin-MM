@@ -1,0 +1,69 @@
+{
+  "id": 1276570823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.68911,20.68998,95.68911,20.68998",
+    "geom:latitude":20.68998,
+    "geom:longitude":95.68911,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010028",
+    "gn:asciiname":"Nyaungaing",
+    "gn:country_code":"MM",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303775,
+    "gn:latitude":20.68998,
+    "gn:longitude":95.68911,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nyaungaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303775
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"15810e248e6b9f740b648a8874a1e2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1276570823,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276570823,
+    "wof:lastmodified":1536957993,
+    "wof:name":"Nyaungaing",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.68911,
+    20.68998,
+    95.68911,
+    20.68998
+],
+  "geometry": {"coordinates":[95.68911,20.68998],"type":"Point"}
+}

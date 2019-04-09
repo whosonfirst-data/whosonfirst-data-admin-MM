@@ -1,0 +1,69 @@
+{
+  "id": 1243173439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.07944,17.68575,95.07944,17.68575",
+    "geom:latitude":17.68575,
+    "geom:longitude":95.07944,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017010",
+    "gn:asciiname":"Gyogon",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325569,
+    "gn:latitude":17.68575,
+    "gn:longitude":95.07944,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gyogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325569
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d4caa68a2a44261af90dde5cb8cfd57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":1243173439,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243173439,
+    "wof:lastmodified":1536702447,
+    "wof:name":"Gyogon",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.07944,
+    17.68575,
+    95.07944,
+    17.68575
+],
+  "geometry": {"coordinates":[95.07944000000001,17.68575],"type":"Point"}
+}

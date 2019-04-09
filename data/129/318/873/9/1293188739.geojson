@@ -1,0 +1,73 @@
+{
+  "id": 1293188739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.88262,20.4928,96.88262,20.4928",
+    "geom:latitude":20.4928,
+    "geom:longitude":96.88262,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014002",
+    "gn:asciiname":"Ywama",
+    "gn:country_code":"MM",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284566,
+    "gn:latitude":20.4928,
+    "gn:longitude":96.88262,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ywama",
+    "gn:population":480,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284566,
+        "wk:page":"Ywama"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"20be9a36c46536bbaf3dc077abd54eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1293188739,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293188739,
+    "wof:lastmodified":1537568444,
+    "wof:name":"Ywama",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:population":480,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.88262,
+    20.4928,
+    96.88262,
+    20.4928
+],
+  "geometry": {"coordinates":[96.88262,20.4928],"type":"Point"}
+}

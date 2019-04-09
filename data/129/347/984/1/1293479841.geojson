@@ -1,0 +1,73 @@
+{
+  "id": 1293479841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.68698,21.58646,95.68698,21.58646",
+    "geom:latitude":21.58646,
+    "geom:longitude":95.68698,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010019",
+    "gn:asciiname":"Yonyindaw",
+    "gn:country_code":"MM",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284701,
+    "gn:latitude":21.58646,
+    "gn:longitude":95.68698,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yonyindaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yonyintaw",
+        "Yonyindaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284701
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8777cf89d98272d279d9a8ea0e52f369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1293479841,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1293479841,
+    "wof:lastmodified":1537665296,
+    "wof:name":"Yonyindaw",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.68698,
+    21.58646,
+    95.68698,
+    21.58646
+],
+  "geometry": {"coordinates":[95.68698000000001,21.58646],"type":"Point"}
+}

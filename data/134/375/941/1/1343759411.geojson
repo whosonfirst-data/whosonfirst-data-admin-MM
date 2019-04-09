@@ -1,0 +1,69 @@
+{
+  "id": 1343759411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.00233,21.87286,96.00233,21.87286",
+    "geom:latitude":21.87286,
+    "geom:longitude":96.00233,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D001",
+    "gn:admin3_code":"MMR010006",
+    "gn:asciiname":"Kawadaw",
+    "gn:country_code":"MM",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319992,
+    "gn:latitude":21.87286,
+    "gn:longitude":96.00233,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawadaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319992
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c7b180bee06c0a89510b949c14672361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046205,
+            "locality_id":1343759411,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1343759411,
+    "wof:lastmodified":1536811946,
+    "wof:name":"Kawadaw",
+    "wof:parent_id":1092046205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.00233,
+    21.87286,
+    96.00233,
+    21.87286
+],
+  "geometry": {"coordinates":[96.00233,21.87286],"type":"Point"}
+}

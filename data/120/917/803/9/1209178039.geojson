@@ -1,0 +1,63 @@
+{
+  "id": 1209178039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.08954,19.00559,96.08954,19.00559",
+    "geom:latitude":19.00559,
+    "geom:longitude":96.08954,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007009",
+    "gn:asciiname":"Kyaukpazat",
+    "gn:country_code":"MM",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316855,
+    "gn:latitude":19.00559,
+    "gn:longitude":96.08954,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukpazat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316855
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"71174522177e50b52d0e6f7a6ce27cf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209178039
+        }
+    ],
+    "wof:id":1209178039,
+    "wof:lastmodified":1536295355,
+    "wof:name":"Kyaukpazat",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.08954,
+    19.00559,
+    96.08954,
+    19.00559
+],
+  "geometry": {"coordinates":[96.08954,19.00559],"type":"Point"}
+}

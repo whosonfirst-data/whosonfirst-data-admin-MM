@@ -1,0 +1,63 @@
+{
+  "id": 1209600101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.27004,21.59068,96.27004,21.59068",
+    "geom:latitude":21.59068,
+    "geom:longitude":96.27004,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D003",
+    "gn:admin3_code":"MMR010013",
+    "gn:asciiname":"Pyaukseikpin",
+    "gn:country_code":"MM",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299214,
+    "gn:latitude":21.59068,
+    "gn:longitude":96.27004,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyaukseikpin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299214
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"57862dd1135cfc47d456505affb83fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209600101
+        }
+    ],
+    "wof:id":1209600101,
+    "wof:lastmodified":1536282196,
+    "wof:name":"Pyaukseikpin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.27004,
+    21.59068,
+    96.27004,
+    21.59068
+],
+  "geometry": {"coordinates":[96.27003999999999,21.59068],"type":"Point"}
+}

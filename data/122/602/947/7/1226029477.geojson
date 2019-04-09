@@ -1,0 +1,69 @@
+{
+  "id": 1226029477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.84082,21.30361,95.84082,21.30361",
+    "geom:latitude":21.30361,
+    "geom:longitude":95.84082,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010019",
+    "gn:asciiname":"Paukpingyauk",
+    "gn:country_code":"MM",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301096,
+    "gn:latitude":21.30361,
+    "gn:longitude":95.84082,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paukpingyauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301096
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9b6d431dd532a581f3eeb6eb353a418d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1226029477,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226029477,
+    "wof:lastmodified":1536748460,
+    "wof:name":"Paukpingyauk",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.84082,
+    21.30361,
+    95.84082,
+    21.30361
+],
+  "geometry": {"coordinates":[95.84081999999999,21.30361],"type":"Point"}
+}

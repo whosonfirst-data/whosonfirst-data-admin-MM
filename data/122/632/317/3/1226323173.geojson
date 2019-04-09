@@ -1,0 +1,69 @@
+{
+  "id": 1226323173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.84135,22.39157,98.84135,22.39157",
+    "geom:latitude":22.39157,
+    "geom:longitude":98.84135,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Man Namhtu",
+    "gn:country_code":"MM",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311077,
+    "gn:latitude":22.39157,
+    "gn:longitude":98.84135,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Namht\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311077
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c89f992f00edf1ae6f4c5921d31f0c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1226323173,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226323173,
+    "wof:lastmodified":1536821229,
+    "wof:name":"Man Namhtu",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.84135,
+    22.39157,
+    98.84135,
+    22.39157
+],
+  "geometry": {"coordinates":[98.84135000000001,22.39157],"type":"Point"}
+}

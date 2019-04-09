@@ -1,0 +1,73 @@
+{
+  "id": 1327122191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.79695,19.61932,96.79695,19.61932",
+    "geom:latitude":19.61932,
+    "geom:longitude":96.79695,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014010",
+    "gn:asciiname":"Hwakyan",
+    "gn:country_code":"MM",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322505,
+    "gn:latitude":19.61932,
+    "gn:longitude":96.79695,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hwakyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hwakan",
+        "Hwakyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322505
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6aae18e2d7b40c5685a0ed7ac3bfc2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1327122191,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327122191,
+    "wof:lastmodified":1537665515,
+    "wof:name":"Hwakyan",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.79695,
+    19.61932,
+    96.79695,
+    19.61932
+],
+  "geometry": {"coordinates":[96.79695,19.61932],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343741873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.51768,10.15267,98.51768,10.15267",
+    "geom:latitude":10.15267,
+    "geom:longitude":98.51768,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006009",
+    "gn:asciiname":"Pase Panjang",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301297,
+    "gn:latitude":10.15267,
+    "gn:longitude":98.51768,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pase Panjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301297
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"98d134964acb63e9d6722484950ef0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343741873,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343741873,
+    "wof:lastmodified":1536836671,
+    "wof:name":"Pase Panjang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.51768,
+    10.15267,
+    98.51768,
+    10.15267
+],
+  "geometry": {"coordinates":[98.51768,10.15267],"type":"Point"}
+}

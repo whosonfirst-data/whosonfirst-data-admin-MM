@@ -1,0 +1,69 @@
+{
+  "id": 1226530147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.68485,20.97582,96.68485,20.97582",
+    "geom:latitude":20.97582,
+    "geom:longitude":96.68485,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014006",
+    "gn:asciiname":"Kyauksu",
+    "gn:country_code":"MM",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316652,
+    "gn:latitude":20.97582,
+    "gn:longitude":96.68485,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyauksu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316652
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"18e28e7a39102363e6e68decdd2adbbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1226530147,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226530147,
+    "wof:lastmodified":1537019697,
+    "wof:name":"Kyauksu",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.68485,
+    20.97582,
+    96.68485,
+    20.97582
+],
+  "geometry": {"coordinates":[96.68485,20.97582],"type":"Point"}
+}

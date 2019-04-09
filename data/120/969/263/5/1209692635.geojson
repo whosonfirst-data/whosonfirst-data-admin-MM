@@ -1,0 +1,91 @@
+{
+  "id": 1209692635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.55034,9.98238,98.55034,9.98238",
+    "geom:latitude":9.98238,
+    "geom:longitude":98.55034,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006009",
+    "gn:asciiname":"Kawthoung",
+    "gn:country_code":"MM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319573,
+    "gn:latitude":9.98238,
+    "gn:longitude":98.55034,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawthoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kawthaung"
+    ],
+    "name:fra_x_preferred":[
+        "Kawthaung"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u1031\u102c\u1037\u101e\u1031\u102c\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0434\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Kawthaung"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e2a\u0e2d\u0e07"
+    ],
+    "name:und_x_variant":[
+        "Victoria Point",
+        "Pulodua",
+        "Kawthaung",
+        "Kawsong",
+        "Kau Saung",
+        "Kawsung",
+        "Kawthoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319573,
+        "wk:page":"Kawthaung"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e4eb83bbb2f3b8cea3da387b9cf7f5d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209692635
+        }
+    ],
+    "wof:id":1209692635,
+    "wof:lastmodified":1537665498,
+    "wof:name":"Kawthoung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.55034,
+    9.98238,
+    98.55034,
+    9.98238
+],
+  "geometry": {"coordinates":[98.55034000000001,9.98238],"type":"Point"}
+}

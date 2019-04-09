@@ -1,0 +1,67 @@
+{
+  "id": 1243031901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.68333,18.63333,96.68333,18.63333",
+    "geom:latitude":18.63333,
+    "geom:longitude":96.68333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wasalo",
+    "gn:country_code":"MM",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286643,
+    "gn:latitude":18.63333,
+    "gn:longitude":96.68333,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Wasalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286643
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e1f021ef226adaebae5eb4cc9dbb3a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1243031901,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1243031901,
+    "wof:lastmodified":1536906446,
+    "wof:name":"Wasalo",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.68333,
+    18.63333,
+    96.68333,
+    18.63333
+],
+  "geometry": {"coordinates":[96.68333,18.63333],"type":"Point"}
+}

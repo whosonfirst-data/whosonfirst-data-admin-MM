@@ -1,0 +1,69 @@
+{
+  "id": 1360162199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.66871,20.15369,97.66871,20.15369",
+    "geom:latitude":20.15369,
+    "geom:longitude":97.66871,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Kunhkan",
+    "gn:country_code":"MM",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317821,
+    "gn:latitude":20.15369,
+    "gn:longitude":97.66871,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunhkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317821
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"48e964af1e3b3834f6964061bb0cbf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1360162199,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360162199,
+    "wof:lastmodified":1536833477,
+    "wof:name":"Kunhkan",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.66871,
+    20.15369,
+    97.66871,
+    20.15369
+],
+  "geometry": {"coordinates":[97.66871,20.15369],"type":"Point"}
+}

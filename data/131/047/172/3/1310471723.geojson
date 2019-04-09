@@ -1,0 +1,73 @@
+{
+  "id": 1310471723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.02669,21.60633,95.02669,21.60633",
+    "geom:latitude":21.60633,
+    "geom:longitude":95.02669,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009020",
+    "gn:asciiname":"Letsegan",
+    "gn:country_code":"MM",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313853,
+    "gn:latitude":21.60633,
+    "gn:longitude":95.02669,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Letsegan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Letsagen",
+        "Letsegan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313853
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f108ebf30c98a68718267816bf62ebbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1310471723,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1310471723,
+    "wof:lastmodified":1537665462,
+    "wof:name":"Letsegan",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.02669,
+    21.60633,
+    95.02669,
+    21.60633
+],
+  "geometry": {"coordinates":[95.02669,21.60633],"type":"Point"}
+}

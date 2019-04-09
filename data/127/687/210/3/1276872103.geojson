@@ -1,0 +1,73 @@
+{
+  "id": 1276872103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.69346,25.77781,96.69346,25.77781",
+    "geom:latitude":25.77781,
+    "geom:longitude":96.69346,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Manaogahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311912,
+    "gn:latitude":25.77781,
+    "gn:longitude":96.69346,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Manaogahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manao Ga",
+        "Manaogahtawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311912
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0104ab6f627bfc338f7281f7e110346f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1276872103,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276872103,
+    "wof:lastmodified":1537665453,
+    "wof:name":"Manaogahtawng",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.69346,
+    25.77781,
+    96.69346,
+    25.77781
+],
+  "geometry": {"coordinates":[96.69346,25.77781],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1276847211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.49746,10.52503,98.49746,10.52503",
+    "geom:latitude":10.52503,
+    "geom:longitude":98.49746,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Talok Kyet Jamali",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294896,
+    "gn:latitude":10.52503,
+    "gn:longitude":98.49746,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Talok Kyet Jamali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294896
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f45de18d1bc6e3b1252b9d8b3233e075",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276847211,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276847211,
+    "wof:lastmodified":1537081745,
+    "wof:name":"Talok Kyet Jamali",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.49746,
+    10.52503,
+    98.49746,
+    10.52503
+],
+  "geometry": {"coordinates":[98.49746,10.52503],"type":"Point"}
+}

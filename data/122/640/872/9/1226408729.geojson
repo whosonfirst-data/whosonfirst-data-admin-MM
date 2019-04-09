@@ -1,0 +1,69 @@
+{
+  "id": 1226408729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.20597,17.10027,96.20597,17.10027",
+    "geom:latitude":17.10027,
+    "geom:longitude":96.20597,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Pyawbwegon",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480161,
+    "gn:latitude":17.10027,
+    "gn:longitude":96.20597,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyawbwegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480161
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"56ba5208fead49a586a7e0214a7f6b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1226408729,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1226408729,
+    "wof:lastmodified":1536699221,
+    "wof:name":"Pyawbwegon",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.20597,
+    17.10027,
+    96.20597,
+    17.10027
+],
+  "geometry": {"coordinates":[96.20596999999999,17.10027],"type":"Point"}
+}

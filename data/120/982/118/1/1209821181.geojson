@@ -1,0 +1,73 @@
+{
+  "id": 1209821181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.44094,26.74616,98.44094,26.74616",
+    "geom:latitude":26.74616,
+    "geom:longitude":98.44094,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001018",
+    "gn:asciiname":"Marang Htung",
+    "gn:country_code":"MM",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310486,
+    "gn:latitude":26.74616,
+    "gn:longitude":98.44094,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mar\u0101ng Htung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101ng Htung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310486,
+        "wk:page":"Marang_Htung"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"304b73d6091a792e9d4a4556d615dc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1209821181,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1209821181,
+    "wof:lastmodified":1537665445,
+    "wof:name":"Marang Htung",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.44094,
+    26.74616,
+    98.44094,
+    26.74616
+],
+  "geometry": {"coordinates":[98.44094,26.74616],"type":"Point"}
+}

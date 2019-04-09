@@ -1,0 +1,105 @@
+{
+  "id": 890436615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.13508,21.6056,96.13508,21.6056",
+    "geom:latitude":21.6056,
+    "geom:longitude":96.13508,
+    "gn:country":"MM",
+    "gn:fcode":"PPL",
+    "gn:pop":50480,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u044f\u0443\u043a\u0441\u0435"
+    ],
+    "name:bur_x_preferred":[
+        "\u1000\u103b\u1031\u102c\u1000\u103a\u1006\u100a\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Kyaukse"
+    ],
+    "name:chi_x_preferred":[
+        "\u768e\u514b\u897f"
+    ],
+    "name:dut_x_preferred":[
+        "Kyaukse"
+    ],
+    "name:eng_x_preferred":[
+        "Kyaukse"
+    ],
+    "name:fre_x_preferred":[
+        "Kyaukse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30a6\u30bb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0436\u0430\u0443\u0441\u0445\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Kyaukse"
+    ],
+    "name:swe_x_preferred":[
+        "Kyaukse"
+    ],
+    "name:vie_x_preferred":[
+        "Kyaukse"
+    ],
+    "qs:name":"Kyaukse",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316703,
+        "gp:id":1017517,
+        "qs:id":1031359,
+        "wd:id":"Q2246703",
+        "wk:page":"Kyaukse"
+    },
+    "wof:country":"MM",
+    "wof:created":1469052118,
+    "wof:geomhash":"36c9246bc915d3e0975a853159432c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":890436615,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":890436615,
+    "wof:lastmodified":1527735404,
+    "wof:name":"Kyaukse",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:population":50480,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.13508,
+    21.6056,
+    96.13508,
+    21.6056
+],
+  "geometry": {"coordinates":[96.13508,21.6056],"type":"Point"}
+}

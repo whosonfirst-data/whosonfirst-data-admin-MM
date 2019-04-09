@@ -1,0 +1,67 @@
+{
+  "id": 1242961883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.94688,21.74287,95.94688,21.74287",
+    "geom:latitude":21.74287,
+    "geom:longitude":95.94688,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Inya",
+    "gn:country_code":"MM",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321881,
+    "gn:latitude":21.74287,
+    "gn:longitude":95.94688,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Inya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321881
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2975338411ba2d26cd51c1a25ba3b6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1242961883,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1242961883,
+    "wof:lastmodified":1537006470,
+    "wof:name":"Inya",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.94688,
+    21.74287,
+    95.94688,
+    21.74287
+],
+  "geometry": {"coordinates":[95.94687999999999,21.74287],"type":"Point"}
+}

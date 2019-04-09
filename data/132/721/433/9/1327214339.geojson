@@ -1,0 +1,69 @@
+{
+  "id": 1327214339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.60916,21.21214,99.60916,21.21214",
+    "geom:latitude":21.21214,
+    "geom:longitude":99.60916,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016001",
+    "gn:asciiname":"Wan Hsensu Hwe-koi",
+    "gn:country_code":"MM",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289127,
+    "gn:latitude":21.21214,
+    "gn:longitude":99.60916,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsensu Hw\u00e8-koi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289127
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"020700e569f000f85007c5df0cdafd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1327214339,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327214339,
+    "wof:lastmodified":1536994948,
+    "wof:name":"Wan Hsensu Hwe-koi",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.60916,
+    21.21214,
+    99.60916,
+    21.21214
+],
+  "geometry": {"coordinates":[99.60916,21.21214],"type":"Point"}
+}

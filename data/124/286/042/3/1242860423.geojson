@@ -1,0 +1,69 @@
+{
+  "id": 1242860423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.73329,16.08795,97.73329,16.08795",
+    "geom:latitude":16.08795,
+    "geom:longitude":97.73329,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011005",
+    "gn:asciiname":"Kata",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464294,
+    "gn:latitude":16.08795,
+    "gn:longitude":97.73329,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464294
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"870e13ede34c101f97f4ebe2dc50636a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1242860423,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1242860423,
+    "wof:lastmodified":1536656393,
+    "wof:name":"Kata",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.73329,
+    16.08795,
+    97.73329,
+    16.08795
+],
+  "geometry": {"coordinates":[97.73329,16.08795],"type":"Point"}
+}

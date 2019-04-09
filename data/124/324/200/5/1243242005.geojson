@@ -1,0 +1,69 @@
+{
+  "id": 1243242005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.5782,23.93421,95.5782,23.93421",
+    "geom:latitude":23.93421,
+    "geom:longitude":95.5782,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005026",
+    "gn:asciiname":"Pinka",
+    "gn:country_code":"MM",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299973,
+    "gn:latitude":23.93421,
+    "gn:longitude":95.5782,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pinka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299973
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"444003938f796e3f5045c713071faf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1243242005,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243242005,
+    "wof:lastmodified":1537096916,
+    "wof:name":"Pinka",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.5782,
+    23.93421,
+    95.5782,
+    23.93421
+],
+  "geometry": {"coordinates":[95.5782,23.93421],"type":"Point"}
+}

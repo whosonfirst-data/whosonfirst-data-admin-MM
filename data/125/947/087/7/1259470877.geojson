@@ -1,0 +1,67 @@
+{
+  "id": 1259470877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.14182,19.74823,97.14182,19.74823",
+    "geom:latitude":19.74823,
+    "geom:longitude":97.14182,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sa-aw-daw",
+    "gn:country_code":"MM",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298668,
+    "gn:latitude":19.74823,
+    "gn:longitude":97.14182,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sa-aw-daw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298668
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0b9e5b3d941791f8d5b3844fd5c4f309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1259470877,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1259470877,
+    "wof:lastmodified":1536875991,
+    "wof:name":"Sa-aw-daw",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.14182,
+    19.74823,
+    97.14182,
+    19.74823
+],
+  "geometry": {"coordinates":[97.14182,19.74823],"type":"Point"}
+}

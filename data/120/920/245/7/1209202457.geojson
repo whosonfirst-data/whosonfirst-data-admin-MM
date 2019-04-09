@@ -1,0 +1,63 @@
+{
+  "id": 1209202457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.24943,23.20952,97.24943,23.20952",
+    "geom:latitude":23.20952,
+    "geom:longitude":97.24943,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015019",
+    "gn:asciiname":"Kungkat",
+    "gn:country_code":"MM",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317872,
+    "gn:latitude":23.20952,
+    "gn:longitude":97.24943,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kungkat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317872
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"11da3fc6a85ea593b751caa285b644ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209202457
+        }
+    ],
+    "wof:id":1209202457,
+    "wof:lastmodified":1536294562,
+    "wof:name":"Kungkat",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.24943,
+    23.20952,
+    97.24943,
+    23.20952
+],
+  "geometry": {"coordinates":[97.24943,23.20952],"type":"Point"}
+}

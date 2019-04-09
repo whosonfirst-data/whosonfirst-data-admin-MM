@@ -1,0 +1,73 @@
+{
+  "id": 1343933935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.21985,16.48635,96.21985,16.48635",
+    "geom:latitude":16.48635,
+    "geom:longitude":96.21985,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013029",
+    "gn:asciiname":"Tawpya",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293405,
+    "gn:latitude":16.48635,
+    "gn:longitude":96.21985,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawpya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawbya",
+        "Tawpya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293405
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ac17d985380e99253c376c0693924119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1343933935,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1343933935,
+    "wof:lastmodified":1537665355,
+    "wof:name":"Tawpya",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.21985,
+    16.48635,
+    96.21985,
+    16.48635
+],
+  "geometry": {"coordinates":[96.21984999999999,16.48635],"type":"Point"}
+}

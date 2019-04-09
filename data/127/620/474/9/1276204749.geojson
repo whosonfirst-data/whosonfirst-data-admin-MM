@@ -1,0 +1,69 @@
+{
+  "id": 1276204749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.15382,22.52012,95.15382,22.52012",
+    "geom:latitude":22.52012,
+    "geom:longitude":95.15382,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005013",
+    "gn:asciiname":"Kinzan",
+    "gn:country_code":"MM",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318913,
+    "gn:latitude":22.52012,
+    "gn:longitude":95.15382,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kinzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318913
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5765f0faf531fe302cdf94f3f21c9f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046719,
+            "locality_id":1276204749,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276204749,
+    "wof:lastmodified":1536951558,
+    "wof:name":"Kinzan",
+    "wof:parent_id":1092046719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.15382,
+    22.52012,
+    95.15382,
+    22.52012
+],
+  "geometry": {"coordinates":[95.15382,22.52012],"type":"Point"}
+}

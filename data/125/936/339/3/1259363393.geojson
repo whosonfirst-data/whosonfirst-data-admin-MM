@@ -1,0 +1,73 @@
+{
+  "id": 1259363393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.72565,23.70291,98.72565,23.70291",
+    "geom:latitude":23.70291,
+    "geom:longitude":98.72565,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Wan Shihfang",
+    "gn:country_code":"MM",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286997,
+    "gn:latitude":23.70291,
+    "gn:longitude":98.72565,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Shihfang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Shinfang",
+        "W\u0101n Shihfang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286997
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1cc244d9f7bf4aef686fce00cd72b5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1259363393,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259363393,
+    "wof:lastmodified":1537665308,
+    "wof:name":"Wan Shihfang",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.72565,
+    23.70291,
+    98.72565,
+    23.70291
+],
+  "geometry": {"coordinates":[98.72565,23.70291],"type":"Point"}
+}

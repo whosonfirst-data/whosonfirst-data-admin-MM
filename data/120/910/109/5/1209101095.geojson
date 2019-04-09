@@ -1,0 +1,63 @@
+{
+  "id": 1209101095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.98199,24.4656,94.98199,24.4656",
+    "geom:latitude":24.4656,
+    "geom:longitude":94.98199,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Wetkauk",
+    "gn:country_code":"MM",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286316,
+    "gn:latitude":24.4656,
+    "gn:longitude":94.98199,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wetkauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286316
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b6dc036f2ceeffc402da1c8c5ef41cd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209101095
+        }
+    ],
+    "wof:id":1209101095,
+    "wof:lastmodified":1536297730,
+    "wof:name":"Wetkauk",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.98199,
+    24.4656,
+    94.98199,
+    24.4656
+],
+  "geometry": {"coordinates":[94.98199,24.4656],"type":"Point"}
+}

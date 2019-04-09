@@ -1,0 +1,69 @@
+{
+  "id": 1243351345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.21667,22.3,99.21667,22.3",
+    "geom:latitude":22.3,
+    "geom:longitude":99.21667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Mothtai",
+    "gn:country_code":"MM",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308483,
+    "gn:latitude":22.3,
+    "gn:longitude":99.21667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mothtai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308483
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"48479bd22b40edd590c7a9ee9ea4b8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1243351345,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243351345,
+    "wof:lastmodified":1536943241,
+    "wof:name":"Mothtai",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.21667,
+    22.3,
+    99.21667,
+    22.3
+],
+  "geometry": {"coordinates":[99.21666999999999,22.3],"type":"Point"}
+}

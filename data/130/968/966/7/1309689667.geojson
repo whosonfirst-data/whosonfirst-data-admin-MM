@@ -1,0 +1,69 @@
+{
+  "id": 1309689667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.96491,21.59606,98.96491,21.59606",
+    "geom:latitude":21.59606,
+    "geom:longitude":98.96491,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016007",
+    "gn:asciiname":"Wan Umtawng",
+    "gn:country_code":"MM",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286813,
+    "gn:latitude":21.59606,
+    "gn:longitude":98.96491,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n \u016amtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286813
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"16e859794e84b967a3e84bdb068ac8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1309689667,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309689667,
+    "wof:lastmodified":1537095353,
+    "wof:name":"Wan Umtawng",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.96491,
+    21.59606,
+    98.96491,
+    21.59606
+],
+  "geometry": {"coordinates":[98.96491,21.59606],"type":"Point"}
+}

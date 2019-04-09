@@ -1,0 +1,69 @@
+{
+  "id": 1293197131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.42872,21.19678,95.42872,21.19678",
+    "geom:latitude":21.19678,
+    "geom:longitude":95.42872,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010018",
+    "gn:asciiname":"Thazi",
+    "gn:country_code":"MM",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291931,
+    "gn:latitude":21.19678,
+    "gn:longitude":95.42872,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291931
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e78f852d928cf390fe4e207c1c55d602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1293197131,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1293197131,
+    "wof:lastmodified":1536709016,
+    "wof:name":"Thazi",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.42872,
+    21.19678,
+    95.42872,
+    21.19678
+],
+  "geometry": {"coordinates":[95.42872,21.19678],"type":"Point"}
+}

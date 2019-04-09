@@ -1,0 +1,69 @@
+{
+  "id": 1310393315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.67233,20.43416,97.67233,20.43416",
+    "geom:latitude":20.43416,
+    "geom:longitude":97.67233,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Wankot",
+    "gn:country_code":"MM",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288591,
+    "gn:latitude":20.43416,
+    "gn:longitude":97.67233,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101nkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288591
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d6a290f22e7e7537119b31f32643b698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1310393315,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310393315,
+    "wof:lastmodified":1537075722,
+    "wof:name":"Wankot",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.67233,
+    20.43416,
+    97.67233,
+    20.43416
+],
+  "geometry": {"coordinates":[97.67233,20.43416],"type":"Point"}
+}

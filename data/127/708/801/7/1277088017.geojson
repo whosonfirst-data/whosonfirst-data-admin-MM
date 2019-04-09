@@ -1,0 +1,69 @@
+{
+  "id": 1277088017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.12635,19.87045,93.12635,19.87045",
+    "geom:latitude":19.87045,
+    "geom:longitude":93.12635,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D001",
+    "gn:admin3_code":"MMR012007",
+    "gn:asciiname":"Ngwarukchaung",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304243,
+    "gn:latitude":19.87045,
+    "gn:longitude":93.12635,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngwarukchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304243
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6252d2a9a859b0b9aa78738856af033d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":1277088017,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1277088017,
+    "wof:lastmodified":1536760131,
+    "wof:name":"Ngwarukchaung",
+    "wof:parent_id":1092047375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.12635,
+    19.87045,
+    93.12635,
+    19.87045
+],
+  "geometry": {"coordinates":[93.12635,19.87045],"type":"Point"}
+}

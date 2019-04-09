@@ -1,0 +1,69 @@
+{
+  "id": 1259370735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.96465,21.71191,97.96465,21.71191",
+    "geom:latitude":21.71191,
+    "geom:longitude":97.96465,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Wan Ponghawng",
+    "gn:country_code":"MM",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287159,
+    "gn:latitude":21.71191,
+    "gn:longitude":97.96465,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ponghawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287159
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cb79f19571b765c13275278fcd006083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1259370735,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259370735,
+    "wof:lastmodified":1537019770,
+    "wof:name":"Wan Ponghawng",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.96465,
+    21.71191,
+    97.96465,
+    21.71191
+],
+  "geometry": {"coordinates":[97.96465000000001,21.71191],"type":"Point"}
+}

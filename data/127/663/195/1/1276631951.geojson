@@ -1,0 +1,69 @@
+{
+  "id": 1276631951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.75627,11.5996,98.75627,11.5996",
+    "geom:latitude":11.5996,
+    "geom:longitude":98.75627,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006010",
+    "gn:asciiname":"Ahnyinzon",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329545,
+    "gn:latitude":11.5996,
+    "gn:longitude":98.75627,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ahnyinz\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329545
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1a755c143671f69436ef9389a9d6171e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1276631951,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1276631951,
+    "wof:lastmodified":1536875008,
+    "wof:name":"Ahnyinzon",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.75627,
+    11.5996,
+    98.75627,
+    11.5996
+],
+  "geometry": {"coordinates":[98.75627,11.5996],"type":"Point"}
+}

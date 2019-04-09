@@ -1,0 +1,64 @@
+{
+  "id": 1209309447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.94062,24.54128,95.94062,24.54128",
+    "geom:latitude":24.54128,
+    "geom:longitude":95.94062,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Pandaw",
+    "gn:country_code":"MM",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302187,
+    "gn:latitude":24.54128,
+    "gn:longitude":95.94062,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pandaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302187,
+        "wk:page":"Pandaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8ee93f911143c8ff2b4c757dbb58f826",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209309447
+        }
+    ],
+    "wof:id":1209309447,
+    "wof:lastmodified":1537568469,
+    "wof:name":"Pandaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.94062,
+    24.54128,
+    95.94062,
+    24.54128
+],
+  "geometry": {"coordinates":[95.94062,24.54128],"type":"Point"}
+}

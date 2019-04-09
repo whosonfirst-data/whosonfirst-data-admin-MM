@@ -1,0 +1,69 @@
+{
+  "id": 1226652915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.57632,16.51017,95.57632,16.51017",
+    "geom:latitude":16.51017,
+    "geom:longitude":95.57632,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Mayangwa",
+    "gn:country_code":"MM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309992,
+    "gn:latitude":16.51017,
+    "gn:longitude":95.57632,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mayangwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309992
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"01baf1b41e3bce914c4364c6487fc767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1226652915,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1226652915,
+    "wof:lastmodified":1536847944,
+    "wof:name":"Mayangwa",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.57632,
+    16.51017,
+    95.57632,
+    16.51017
+],
+  "geometry": {"coordinates":[95.57632,16.51017],"type":"Point"}
+}

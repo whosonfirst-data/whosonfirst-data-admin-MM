@@ -1,0 +1,69 @@
+{
+  "id": 1326608491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.53332,23.81442,96.53332,23.81442",
+    "geom:latitude":23.81442,
+    "geom:longitude":96.53332,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005020",
+    "gn:asciiname":"Payadaung",
+    "gn:country_code":"MM",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300740,
+    "gn:latitude":23.81442,
+    "gn:longitude":96.53332,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Payadaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300740
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e5527dd65eebea18e3b3c8e4e804f153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1326608491,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1326608491,
+    "wof:lastmodified":1536873167,
+    "wof:name":"Payadaung",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.53332,
+    23.81442,
+    96.53332,
+    23.81442
+],
+  "geometry": {"coordinates":[96.53332,23.81442],"type":"Point"}
+}

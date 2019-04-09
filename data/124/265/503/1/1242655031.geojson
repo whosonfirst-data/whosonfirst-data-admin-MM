@@ -1,0 +1,73 @@
+{
+  "id": 1242655031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.36879,21.16843,100.36879,21.16843",
+    "geom:latitude":21.16843,
+    "geom:longitude":100.36879,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Pa-mong",
+    "gn:country_code":"MM",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847268,
+    "gn:latitude":21.16843,
+    "gn:longitude":100.36879,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pa-mong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa-m\u00f6ng",
+        "W\u0101n Pa-mong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847268
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0547a38863d9de7e6441b9108c970eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1242655031,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242655031,
+    "wof:lastmodified":1537665557,
+    "wof:name":"Wan Pa-mong",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.36879,
+    21.16843,
+    100.36879,
+    21.16843
+],
+  "geometry": {"coordinates":[100.36879,21.16843],"type":"Point"}
+}

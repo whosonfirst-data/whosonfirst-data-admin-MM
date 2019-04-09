@@ -1,0 +1,69 @@
+{
+  "id": 1193015761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.52381,24.31689,97.52381,24.31689",
+    "geom:latitude":24.31689,
+    "geom:longitude":97.52381,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001012",
+    "gn:asciiname":"Mungji Kawng",
+    "gn:country_code":"MM",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308349,
+    "gn:latitude":24.31689,
+    "gn:longitude":97.52381,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mungji Kawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308349
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"096f209a12b63535ae6c77b9058fd7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1193015761,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1193015761,
+    "wof:lastmodified":1536378650,
+    "wof:name":"Mungji Kawng",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.52381,
+    24.31689,
+    97.52381,
+    24.31689
+],
+  "geometry": {"coordinates":[97.52381,24.31689],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344229685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.76055,20.32329,94.76055,20.32329",
+    "geom:latitude":20.32329,
+    "geom:longitude":94.76055,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009008",
+    "gn:asciiname":"Kanzwe",
+    "gn:country_code":"MM",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320286,
+    "gn:latitude":20.32329,
+    "gn:longitude":94.76055,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanzwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320286
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ac2276aa03beaa7dbe2809630073e972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1344229685,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1344229685,
+    "wof:lastmodified":1536629825,
+    "wof:name":"Kanzwe",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.76055,
+    20.32329,
+    94.76055,
+    20.32329
+],
+  "geometry": {"coordinates":[94.76054999999999,20.32329],"type":"Point"}
+}

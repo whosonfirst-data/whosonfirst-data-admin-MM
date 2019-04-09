@@ -1,0 +1,73 @@
+{
+  "id": 1226449445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.23304,17.30863,95.23304,17.30863",
+    "geom:latitude":17.30863,
+    "geom:longitude":95.23304,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017005",
+    "gn:asciiname":"Mayanyo-auk",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309972,
+    "gn:latitude":17.30863,
+    "gn:longitude":95.23304,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mayanyo-auk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayanyo",
+        "Mayanyo-auk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309972
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e71c8f14643c58faca53258601ad0c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":1226449445,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1226449445,
+    "wof:lastmodified":1537665442,
+    "wof:name":"Mayanyo-auk",
+    "wof:parent_id":1092047083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.23304,
+    17.30862999999999,
+    95.23304,
+    17.30862999999999
+],
+  "geometry": {"coordinates":[95.23304,17.30862999999999],"type":"Point"}
+}

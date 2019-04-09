@@ -1,0 +1,63 @@
+{
+  "id": 1209107397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.56414,17.29618,95.56414,17.29618",
+    "geom:latitude":17.29618,
+    "geom:longitude":95.56414,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017022",
+    "gn:asciiname":"Tamyakyun",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294751,
+    "gn:latitude":17.29618,
+    "gn:longitude":95.56414,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tamyakyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294751
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e4e6befb20cad0118e573afeac14e2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209107397
+        }
+    ],
+    "wof:id":1209107397,
+    "wof:lastmodified":1536297523,
+    "wof:name":"Tamyakyun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.56414,
+    17.29618,
+    95.56414,
+    17.29618
+],
+  "geometry": {"coordinates":[95.56413999999999,17.29618],"type":"Point"}
+}

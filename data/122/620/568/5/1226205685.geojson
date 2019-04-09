@@ -1,0 +1,69 @@
+{
+  "id": 1226205685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.09936,17.16315,96.09936,17.16315",
+    "geom:latitude":17.16315,
+    "geom:longitude":96.09936,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Bwetkon",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480114,
+    "gn:latitude":17.16315,
+    "gn:longitude":96.09936,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bwetkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480114
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6b000637635bbb7b2ab249f2e84576a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1226205685,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1226205685,
+    "wof:lastmodified":1536990674,
+    "wof:name":"Bwetkon",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.09936,
+    17.16315,
+    96.09936,
+    17.16315
+],
+  "geometry": {"coordinates":[96.09936,17.16315],"type":"Point"}
+}

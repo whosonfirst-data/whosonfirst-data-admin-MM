@@ -1,0 +1,69 @@
+{
+  "id": 1344142955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.33255,17.1269,97.33255,17.1269",
+    "geom:latitude":17.1269,
+    "geom:longitude":97.33255,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011007",
+    "gn:asciiname":"Chaungsauk",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327431,
+    "gn:latitude":17.1269,
+    "gn:longitude":97.33255,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chaungsauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327431
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c75d9a1a508cbbee03a22bebe65af1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1344142955,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1344142955,
+    "wof:lastmodified":1536756705,
+    "wof:name":"Chaungsauk",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.33255,
+    17.1269,
+    97.33255,
+    17.1269
+],
+  "geometry": {"coordinates":[97.33255,17.1269],"type":"Point"}
+}

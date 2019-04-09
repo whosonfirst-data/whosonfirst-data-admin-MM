@@ -1,0 +1,67 @@
+{
+  "id": 1209287235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.55642,19.28491,95.55642,19.28491",
+    "geom:latitude":19.28491,
+    "geom:longitude":95.55642,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009016",
+    "gn:asciiname":"Mindegon Te",
+    "gn:country_code":"MM",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309247,
+    "gn:latitude":19.28491,
+    "gn:longitude":95.55642,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mind\u00e8gon Te",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mind\u00e8gon",
+        "Mind\u00e8gon Te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309247
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"034105f2996ba3e3863235218923398c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209287235
+        }
+    ],
+    "wof:id":1209287235,
+    "wof:lastmodified":1537665437,
+    "wof:name":"Mindegon Te",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.55642,
+    19.28491,
+    95.55642,
+    19.28491
+],
+  "geometry": {"coordinates":[95.55642,19.28491],"type":"Point"}
+}

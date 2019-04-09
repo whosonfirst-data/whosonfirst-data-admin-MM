@@ -1,0 +1,61 @@
+{
+  "id": 1226736773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.45,13.36667,98.45,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":98.45,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kantu",
+    "gn:country_code":"MM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320451,
+    "gn:latitude":13.36667,
+    "gn:longitude":98.45,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kantu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320451
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9a599693b900a32a1379fd1724f17cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226736773,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226736773,
+    "wof:lastmodified":1536728877,
+    "wof:name":"Kantu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.45,
+    13.36667,
+    98.45,
+    13.36667
+],
+  "geometry": {"coordinates":[98.45,13.36667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327418581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.72629,21.11369,95.72629,21.11369",
+    "geom:latitude":21.11369,
+    "geom:longitude":95.72629,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010029",
+    "gn:asciiname":"Yondaw",
+    "gn:country_code":"MM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284727,
+    "gn:latitude":21.11369,
+    "gn:longitude":95.72629,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yondaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284727
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3bcad1ba0e8e9e3e287827e40695accd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1327418581,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1327418581,
+    "wof:lastmodified":1536701022,
+    "wof:name":"Yondaw",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.72629,
+    21.11369,
+    95.72629,
+    21.11369
+],
+  "geometry": {"coordinates":[95.72629000000001,21.11369],"type":"Point"}
+}

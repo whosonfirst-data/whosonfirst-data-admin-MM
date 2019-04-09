@@ -1,0 +1,73 @@
+{
+  "id": 1226545663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.41945,27.7186,97.41945,27.7186",
+    "geom:latitude":27.7186,
+    "geom:longitude":97.41945,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001014",
+    "gn:asciiname":"Hkyenhpa",
+    "gn:country_code":"MM",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324586,
+    "gn:latitude":27.7186,
+    "gn:longitude":97.41945,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hkyenhpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hkyenhoa",
+        "Hkyenhpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324586
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d20543afb6de37a87db651ed5c4c9ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1226545663,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226545663,
+    "wof:lastmodified":1537665526,
+    "wof:name":"Hkyenhpa",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.41945,
+    27.7186,
+    97.41945,
+    27.7186
+],
+  "geometry": {"coordinates":[97.41945,27.7186],"type":"Point"}
+}

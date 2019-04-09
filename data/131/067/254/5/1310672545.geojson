@@ -1,0 +1,74 @@
+{
+  "id": 1310672545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.73032,18.05878,96.73032,18.05878",
+    "geom:latitude":18.05878,
+    "geom:longitude":96.73032,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007005",
+    "gn:asciiname":"Wetchegon",
+    "gn:country_code":"MM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286339,
+    "gn:latitude":18.05878,
+    "gn:longitude":96.73032,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wetchegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wetkyigon",
+        "Watkyigon",
+        "Wetchegon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286339
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"33b65b72ee45172fd7d0898c3a2027cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1310672545,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1310672545,
+    "wof:lastmodified":1537665304,
+    "wof:name":"Wetchegon",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.73032,
+    18.05878,
+    96.73032,
+    18.05878
+],
+  "geometry": {"coordinates":[96.73032000000001,18.05878],"type":"Point"}
+}

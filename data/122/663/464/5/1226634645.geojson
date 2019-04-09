@@ -1,0 +1,70 @@
+{
+  "id": 1226634645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.04748,24.03296,96.04748,24.03296",
+    "geom:latitude":24.03296,
+    "geom:longitude":96.04748,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005021",
+    "gn:asciiname":"Aunggon",
+    "gn:country_code":"MM",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328826,
+    "gn:latitude":24.03296,
+    "gn:longitude":96.04748,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aunggon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328826,
+        "wk:page":"Aunggon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"684329798bca9e95b9a679acb1f8c67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1226634645,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226634645,
+    "wof:lastmodified":1537568509,
+    "wof:name":"Aunggon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.04748,
+    24.03296,
+    96.04748,
+    24.03296
+],
+  "geometry": {"coordinates":[96.04747999999999,24.03296],"type":"Point"}
+}

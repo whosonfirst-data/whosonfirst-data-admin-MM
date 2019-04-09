@@ -1,0 +1,68 @@
+{
+  "id": 1209303097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.50951,22.00526,94.50951,22.00526",
+    "geom:latitude":22.00526,
+    "geom:longitude":94.50951,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D009",
+    "gn:admin3_code":"MMR005019",
+    "gn:asciiname":"Zeittaung",
+    "gn:country_code":"MM",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284056,
+    "gn:latitude":22.00526,
+    "gn:longitude":94.50951,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zeittaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zeittawng",
+        "Zeiotawng",
+        "Zeittaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284056
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"61d5ea5f0849c55bc0506e6532091875",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209303097
+        }
+    ],
+    "wof:id":1209303097,
+    "wof:lastmodified":1537665293,
+    "wof:name":"Zeittaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.50951,
+    22.00526,
+    94.50951,
+    22.00526
+],
+  "geometry": {"coordinates":[94.50951000000001,22.00526],"type":"Point"}
+}

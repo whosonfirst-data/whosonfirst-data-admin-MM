@@ -1,0 +1,69 @@
+{
+  "id": 1276321551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.02659,20.5921,98.02659,20.5921",
+    "geom:latitude":20.5921,
+    "geom:longitude":98.02659,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Wan Hsi-hpueng",
+    "gn:country_code":"MM",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289110,
+    "gn:latitude":20.5921,
+    "gn:longitude":98.02659,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsi-hp\u00fcng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289110
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cdf04f74a7d016465fe2ab683e2f0b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1276321551,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276321551,
+    "wof:lastmodified":1536794785,
+    "wof:name":"Wan Hsi-hpueng",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.02659,
+    20.5921,
+    98.02659,
+    20.5921
+],
+  "geometry": {"coordinates":[98.02659,20.5921],"type":"Point"}
+}

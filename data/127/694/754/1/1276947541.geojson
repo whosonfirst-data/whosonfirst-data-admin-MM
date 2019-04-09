@@ -1,0 +1,69 @@
+{
+  "id": 1276947541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.55222,20.14654,94.55222,20.14654",
+    "geom:latitude":20.14654,
+    "geom:longitude":94.55222,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009007",
+    "gn:asciiname":"Tharapi",
+    "gn:country_code":"MM",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292324,
+    "gn:latitude":20.14654,
+    "gn:longitude":94.55222,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tharapi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292324
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"094761be14ff71d72edc591ef93138ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1276947541,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1276947541,
+    "wof:lastmodified":1536950937,
+    "wof:name":"Tharapi",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.55222,
+    20.14654,
+    94.55222,
+    20.14654
+],
+  "geometry": {"coordinates":[94.55222000000001,20.14654],"type":"Point"}
+}

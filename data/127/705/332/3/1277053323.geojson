@@ -1,0 +1,69 @@
+{
+  "id": 1277053323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.52809,23.06137,98.52809,23.06137",
+    "geom:latitude":23.06137,
+    "geom:longitude":98.52809,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Man Namwai",
+    "gn:country_code":"MM",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311023,
+    "gn:latitude":23.06137,
+    "gn:longitude":98.52809,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Namwai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311023
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0c4cf16b34d4dfb22581cabc99cec164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1277053323,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277053323,
+    "wof:lastmodified":1536808293,
+    "wof:name":"Man Namwai",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.52809,
+    23.06137,
+    98.52809,
+    23.06137
+],
+  "geometry": {"coordinates":[98.52809000000001,23.06137],"type":"Point"}
+}

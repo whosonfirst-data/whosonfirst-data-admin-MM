@@ -1,0 +1,69 @@
+{
+  "id": 1259768015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.39105,21.67084,95.39105,21.67084",
+    "geom:latitude":21.67084,
+    "geom:longitude":95.39105,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010017",
+    "gn:asciiname":"Zalatkon",
+    "gn:country_code":"MM",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284262,
+    "gn:latitude":21.67084,
+    "gn:longitude":95.39105,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zalatkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284262
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f050720e1628671632a443bd3e74d42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1259768015,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1259768015,
+    "wof:lastmodified":1536945874,
+    "wof:name":"Zalatkon",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.39105,
+    21.67084,
+    95.39105,
+    21.67084
+],
+  "geometry": {"coordinates":[95.39105000000001,21.67084],"type":"Point"}
+}

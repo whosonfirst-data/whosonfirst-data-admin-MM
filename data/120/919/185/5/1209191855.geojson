@@ -1,0 +1,63 @@
+{
+  "id": 1209191855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.82958,21.09516,96.82958,21.09516",
+    "geom:latitude":21.09516,
+    "geom:longitude":96.82958,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014008",
+    "gn:asciiname":"Kywedaung",
+    "gn:country_code":"MM",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315437,
+    "gn:latitude":21.09516,
+    "gn:longitude":96.82958,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kywedaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315437
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"308fdd5af989d9d92f3e17c186df778d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209191855
+        }
+    ],
+    "wof:id":1209191855,
+    "wof:lastmodified":1536294907,
+    "wof:name":"Kywedaung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.82958,
+    21.09516,
+    96.82958,
+    21.09516
+],
+  "geometry": {"coordinates":[96.82958000000001,21.09516],"type":"Point"}
+}

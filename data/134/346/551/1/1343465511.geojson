@@ -1,0 +1,73 @@
+{
+  "id": 1343465511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.38535,16.44658,95.38535,16.44658",
+    "geom:latitude":16.44658,
+    "geom:longitude":95.38535,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D004",
+    "gn:admin3_code":"MMR017018",
+    "gn:asciiname":"Myitgale",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307749,
+    "gn:latitude":16.44658,
+    "gn:longitude":95.38535,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myitgale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myitkale",
+        "Myitgale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307749
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1aef2bdceaa014beedc3a387e29b9379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045903,
+            "locality_id":1343465511,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1343465511,
+    "wof:lastmodified":1537665426,
+    "wof:name":"Myitgale",
+    "wof:parent_id":1092045903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.38535,
+    16.44657999999999,
+    95.38535,
+    16.44657999999999
+],
+  "geometry": {"coordinates":[95.38535,16.44657999999999],"type":"Point"}
+}

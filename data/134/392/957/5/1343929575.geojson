@@ -1,0 +1,69 @@
+{
+  "id": 1343929575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.50167,18.1992,96.50167,18.1992",
+    "geom:latitude":18.1992,
+    "geom:longitude":96.50167,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007006",
+    "gn:asciiname":"Gyobinyo",
+    "gn:country_code":"MM",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325595,
+    "gn:latitude":18.1992,
+    "gn:longitude":96.50167,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gyobinyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325595
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"61a58e5c620582fd1159bb5e55dac39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1343929575,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1343929575,
+    "wof:lastmodified":1537061895,
+    "wof:name":"Gyobinyo",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.50167,
+    18.1992,
+    96.50167,
+    18.1992
+],
+  "geometry": {"coordinates":[96.50167,18.1992],"type":"Point"}
+}

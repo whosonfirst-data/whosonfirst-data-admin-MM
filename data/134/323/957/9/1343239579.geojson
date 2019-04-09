@@ -1,0 +1,69 @@
+{
+  "id": 1343239579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.45329,21.13144,97.45329,21.13144",
+    "geom:latitude":21.13144,
+    "geom:longitude":97.45329,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014011",
+    "gn:asciiname":"Loi Pek Man",
+    "gn:country_code":"MM",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313317,
+    "gn:latitude":21.13144,
+    "gn:longitude":97.45329,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi Pek Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313317
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a64ad16270c8bab3147795609fb02a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1343239579,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343239579,
+    "wof:lastmodified":1537062385,
+    "wof:name":"Loi Pek Man",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.45329,
+    21.13144,
+    97.45329,
+    21.13144
+],
+  "geometry": {"coordinates":[97.45329,21.13144],"type":"Point"}
+}

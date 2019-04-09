@@ -1,0 +1,69 @@
+{
+  "id": 1209893557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.82932,22.80302,96.82932,22.80302",
+    "geom:latitude":22.80302,
+    "geom:longitude":96.82932,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Namhakmam",
+    "gn:country_code":"MM",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307142,
+    "gn:latitude":22.80302,
+    "gn:longitude":96.82932,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhakm\u00e0m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307142
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3ad2eb2a83682eec1e9bd9c0d20dd720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1209893557,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1209893557,
+    "wof:lastmodified":1536389645,
+    "wof:name":"Namhakmam",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.82932,
+    22.80302,
+    96.82932,
+    22.80302
+],
+  "geometry": {"coordinates":[96.82932,22.80302],"type":"Point"}
+}

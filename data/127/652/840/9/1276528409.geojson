@@ -1,0 +1,73 @@
+{
+  "id": 1276528409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.96227,22.73333,97.96227,22.73333",
+    "geom:latitude":22.73333,
+    "geom:longitude":97.96227,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015003",
+    "gn:asciiname":"Kunghkam",
+    "gn:country_code":"MM",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317880,
+    "gn:latitude":22.73333,
+    "gn:longitude":97.96227,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kunghkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kungkham",
+        "Kunghkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317880
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a3fbe49fbc5c2c8e0a4e6d86fc7d77c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1276528409,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276528409,
+    "wof:lastmodified":1537665488,
+    "wof:name":"Kunghkam",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.96227,
+    22.73333,
+    97.96227,
+    22.73333
+],
+  "geometry": {"coordinates":[97.96227,22.73333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243551791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.69785,19.23041,97.69785,19.23041",
+    "geom:latitude":19.23041,
+    "geom:longitude":97.69785,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002004",
+    "gn:asciiname":"Wan Hwe-mong",
+    "gn:country_code":"MM",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288894,
+    "gn:latitude":19.23041,
+    "gn:longitude":97.69785,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hw\u00e9-m\u014dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan Hwebaung",
+        "W\u0101n Hw\u00e9-m\u014dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288894
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"383d8b0ca4ef339fcc1161fcdb48ba75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1243551791,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1243551791,
+    "wof:lastmodified":1537665327,
+    "wof:name":"Wan Hwe-mong",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.69785,
+    19.23041,
+    97.69785,
+    19.23041
+],
+  "geometry": {"coordinates":[97.69785,19.23041],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326719047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.15958,23.74347,94.15958,23.74347",
+    "geom:latitude":23.74347,
+    "geom:longitude":94.15958,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D006",
+    "gn:admin3_code":"MMR005030",
+    "gn:asciiname":"Nangadeik",
+    "gn:country_code":"MM",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306190,
+    "gn:latitude":23.74347,
+    "gn:longitude":94.15958,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nangadeik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306190
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"126a56a95a873bdf402342df63556a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047447,
+            "locality_id":1326719047,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1326719047,
+    "wof:lastmodified":1536715108,
+    "wof:name":"Nangadeik",
+    "wof:parent_id":1092047447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.15958,
+    23.74347,
+    94.15958,
+    23.74347
+],
+  "geometry": {"coordinates":[94.15958000000001,23.74347],"type":"Point"}
+}

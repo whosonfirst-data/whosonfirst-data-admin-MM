@@ -1,0 +1,63 @@
+{
+  "id": 1209110639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51833,18.07583,97.51833,18.07583",
+    "geom:latitude":18.07583,
+    "geom:longitude":97.51833,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Towa",
+    "gn:country_code":"MM",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290594,
+    "gn:latitude":18.07583,
+    "gn:longitude":97.51833,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Towa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290594
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ef2ef9bc47c48e5c15239006f913f556",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209110639
+        }
+    ],
+    "wof:id":1209110639,
+    "wof:lastmodified":1536297418,
+    "wof:name":"Towa",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51833,
+    18.07583,
+    97.51833,
+    18.07583
+],
+  "geometry": {"coordinates":[97.51833000000001,18.07583],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242856391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.79541,17.89608,95.79541,17.89608",
+    "geom:latitude":17.89608,
+    "geom:longitude":95.79541,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D002",
+    "gn:admin3_code":"MMR008009",
+    "gn:asciiname":"Palegwin Taungzugyi",
+    "gn:country_code":"MM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302331,
+    "gn:latitude":17.89608,
+    "gn:longitude":95.79541,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Palegwin Taungzugyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palegwin",
+        "Palegwin Taungzugyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302331
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"79f834c7814017cd33e4b205b89c978d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":1242856391,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1242856391,
+    "wof:lastmodified":1537665400,
+    "wof:name":"Palegwin Taungzugyi",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.79541,
+    17.89607999999999,
+    95.79541,
+    17.89607999999999
+],
+  "geometry": {"coordinates":[95.79541,17.89607999999999],"type":"Point"}
+}

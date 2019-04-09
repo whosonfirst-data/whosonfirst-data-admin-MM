@@ -1,0 +1,73 @@
+{
+  "id": 1343240633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.65704,24.16852,96.65704,24.16852",
+    "geom:latitude":24.16852,
+    "geom:longitude":96.65704,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005020",
+    "gn:asciiname":"Waing Seing",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1289847,
+    "gn:latitude":24.16852,
+    "gn:longitude":96.65704,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Waing Seing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Waing Saing",
+        "Waing Seing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289847
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"947779c44bb91c187f9f448457012885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1343240633,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343240633,
+    "wof:lastmodified":1537665335,
+    "wof:name":"Waing Seing",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.65704,
+    24.16852,
+    96.65704,
+    24.16852
+],
+  "geometry": {"coordinates":[96.65703999999999,24.16852],"type":"Point"}
+}

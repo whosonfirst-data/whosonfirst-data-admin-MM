@@ -1,0 +1,69 @@
+{
+  "id": 1260060555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.34995,20.10096,97.34995,20.10096",
+    "geom:latitude":20.10096,
+    "geom:longitude":97.34995,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014004",
+    "gn:asciiname":"Hkolai",
+    "gn:country_code":"MM",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324722,
+    "gn:latitude":20.10096,
+    "gn:longitude":97.34995,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hkolai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324722
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"198eb8d146dfe7fa7f873fe110bcb973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1260060555,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260060555,
+    "wof:lastmodified":1537020226,
+    "wof:name":"Hkolai",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.34995,
+    20.10096,
+    97.34995,
+    20.10096
+],
+  "geometry": {"coordinates":[97.34995000000001,20.10096],"type":"Point"}
+}

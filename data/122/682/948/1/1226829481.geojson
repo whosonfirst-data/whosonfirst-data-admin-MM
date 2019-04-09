@@ -1,0 +1,70 @@
+{
+  "id": 1226829481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.75111,19.86306,97.75111,19.86306",
+    "geom:latitude":19.86306,
+    "geom:longitude":97.75111,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Ta-hsopteng",
+    "gn:country_code":"MM",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295106,
+    "gn:latitude":19.86306,
+    "gn:longitude":97.75111,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ta-hsopteng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295106,
+        "wk:page":"Ta-hsopteng"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7af41f33a888f550f914d6c1b26c5be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1226829481,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226829481,
+    "wof:lastmodified":1537568458,
+    "wof:name":"Ta-hsopteng",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.75111,
+    19.86306,
+    97.75111,
+    19.86306
+],
+  "geometry": {"coordinates":[97.75111,19.86306],"type":"Point"}
+}

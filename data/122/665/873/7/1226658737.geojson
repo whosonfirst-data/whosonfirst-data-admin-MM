@@ -1,0 +1,69 @@
+{
+  "id": 1226658737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.58333,22.95,93.58333,22.95",
+    "geom:latitude":22.95,
+    "geom:longitude":93.58333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004001",
+    "gn:asciiname":"Klau",
+    "gn:country_code":"MM",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318871,
+    "gn:latitude":22.95,
+    "gn:longitude":93.58333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Klau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318871
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"798245de5ee263861487a9a1ca385413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1226658737,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1226658737,
+    "wof:lastmodified":1536839638,
+    "wof:name":"Klau",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.58333,
+    22.95,
+    93.58333,
+    22.95
+],
+  "geometry": {"coordinates":[93.58333,22.95],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209403339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.86913,23.80588,95.86913,23.80588",
+    "geom:latitude":23.80588,
+    "geom:longitude":95.86913,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Indet",
+    "gn:country_code":"MM",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322161,
+    "gn:latitude":23.80588,
+    "gn:longitude":95.86913,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Indet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322161
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fff70054fd80ccee9219e59b76d65f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209403339
+        }
+    ],
+    "wof:id":1209403339,
+    "wof:lastmodified":1536288074,
+    "wof:name":"Indet",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.86913,
+    23.80588,
+    95.86913,
+    23.80588
+],
+  "geometry": {"coordinates":[95.86913,23.80588],"type":"Point"}
+}

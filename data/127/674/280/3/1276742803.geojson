@@ -1,0 +1,69 @@
+{
+  "id": 1276742803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.40002,13.53245,98.40002,13.53245",
+    "geom:latitude":13.53245,
+    "geom:longitude":98.40002,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006003",
+    "gn:asciiname":"Shitchaung",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296804,
+    "gn:latitude":13.53245,
+    "gn:longitude":98.40002,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shitchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296804
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c2b346f6589c73124c8ff2dd327f8b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1276742803,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1276742803,
+    "wof:lastmodified":1536727638,
+    "wof:name":"Shitchaung",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.40002,
+    13.53245,
+    98.40002,
+    13.53245
+],
+  "geometry": {"coordinates":[98.40002,13.53245],"type":"Point"}
+}

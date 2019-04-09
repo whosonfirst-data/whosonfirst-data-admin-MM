@@ -1,0 +1,67 @@
+{
+  "id": 1293679137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.01667,20.1,96.01667,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":96.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Toktwin",
+    "gn:country_code":"MM",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290774,
+    "gn:latitude":20.1,
+    "gn:longitude":96.01667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Toktwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290774
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1dddaccad0e2db7d3ae54b32de8a1be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1293679137,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1293679137,
+    "wof:lastmodified":1537007313,
+    "wof:name":"Toktwin",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.01667,
+    20.1,
+    96.01667,
+    20.1
+],
+  "geometry": {"coordinates":[96.01667,20.1],"type":"Point"}
+}

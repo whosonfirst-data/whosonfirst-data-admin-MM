@@ -1,0 +1,74 @@
+{
+  "id": 1259867415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.98495,22.08707,97.98495,22.08707",
+    "geom:latitude":22.08707,
+    "geom:longitude":97.98495,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Ngu-lom",
+    "gn:country_code":"MM",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304259,
+    "gn:latitude":22.08707,
+    "gn:longitude":97.98495,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngu-lom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngu-l\u00f6w",
+        "Ngu-law",
+        "Ngu-lom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304259
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9078149da658fdf2fc78275e8b18b8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1259867415,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259867415,
+    "wof:lastmodified":1537665409,
+    "wof:name":"Ngu-lom",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.98495,
+    22.08707,
+    97.98495,
+    22.08707
+],
+  "geometry": {"coordinates":[97.98495,22.08707],"type":"Point"}
+}

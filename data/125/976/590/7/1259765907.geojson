@@ -1,0 +1,69 @@
+{
+  "id": 1259765907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.39754,20.377,94.39754,20.377",
+    "geom:latitude":20.377,
+    "geom:longitude":94.39754,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009011",
+    "gn:asciiname":"Kyetyobin",
+    "gn:country_code":"MM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316040,
+    "gn:latitude":20.377,
+    "gn:longitude":94.39754,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyetyobin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316040
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6194e15914badb62842f7afcbf0fef9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1259765907,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1259765907,
+    "wof:lastmodified":1536948820,
+    "wof:name":"Kyetyobin",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.39754,
+    20.377,
+    94.39754,
+    20.377
+],
+  "geometry": {"coordinates":[94.39754000000001,20.377],"type":"Point"}
+}

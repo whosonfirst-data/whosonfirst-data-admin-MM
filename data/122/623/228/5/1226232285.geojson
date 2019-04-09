@@ -1,0 +1,69 @@
+{
+  "id": 1226232285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.18055,21.10386,95.18055,21.10386",
+    "geom:latitude":21.10386,
+    "geom:longitude":95.18055,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010022",
+    "gn:asciiname":"Oyin",
+    "gn:country_code":"MM",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302857,
+    "gn:latitude":21.10386,
+    "gn:longitude":95.18055,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Oyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302857
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5e62755ea5cff0fe27c30ef9a0f542a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047061,
+            "locality_id":1226232285,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226232285,
+    "wof:lastmodified":1536953154,
+    "wof:name":"Oyin",
+    "wof:parent_id":1092047061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.18055,
+    21.10386,
+    95.18055,
+    21.10386
+],
+  "geometry": {"coordinates":[95.18055,21.10386],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209011375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.09816,16.77544,95.09816,16.77544",
+    "geom:latitude":16.77544,
+    "geom:longitude":95.09816,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017015",
+    "gn:asciiname":"Wadaw",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289945,
+    "gn:latitude":16.77544,
+    "gn:longitude":95.09816,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wadaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289945
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3050dfaa541ef0e7b68e7b3c3a500ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209011375
+        }
+    ],
+    "wof:id":1209011375,
+    "wof:lastmodified":1536300435,
+    "wof:name":"Wadaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.09816,
+    16.77544,
+    95.09816,
+    16.77544
+],
+  "geometry": {"coordinates":[95.09815999999999,16.77544],"type":"Point"}
+}

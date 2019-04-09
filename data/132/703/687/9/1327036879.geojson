@@ -1,0 +1,67 @@
+{
+  "id": 1327036879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.84349,16.5698,95.84349,16.5698",
+    "geom:latitude":16.5698,
+    "geom:longitude":95.84349,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tanibet",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294529,
+    "gn:latitude":16.5698,
+    "gn:longitude":95.84349,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tanibet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294529
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5421a4d406d69583d523a0cca22fb897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1327036879,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1327036879,
+    "wof:lastmodified":1536753911,
+    "wof:name":"Tanibet",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.84349,
+    16.5698,
+    95.84349,
+    16.5698
+],
+  "geometry": {"coordinates":[95.84349,16.5698],"type":"Point"}
+}

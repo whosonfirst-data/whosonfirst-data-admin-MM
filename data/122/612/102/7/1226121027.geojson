@@ -1,0 +1,70 @@
+{
+  "id": 1226121027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.03202,25.08802,95.03202,25.08802",
+    "geom:latitude":25.08802,
+    "geom:longitude":95.03202,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Pebin",
+    "gn:country_code":"MM",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300544,
+    "gn:latitude":25.08802,
+    "gn:longitude":95.03202,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pebin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300544,
+        "wk:page":"Pebin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6e50a674249e1f3f38485291153f587a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1226121027,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226121027,
+    "wof:lastmodified":1537568467,
+    "wof:name":"Pebin",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.03202,
+    25.08802,
+    95.03202,
+    25.08802
+],
+  "geometry": {"coordinates":[95.03202,25.08802],"type":"Point"}
+}

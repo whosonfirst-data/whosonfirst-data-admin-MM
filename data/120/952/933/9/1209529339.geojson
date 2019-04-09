@@ -1,0 +1,63 @@
+{
+  "id": 1209529339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.0504,18.96087,94.0504,18.96087",
+    "geom:latitude":18.96087,
+    "geom:longitude":94.0504,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012016",
+    "gn:asciiname":"Pyainggyun",
+    "gn:country_code":"MM",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1299260,
+    "gn:latitude":18.96087,
+    "gn:longitude":94.0504,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyainggyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299260
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f47657b235da738c8c0558335fd7809d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209529339
+        }
+    ],
+    "wof:id":1209529339,
+    "wof:lastmodified":1536284330,
+    "wof:name":"Pyainggyun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.0504,
+    18.96087,
+    94.0504,
+    18.96087
+],
+  "geometry": {"coordinates":[94.0504,18.96087],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293479839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.04297,22.1021,96.04297,22.1021",
+    "geom:latitude":22.1021,
+    "geom:longitude":96.04297,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010009",
+    "gn:asciiname":"Kondanywathit",
+    "gn:country_code":"MM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318618,
+    "gn:latitude":22.1021,
+    "gn:longitude":96.04297,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kondanywathit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318618
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6d9b53397537235ed3c8b136f3a8d372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1293479839,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1293479839,
+    "wof:lastmodified":1536798238,
+    "wof:name":"Kondanywathit",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.04297,
+    22.1021,
+    96.04297,
+    22.1021
+],
+  "geometry": {"coordinates":[96.04297,22.1021],"type":"Point"}
+}

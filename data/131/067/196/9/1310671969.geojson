@@ -1,0 +1,69 @@
+{
+  "id": 1310671969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.66278,16.01384,97.66278,16.01384",
+    "geom:latitude":16.01384,
+    "geom:longitude":97.66278,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011004",
+    "gn:asciiname":"Kyonkadat",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315794,
+    "gn:latitude":16.01384,
+    "gn:longitude":97.66278,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyonkadat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315794
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b2aa1b6e4b4d5b4231c751de8ed47c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1310671969,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1310671969,
+    "wof:lastmodified":1536676804,
+    "wof:name":"Kyonkadat",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.66278,
+    16.01384,
+    97.66278,
+    16.01384
+],
+  "geometry": {"coordinates":[97.66278,16.01384],"type":"Point"}
+}

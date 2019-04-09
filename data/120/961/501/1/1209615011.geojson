@@ -1,0 +1,67 @@
+{
+  "id": 1209615011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.95049,25.9181,96.95049,25.9181",
+    "geom:latitude":25.9181,
+    "geom:longitude":96.95049,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001004",
+    "gn:asciiname":"Tategahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294273,
+    "gn:latitude":25.9181,
+    "gn:longitude":96.95049,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tategahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tate Ga",
+        "Tategahtawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294273
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a6b354a84bff52959ec341fa2e0dc06e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209615011
+        }
+    ],
+    "wof:id":1209615011,
+    "wof:lastmodified":1537665359,
+    "wof:name":"Tategahtawng",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.95049,
+    25.9181,
+    96.95049,
+    25.9181
+],
+  "geometry": {"coordinates":[96.95049,25.9181],"type":"Point"}
+}

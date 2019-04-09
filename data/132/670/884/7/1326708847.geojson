@@ -1,0 +1,74 @@
+{
+  "id": 1326708847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.00504,26.37879,96.00504,26.37879",
+    "geom:latitude":26.37879,
+    "geom:longitude":96.00504,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005033",
+    "gn:asciiname":"Hakon",
+    "gn:country_code":"MM",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325439,
+    "gn:latitude":26.37879,
+    "gn:longitude":96.00504,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hakon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0101sa",
+        "Hakon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325439,
+        "wk:page":"Hakon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f5514a71e6fe0b5bc4ce2abdf8be5a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1326708847,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1326708847,
+    "wof:lastmodified":1537665530,
+    "wof:name":"Hakon",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.00504,
+    26.37879,
+    96.00504,
+    26.37879
+],
+  "geometry": {"coordinates":[96.00503999999999,26.37879],"type":"Point"}
+}

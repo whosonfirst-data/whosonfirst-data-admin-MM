@@ -1,0 +1,67 @@
+{
+  "id": 1209202451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.14606,20.52614,97.14606,20.52614",
+    "geom:latitude":20.52614,
+    "geom:longitude":97.14606,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014001",
+    "gn:asciiname":"Tama Hein",
+    "gn:country_code":"MM",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294845,
+    "gn:latitude":20.52614,
+    "gn:longitude":97.14606,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tama Hein",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung Hing",
+        "Tama Hein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294845
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4386ef87eb0ee9b956173374cdc4b9e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209202451
+        }
+    ],
+    "wof:id":1209202451,
+    "wof:lastmodified":1537665361,
+    "wof:name":"Tama Hein",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.14606,
+    20.52614,
+    97.14606,
+    20.52614
+],
+  "geometry": {"coordinates":[97.14606000000001,20.52614],"type":"Point"}
+}

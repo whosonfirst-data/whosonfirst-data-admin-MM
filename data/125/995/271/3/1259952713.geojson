@@ -1,0 +1,69 @@
+{
+  "id": 1259952713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.85024,20.38462,94.85024,20.38462",
+    "geom:latitude":20.38462,
+    "geom:longitude":94.85024,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009008",
+    "gn:asciiname":"Leeinzu",
+    "gn:country_code":"MM",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314414,
+    "gn:latitude":20.38462,
+    "gn:longitude":94.85024,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Leeinzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314414
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9f1ed2295612f56fee6bbbc5f3fe51be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1259952713,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1259952713,
+    "wof:lastmodified":1536679513,
+    "wof:name":"Leeinzu",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.85024,
+    20.38462,
+    94.85024,
+    20.38462
+],
+  "geometry": {"coordinates":[94.85024,20.38462],"type":"Point"}
+}

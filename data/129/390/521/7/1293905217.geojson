@@ -1,0 +1,67 @@
+{
+  "id": 1293905217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.80389,19.2575,97.80389,19.2575",
+    "geom:latitude":19.2575,
+    "geom:longitude":97.80389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wan Sa-rai",
+    "gn:country_code":"MM",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347906,
+    "gn:latitude":19.2575,
+    "gn:longitude":97.80389,
+    "gn:modification_date":"2005-04-15",
+    "gn:name":"W\u0101n Sa-rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678555,
+        890466979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347906
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7f89218c2d9b995fa938dbea8850ae14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466979,
+            "locality_id":1293905217,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":1293905217,
+    "wof:lastmodified":1536682026,
+    "wof:name":"Wan Sa-rai",
+    "wof:parent_id":890466979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.80389,
+    19.2575,
+    97.80389,
+    19.2575
+],
+  "geometry": {"coordinates":[97.80389,19.2575],"type":"Point"}
+}

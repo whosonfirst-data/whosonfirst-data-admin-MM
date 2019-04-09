@@ -1,0 +1,61 @@
+{
+  "id": 1225953347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.36168,20.72277,92.36168,20.72277",
+    "geom:latitude":20.72277,
+    "geom:longitude":92.36168,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jaliapara",
+    "gn:country_code":"MM",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321835,
+    "gn:latitude":20.72277,
+    "gn:longitude":92.36168,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Jali\u0101p\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321835
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"75c9d25f7a559b730f26a550075ff418",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225953347,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225953347,
+    "wof:lastmodified":1536856985,
+    "wof:name":"Jaliapara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.36168,
+    20.72277,
+    92.36168,
+    20.72277
+],
+  "geometry": {"coordinates":[92.36168000000001,20.72277],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243152611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.70619,23.18553,97.70619,23.18553",
+    "geom:latitude":23.18553,
+    "geom:longitude":97.70619,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015002",
+    "gn:asciiname":"Namkum",
+    "gn:country_code":"MM",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306848,
+    "gn:latitude":23.18553,
+    "gn:longitude":97.70619,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namkum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam-Koom",
+        "Namkum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306848
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"553cc5c049c45549bf1abeee77e717c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1243152611,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243152611,
+    "wof:lastmodified":1537665422,
+    "wof:name":"Namkum",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.70619,
+    23.18553,
+    97.70619,
+    23.18553
+],
+  "geometry": {"coordinates":[97.70619000000001,23.18553],"type":"Point"}
+}

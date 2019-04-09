@@ -1,0 +1,74 @@
+{
+  "id": 1293772343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.5025,22.80673,94.5025,22.80673",
+    "geom:latitude":22.80673,
+    "geom:longitude":94.5025,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005029",
+    "gn:asciiname":"Auk Satha",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328907,
+    "gn:latitude":22.80673,
+    "gn:longitude":94.5025,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Auk Satha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satha",
+        "Auk Satha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328907,
+        "wk:page":"Auk_Satha"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c792996aaf471599a70e3b53067ec625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1293772343,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293772343,
+    "wof:lastmodified":1537665549,
+    "wof:name":"Auk Satha",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.5025,
+    22.80673,
+    94.5025,
+    22.80673
+],
+  "geometry": {"coordinates":[94.5025,22.80673],"type":"Point"}
+}

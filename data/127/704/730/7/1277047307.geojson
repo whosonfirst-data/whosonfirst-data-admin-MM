@@ -1,0 +1,69 @@
+{
+  "id": 1277047307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.13311,19.24785,96.13311,19.24785",
+    "geom:latitude":19.24785,
+    "geom:longitude":96.13311,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007010",
+    "gn:asciiname":"Lonyan",
+    "gn:country_code":"MM",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312998,
+    "gn:latitude":19.24785,
+    "gn:longitude":96.13311,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lonyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312998
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"943acf4b4d3825bb66925d399141476d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1277047307,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1277047307,
+    "wof:lastmodified":1536815987,
+    "wof:name":"Lonyan",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.13311,
+    19.24785,
+    96.13311,
+    19.24785
+],
+  "geometry": {"coordinates":[96.13311,19.24785],"type":"Point"}
+}

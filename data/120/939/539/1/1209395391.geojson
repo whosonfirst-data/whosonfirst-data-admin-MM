@@ -1,0 +1,63 @@
+{
+  "id": 1209395391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.0517,22.02724,98.0517,22.02724",
+    "geom:latitude":22.02724,
+    "geom:longitude":98.0517,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Kai-hpoek",
+    "gn:country_code":"MM",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321489,
+    "gn:latitude":22.02724,
+    "gn:longitude":98.0517,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kai-hp\u00f6k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321489
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"20e469f2d61b906afab1970223c73454",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209395391
+        }
+    ],
+    "wof:id":1209395391,
+    "wof:lastmodified":1536288319,
+    "wof:name":"Kai-hpoek",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.0517,
+    22.02724,
+    98.0517,
+    22.02724
+],
+  "geometry": {"coordinates":[98.0517,22.02724],"type":"Point"}
+}

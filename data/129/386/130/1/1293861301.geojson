@@ -1,0 +1,73 @@
+{
+  "id": 1293861301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.38581,21.15465,100.38581,21.15465",
+    "geom:latitude":21.15465,
+    "geom:longitude":100.38581,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Yangpung",
+    "gn:country_code":"MM",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847077,
+    "gn:latitude":21.15465,
+    "gn:longitude":100.38581,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Y\u0101ngp\u016bng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u0101ngpung",
+        "W\u0101n Y\u0101ngp\u016bng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847077
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0db77c170a526ef665ddd9271c78557a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1293861301,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293861301,
+    "wof:lastmodified":1537665554,
+    "wof:name":"Wan Yangpung",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.38581,
+    21.15465,
+    100.38581,
+    21.15465
+],
+  "geometry": {"coordinates":[100.38581000000001,21.15465],"type":"Point"}
+}

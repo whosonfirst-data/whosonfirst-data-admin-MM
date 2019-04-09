@@ -1,0 +1,63 @@
+{
+  "id": 1209693433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.03158,19.92191,97.03158,19.92191",
+    "geom:latitude":19.92191,
+    "geom:longitude":97.03158,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014010",
+    "gn:asciiname":"Moenghkun",
+    "gn:country_code":"MM",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1308728,
+    "gn:latitude":19.92191,
+    "gn:longitude":97.03158,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00f6nghkun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308728
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fd47da592e80a697c67e36224dade486",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209693433
+        }
+    ],
+    "wof:id":1209693433,
+    "wof:lastmodified":1536279159,
+    "wof:name":"Moenghkun",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.03158,
+    19.92191,
+    97.03158,
+    19.92191
+],
+  "geometry": {"coordinates":[97.03158000000001,19.92191],"type":"Point"}
+}

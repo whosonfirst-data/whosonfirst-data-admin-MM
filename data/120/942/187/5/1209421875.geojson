@@ -1,0 +1,63 @@
+{
+  "id": 1209421875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.47612,16.79688,95.47612,16.79688",
+    "geom:latitude":16.79688,
+    "geom:longitude":95.47612,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D005",
+    "gn:admin3_code":"MMR017019",
+    "gn:asciiname":"Aukton",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328879,
+    "gn:latitude":16.79688,
+    "gn:longitude":95.47612,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aukton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328879
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"38c699d1d1383aaafdb9a4f9a368901d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209421875
+        }
+    ],
+    "wof:id":1209421875,
+    "wof:lastmodified":1536287504,
+    "wof:name":"Aukton",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.47612,
+    16.796879999999998,
+    95.47612,
+    16.796879999999998
+],
+  "geometry": {"coordinates":[95.47611999999999,16.79688],"type":"Point"}
+}

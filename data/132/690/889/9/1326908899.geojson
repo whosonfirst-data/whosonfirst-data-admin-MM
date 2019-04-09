@@ -1,0 +1,70 @@
+{
+  "id": 1326908899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.25289,22.40243,95.25289,22.40243",
+    "geom:latitude":22.40243,
+    "geom:longitude":95.25289,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D003",
+    "gn:admin3_code":"MMR005013",
+    "gn:asciiname":"Aingma",
+    "gn:country_code":"MM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329469,
+    "gn:latitude":22.40243,
+    "gn:longitude":95.25289,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Aingma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329469,
+        "wk:page":"Aingma"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d46ca902630b41c2b5bbbdb0c3fbc33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046719,
+            "locality_id":1326908899,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1326908899,
+    "wof:lastmodified":1537568510,
+    "wof:name":"Aingma",
+    "wof:parent_id":1092046719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.25289,
+    22.40243,
+    95.25289,
+    22.40243
+],
+  "geometry": {"coordinates":[95.25288999999999,22.40243],"type":"Point"}
+}

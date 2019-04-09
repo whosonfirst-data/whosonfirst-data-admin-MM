@@ -1,0 +1,70 @@
+{
+  "id": 1226530821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.42348,23.06352,94.42348,23.06352",
+    "geom:latitude":23.06352,
+    "geom:longitude":94.42348,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005029",
+    "gn:asciiname":"Kywe",
+    "gn:country_code":"MM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315466,
+    "gn:latitude":23.06352,
+    "gn:longitude":94.42348,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kywe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315466,
+        "wk:page":"Kywe"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8d3da5ae1db84458a14b1f8937051000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1226530821,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226530821,
+    "wof:lastmodified":1537568491,
+    "wof:name":"Kywe",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.42348,
+    23.06352,
+    94.42348,
+    23.06352
+],
+  "geometry": {"coordinates":[94.42348,23.06352],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209220397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.93479,23.85477,96.93479,23.85477",
+    "geom:latitude":23.85477,
+    "geom:longitude":96.93479,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Ngamu",
+    "gn:country_code":"MM",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304582,
+    "gn:latitude":23.85477,
+    "gn:longitude":96.93479,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngamu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304582,
+        "wk:page":"Ngamu"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cb2c79f1b58c9321cfdc9ede96126ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209220397
+        }
+    ],
+    "wof:id":1209220397,
+    "wof:lastmodified":1537568472,
+    "wof:name":"Ngamu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.93479,
+    23.85477,
+    96.93479,
+    23.85477
+],
+  "geometry": {"coordinates":[96.93479000000001,23.85477],"type":"Point"}
+}

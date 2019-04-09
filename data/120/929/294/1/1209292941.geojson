@@ -1,0 +1,63 @@
+{
+  "id": 1209292941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.35224,22.81081,95.35224,22.81081",
+    "geom:latitude":22.81081,
+    "geom:longitude":95.35224,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005009",
+    "gn:asciiname":"Kubyu",
+    "gn:country_code":"MM",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318044,
+    "gn:latitude":22.81081,
+    "gn:longitude":95.35224,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kubyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318044
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"13e9fc2b505e5bb4c460ef4b6c5c5ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209292941
+        }
+    ],
+    "wof:id":1209292941,
+    "wof:lastmodified":1536291630,
+    "wof:name":"Kubyu",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.35224,
+    22.81081,
+    95.35224,
+    22.81081
+],
+  "geometry": {"coordinates":[95.35223999999999,22.81081],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243257603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.79871,24.37592,94.79871,24.37592",
+    "geom:latitude":24.37592,
+    "geom:longitude":94.79871,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Zinbyungon",
+    "gn:country_code":"MM",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283817,
+    "gn:latitude":24.37592,
+    "gn:longitude":94.79871,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zinbyungon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zibyungon",
+        "Zinbyungon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092046361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283817
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e6af5db49b2930105a7227b55244f342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046361,
+            "locality_id":1243257603,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243257603,
+    "wof:lastmodified":1537665291,
+    "wof:name":"Zinbyungon",
+    "wof:parent_id":1092046361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.79871,
+    24.37592,
+    94.79871,
+    24.37592
+],
+  "geometry": {"coordinates":[94.79871,24.37592],"type":"Point"}
+}

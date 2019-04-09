@@ -1,0 +1,63 @@
+{
+  "id": 1209395381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.68318,20.05468,98.68318,20.05468",
+    "geom:latitude":20.05468,
+    "geom:longitude":98.68318,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D002",
+    "gn:admin3_code":"MMR016008",
+    "gn:asciiname":"Wan Pu-mao",
+    "gn:country_code":"MM",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287131,
+    "gn:latitude":20.05468,
+    "gn:longitude":98.68318,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pu-mao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287131
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"57ccb7020c6f66ce014477b7527c7192",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209395381
+        }
+    ],
+    "wof:id":1209395381,
+    "wof:lastmodified":1536288319,
+    "wof:name":"Wan Pu-mao",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.68318,
+    20.05468,
+    98.68318,
+    20.05468
+],
+  "geometry": {"coordinates":[98.68317999999999,20.05468],"type":"Point"}
+}

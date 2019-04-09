@@ -1,0 +1,69 @@
+{
+  "id": 1243534089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.59753,12.24176,98.59753,12.24176",
+    "geom:latitude":12.24176,
+    "geom:longitude":98.59753,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006006",
+    "gn:asciiname":"Taungyagyi",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293677,
+    "gn:latitude":12.24176,
+    "gn:longitude":98.59753,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungyagyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293677
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"23f82609cb4babe3ba4b71cc31d100b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1243534089,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1243534089,
+    "wof:lastmodified":1536679251,
+    "wof:name":"Taungyagyi",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.59753,
+    12.24176,
+    98.59753,
+    12.24176
+],
+  "geometry": {"coordinates":[98.59753000000001,12.24176],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309994583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.77725,25.08621,94.77725,25.08621",
+    "geom:latitude":25.08621,
+    "geom:longitude":94.77725,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005035",
+    "gn:asciiname":"Yowpi",
+    "gn:country_code":"MM",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284683,
+    "gn:latitude":25.08621,
+    "gn:longitude":94.77725,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yowpi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284683
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"02bca5a0364cf3fc9f47e312123dd1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1309994583,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1309994583,
+    "wof:lastmodified":1536659149,
+    "wof:name":"Yowpi",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.77725,
+    25.08621,
+    94.77725,
+    25.08621
+],
+  "geometry": {"coordinates":[94.77725,25.08621],"type":"Point"}
+}

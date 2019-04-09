@@ -1,0 +1,74 @@
+{
+  "id": 1243227597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.50873,18.37623,96.50873,18.37623",
+    "geom:latitude":18.37623,
+    "geom:longitude":96.50873,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007012",
+    "gn:asciiname":"Seiktangin",
+    "gn:country_code":"MM",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297470,
+    "gn:latitude":18.37623,
+    "gn:longitude":96.50873,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Seiktangin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaiktan-gyin",
+        "Saiktangin",
+        "Seiktangin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297470
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c4432ffcb0f23fb45502f095b59d861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1243227597,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1243227597,
+    "wof:lastmodified":1537665376,
+    "wof:name":"Seiktangin",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.50873,
+    18.37623,
+    96.50873,
+    18.37623
+],
+  "geometry": {"coordinates":[96.50873,18.37623],"type":"Point"}
+}

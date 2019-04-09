@@ -1,0 +1,73 @@
+{
+  "id": 1242565415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.88365,21.85203,99.88365,21.85203",
+    "geom:latitude":21.85203,
+    "geom:longitude":99.88365,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016003",
+    "gn:asciiname":"Wan Yangnguen",
+    "gn:country_code":"MM",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286723,
+    "gn:latitude":21.85203,
+    "gn:longitude":99.88365,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Yangng\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangng\u00fcn",
+        "W\u0101n Yangng\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286723
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1155dfe70731444d265d4cfa82ef68b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1242565415,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242565415,
+    "wof:lastmodified":1537665305,
+    "wof:name":"Wan Yangnguen",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.88365,
+    21.85203,
+    99.88365,
+    21.85203
+],
+  "geometry": {"coordinates":[99.88365,21.85203],"type":"Point"}
+}

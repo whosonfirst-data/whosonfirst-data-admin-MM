@@ -1,0 +1,74 @@
+{
+  "id": 1225857521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.43333,23.85,93.43333,23.85",
+    "geom:latitude":23.85,
+    "geom:longitude":93.43333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D001",
+    "gn:admin3_code":"MMR004005",
+    "gn:asciiname":"Tuimui",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290518,
+    "gn:latitude":23.85,
+    "gn:longitude":93.43333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tuimui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuimu",
+        "Tuimui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290518
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"120f03fa6c7dafc0164420038ee9293b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045149,
+            "locality_id":1225857521,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1225857521,
+    "wof:lastmodified":1537665338,
+    "wof:name":"Tuimui",
+    "wof:parent_id":1092045149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.43333,
+    23.85,
+    93.43333,
+    23.85
+],
+  "geometry": {"coordinates":[93.43333,23.85],"type":"Point"}
+}

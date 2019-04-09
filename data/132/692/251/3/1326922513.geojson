@@ -1,0 +1,73 @@
+{
+  "id": 1326922513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.13189,19.55158,97.13189,19.55158",
+    "geom:latitude":19.55158,
+    "geom:longitude":97.13189,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Naungpale",
+    "gn:country_code":"MM",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305493,
+    "gn:latitude":19.55158,
+    "gn:longitude":97.13189,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naungpale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawngpa Lai",
+        "Naungpale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305493
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6e6a4024e2f8e1f179ba12c8c1038a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1326922513,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1326922513,
+    "wof:lastmodified":1537665415,
+    "wof:name":"Naungpale",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.13189,
+    19.55158,
+    97.13189,
+    19.55158
+],
+  "geometry": {"coordinates":[97.13189,19.55158],"type":"Point"}
+}

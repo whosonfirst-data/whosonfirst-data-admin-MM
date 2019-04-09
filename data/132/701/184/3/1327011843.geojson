@@ -1,0 +1,69 @@
+{
+  "id": 1327011843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.69685,17.20856,96.69685,17.20856",
+    "geom:latitude":17.20856,
+    "geom:longitude":96.69685,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007002",
+    "gn:asciiname":"Lunbye-athin",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312882,
+    "gn:latitude":17.20856,
+    "gn:longitude":96.69685,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lunbye-athin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312882
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ebc498981d6f1e1daec34ce415016037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1327011843,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1327011843,
+    "wof:lastmodified":1536790575,
+    "wof:name":"Lunbye-athin",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.69685,
+    17.20856,
+    96.69685,
+    17.20856
+],
+  "geometry": {"coordinates":[96.69685,17.20856],"type":"Point"}
+}

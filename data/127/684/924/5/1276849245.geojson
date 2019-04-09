@@ -1,0 +1,73 @@
+{
+  "id": 1276849245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.28654,22.56101,95.28654,22.56101",
+    "geom:latitude":22.56101,
+    "geom:longitude":95.28654,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005010",
+    "gn:asciiname":"Gaungzu",
+    "gn:country_code":"MM",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325960,
+    "gn:latitude":22.56101,
+    "gn:longitude":95.28654,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gaungzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaungsu",
+        "Gaungzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325960
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a8172586f27f68fe7618a4925ea01cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1276849245,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276849245,
+    "wof:lastmodified":1537665533,
+    "wof:name":"Gaungzu",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.28654,
+    22.56101,
+    95.28654,
+    22.56101
+],
+  "geometry": {"coordinates":[95.28654,22.56101],"type":"Point"}
+}

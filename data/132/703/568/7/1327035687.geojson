@@ -1,0 +1,73 @@
+{
+  "id": 1327035687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.34838,26.95157,96.34838,26.95157",
+    "geom:latitude":26.95157,
+    "geom:longitude":96.34838,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001004",
+    "gn:asciiname":"Gedu Ga",
+    "gn:country_code":"MM",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325934,
+    "gn:latitude":26.95157,
+    "gn:longitude":96.34838,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gedu Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langshing",
+        "Gedu Ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325934
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9ff400c86628154539ecf568aef1f323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1327035687,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327035687,
+    "wof:lastmodified":1537665533,
+    "wof:name":"Gedu Ga",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.34838,
+    26.95157,
+    96.34838,
+    26.95157
+],
+  "geometry": {"coordinates":[96.34838000000001,26.95157],"type":"Point"}
+}

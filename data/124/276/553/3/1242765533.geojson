@@ -1,0 +1,73 @@
+{
+  "id": 1242765533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.65537,21.18605,100.65537,21.18605",
+    "geom:latitude":21.18605,
+    "geom:longitude":100.65537,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Hpya Hkuenmoeng",
+    "gn:country_code":"MM",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847613,
+    "gn:latitude":21.18605,
+    "gn:longitude":100.65537,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hpya Hk\u00fcnm\u00f6ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpya Hk\u00fcnm\u00f6ng",
+        "W\u0101n Hpya Hk\u00fcnm\u00f6ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847613
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"981877b02387a8bc8a9c8ce08b994229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1242765533,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242765533,
+    "wof:lastmodified":1537665563,
+    "wof:name":"Wan Hpya Hkuenmoeng",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.65537,
+    21.18605,
+    100.65537,
+    21.18605
+],
+  "geometry": {"coordinates":[100.65537,21.18605],"type":"Point"}
+}

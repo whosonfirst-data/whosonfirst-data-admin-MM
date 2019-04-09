@@ -1,0 +1,70 @@
+{
+  "id": 1327339191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.26461,25.75461,98.26461,25.75461",
+    "geom:latitude":25.75461,
+    "geom:longitude":98.26461,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Luchang",
+    "gn:country_code":"MM",
+    "gn:dem":1990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312956,
+    "gn:latitude":25.75461,
+    "gn:longitude":98.26461,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Luchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312956,
+        "wk:page":"Luchang"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"29a232e3dd54e33f791f9095c37922c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1327339191,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327339191,
+    "wof:lastmodified":1537568486,
+    "wof:name":"Luchang",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.26461,
+    25.75461,
+    98.26461,
+    25.75461
+],
+  "geometry": {"coordinates":[98.26461,25.75461],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293587877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.20798,18.48221,97.20798,18.48221",
+    "geom:latitude":18.48221,
+    "geom:longitude":97.20798,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Hawtuta",
+    "gn:country_code":"MM",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325278,
+    "gn:latitude":18.48221,
+    "gn:longitude":97.20798,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hawtuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hawtula",
+        "Hawtulo",
+        "Hawtuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325278
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"407e005e020dd0df4da5b9d3dbbeb44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1293587877,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1293587877,
+    "wof:lastmodified":1537665529,
+    "wof:name":"Hawtuta",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.20798,
+    18.48221,
+    97.20798,
+    18.48221
+],
+  "geometry": {"coordinates":[97.20798000000001,18.48221],"type":"Point"}
+}

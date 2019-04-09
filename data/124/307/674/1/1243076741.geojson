@@ -1,0 +1,69 @@
+{
+  "id": 1243076741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.22894,21.21323,92.22894,21.21323",
+    "geom:latitude":21.21323,
+    "geom:longitude":92.22894,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D002",
+    "gn:admin3_code":"MMR012009",
+    "gn:asciiname":"Baukala",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6416860,
+    "gn:latitude":21.21323,
+    "gn:longitude":92.22894,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Baukala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6416860
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e4588a56eb1892833d53bae36cdb50d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046317,
+            "locality_id":1243076741,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1243076741,
+    "wof:lastmodified":1536840335,
+    "wof:name":"Baukala",
+    "wof:parent_id":1092046317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.22894,
+    21.21323,
+    92.22894,
+    21.21323
+],
+  "geometry": {"coordinates":[92.22893999999999,21.21323],"type":"Point"}
+}

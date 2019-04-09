@@ -1,0 +1,77 @@
+{
+  "id": 421170211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.72935,16.76428,94.72935,16.76428",
+    "geom:latitude":16.76428,
+    "geom:longitude":94.72935,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1312375,
+    "qs:gn_pop":0,
+    "qs:name":"Mahabawdi",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Ayeyarwady",
+    "qs:photos":185,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229219,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":994285,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1092047083,
+        85674585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312375,
+        "gp:id":994285,
+        "qs:id":229219
+    },
+    "wof:country":"MM",
+    "wof:created":1459008842,
+    "wof:geomhash":"cd53547ecd10c5a8480bdde015b58b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047083,
+            "locality_id":-1,
+            "neighbourhood_id":421170211,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":421170211,
+    "wof:lastmodified":1531858342,
+    "wof:name":"Mahabawdi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.72935,
+    16.76428,
+    94.72935,
+    16.76428
+],
+  "geometry": {"coordinates":[94.72935,16.76428],"type":"Point"}
+}

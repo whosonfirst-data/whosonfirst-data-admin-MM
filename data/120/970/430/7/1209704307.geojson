@@ -1,0 +1,69 @@
+{
+  "id": 1209704307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.1246,22.05018,95.1246,22.05018",
+    "geom:latitude":22.05018,
+    "geom:longitude":95.1246,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D009",
+    "gn:admin3_code":"MMR005018",
+    "gn:asciiname":"Ton",
+    "gn:country_code":"MM",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290765,
+    "gn:latitude":22.05018,
+    "gn:longitude":95.1246,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290765
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"080a52a60417ced9a7ad43627fa808fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047961,
+            "locality_id":1209704307,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209704307,
+    "wof:lastmodified":1536393555,
+    "wof:name":"Ton",
+    "wof:parent_id":1092047961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.1246,
+    22.05018,
+    95.1246,
+    22.05018
+],
+  "geometry": {"coordinates":[95.1246,22.05018],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343249895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.7401,20.01378,97.7401,20.01378",
+    "geom:latitude":20.01378,
+    "geom:longitude":97.7401,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Wan Sa-lawng",
+    "gn:country_code":"MM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287055,
+    "gn:latitude":20.01378,
+    "gn:longitude":97.7401,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Sa-lawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salawng",
+        "W\u0101n Sa-lawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287055
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c48c3b81c5922b29aa13e7ab2eee2073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1343249895,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343249895,
+    "wof:lastmodified":1537665309,
+    "wof:name":"Wan Sa-lawng",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.7401,
+    20.01378,
+    97.7401,
+    20.01378
+],
+  "geometry": {"coordinates":[97.7401,20.01378],"type":"Point"}
+}

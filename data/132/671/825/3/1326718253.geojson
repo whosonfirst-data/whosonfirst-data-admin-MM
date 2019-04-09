@@ -1,0 +1,69 @@
+{
+  "id": 1326718253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.6016,22.38781,98.6016,22.38781",
+    "geom:latitude":22.38781,
+    "geom:longitude":98.6016,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Man-kao-long",
+    "gn:country_code":"MM",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311551,
+    "gn:latitude":22.38781,
+    "gn:longitude":98.6016,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n-kao-l\u014dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311551
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f212991177d63f407df5b5854766328d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1326718253,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326718253,
+    "wof:lastmodified":1536716269,
+    "wof:name":"Man-kao-long",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.6016,
+    22.38781,
+    98.6016,
+    22.38781
+],
+  "geometry": {"coordinates":[98.6016,22.38781],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344141631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.67791,23.67826,95.67791,23.67826",
+    "geom:latitude":23.67826,
+    "geom:longitude":95.67791,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nyaungbingyikon",
+    "gn:country_code":"MM",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8433642,
+    "gn:latitude":23.67826,
+    "gn:longitude":95.67791,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Nyaungbingyikon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8433642
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d48b846d5aa9211d009b31f9a21422ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1344141631,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1344141631,
+    "wof:lastmodified":1536758657,
+    "wof:name":"Nyaungbingyikon",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.67791,
+    23.67826,
+    95.67791,
+    23.67826
+],
+  "geometry": {"coordinates":[95.67791,23.67826],"type":"Point"}
+}

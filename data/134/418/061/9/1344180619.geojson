@@ -1,0 +1,73 @@
+{
+  "id": 1344180619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.96082,27.1323,97.96082,27.1323",
+    "geom:latitude":27.1323,
+    "geom:longitude":97.96082,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001016",
+    "gn:asciiname":"'Nga Tingsa",
+    "gn:country_code":"MM",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304410,
+    "gn:latitude":27.1323,
+    "gn:longitude":97.96082,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"\u2019Nga Tingsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2019Nga Tingsa",
+        "Nga Tingsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304410
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0a95852fbd2ea31dd4614a66fd73f93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1344180619,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1344180619,
+    "wof:lastmodified":1537665410,
+    "wof:name":"'Nga Tingsa",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.96082,
+    27.1323,
+    97.96082,
+    27.1323
+],
+  "geometry": {"coordinates":[97.96082,27.1323],"type":"Point"}
+}

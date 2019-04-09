@@ -1,0 +1,69 @@
+{
+  "id": 1209703583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.53698,21.27196,100.53698,21.27196",
+    "geom:latitude":21.27196,
+    "geom:longitude":100.53698,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Namhsa-ling",
+    "gn:country_code":"MM",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847343,
+    "gn:latitude":21.27196,
+    "gn:longitude":100.53698,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Namhsa-ling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847343
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"707ae2fd8d8a2cc11e60a497b5892747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1209703583,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1209703583,
+    "wof:lastmodified":1536393867,
+    "wof:name":"Wan Namhsa-ling",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53698,
+    21.27196,
+    100.53698,
+    21.27196
+],
+  "geometry": {"coordinates":[100.53698,21.27196],"type":"Point"}
+}

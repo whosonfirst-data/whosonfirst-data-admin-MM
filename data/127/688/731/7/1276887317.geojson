@@ -1,0 +1,67 @@
+{
+  "id": 1276887317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.79101,19.90395,93.79101,19.90395",
+    "geom:latitude":19.90395,
+    "geom:longitude":93.79101,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sinudeik",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295932,
+    "gn:latitude":19.90395,
+    "gn:longitude":93.79101,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sinudeik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295932
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5a8ada32e0fd75781e078d57d6dae1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1276887317,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1276887317,
+    "wof:lastmodified":1537029801,
+    "wof:name":"Sinudeik",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.79101,
+    19.90395,
+    93.79101,
+    19.90395
+],
+  "geometry": {"coordinates":[93.79101,19.90395],"type":"Point"}
+}

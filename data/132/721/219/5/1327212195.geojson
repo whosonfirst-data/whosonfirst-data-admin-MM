@@ -1,0 +1,70 @@
+{
+  "id": 1327212195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.04112,23.11256,94.04112,23.11256",
+    "geom:latitude":23.11256,
+    "geom:longitude":94.04112,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Htoma Myauk",
+    "gn:country_code":"MM",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322614,
+    "gn:latitude":23.11256,
+    "gn:longitude":94.04112,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htoma Myauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322614,
+        "wk:page":"Htoma_Myauk"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6ff741e3f034604c4d523dd68e232fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1327212195,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1327212195,
+    "wof:lastmodified":1537568501,
+    "wof:name":"Htoma Myauk",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.04112,
+    23.11256,
+    94.04112,
+    23.11256
+],
+  "geometry": {"coordinates":[94.04112000000001,23.11256],"type":"Point"}
+}

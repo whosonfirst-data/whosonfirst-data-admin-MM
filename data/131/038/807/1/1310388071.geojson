@@ -1,0 +1,69 @@
+{
+  "id": 1310388071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.65,21.35,94.65,21.35",
+    "geom:latitude":21.35,
+    "geom:longitude":94.65,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009021",
+    "gn:asciiname":"Toksu",
+    "gn:country_code":"MM",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290778,
+    "gn:latitude":21.35,
+    "gn:longitude":94.65,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Toksu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290778
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"92df4e05d53a69e78c88d7b7960d78a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047065,
+            "locality_id":1310388071,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1310388071,
+    "wof:lastmodified":1537083211,
+    "wof:name":"Toksu",
+    "wof:parent_id":1092047065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.65,
+    21.35,
+    94.65,
+    21.35
+],
+  "geometry": {"coordinates":[94.65000000000001,21.35],"type":"Point"}
+}

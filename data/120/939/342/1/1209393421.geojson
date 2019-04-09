@@ -1,0 +1,64 @@
+{
+  "id": 1209393421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.93891,24.80673,94.93891,24.80673",
+    "geom:latitude":24.80673,
+    "geom:longitude":94.93891,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Monkali",
+    "gn:country_code":"MM",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308543,
+    "gn:latitude":24.80673,
+    "gn:longitude":94.93891,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Monkali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308543,
+        "wk:page":"Monkali"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d6943e52944dcc89ef3af579c3d00db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209393421
+        }
+    ],
+    "wof:id":1209393421,
+    "wof:lastmodified":1537568479,
+    "wof:name":"Monkali",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.93891,
+    24.80673,
+    94.93891,
+    24.80673
+],
+  "geometry": {"coordinates":[94.93891000000001,24.80673],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293872267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.88524,23.88942,95.88524,23.88942",
+    "geom:latitude":23.88942,
+    "geom:longitude":95.88524,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005024",
+    "gn:asciiname":"Metkalet",
+    "gn:country_code":"MM",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1309532,
+    "gn:latitude":23.88942,
+    "gn:longitude":95.88524,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Metkalet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Metkalet-ywahaung",
+        "Metkalet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309532
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ff587a65c2fc46d39fc87638c727ef42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1293872267,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293872267,
+    "wof:lastmodified":1537665438,
+    "wof:name":"Metkalet",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.88524,
+    23.88942,
+    95.88524,
+    23.88942
+],
+  "geometry": {"coordinates":[95.88524,23.88942],"type":"Point"}
+}

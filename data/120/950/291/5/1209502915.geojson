@@ -1,0 +1,63 @@
+{
+  "id": 1209502915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.11445,21.68808,101.11445,21.68808",
+    "geom:latitude":21.68808,
+    "geom:longitude":101.11445,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Lek",
+    "gn:country_code":"MM",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847413,
+    "gn:latitude":21.68808,
+    "gn:longitude":101.11445,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n L\u0113k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847413
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6b1024d8aea1dc0665b035691e66f50f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209502915
+        }
+    ],
+    "wof:id":1209502915,
+    "wof:lastmodified":1536285124,
+    "wof:name":"Wan Lek",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.11445,
+    21.68808,
+    101.11445,
+    21.68808
+],
+  "geometry": {"coordinates":[101.11445000000001,21.68808],"type":"Point"}
+}

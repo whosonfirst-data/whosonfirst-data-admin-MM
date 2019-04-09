@@ -1,0 +1,63 @@
+{
+  "id": 1209395329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.29499,21.80089,99.29499,21.80089",
+    "geom:latitude":21.80089,
+    "geom:longitude":99.29499,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016002",
+    "gn:asciiname":"Wan Hsenho-moeng",
+    "gn:country_code":"MM",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289176,
+    "gn:latitude":21.80089,
+    "gn:longitude":99.29499,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsenho-m\u00f6ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289176
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"88b418df73589602bbe00e214bd952a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209395329
+        }
+    ],
+    "wof:id":1209395329,
+    "wof:lastmodified":1536288321,
+    "wof:name":"Wan Hsenho-moeng",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.29499,
+    21.80089,
+    99.29499,
+    21.80089
+],
+  "geometry": {"coordinates":[99.29499,21.80089],"type":"Point"}
+}

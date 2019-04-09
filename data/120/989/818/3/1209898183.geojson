@@ -1,0 +1,75 @@
+{
+  "id": 1209898183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71835,17.8778,96.71835,17.8778",
+    "geom:latitude":17.8778,
+    "geom:longitude":96.71835,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007005",
+    "gn:asciiname":"Pyuntaza",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298882,
+    "gn:latitude":17.8778,
+    "gn:longitude":96.71835,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pyuntaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyundanza",
+        "Pyuntaxa",
+        "Pyuntaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298882,
+        "wk:page":"Pyuntaza"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"58b5754b7abf42eb2416dcf4a07aff72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1209898183,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1209898183,
+    "wof:lastmodified":1537665384,
+    "wof:name":"Pyuntaza",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71835,
+    17.8778,
+    96.71835,
+    17.8778
+],
+  "geometry": {"coordinates":[96.71835,17.8778],"type":"Point"}
+}

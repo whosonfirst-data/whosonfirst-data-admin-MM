@@ -1,0 +1,69 @@
+{
+  "id": 1277153697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.0854,14.07115,98.0854,14.07115",
+    "geom:latitude":14.07115,
+    "geom:longitude":98.0854,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006002",
+    "gn:asciiname":"Kan-ga-ni",
+    "gn:country_code":"MM",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320806,
+    "gn:latitude":14.07115,
+    "gn:longitude":98.0854,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kan-ga-ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320806
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6e0580405fa077dcde569bdc5f70ac24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1277153697,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1277153697,
+    "wof:lastmodified":1536665462,
+    "wof:name":"Kan-ga-ni",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.0854,
+    14.07115,
+    98.0854,
+    14.07115
+],
+  "geometry": {"coordinates":[98.08540000000001,14.07115],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293880931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51696,19.6134,97.51696,19.6134",
+    "geom:latitude":19.6134,
+    "geom:longitude":97.51696,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002004",
+    "gn:asciiname":"Wan Hsa-tawtaue",
+    "gn:country_code":"MM",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289233,
+    "gn:latitude":19.6134,
+    "gn:longitude":97.51696,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsa-tawta\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Hsa-tawtao",
+        "W\u0101n Hsa-tawta\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289233
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2f29fa5bd9e49287144b32b7adf4515e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1293880931,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1293880931,
+    "wof:lastmodified":1537665331,
+    "wof:name":"Wan Hsa-tawtaue",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51696,
+    19.6134,
+    97.51696,
+    19.6134
+],
+  "geometry": {"coordinates":[97.51696,19.6134],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209184039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.8767,21.6898,94.8767,21.6898",
+    "geom:latitude":21.6898,
+    "geom:longitude":94.8767,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D004",
+    "gn:admin3_code":"MMR009020",
+    "gn:asciiname":"Obo",
+    "gn:country_code":"MM",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303241,
+    "gn:latitude":21.6898,
+    "gn:longitude":94.8767,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Obo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303241
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"322481c11921f0c84fab16208cea6b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209184039
+        }
+    ],
+    "wof:id":1209184039,
+    "wof:lastmodified":1536295162,
+    "wof:name":"Obo",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.8767,
+    21.6898,
+    94.8767,
+    21.6898
+],
+  "geometry": {"coordinates":[94.8767,21.6898],"type":"Point"}
+}

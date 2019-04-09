@@ -1,0 +1,73 @@
+{
+  "id": 1360090769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.20252,23.75342,97.20252,23.75342",
+    "geom:latitude":23.75342,
+    "geom:longitude":97.20252,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Loi-long",
+    "gn:country_code":"MM",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313410,
+    "gn:latitude":23.75342,
+    "gn:longitude":97.20252,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi-long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loilung",
+        "Loi-long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313410
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9a48205bd7632431b551f9dabb4cb9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1360090769,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1360090769,
+    "wof:lastmodified":1537665460,
+    "wof:name":"Loi-long",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.20252,
+    23.75342,
+    97.20252,
+    23.75342
+],
+  "geometry": {"coordinates":[97.20252000000001,23.75342],"type":"Point"}
+}

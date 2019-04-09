@@ -1,0 +1,73 @@
+{
+  "id": 1309824057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.05576,22.22688,95.05576,22.22688",
+    "geom:latitude":22.22688,
+    "geom:longitude":95.05576,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D009",
+    "gn:admin3_code":"MMR005016",
+    "gn:asciiname":"Thanbo",
+    "gn:country_code":"MM",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292529,
+    "gn:latitude":22.22688,
+    "gn:longitude":95.05576,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thanbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanbo",
+        "Thanbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292529
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"52a00f295392c42aab9e15f5525f0826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047961,
+            "locality_id":1309824057,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1309824057,
+    "wof:lastmodified":1537665350,
+    "wof:name":"Thanbo",
+    "wof:parent_id":1092047961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.05576,
+    22.22688,
+    95.05576,
+    22.22688
+],
+  "geometry": {"coordinates":[95.05576000000001,22.22688],"type":"Point"}
+}

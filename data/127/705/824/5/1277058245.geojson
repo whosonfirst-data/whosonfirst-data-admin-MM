@@ -1,0 +1,69 @@
+{
+  "id": 1277058245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.89858,18.20765,96.89858,18.20765",
+    "geom:latitude":18.20765,
+    "geom:longitude":96.89858,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Metkaung",
+    "gn:country_code":"MM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309531,
+    "gn:latitude":18.20765,
+    "gn:longitude":96.89858,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Metkaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309531
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7a256a2fde380a432de0326f891fd6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1277058245,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1277058245,
+    "wof:lastmodified":1536801902,
+    "wof:name":"Metkaung",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.89858,
+    18.20765,
+    96.89858,
+    18.20765
+],
+  "geometry": {"coordinates":[96.89858,18.20765],"type":"Point"}
+}

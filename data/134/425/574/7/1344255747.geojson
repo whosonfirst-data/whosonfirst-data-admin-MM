@@ -1,0 +1,69 @@
+{
+  "id": 1344255747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.05892,16.34645,98.05892,16.34645",
+    "geom:latitude":16.34645,
+    "geom:longitude":98.05892,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003006",
+    "gn:asciiname":"Winthalwe",
+    "gn:country_code":"MM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286115,
+    "gn:latitude":16.34645,
+    "gn:longitude":98.05892,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Winthalwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286115
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"43cdb5a622aecccff401227d59e7866d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1344255747,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1344255747,
+    "wof:lastmodified":1537087839,
+    "wof:name":"Winthalwe",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.05892,
+    16.34645,
+    98.05892,
+    16.34645
+],
+  "geometry": {"coordinates":[98.05892,16.34645],"type":"Point"}
+}

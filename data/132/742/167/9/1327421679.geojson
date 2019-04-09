@@ -1,0 +1,69 @@
+{
+  "id": 1327421679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.52523,20.99111,97.52523,20.99111",
+    "geom:latitude":20.99111,
+    "geom:longitude":97.52523,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014011",
+    "gn:asciiname":"Panglong",
+    "gn:country_code":"MM",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301817,
+    "gn:latitude":20.99111,
+    "gn:longitude":97.52523,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u0101nglong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301817
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5890d7ae5dc306f4a54eba503a6729f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1327421679,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327421679,
+    "wof:lastmodified":1536696495,
+    "wof:name":"Panglong",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.52523,
+    20.99111,
+    97.52523,
+    20.99111
+],
+  "geometry": {"coordinates":[97.52522999999999,20.99111],"type":"Point"}
+}

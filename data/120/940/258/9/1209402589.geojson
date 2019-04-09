@@ -1,0 +1,63 @@
+{
+  "id": 1209402589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.0474,23.04403,97.0474,23.04403",
+    "geom:latitude":23.04403,
+    "geom:longitude":97.0474,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015016",
+    "gn:asciiname":"Man Lom",
+    "gn:country_code":"MM",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311283,
+    "gn:latitude":23.04403,
+    "gn:longitude":97.0474,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Lom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311283
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"75fd8ed6d9cb1cf2cd81d34dc176e444",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209402589
+        }
+    ],
+    "wof:id":1209402589,
+    "wof:lastmodified":1536288096,
+    "wof:name":"Man Lom",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.0474,
+    23.04403,
+    97.0474,
+    23.04403
+],
+  "geometry": {"coordinates":[97.0474,23.04403],"type":"Point"}
+}

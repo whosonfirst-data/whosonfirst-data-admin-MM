@@ -1,0 +1,63 @@
+{
+  "id": 1209089103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.81641,20.31813,94.81641,20.31813",
+    "geom:latitude":20.31813,
+    "geom:longitude":94.81641,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009008",
+    "gn:asciiname":"Thigon",
+    "gn:country_code":"MM",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291562,
+    "gn:latitude":20.31813,
+    "gn:longitude":94.81641,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thigon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291562
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"962b82de7c0ac0035558ac523e20cc87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209089103
+        }
+    ],
+    "wof:id":1209089103,
+    "wof:lastmodified":1536298091,
+    "wof:name":"Thigon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.81641,
+    20.31813,
+    94.81641,
+    20.31813
+],
+  "geometry": {"coordinates":[94.81641,20.31813],"type":"Point"}
+}

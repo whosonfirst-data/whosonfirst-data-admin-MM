@@ -1,0 +1,69 @@
+{
+  "id": 1225824955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.26712,12.52176,98.26712,12.52176",
+    "geom:latitude":12.52176,
+    "geom:longitude":98.26712,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006006",
+    "gn:asciiname":"Yegyo",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285276,
+    "gn:latitude":12.52176,
+    "gn:longitude":98.26712,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yegyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285276
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1a470e5c76771821ed7b43358bd156e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1225824955,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1225824955,
+    "wof:lastmodified":1537041938,
+    "wof:name":"Yegyo",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.26712,
+    12.52176,
+    98.26712,
+    12.52176
+],
+  "geometry": {"coordinates":[98.26712000000001,12.52176],"type":"Point"}
+}

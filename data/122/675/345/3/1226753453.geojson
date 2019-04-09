@@ -1,0 +1,74 @@
+{
+  "id": 1226753453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.3717,25.94886,98.3717,25.94886",
+    "geom:latitude":25.94886,
+    "geom:longitude":98.3717,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Htawgaw",
+    "gn:country_code":"MM",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322871,
+    "gn:latitude":25.94886,
+    "gn:longitude":98.3717,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htawgaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawgaw",
+        "Htawgaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322871,
+        "wk:page":"Htawgaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"57cceded90ded049e879f9b365d8f7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1226753453,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1226753453,
+    "wof:lastmodified":1537665517,
+    "wof:name":"Htawgaw",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.3717,
+    25.94886,
+    98.3717,
+    25.94886
+],
+  "geometry": {"coordinates":[98.3717,25.94886],"type":"Point"}
+}

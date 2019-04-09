@@ -1,0 +1,63 @@
+{
+  "id": 1209086765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.84821,22.87261,96.84821,22.87261",
+    "geom:latitude":22.87261,
+    "geom:longitude":96.84821,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Pangkaw",
+    "gn:country_code":"MM",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301923,
+    "gn:latitude":22.87261,
+    "gn:longitude":96.84821,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u00e1ngkaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301923
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ef06cf13578e69eb4a69d65c2b620957",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209086765
+        }
+    ],
+    "wof:id":1209086765,
+    "wof:lastmodified":1536298162,
+    "wof:name":"Pangkaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.84821,
+    22.87261,
+    96.84821,
+    22.87261
+],
+  "geometry": {"coordinates":[96.84820999999999,22.87261],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209104755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.8574,17.14981,97.8574,17.14981",
+    "geom:latitude":17.14981,
+    "geom:longitude":97.8574,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003002",
+    "gn:asciiname":"Payangokto",
+    "gn:country_code":"MM",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300655,
+    "gn:latitude":17.14981,
+    "gn:longitude":97.8574,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Payangokto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300655
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3e8966e6e6d25c5da91bc1d3d18f630b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209104755
+        }
+    ],
+    "wof:id":1209104755,
+    "wof:lastmodified":1536297612,
+    "wof:name":"Payangokto",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.8574,
+    17.149810000000002,
+    97.8574,
+    17.149810000000002
+],
+  "geometry": {"coordinates":[97.8574,17.14981],"type":"Point"}
+}

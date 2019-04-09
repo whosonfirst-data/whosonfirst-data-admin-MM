@@ -1,0 +1,69 @@
+{
+  "id": 1310471713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.29968,20.63837,95.29968,20.63837",
+    "geom:latitude":20.63837,
+    "geom:longitude":95.29968,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009006",
+    "gn:asciiname":"Sinthegon",
+    "gn:country_code":"MM",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295949,
+    "gn:latitude":20.63837,
+    "gn:longitude":95.29968,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinthegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295949
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a5f7139c91a9d67cea97dc270413a90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046159,
+            "locality_id":1310471713,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1310471713,
+    "wof:lastmodified":1536965525,
+    "wof:name":"Sinthegon",
+    "wof:parent_id":1092046159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.29968,
+    20.63837,
+    95.29968,
+    20.63837
+],
+  "geometry": {"coordinates":[95.29968,20.63837],"type":"Point"}
+}

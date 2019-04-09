@@ -1,0 +1,74 @@
+{
+  "id": 1343479033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.86844,24.43535,95.86844,24.43535",
+    "geom:latitude":24.43535,
+    "geom:longitude":95.86844,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Naungmelon",
+    "gn:country_code":"MM",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305506,
+    "gn:latitude":24.43535,
+    "gn:longitude":95.86844,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Naungmelon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naungmeloh",
+        "Naungmelon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305506,
+        "wk:page":"Naungmelon"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"56a525fc25cf6e5b3c8f0da97b67f55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1343479033,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343479033,
+    "wof:lastmodified":1537665415,
+    "wof:name":"Naungmelon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.86844,
+    24.43535,
+    95.86844,
+    24.43535
+],
+  "geometry": {"coordinates":[95.86844000000001,24.43535],"type":"Point"}
+}

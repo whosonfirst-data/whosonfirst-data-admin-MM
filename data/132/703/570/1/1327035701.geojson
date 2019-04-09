@@ -1,0 +1,70 @@
+{
+  "id": 1327035701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.19866,25.79244,98.19866,25.79244",
+    "geom:latitude":25.79244,
+    "geom:longitude":98.19866,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Pawngen",
+    "gn:country_code":"MM",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300814,
+    "gn:latitude":25.79244,
+    "gn:longitude":98.19866,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pawngen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300814,
+        "wk:page":"Pawngen"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a6efa526c68a006d69a9c34ca6ebac5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1327035701,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327035701,
+    "wof:lastmodified":1537568467,
+    "wof:name":"Pawngen",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.19866,
+    25.79244,
+    98.19866,
+    25.79244
+],
+  "geometry": {"coordinates":[98.19866,25.79244],"type":"Point"}
+}

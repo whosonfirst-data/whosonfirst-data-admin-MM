@@ -1,0 +1,69 @@
+{
+  "id": 1277140307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.00289,16.51097,96.00289,16.51097",
+    "geom:latitude":16.51097,
+    "geom:longitude":96.00289,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013029",
+    "gn:asciiname":"Kungynzu",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482095,
+    "gn:latitude":16.51097,
+    "gn:longitude":96.00289,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kungynzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482095
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d835753418e8e5818f2aa9776896d29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1277140307,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1277140307,
+    "wof:lastmodified":1536684752,
+    "wof:name":"Kungynzu",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.00289,
+    16.51097,
+    96.00289,
+    16.51097
+],
+  "geometry": {"coordinates":[96.00288999999999,16.51097],"type":"Point"}
+}

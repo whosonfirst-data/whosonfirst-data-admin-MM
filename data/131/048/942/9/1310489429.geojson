@@ -1,0 +1,69 @@
+{
+  "id": 1310489429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.07262,23.17854,98.07262,23.17854",
+    "geom:latitude":23.17854,
+    "geom:longitude":98.07262,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Namput",
+    "gn:country_code":"MM",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306471,
+    "gn:latitude":23.17854,
+    "gn:longitude":98.07262,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namput",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306471
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ceedf6ce0002b5eba16e88abb972d740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1310489429,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310489429,
+    "wof:lastmodified":1536940774,
+    "wof:name":"Namput",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.07262,
+    23.17854,
+    98.07262,
+    23.17854
+],
+  "geometry": {"coordinates":[98.07262,23.17854],"type":"Point"}
+}

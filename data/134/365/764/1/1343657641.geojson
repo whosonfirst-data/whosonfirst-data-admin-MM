@@ -1,0 +1,70 @@
+{
+  "id": 1343657641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.15694,22.98099,94.15694,22.98099",
+    "geom:latitude":22.98099,
+    "geom:longitude":94.15694,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Chaunggyauk",
+    "gn:country_code":"MM",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327540,
+    "gn:latitude":22.98099,
+    "gn:longitude":94.15694,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Chaunggyauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327540,
+        "wk:page":"Chaunggyauk"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d107e212de104eb0887a52385b9a7e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1343657641,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343657641,
+    "wof:lastmodified":1537568507,
+    "wof:name":"Chaunggyauk",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.15694,
+    22.98099,
+    94.15694,
+    22.98099
+],
+  "geometry": {"coordinates":[94.15694000000001,22.98099],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327251579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.77607,21.81829,95.77607,21.81829",
+    "geom:latitude":21.81829,
+    "geom:longitude":95.77607,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bontha",
+    "gn:country_code":"MM",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328008,
+    "gn:latitude":21.81829,
+    "gn:longitude":95.77607,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Bontha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328008
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ab4e7da30acef9281af7cd6c45ffe78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1327251579,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1327251579,
+    "wof:lastmodified":1536942455,
+    "wof:name":"Bontha",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.77607,
+    21.81829,
+    95.77607,
+    21.81829
+],
+  "geometry": {"coordinates":[95.77607,21.81829],"type":"Point"}
+}

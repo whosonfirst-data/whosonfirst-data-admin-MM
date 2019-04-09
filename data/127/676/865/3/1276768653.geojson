@@ -1,0 +1,70 @@
+{
+  "id": 1276768653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.17399,24.61871,97.17399,24.61871",
+    "geom:latitude":24.61871,
+    "geom:longitude":97.17399,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Shwepu",
+    "gn:country_code":"MM",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296488,
+    "gn:latitude":24.61871,
+    "gn:longitude":97.17399,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwepu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296488,
+        "wk:page":"Shwepu"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"01e4bef7cc83895a986ea7e7dc958ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1276768653,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276768653,
+    "wof:lastmodified":1537568460,
+    "wof:name":"Shwepu",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.17399,
+    24.61871,
+    97.17399,
+    24.61871
+],
+  "geometry": {"coordinates":[97.17399,24.61871],"type":"Point"}
+}

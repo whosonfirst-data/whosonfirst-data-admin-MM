@@ -1,0 +1,69 @@
+{
+  "id": 1326800377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.123,20.96458,94.123,20.96458",
+    "geom:latitude":20.96458,
+    "geom:longitude":94.123,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D005",
+    "gn:admin3_code":"MMR009025",
+    "gn:asciiname":"Pagyaung",
+    "gn:country_code":"MM",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302605,
+    "gn:latitude":20.96458,
+    "gn:longitude":94.123,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pagyaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092045189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302605
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"851c8fc743314da4fb41b35569876781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045189,
+            "locality_id":1326800377,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1326800377,
+    "wof:lastmodified":1537091559,
+    "wof:name":"Pagyaung",
+    "wof:parent_id":1092045189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.123,
+    20.96458,
+    94.123,
+    20.96458
+],
+  "geometry": {"coordinates":[94.123,20.96458],"type":"Point"}
+}

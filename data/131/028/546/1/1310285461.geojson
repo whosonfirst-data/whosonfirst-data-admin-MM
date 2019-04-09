@@ -1,0 +1,73 @@
+{
+  "id": 1310285461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.09033,22.6073,99.09033,22.6073",
+    "geom:latitude":22.6073,
+    "geom:longitude":99.09033,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015006",
+    "gn:asciiname":"Na-hpan",
+    "gn:country_code":"MM",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307412,
+    "gn:latitude":22.6073,
+    "gn:longitude":99.09033,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Na-hpan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngeklet",
+        "Na-hpan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307412
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"43b598742544ba4a69f96d2523cc3734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1310285461,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310285461,
+    "wof:lastmodified":1537665425,
+    "wof:name":"Na-hpan",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.09033,
+    22.6073,
+    99.09033,
+    22.6073
+],
+  "geometry": {"coordinates":[99.09032999999999,22.6073],"type":"Point"}
+}

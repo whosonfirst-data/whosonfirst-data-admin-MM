@@ -1,0 +1,69 @@
+{
+  "id": 1225921585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.87759,23.74888,97.87759,23.74888",
+    "geom:latitude":23.74888,
+    "geom:longitude":97.87759,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015009",
+    "gn:asciiname":"Nammwe",
+    "gn:country_code":"MM",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306649,
+    "gn:latitude":23.74888,
+    "gn:longitude":97.87759,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nammwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306649
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fe78a2ebfc50853c3924bff61b1cf1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1225921585,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225921585,
+    "wof:lastmodified":1536904570,
+    "wof:name":"Nammwe",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.87759,
+    23.74888,
+    97.87759,
+    23.74888
+],
+  "geometry": {"coordinates":[97.87759,23.74888],"type":"Point"}
+}

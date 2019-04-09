@@ -1,0 +1,69 @@
+{
+  "id": 1293756343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.19235,21.49267,94.19235,21.49267",
+    "geom:latitude":21.49267,
+    "geom:longitude":94.19235,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D005",
+    "gn:admin3_code":"MMR009025",
+    "gn:asciiname":"Peinne",
+    "gn:country_code":"MM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300383,
+    "gn:latitude":21.49267,
+    "gn:longitude":94.19235,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Peinn\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092045189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300383
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"957152f6f6100420f303b228b3c7bcf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045189,
+            "locality_id":1293756343,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1293756343,
+    "wof:lastmodified":1536896531,
+    "wof:name":"Peinne",
+    "wof:parent_id":1092045189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.19235,
+    21.49267,
+    94.19235,
+    21.49267
+],
+  "geometry": {"coordinates":[94.19235,21.49267],"type":"Point"}
+}

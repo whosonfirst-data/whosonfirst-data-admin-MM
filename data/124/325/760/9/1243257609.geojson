@@ -1,0 +1,70 @@
+{
+  "id": 1243257609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.59998,21.92858,95.59998,21.92858",
+    "geom:latitude":21.92858,
+    "geom:longitude":95.59998,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005002",
+    "gn:asciiname":"Paledan",
+    "gn:country_code":"MM",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302333,
+    "gn:latitude":21.92858,
+    "gn:longitude":95.59998,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paledan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302333,
+        "wk:page":"Paledan"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"752cbe9f6ac57eb7556ce7cf40a3c54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047295,
+            "locality_id":1243257609,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1243257609,
+    "wof:lastmodified":1537568469,
+    "wof:name":"Paledan",
+    "wof:parent_id":1092047295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.59998,
+    21.92858,
+    95.59998,
+    21.92858
+],
+  "geometry": {"coordinates":[95.59998,21.92858],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259760603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.30668,24.01289,98.30668,24.01289",
+    "geom:latitude":24.01289,
+    "geom:longitude":98.30668,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015009",
+    "gn:asciiname":"Hsawka",
+    "gn:country_code":"MM",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323231,
+    "gn:latitude":24.01289,
+    "gn:longitude":98.30668,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hsawka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323231
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"86022ecd064eb69ce7fd71e28e40c598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1259760603,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259760603,
+    "wof:lastmodified":1536956193,
+    "wof:name":"Hsawka",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.30668,
+    24.01289,
+    98.30668,
+    24.01289
+],
+  "geometry": {"coordinates":[98.30668,24.01289],"type":"Point"}
+}

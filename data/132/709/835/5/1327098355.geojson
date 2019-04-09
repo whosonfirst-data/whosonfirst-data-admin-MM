@@ -1,0 +1,73 @@
+{
+  "id": 1327098355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.46515,18.19199,96.46515,18.19199",
+    "geom:latitude":18.19199,
+    "geom:longitude":96.46515,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007006",
+    "gn:asciiname":"Paukkala",
+    "gn:country_code":"MM",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301154,
+    "gn:latitude":18.19199,
+    "gn:longitude":96.46515,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paukkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pauktala",
+        "Paukkala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301154
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8dac7ee3f930b680ed63667f7a8e54b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1327098355,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1327098355,
+    "wof:lastmodified":1537665395,
+    "wof:name":"Paukkala",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.46515,
+    18.19199,
+    96.46515,
+    18.19199
+],
+  "geometry": {"coordinates":[96.46514999999999,18.19199],"type":"Point"}
+}

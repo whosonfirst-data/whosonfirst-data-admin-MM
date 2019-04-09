@@ -1,0 +1,69 @@
+{
+  "id": 1259583139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.48586,24.65819,97.48586,24.65819",
+    "geom:latitude":24.65819,
+    "geom:longitude":97.48586,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001012",
+    "gn:asciiname":"Lazau",
+    "gn:country_code":"MM",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314534,
+    "gn:latitude":24.65819,
+    "gn:longitude":97.48586,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"L\u0101zau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314534
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e02fd64cf87719c7f5fca080220bdade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1259583139,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259583139,
+    "wof:lastmodified":1536715663,
+    "wof:name":"Lazau",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.48586,
+    24.65819,
+    97.48586,
+    24.65819
+],
+  "geometry": {"coordinates":[97.48586,24.65819],"type":"Point"}
+}

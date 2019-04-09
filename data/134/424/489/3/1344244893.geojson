@@ -1,0 +1,73 @@
+{
+  "id": 1344244893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.01898,21.42488,100.01898,21.42488",
+    "geom:latitude":21.42488,
+    "geom:longitude":100.01898,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016005",
+    "gn:asciiname":"Wan Ta-panglong",
+    "gn:country_code":"MM",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847115,
+    "gn:latitude":21.42488,
+    "gn:longitude":100.01898,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ta-pangl\u014dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-pangl\u014dng",
+        "W\u0101n Ta-pangl\u014dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847115
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0361061eaf18920557ad0ed10a2e0a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1344244893,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344244893,
+    "wof:lastmodified":1537665555,
+    "wof:name":"Wan Ta-panglong",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.01898,
+    21.42488,
+    100.01898,
+    21.42488
+],
+  "geometry": {"coordinates":[100.01898,21.42488],"type":"Point"}
+}

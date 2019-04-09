@@ -1,0 +1,69 @@
+{
+  "id": 1327009441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.52331,10.04618,98.52331,10.04618",
+    "geom:latitude":10.04618,
+    "geom:longitude":98.52331,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006009",
+    "gn:asciiname":"Koala Sungei",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318847,
+    "gn:latitude":10.04618,
+    "gn:longitude":98.52331,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Koala Sung\u0113i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Ulu",
+        "Koala Sung\u0113i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318847
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"da4e8fa7de228de7454b381a4032b840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327009441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327009441,
+    "wof:lastmodified":1537665492,
+    "wof:name":"Koala Sungei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.52331,
+    10.04618,
+    98.52331,
+    10.04618
+],
+  "geometry": {"coordinates":[98.52331,10.04618],"type":"Point"}
+}

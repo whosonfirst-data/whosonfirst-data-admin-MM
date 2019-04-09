@@ -1,0 +1,73 @@
+{
+  "id": 1226621873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.23113,19.81643,96.23113,19.81643",
+    "geom:latitude":19.81643,
+    "geom:longitude":96.23113,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D001",
+    "gn:admin3_code":"MMR018001",
+    "gn:asciiname":"Shwebe",
+    "gn:country_code":"MM",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296737,
+    "gn:latitude":19.81643,
+    "gn:longitude":96.23113,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shwebe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shwebi",
+        "Shwebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296737
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fcb18805715a4bbeced8a9b9a7224e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1226621873,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1226621873,
+    "wof:lastmodified":1537665372,
+    "wof:name":"Shwebe",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.23113,
+    19.81643,
+    96.23113,
+    19.81643
+],
+  "geometry": {"coordinates":[96.23112999999999,19.81643],"type":"Point"}
+}

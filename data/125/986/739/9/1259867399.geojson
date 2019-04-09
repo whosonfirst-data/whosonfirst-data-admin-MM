@@ -1,0 +1,69 @@
+{
+  "id": 1259867399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.59525,21.11173,97.59525,21.11173",
+    "geom:latitude":21.11173,
+    "geom:longitude":97.59525,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014011",
+    "gn:asciiname":"Namwawka",
+    "gn:country_code":"MM",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306299,
+    "gn:latitude":21.11173,
+    "gn:longitude":97.59525,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namwawka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306299
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"81d87f18f6dd9daed4164633ad2635e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1259867399,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259867399,
+    "wof:lastmodified":1536802385,
+    "wof:name":"Namwawka",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.59525,
+    21.11173,
+    97.59525,
+    21.11173
+],
+  "geometry": {"coordinates":[97.59524999999999,21.11173],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326606701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.53347,10.32831,98.53347,10.32831",
+    "geom:latitude":10.32831,
+    "geom:longitude":98.53347,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006009",
+    "gn:asciiname":"Ban Sadein",
+    "gn:country_code":"MM",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328452,
+    "gn:latitude":10.32831,
+    "gn:longitude":98.53347,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"B\u0101n Sadein",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328452
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5cfb70f63947af864c1614aa79486b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326606701,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326606701,
+    "wof:lastmodified":1536875845,
+    "wof:name":"Ban Sadein",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.53347,
+    10.32831,
+    98.53347,
+    10.32831
+],
+  "geometry": {"coordinates":[98.53346999999999,10.32831],"type":"Point"}
+}

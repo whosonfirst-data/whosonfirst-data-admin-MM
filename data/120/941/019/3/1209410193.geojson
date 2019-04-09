@@ -1,0 +1,64 @@
+{
+  "id": 1209410193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.43667,24.95673,95.43667,24.95673",
+    "geom:latitude":24.95673,
+    "geom:longitude":95.43667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Htedanshi",
+    "gn:country_code":"MM",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322856,
+    "gn:latitude":24.95673,
+    "gn:longitude":95.43667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htedanshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322856,
+        "wk:page":"Htedanshi"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1a5a6651ac737c1ca37a7f8b7a1eb483",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209410193
+        }
+    ],
+    "wof:id":1209410193,
+    "wof:lastmodified":1537568501,
+    "wof:name":"Htedanshi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.43667,
+    24.95673,
+    95.43667,
+    24.95673
+],
+  "geometry": {"coordinates":[95.43667000000001,24.95673],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327357059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.67033,25.42977,96.67033,25.42977",
+    "geom:latitude":25.42977,
+    "geom:longitude":96.67033,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Hpaojegahtawng",
+    "gn:country_code":"MM",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323645,
+    "gn:latitude":25.42977,
+    "gn:longitude":96.67033,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpaojegahtawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hpaoje",
+        "Hpaojegahtawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323645
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3e613f24c20807f511f78f9646128d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1327357059,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1327357059,
+    "wof:lastmodified":1537665522,
+    "wof:name":"Hpaojegahtawng",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.67033,
+    25.42977,
+    96.67033,
+    25.42977
+],
+  "geometry": {"coordinates":[96.67033000000001,25.42977],"type":"Point"}
+}

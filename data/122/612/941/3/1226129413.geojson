@@ -1,0 +1,73 @@
+{
+  "id": 1226129413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.37415,14.03601,98.37415,14.03601",
+    "geom:latitude":14.03601,
+    "geom:longitude":98.37415,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006001",
+    "gn:asciiname":"Kyanchaung",
+    "gn:country_code":"MM",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317271,
+    "gn:latitude":14.03601,
+    "gn:longitude":98.37415,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyanchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyangyaung",
+        "Kyanchaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317271
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"574fad7afb3efdf93c573e6dbe378ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1226129413,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1226129413,
+    "wof:lastmodified":1537665483,
+    "wof:name":"Kyanchaung",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.37415,
+    14.03601,
+    98.37415,
+    14.03601
+],
+  "geometry": {"coordinates":[98.37415,14.03601],"type":"Point"}
+}

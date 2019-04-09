@@ -1,0 +1,70 @@
+{
+  "id": 1243349507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.83053,15.36706,97.83053,15.36706",
+    "geom:latitude":15.36706,
+    "geom:longitude":97.83053,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D001",
+    "gn:admin3_code":"MMR011006",
+    "gn:asciiname":"Zuntalin",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283761,
+    "gn:latitude":15.36706,
+    "gn:longitude":97.83053,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zuntalin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283761,
+        "wk:page":"Zuntalin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"821995a2203c4ad8f7b7c464060304e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":1243349507,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1243349507,
+    "wof:lastmodified":1537568443,
+    "wof:name":"Zuntalin",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.83053,
+    15.36706,
+    97.83053,
+    15.36706
+],
+  "geometry": {"coordinates":[97.83053,15.36706],"type":"Point"}
+}

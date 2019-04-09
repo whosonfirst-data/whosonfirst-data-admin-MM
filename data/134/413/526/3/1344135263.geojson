@@ -1,0 +1,70 @@
+{
+  "id": 1344135263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.47969,24.97814,95.47969,24.97814",
+    "geom:latitude":24.97814,
+    "geom:longitude":95.47969,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Namhta",
+    "gn:country_code":"MM",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306978,
+    "gn:latitude":24.97814,
+    "gn:longitude":95.47969,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306978,
+        "wk:page":"Namhta"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ade0bc0b658d7c5199e522656469e8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1344135263,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1344135263,
+    "wof:lastmodified":1537568477,
+    "wof:name":"Namhta",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.47969,
+    24.97814,
+    95.47969,
+    24.97814
+],
+  "geometry": {"coordinates":[95.47969000000001,24.97814],"type":"Point"}
+}

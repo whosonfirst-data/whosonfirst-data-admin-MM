@@ -1,0 +1,69 @@
+{
+  "id": 1259668481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.04246,21.1072,96.04246,21.1072",
+    "geom:latitude":21.1072,
+    "geom:longitude":96.04246,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010031",
+    "gn:asciiname":"Yezon",
+    "gn:country_code":"MM",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284941,
+    "gn:latitude":21.1072,
+    "gn:longitude":96.04246,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yezon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284941
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"37d8ad9d4e44d52697d4977d09d02905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1259668481,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1259668481,
+    "wof:lastmodified":1537085462,
+    "wof:name":"Yezon",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.04246,
+    21.1072,
+    96.04246,
+    21.1072
+],
+  "geometry": {"coordinates":[96.04246000000001,21.1072],"type":"Point"}
+}

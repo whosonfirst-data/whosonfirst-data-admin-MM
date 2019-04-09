@@ -1,0 +1,73 @@
+{
+  "id": 1226016665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.79064,18.38653,96.79064,18.38653",
+    "geom:latitude":18.38653,
+    "geom:longitude":96.79064,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007011",
+    "gn:asciiname":"Tiboki",
+    "gn:country_code":"MM",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291126,
+    "gn:latitude":18.38653,
+    "gn:longitude":96.79064,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tiboki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tibozi",
+        "Tiboki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291126
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aae096007d9532b71279279930001f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047523,
+            "locality_id":1226016665,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1226016665,
+    "wof:lastmodified":1537665342,
+    "wof:name":"Tiboki",
+    "wof:parent_id":1092047523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.79064,
+    18.38653,
+    96.79064,
+    18.38653
+],
+  "geometry": {"coordinates":[96.79064,18.38653],"type":"Point"}
+}

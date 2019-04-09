@@ -1,0 +1,69 @@
+{
+  "id": 1209705679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.4936,21.78288,95.4936,21.78288",
+    "geom:latitude":21.78288,
+    "geom:longitude":95.4936,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010021",
+    "gn:asciiname":"Thayabaung",
+    "gn:country_code":"MM",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292206,
+    "gn:latitude":21.78288,
+    "gn:longitude":95.4936,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thayabaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292206
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"da592625d5fc2a4856b9edaab8bfcc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1209705679,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1209705679,
+    "wof:lastmodified":1536392967,
+    "wof:name":"Thayabaung",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.4936,
+    21.78288,
+    95.4936,
+    21.78288
+],
+  "geometry": {"coordinates":[95.4936,21.78288],"type":"Point"}
+}

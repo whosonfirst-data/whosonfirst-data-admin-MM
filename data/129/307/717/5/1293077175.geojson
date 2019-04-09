@@ -1,0 +1,69 @@
+{
+  "id": 1293077175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.15563,17.21183,96.15563,17.21183",
+    "geom:latitude":17.21183,
+    "geom:longitude":96.15563,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013004",
+    "gn:asciiname":"Pagadudat",
+    "gn:country_code":"MM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302643,
+    "gn:latitude":17.21183,
+    "gn:longitude":96.15563,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pag\u0101dudat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302643
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7d3ea02a64216561e57a47a238962639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1293077175,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1293077175,
+    "wof:lastmodified":1536880973,
+    "wof:name":"Pagadudat",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.15563,
+    17.21183,
+    96.15563,
+    17.21183
+],
+  "geometry": {"coordinates":[96.15563,17.21183],"type":"Point"}
+}

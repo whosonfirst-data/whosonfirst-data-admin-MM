@@ -1,0 +1,73 @@
+{
+  "id": 1242854913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.18546,20.70861,97.18546,20.70861",
+    "geom:latitude":20.70861,
+    "geom:longitude":97.18546,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014003",
+    "gn:asciiname":"Pengsa",
+    "gn:country_code":"MM",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300264,
+    "gn:latitude":20.70861,
+    "gn:longitude":97.18546,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pengsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pengsu",
+        "Pengsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300264
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"29e7ced8f52fb3344fcb6bd507d47fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1242854913,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242854913,
+    "wof:lastmodified":1537665391,
+    "wof:name":"Pengsa",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.18546,
+    20.70861,
+    97.18546,
+    20.70861
+],
+  "geometry": {"coordinates":[97.18546000000001,20.70861],"type":"Point"}
+}

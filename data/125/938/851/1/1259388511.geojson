@@ -1,0 +1,73 @@
+{
+  "id": 1259388511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.42543,28.12051,97.42543,28.12051",
+    "geom:latitude":28.12051,
+    "geom:longitude":97.42543,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001017",
+    "gn:asciiname":"Sakongdam",
+    "gn:country_code":"MM",
+    "gn:dem":2945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298281,
+    "gn:latitude":28.12051,
+    "gn:longitude":97.42543,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sakongd\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakongdan",
+        "Sakongd\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298281
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dc3cd131f61e9fceb9e460b0c2f34d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1259388511,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259388511,
+    "wof:lastmodified":1537665380,
+    "wof:name":"Sakongdam",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.42543,
+    28.12051,
+    97.42543,
+    28.12051
+],
+  "geometry": {"coordinates":[97.42543000000001,28.12051],"type":"Point"}
+}

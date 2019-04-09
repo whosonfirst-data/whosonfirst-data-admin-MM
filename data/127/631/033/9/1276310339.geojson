@@ -1,0 +1,69 @@
+{
+  "id": 1276310339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.77058,20.58195,96.77058,20.58195",
+    "geom:latitude":20.58195,
+    "geom:longitude":96.77058,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014005",
+    "gn:asciiname":"Thitetit",
+    "gn:country_code":"MM",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291405,
+    "gn:latitude":20.58195,
+    "gn:longitude":96.77058,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thitetit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291405
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1e019cc4559776d6a764e44f714b4cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1276310339,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276310339,
+    "wof:lastmodified":1536809147,
+    "wof:name":"Thitetit",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.77058,
+    20.58195,
+    96.77058,
+    20.58195
+],
+  "geometry": {"coordinates":[96.77058,20.58195],"type":"Point"}
+}

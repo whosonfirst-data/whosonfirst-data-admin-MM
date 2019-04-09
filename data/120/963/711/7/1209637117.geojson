@@ -1,0 +1,63 @@
+{
+  "id": 1209637117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.24768,19.54274,97.24768,19.54274",
+    "geom:latitude":19.54274,
+    "geom:longitude":97.24768,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Dawhsaw-do",
+    "gn:country_code":"MM",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326655,
+    "gn:latitude":19.54274,
+    "gn:longitude":97.24768,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dawhsaw-do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326655
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6507260b99d8ede813f84080ae222281",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209637117
+        }
+    ],
+    "wof:id":1209637117,
+    "wof:lastmodified":1536281007,
+    "wof:name":"Dawhsaw-do",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.24768,
+    19.54274,
+    97.24768,
+    19.54274
+],
+  "geometry": {"coordinates":[97.24768,19.54274],"type":"Point"}
+}

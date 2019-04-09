@@ -1,0 +1,73 @@
+{
+  "id": 1209803977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.29027,23.76478,95.29027,23.76478",
+    "geom:latitude":23.76478,
+    "geom:longitude":95.29027,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005026",
+    "gn:asciiname":"Kyauk-u",
+    "gn:country_code":"MM",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316458,
+    "gn:latitude":23.76478,
+    "gn:longitude":95.29027,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyauk-u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyauk-o",
+        "Kyauk-u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316458
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a32f408e46b8c7d5e1d84315798de818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1209803977,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1209803977,
+    "wof:lastmodified":1537665478,
+    "wof:name":"Kyauk-u",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.29027,
+    23.76478,
+    95.29027,
+    23.76478
+],
+  "geometry": {"coordinates":[95.29027000000001,23.76478],"type":"Point"}
+}

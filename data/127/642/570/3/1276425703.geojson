@@ -1,0 +1,69 @@
+{
+  "id": 1276425703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.5372,20.85701,95.5372,20.85701",
+    "geom:latitude":20.85701,
+    "geom:longitude":95.5372,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010028",
+    "gn:asciiname":"Letpanaing",
+    "gn:country_code":"MM",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313994,
+    "gn:latitude":20.85701,
+    "gn:longitude":95.5372,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Letpanaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313994
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fef2ef1330680ee9de66178a7dd7291f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1276425703,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276425703,
+    "wof:lastmodified":1536654923,
+    "wof:name":"Letpanaing",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.5372,
+    20.85701,
+    95.5372,
+    20.85701
+],
+  "geometry": {"coordinates":[95.5372,20.85701],"type":"Point"}
+}

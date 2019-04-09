@@ -1,0 +1,70 @@
+{
+  "id": 1259415329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.20802,24.54276,97.20802,24.54276",
+    "geom:latitude":24.54276,
+    "geom:longitude":97.20802,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001010",
+    "gn:asciiname":"Ritbum",
+    "gn:country_code":"MM",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298735,
+    "gn:latitude":24.54276,
+    "gn:longitude":97.20802,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ritbum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298735,
+        "wk:page":"Ritbum"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c8c3ef532998fb59ade2a0d960fbd2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1259415329,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259415329,
+    "wof:lastmodified":1537568464,
+    "wof:name":"Ritbum",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.20802,
+    24.54276,
+    97.20802,
+    24.54276
+],
+  "geometry": {"coordinates":[97.20802,24.54276],"type":"Point"}
+}

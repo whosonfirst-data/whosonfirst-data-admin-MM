@@ -1,0 +1,63 @@
+{
+  "id": 1209492705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.0699,24.00792,98.0699,24.00792",
+    "geom:latitude":24.00792,
+    "geom:longitude":98.0699,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015009",
+    "gn:asciiname":"Hpukkawn",
+    "gn:country_code":"MM",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323451,
+    "gn:latitude":24.00792,
+    "gn:longitude":98.0699,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpukkawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323451
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f6584dd51c9ba7a85a3b28627926b7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209492705
+        }
+    ],
+    "wof:id":1209492705,
+    "wof:lastmodified":1536285434,
+    "wof:name":"Hpukkawn",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.0699,
+    24.00792,
+    98.0699,
+    24.00792
+],
+  "geometry": {"coordinates":[98.0699,24.00792],"type":"Point"}
+}

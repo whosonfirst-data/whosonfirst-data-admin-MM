@@ -1,0 +1,87 @@
+{
+  "id": 1310104367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.90694,16.0675,97.90694,16.0675",
+    "geom:latitude":16.0675,
+    "geom:longitude":97.90694,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Tagondaing",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11524872,
+    "gn:latitude":16.0675,
+    "gn:longitude":97.90694,
+    "gn:modification_date":"2018-01-27",
+    "gn:name":"Tagondaing",
+    "gn:population":4994,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tagundaing"
+    ],
+    "name:eng_x_variant":[
+        "Tagondaing",
+        "Ta Khun Taing"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uad70\ub2e4\uc789"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e30\u0e01\u0e39\u0e19\u0e44\u0e14\u0e07\u0e4c"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11524872,
+        "wk:page":"Tagondaing"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"53887e7cc19aa4f8b517f5142154a4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1310104367,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310104367,
+    "wof:lastmodified":1537568512,
+    "wof:name":"Tagondaing",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:population":4994,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.90694,
+    16.0675,
+    97.90694,
+    16.0675
+],
+  "geometry": {"coordinates":[97.90694000000001,16.0675],"type":"Point"}
+}

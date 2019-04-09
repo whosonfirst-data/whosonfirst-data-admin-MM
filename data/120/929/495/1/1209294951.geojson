@@ -1,0 +1,63 @@
+{
+  "id": 1209294951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.26332,20.69861,98.26332,20.69861",
+    "geom:latitude":20.69861,
+    "geom:longitude":98.26332,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Maksari",
+    "gn:country_code":"MM",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1478573,
+    "gn:latitude":20.69861,
+    "gn:longitude":98.26332,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Maksari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478573
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e7a125cceb0f9ee0f3769d8dcc58350c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209294951
+        }
+    ],
+    "wof:id":1209294951,
+    "wof:lastmodified":1536291562,
+    "wof:name":"Maksari",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.26332,
+    20.69861,
+    98.26332,
+    20.69861
+],
+  "geometry": {"coordinates":[98.26331999999999,20.69861],"type":"Point"}
+}

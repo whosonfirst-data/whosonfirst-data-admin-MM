@@ -1,0 +1,73 @@
+{
+  "id": 1193260407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.09937,17.7077,97.09937,17.7077",
+    "geom:latitude":17.7077,
+    "geom:longitude":97.09937,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Mephaungwa",
+    "gn:country_code":"MM",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309628,
+    "gn:latitude":17.7077,
+    "gn:longitude":97.09937,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00e8phaungwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e8paung-gwa",
+        "M\u00e8phaungwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309628
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f3a9195eff2019a444e4105824187b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1193260407,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1193260407,
+    "wof:lastmodified":1537665439,
+    "wof:name":"Mephaungwa",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.09937,
+    17.7077,
+    97.09937,
+    17.7077
+],
+  "geometry": {"coordinates":[97.09936999999999,17.7077],"type":"Point"}
+}

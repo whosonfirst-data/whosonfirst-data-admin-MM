@@ -1,0 +1,69 @@
+{
+  "id": 1310368781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.13667,16.88034,96.13667,16.88034",
+    "geom:latitude":16.88034,
+    "geom:longitude":96.13667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D004",
+    "gn:admin3_code":"MMR013042",
+    "gn:asciiname":"Kodaing",
+    "gn:country_code":"MM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481922,
+    "gn:latitude":16.88034,
+    "gn:longitude":96.13667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kodaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481922
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"12a909d35048cdd09b6aca38e089eee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047923,
+            "locality_id":1310368781,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1310368781,
+    "wof:lastmodified":1536614489,
+    "wof:name":"Kodaing",
+    "wof:parent_id":1092047923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.13667,
+    16.88034,
+    96.13667,
+    16.88034
+],
+  "geometry": {"coordinates":[96.13667,16.88034],"type":"Point"}
+}

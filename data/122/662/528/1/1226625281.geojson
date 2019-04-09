@@ -1,0 +1,69 @@
+{
+  "id": 1226625281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.36667,16.51667,97.36667,16.51667",
+    "geom:latitude":16.51667,
+    "geom:longitude":97.36667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"MMR011D002",
+    "gn:admin3_code":"MMR011008",
+    "gn:asciiname":"Wepadan",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286374,
+    "gn:latitude":16.51667,
+    "gn:longitude":97.36667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wepadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092047619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286374
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2a7e9fd3d0718cad5041982440ba9533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047619,
+            "locality_id":1226625281,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":1226625281,
+    "wof:lastmodified":1536888607,
+    "wof:name":"Wepadan",
+    "wof:parent_id":1092047619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.36667,
+    16.51667,
+    97.36667,
+    16.51667
+],
+  "geometry": {"coordinates":[97.36667,16.51667],"type":"Point"}
+}

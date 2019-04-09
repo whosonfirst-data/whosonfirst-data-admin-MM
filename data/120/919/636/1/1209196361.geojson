@@ -1,0 +1,63 @@
+{
+  "id": 1209196361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.71303,17.03536,96.71303,17.03536",
+    "geom:latitude":17.03536,
+    "geom:longitude":96.71303,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007003",
+    "gn:asciiname":"Shwepaukkan",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296491,
+    "gn:latitude":17.03536,
+    "gn:longitude":96.71303,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shwepaukkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296491
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d7019e9351055cc1c79bd9294faeb749",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209196361
+        }
+    ],
+    "wof:id":1209196361,
+    "wof:lastmodified":1536294757,
+    "wof:name":"Shwepaukkan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.71303,
+    17.03536,
+    96.71303,
+    17.03536
+],
+  "geometry": {"coordinates":[96.71303,17.03536],"type":"Point"}
+}

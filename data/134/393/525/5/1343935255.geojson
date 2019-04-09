@@ -1,0 +1,69 @@
+{
+  "id": 1343935255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.11306,20.23222,98.11306,20.23222",
+    "geom:latitude":20.23222,
+    "geom:longitude":98.11306,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014021",
+    "gn:asciiname":"Pangpao",
+    "gn:country_code":"MM",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1479856,
+    "gn:latitude":20.23222,
+    "gn:longitude":98.11306,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"P\u0101ngpao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479856
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c20ca4610543dc0319a2f183b1154c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1343935255,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343935255,
+    "wof:lastmodified":1537054096,
+    "wof:name":"Pangpao",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.11306,
+    20.23222,
+    98.11306,
+    20.23222
+],
+  "geometry": {"coordinates":[98.11306,20.23222],"type":"Point"}
+}

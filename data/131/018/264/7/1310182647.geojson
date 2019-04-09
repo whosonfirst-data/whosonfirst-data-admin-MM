@@ -1,0 +1,69 @@
+{
+  "id": 1310182647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.6324,21.31087,99.6324,21.31087",
+    "geom:latitude":21.31087,
+    "geom:longitude":99.6324,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016001",
+    "gn:asciiname":"Hpwe-hong",
+    "gn:country_code":"MM",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323412,
+    "gn:latitude":21.31087,
+    "gn:longitude":99.6324,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hpw\u00e8-h\u014dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323412
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"24e1f0f34f158530a4677f161b7637c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1310182647,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310182647,
+    "wof:lastmodified":1536884792,
+    "wof:name":"Hpwe-hong",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.6324,
+    21.31087,
+    99.6324,
+    21.31087
+],
+  "geometry": {"coordinates":[99.6324,21.31087],"type":"Point"}
+}

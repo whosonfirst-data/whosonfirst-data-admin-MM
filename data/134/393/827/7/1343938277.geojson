@@ -1,0 +1,69 @@
+{
+  "id": 1343938277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.69849,23.09073,96.69849,23.09073",
+    "geom:latitude":23.09073,
+    "geom:longitude":96.69849,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D008",
+    "gn:admin3_code":"MMR015017",
+    "gn:asciiname":"Magyi-bin",
+    "gn:country_code":"MM",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312575,
+    "gn:latitude":23.09073,
+    "gn:longitude":96.69849,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Magyi-bin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312575
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"481a55f032d07ba99ecaa45040a3a59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1343938277,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343938277,
+    "wof:lastmodified":1537049990,
+    "wof:name":"Magyi-bin",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.69849,
+    23.09073,
+    96.69849,
+    23.09073
+],
+  "geometry": {"coordinates":[96.69849000000001,23.09073],"type":"Point"}
+}

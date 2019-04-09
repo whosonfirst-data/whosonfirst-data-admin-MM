@@ -1,0 +1,69 @@
+{
+  "id": 1293700353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.13861,19.42237,94.13861,19.42237",
+    "geom:latitude":19.42237,
+    "geom:longitude":94.13861,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012014",
+    "gn:asciiname":"Let-ya",
+    "gn:country_code":"MM",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313824,
+    "gn:latitude":19.42237,
+    "gn:longitude":94.13861,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Let-ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313824
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"193beea2e1ae9d2ecf5f32f8a497a0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1293700353,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1293700353,
+    "wof:lastmodified":1536976846,
+    "wof:name":"Let-ya",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.13861,
+    19.42237,
+    94.13861,
+    19.42237
+],
+  "geometry": {"coordinates":[94.13861,19.42237],"type":"Point"}
+}

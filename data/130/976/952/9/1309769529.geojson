@@ -1,0 +1,69 @@
+{
+  "id": 1309769529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.08736,16.75857,96.08736,16.75857",
+    "geom:latitude":16.75857,
+    "geom:longitude":96.08736,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013031",
+    "gn:asciiname":"Kanhla",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481916,
+    "gn:latitude":16.75857,
+    "gn:longitude":96.08736,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kanhla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481916
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cf0709635e34d0978111edef589780c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1309769529,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1309769529,
+    "wof:lastmodified":1536982788,
+    "wof:name":"Kanhla",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.08736,
+    16.75857,
+    96.08736,
+    16.75857
+],
+  "geometry": {"coordinates":[96.08736,16.75857],"type":"Point"}
+}

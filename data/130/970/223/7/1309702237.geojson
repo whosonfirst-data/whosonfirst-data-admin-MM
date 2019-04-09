@@ -1,0 +1,69 @@
+{
+  "id": 1309702237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.48159,20.54352,96.48159,20.54352",
+    "geom:latitude":20.54352,
+    "geom:longitude":96.48159,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D006",
+    "gn:admin3_code":"MMR010023",
+    "gn:asciiname":"Pinnwe",
+    "gn:country_code":"MM",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299919,
+    "gn:latitude":20.54352,
+    "gn:longitude":96.48159,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pinnwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299919
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"defb216d21fde286ce55cfd465784a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047763,
+            "locality_id":1309702237,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1309702237,
+    "wof:lastmodified":1537077361,
+    "wof:name":"Pinnwe",
+    "wof:parent_id":1092047763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.48159,
+    20.54352,
+    96.48159,
+    20.54352
+],
+  "geometry": {"coordinates":[96.48159,20.54352],"type":"Point"}
+}

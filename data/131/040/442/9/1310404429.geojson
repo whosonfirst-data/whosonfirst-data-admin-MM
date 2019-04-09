@@ -1,0 +1,69 @@
+{
+  "id": 1310404429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.31027,16.38892,98.31027,16.38892",
+    "geom:latitude":16.38892,
+    "geom:longitude":98.31027,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Mepalan",
+    "gn:country_code":"MM",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309646,
+    "gn:latitude":16.38892,
+    "gn:longitude":98.31027,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mepalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309646
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"658cdf8ea7a5bafb984571974e4a6ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1310404429,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310404429,
+    "wof:lastmodified":1537060185,
+    "wof:name":"Mepalan",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.31027,
+    16.38892,
+    98.31027,
+    16.38892
+],
+  "geometry": {"coordinates":[98.31027,16.38892],"type":"Point"}
+}

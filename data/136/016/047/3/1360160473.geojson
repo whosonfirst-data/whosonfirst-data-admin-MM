@@ -1,0 +1,69 @@
+{
+  "id": 1360160473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.198,20.17974,96.198,20.17974",
+    "geom:latitude":20.17974,
+    "geom:longitude":96.198,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D001",
+    "gn:admin3_code":"MMR018003",
+    "gn:asciiname":"Magyibin",
+    "gn:country_code":"MM",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312580,
+    "gn:latitude":20.17974,
+    "gn:longitude":96.198,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Magyibin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092047063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312580
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b78e244e7e59bd78fbdd211ea4c71d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047063,
+            "locality_id":1360160473,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1360160473,
+    "wof:lastmodified":1536835953,
+    "wof:name":"Magyibin",
+    "wof:parent_id":1092047063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.198,
+    20.17974,
+    96.198,
+    20.17974
+],
+  "geometry": {"coordinates":[96.19799999999999,20.17974],"type":"Point"}
+}

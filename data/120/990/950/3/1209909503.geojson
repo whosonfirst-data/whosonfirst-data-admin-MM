@@ -1,0 +1,73 @@
+{
+  "id": 1209909503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.47295,15.91963,98.47295,15.91963",
+    "geom:latitude":15.91963,
+    "geom:longitude":98.47295,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003007",
+    "gn:asciiname":"Lonhpado",
+    "gn:country_code":"MM",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313035,
+    "gn:latitude":15.91963,
+    "gn:longitude":98.47295,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"L\u00f4nhpado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikwi",
+        "L\u00f4nhpado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313035
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1f6555863fccb43aa938a439a103cc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1209909503,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1209909503,
+    "wof:lastmodified":1537665459,
+    "wof:name":"Lonhpado",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.47295,
+    15.91963,
+    98.47295,
+    15.91963
+],
+  "geometry": {"coordinates":[98.47295,15.91963],"type":"Point"}
+}

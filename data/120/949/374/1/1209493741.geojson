@@ -1,0 +1,63 @@
+{
+  "id": 1209493741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.06336,22.74924,95.06336,22.74924",
+    "geom:latitude":22.74924,
+    "geom:longitude":95.06336,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005010",
+    "gn:asciiname":"Thitya-aing",
+    "gn:country_code":"MM",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291245,
+    "gn:latitude":22.74924,
+    "gn:longitude":95.06336,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thitya-aing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291245
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"965cc5ccb5be422b580e9f2c36fafe64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209493741
+        }
+    ],
+    "wof:id":1209493741,
+    "wof:lastmodified":1536285403,
+    "wof:name":"Thitya-aing",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.06336,
+    22.74924,
+    95.06336,
+    22.74924
+],
+  "geometry": {"coordinates":[95.06336,22.74924],"type":"Point"}
+}

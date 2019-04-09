@@ -1,0 +1,73 @@
+{
+  "id": 1276743621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.84756,21.49295,97.84756,21.49295",
+    "geom:latitude":21.49295,
+    "geom:longitude":97.84756,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014012",
+    "gn:asciiname":"Man Neng",
+    "gn:country_code":"MM",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310956,
+    "gn:latitude":21.49295,
+    "gn:longitude":97.84756,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Man Neng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e8ng",
+        "Man Neng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310956
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f6eec5c7851ee4580ae31c961df1f883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1276743621,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276743621,
+    "wof:lastmodified":1537665448,
+    "wof:name":"Man Neng",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.84756,
+    21.49295,
+    97.84756,
+    21.49295
+],
+  "geometry": {"coordinates":[97.84756,21.49295],"type":"Point"}
+}

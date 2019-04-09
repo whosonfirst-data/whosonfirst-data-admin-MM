@@ -1,0 +1,63 @@
+{
+  "id": 1209086781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.6603,20.28765,97.6603,20.28765",
+    "geom:latitude":20.28765,
+    "geom:longitude":97.6603,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Kongyai",
+    "gn:country_code":"MM",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318323,
+    "gn:latitude":20.28765,
+    "gn:longitude":97.6603,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kongyai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318323
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f07b821228a9ee155cf31c8e99470a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209086781
+        }
+    ],
+    "wof:id":1209086781,
+    "wof:lastmodified":1536298161,
+    "wof:name":"Kongyai",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.6603,
+    20.28765,
+    97.6603,
+    20.28765
+],
+  "geometry": {"coordinates":[97.66030000000001,20.28765],"type":"Point"}
+}

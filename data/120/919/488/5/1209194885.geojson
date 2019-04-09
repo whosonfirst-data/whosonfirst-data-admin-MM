@@ -1,0 +1,63 @@
+{
+  "id": 1209194885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.75981,20.85616,96.75981,20.85616",
+    "geom:latitude":20.85616,
+    "geom:longitude":96.75981,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014005",
+    "gn:asciiname":"Myegya",
+    "gn:country_code":"MM",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308004,
+    "gn:latitude":20.85616,
+    "gn:longitude":96.75981,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myegya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308004
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b0934ec89c0c88fd0825a1810ef47c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209194885
+        }
+    ],
+    "wof:id":1209194885,
+    "wof:lastmodified":1536294806,
+    "wof:name":"Myegya",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.75981,
+    20.85616,
+    96.75981,
+    20.85616
+],
+  "geometry": {"coordinates":[96.75981,20.85616],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293686501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.35988,24.18729,97.35988,24.18729",
+    "geom:latitude":24.18729,
+    "geom:longitude":97.35988,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D003",
+    "gn:admin3_code":"MMR001013",
+    "gn:asciiname":"Sumhkre",
+    "gn:country_code":"MM",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295538,
+    "gn:latitude":24.18729,
+    "gn:longitude":97.35988,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sumhkre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sumrkre",
+        "Sumhkre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092045031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295538
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b7399ce604cbeea1491b20d7c9aa14c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045031,
+            "locality_id":1293686501,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293686501,
+    "wof:lastmodified":1537665366,
+    "wof:name":"Sumhkre",
+    "wof:parent_id":1092045031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.35988,
+    24.18729,
+    97.35988,
+    24.18729
+],
+  "geometry": {"coordinates":[97.35988,24.18729],"type":"Point"}
+}

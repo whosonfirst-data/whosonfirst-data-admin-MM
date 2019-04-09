@@ -1,0 +1,69 @@
+{
+  "id": 1242786935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.27893,21.39963,92.27893,21.39963",
+    "geom:latitude":21.39963,
+    "geom:longitude":92.27893,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D002",
+    "gn:admin3_code":"MMR012009",
+    "gn:asciiname":"Amtuila",
+    "gn:country_code":"MM",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329199,
+    "gn:latitude":21.39963,
+    "gn:longitude":92.27893,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Amtuila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329199
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d8264614a299a974117057183ccdfe56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046317,
+            "locality_id":1242786935,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1242786935,
+    "wof:lastmodified":1536762317,
+    "wof:name":"Amtuila",
+    "wof:parent_id":1092046317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.27893,
+    21.39963,
+    92.27893,
+    21.39963
+],
+  "geometry": {"coordinates":[92.27893,21.39963],"type":"Point"}
+}

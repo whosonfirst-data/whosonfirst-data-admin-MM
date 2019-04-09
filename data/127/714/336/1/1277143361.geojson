@@ -1,0 +1,73 @@
+{
+  "id": 1277143361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.34852,16.76709,96.34852,16.76709",
+    "geom:latitude":16.76709,
+    "geom:longitude":96.34852,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013023",
+    "gn:asciiname":"Thategwin",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292297,
+    "gn:latitude":16.76709,
+    "gn:longitude":96.34852,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thategwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thatekwin",
+        "Thategwin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292297
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0d7452e03183ee053585206118323738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1277143361,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1277143361,
+    "wof:lastmodified":1537665349,
+    "wof:name":"Thategwin",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.34852,
+    16.76709,
+    96.34852,
+    16.76709
+],
+  "geometry": {"coordinates":[96.34851999999999,16.76709],"type":"Point"}
+}

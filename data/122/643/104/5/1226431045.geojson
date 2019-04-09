@@ -1,0 +1,74 @@
+{
+  "id": 1226431045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.37901,23.43133,94.37901,23.43133",
+    "geom:latitude":23.43133,
+    "geom:longitude":94.37901,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005028",
+    "gn:asciiname":"Taung Tunhlaw",
+    "gn:country_code":"MM",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290435,
+    "gn:latitude":23.43133,
+    "gn:longitude":94.37901,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taung Tunhlaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunhlaw",
+        "Taung Tunhlaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290435,
+        "wk:page":"Tunhlaw"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fb7bd1967b8cde17865c27a15fe5617d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1226431045,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1226431045,
+    "wof:lastmodified":1537665338,
+    "wof:name":"Taung Tunhlaw",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.37901,
+    23.43133,
+    94.37901,
+    23.43133
+],
+  "geometry": {"coordinates":[94.37900999999999,23.43133],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243266187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.18333,23.0,93.18333,23.0",
+    "geom:latitude":23.0,
+    "geom:longitude":93.18333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D003",
+    "gn:admin3_code":"MMR004003",
+    "gn:asciiname":"Dawn",
+    "gn:country_code":"MM",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326566,
+    "gn:latitude":23.0,
+    "gn:longitude":93.18333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Dawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326566
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"98b82d529b2d0400dc393999c53ffcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045227,
+            "locality_id":1243266187,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1243266187,
+    "wof:lastmodified":1537062591,
+    "wof:name":"Dawn",
+    "wof:parent_id":1092045227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.18333,
+    23.0,
+    93.18333,
+    23.0
+],
+  "geometry": {"coordinates":[93.18333,23.0],"type":"Point"}
+}

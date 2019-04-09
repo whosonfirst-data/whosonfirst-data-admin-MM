@@ -1,0 +1,69 @@
+{
+  "id": 1259689731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.67059,27.3297,98.67059,27.3297",
+    "geom:latitude":27.3297,
+    "geom:longitude":98.67059,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001018",
+    "gn:asciiname":"Salapra",
+    "gn:country_code":"MM",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298264,
+    "gn:latitude":27.3297,
+    "gn:longitude":98.67059,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Salapra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298264
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"449bfb7c1f5df5a1ac7e005a8879b441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1259689731,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1259689731,
+    "wof:lastmodified":1537055550,
+    "wof:name":"Salapra",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.67059,
+    27.3297,
+    98.67059,
+    27.3297
+],
+  "geometry": {"coordinates":[98.67059,27.3297],"type":"Point"}
+}

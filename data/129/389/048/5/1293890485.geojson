@@ -1,0 +1,73 @@
+{
+  "id": 1293890485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.57741,16.57853,95.57741,16.57853",
+    "geom:latitude":16.57853,
+    "geom:longitude":95.57741,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Pagosu",
+    "gn:country_code":"MM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1302608,
+    "gn:latitude":16.57853,
+    "gn:longitude":95.57741,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pagosu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagozu",
+        "Pagosu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1302608
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9caf27d0a3ffe7af45c8b0fe2cf68604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1293890485,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1293890485,
+    "wof:lastmodified":1537665401,
+    "wof:name":"Pagosu",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.57741,
+    16.57852999999999,
+    95.57741,
+    16.57852999999999
+],
+  "geometry": {"coordinates":[95.57741,16.57852999999999],"type":"Point"}
+}

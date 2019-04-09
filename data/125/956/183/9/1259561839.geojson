@@ -1,0 +1,70 @@
+{
+  "id": 1259561839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.71176,22.98857,94.71176,22.98857",
+    "geom:latitude":22.98857,
+    "geom:longitude":94.71176,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005029",
+    "gn:asciiname":"Myaungzin",
+    "gn:country_code":"MM",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308053,
+    "gn:latitude":22.98857,
+    "gn:longitude":94.71176,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myaungzin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308053,
+        "wk:page":"Myaungzin"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"859b9fe93999ad28f9b11f71591fb5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1259561839,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1259561839,
+    "wof:lastmodified":1537568478,
+    "wof:name":"Myaungzin",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.71176,
+    22.98857000000001,
+    94.71176,
+    22.98857000000001
+],
+  "geometry": {"coordinates":[94.71176,22.98857000000001],"type":"Point"}
+}

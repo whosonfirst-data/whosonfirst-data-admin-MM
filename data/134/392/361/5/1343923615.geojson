@@ -1,0 +1,73 @@
+{
+  "id": 1343923615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.15609,19.73784,96.15609,19.73784",
+    "geom:latitude":19.73784,
+    "geom:longitude":96.15609,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"MMR018D002",
+    "gn:admin3_code":"MMR018002",
+    "gn:asciiname":"Pyangabye",
+    "gn:country_code":"MM",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299248,
+    "gn:latitude":19.73784,
+    "gn:longitude":96.15609,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pyangabye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyankabye",
+        "Pyangabye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        1108804897,
+        1092045099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299248
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c9af448afaa69a07ea744391562171b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045099,
+            "locality_id":1343923615,
+            "region_id":1108804897
+        }
+    ],
+    "wof:id":1343923615,
+    "wof:lastmodified":1537665386,
+    "wof:name":"Pyangabye",
+    "wof:parent_id":1092045099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.15609,
+    19.73784,
+    96.15609,
+    19.73784
+],
+  "geometry": {"coordinates":[96.15609000000001,19.73784],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343750423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.1351,23.64737,96.1351,23.64737",
+    "geom:latitude":23.64737,
+    "geom:longitude":96.1351,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005022",
+    "gn:asciiname":"Mahlainggyon",
+    "gn:country_code":"MM",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312347,
+    "gn:latitude":23.64737,
+    "gn:longitude":96.1351,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mahlainggyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahlaingkyon",
+        "Mahlainggyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312347
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"09a1b2ac1972e145ac52a69b709c18cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1343750423,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343750423,
+    "wof:lastmodified":1537665456,
+    "wof:name":"Mahlainggyon",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.1351,
+    23.64737,
+    96.1351,
+    23.64737
+],
+  "geometry": {"coordinates":[96.13509999999999,23.64737],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226251833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.35287,18.50377,94.35287,18.50377",
+    "geom:latitude":18.50377,
+    "geom:longitude":94.35287,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D004",
+    "gn:admin3_code":"MMR012015",
+    "gn:asciiname":"Byiwa",
+    "gn:country_code":"MM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1327754,
+    "gn:latitude":18.50377,
+    "gn:longitude":94.35287,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Byiwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327754
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1a7ddbbec5e80d4ccff7ca7bc7c9d5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047569,
+            "locality_id":1226251833,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1226251833,
+    "wof:lastmodified":1536925469,
+    "wof:name":"Byiwa",
+    "wof:parent_id":1092047569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.35287,
+    18.50377000000001,
+    94.35287,
+    18.50377000000001
+],
+  "geometry": {"coordinates":[94.35287,18.50377000000001],"type":"Point"}
+}

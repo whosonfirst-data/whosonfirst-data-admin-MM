@@ -1,0 +1,73 @@
+{
+  "id": 1193142975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.65481,26.88699,97.65481,26.88699",
+    "geom:latitude":26.88699,
+    "geom:longitude":97.65481,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001014",
+    "gn:asciiname":"La-awn Ga",
+    "gn:country_code":"MM",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315282,
+    "gn:latitude":26.88699,
+    "gn:longitude":97.65481,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"La-awn Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laawng",
+        "La-awn Ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315282
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"12dd33cfec79eff05eef04f5dc0fb3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1193142975,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1193142975,
+    "wof:lastmodified":1537665470,
+    "wof:name":"La-awn Ga",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.65481,
+    26.88699,
+    97.65481,
+    26.88699
+],
+  "geometry": {"coordinates":[97.65481,26.88699],"type":"Point"}
+}

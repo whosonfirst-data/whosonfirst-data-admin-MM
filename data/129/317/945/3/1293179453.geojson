@@ -1,0 +1,74 @@
+{
+  "id": 1293179453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.27082,22.84585,95.27082,22.84585",
+    "geom:latitude":22.84585,
+    "geom:longitude":95.27082,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005009",
+    "gn:asciiname":"Kinmungyon",
+    "gn:country_code":"MM",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318964,
+    "gn:latitude":22.84585,
+    "gn:longitude":95.27082,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kinmungyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinmnyon",
+        "Kinmunyon",
+        "Kinmungyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318964
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"002e982fdab566bfae89f8ee5d73b7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1293179453,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293179453,
+    "wof:lastmodified":1537665493,
+    "wof:name":"Kinmungyon",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.27082,
+    22.84585,
+    95.27082,
+    22.84585
+],
+  "geometry": {"coordinates":[95.27082,22.84585],"type":"Point"}
+}

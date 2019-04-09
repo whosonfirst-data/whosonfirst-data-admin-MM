@@ -1,0 +1,63 @@
+{
+  "id": 1209622075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.92998,17.1196,94.92998,17.1196",
+    "geom:latitude":17.1196,
+    "geom:longitude":94.92998,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017003",
+    "gn:asciiname":"Segyikwin",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297528,
+    "gn:latitude":17.1196,
+    "gn:longitude":94.92998,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Segyikwin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297528
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"176778d9744faf06a4a27586ccfdfdb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209622075
+        }
+    ],
+    "wof:id":1209622075,
+    "wof:lastmodified":1536281483,
+    "wof:name":"Segyikwin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.92998,
+    17.1196,
+    94.92998,
+    17.1196
+],
+  "geometry": {"coordinates":[94.92998,17.1196],"type":"Point"}
+}

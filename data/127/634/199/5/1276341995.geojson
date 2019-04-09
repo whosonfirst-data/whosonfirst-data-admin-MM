@@ -1,0 +1,69 @@
+{
+  "id": 1276341995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.97649,16.51125,94.97649,16.51125",
+    "geom:latitude":16.51125,
+    "geom:longitude":94.97649,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D003",
+    "gn:admin3_code":"MMR017014",
+    "gn:asciiname":"Labutkala",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315245,
+    "gn:latitude":16.51125,
+    "gn:longitude":94.97649,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Labutkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092046857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315245
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ef34ede99f853767e755a42cd7080ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046857,
+            "locality_id":1276341995,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1276341995,
+    "wof:lastmodified":1536767250,
+    "wof:name":"Labutkala",
+    "wof:parent_id":1092046857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.97649,
+    16.51125,
+    94.97649,
+    16.51125
+],
+  "geometry": {"coordinates":[94.97649,16.51125],"type":"Point"}
+}

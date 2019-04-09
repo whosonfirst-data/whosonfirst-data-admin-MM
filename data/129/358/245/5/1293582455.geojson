@@ -1,0 +1,73 @@
+{
+  "id": 1293582455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.31805,18.49113,97.31805,18.49113",
+    "geom:latitude":18.49113,
+    "geom:longitude":97.31805,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Kawludo",
+    "gn:country_code":"MM",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319851,
+    "gn:latitude":18.49113,
+    "gn:longitude":97.31805,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawludo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kauludo",
+        "Kawludo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319851
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b2f1187ffe83f57688d39526424b937b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1293582455,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1293582455,
+    "wof:lastmodified":1537665500,
+    "wof:name":"Kawludo",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.31805,
+    18.49113,
+    97.31805,
+    18.49113
+],
+  "geometry": {"coordinates":[97.31805,18.49113],"type":"Point"}
+}

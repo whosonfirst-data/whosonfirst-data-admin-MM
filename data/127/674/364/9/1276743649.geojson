@@ -1,0 +1,69 @@
+{
+  "id": 1276743649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.63892,23.86545,98.63892,23.86545",
+    "geom:latitude":23.86545,
+    "geom:longitude":98.63892,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015023",
+    "gn:asciiname":"Lunghtang",
+    "gn:country_code":"MM",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1312858,
+    "gn:latitude":23.86545,
+    "gn:longitude":98.63892,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lunghtang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1312858
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"794ab1dcda474e2445c0b08808a558f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1276743649,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1276743649,
+    "wof:lastmodified":1536726510,
+    "wof:name":"Lunghtang",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.63892,
+    23.86545,
+    98.63892,
+    23.86545
+],
+  "geometry": {"coordinates":[98.63892,23.86545],"type":"Point"}
+}

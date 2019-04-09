@@ -1,0 +1,69 @@
+{
+  "id": 1260276969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.73169,22.5344,95.73169,22.5344",
+    "geom:latitude":22.5344,
+    "geom:longitude":95.73169,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D002",
+    "gn:admin3_code":"MMR005004",
+    "gn:asciiname":"Paukton",
+    "gn:country_code":"MM",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1301019,
+    "gn:latitude":22.5344,
+    "gn:longitude":95.73169,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Paukton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1301019
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b498d1b6bbc02b340a48ec7d76d14cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047331,
+            "locality_id":1260276969,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260276969,
+    "wof:lastmodified":1536721059,
+    "wof:name":"Paukton",
+    "wof:parent_id":1092047331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.73169,
+    22.5344,
+    95.73169,
+    22.5344
+],
+  "geometry": {"coordinates":[95.73169,22.5344],"type":"Point"}
+}

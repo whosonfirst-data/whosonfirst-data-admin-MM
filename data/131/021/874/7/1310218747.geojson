@@ -1,0 +1,73 @@
+{
+  "id": 1310218747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.80644,19.03407,93.80644,19.03407",
+    "geom:latitude":19.03407,
+    "geom:longitude":93.80644,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012013",
+    "gn:asciiname":"Ngataba",
+    "gn:country_code":"MM",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304434,
+    "gn:latitude":19.03407,
+    "gn:longitude":93.80644,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngataba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngatabe",
+        "Ngataba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304434
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"04e78336fd8796a89849f43ab6df7d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1310218747,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1310218747,
+    "wof:lastmodified":1537665411,
+    "wof:name":"Ngataba",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.80644,
+    19.03407,
+    93.80644,
+    19.03407
+],
+  "geometry": {"coordinates":[93.80643999999999,19.03407],"type":"Point"}
+}

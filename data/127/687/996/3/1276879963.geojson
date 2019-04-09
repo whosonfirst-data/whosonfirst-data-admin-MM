@@ -1,0 +1,73 @@
+{
+  "id": 1276879963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.44012,16.44616,95.44012,16.44616",
+    "geom:latitude":16.44616,
+    "geom:longitude":95.44012,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D004",
+    "gn:admin3_code":"MMR017018",
+    "gn:asciiname":"Sibwachaung",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296403,
+    "gn:latitude":16.44616,
+    "gn:longitude":95.44012,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sibwachaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibwagyaung",
+        "Sibwachaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296403
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e13dd3c95615eb8f43ed60512a4c5acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045903,
+            "locality_id":1276879963,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1276879963,
+    "wof:lastmodified":1537665370,
+    "wof:name":"Sibwachaung",
+    "wof:parent_id":1092045903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.44012,
+    16.44616,
+    95.44012,
+    16.44616
+],
+  "geometry": {"coordinates":[95.44011999999999,16.44616],"type":"Point"}
+}

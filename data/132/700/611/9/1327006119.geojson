@@ -1,0 +1,69 @@
+{
+  "id": 1327006119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.0948,16.8834,96.0948,16.8834",
+    "geom:latitude":16.8834,
+    "geom:longitude":96.0948,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013001",
+    "gn:asciiname":"Pauktaw",
+    "gn:country_code":"MM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481693,
+    "gn:latitude":16.8834,
+    "gn:longitude":96.0948,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pauktaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481693
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f773f025a905198137e7bf0c40efa403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1327006119,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1327006119,
+    "wof:lastmodified":1536798559,
+    "wof:name":"Pauktaw",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.0948,
+    16.8834,
+    96.0948,
+    16.8834
+],
+  "geometry": {"coordinates":[96.09480000000001,16.8834],"type":"Point"}
+}

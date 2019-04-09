@@ -1,0 +1,70 @@
+{
+  "id": 1327023543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.90051,24.93022,94.90051,24.93022",
+    "geom:latitude":24.93022,
+    "geom:longitude":94.90051,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Hunawng",
+    "gn:country_code":"MM",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322528,
+    "gn:latitude":24.93022,
+    "gn:longitude":94.90051,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hunawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322528,
+        "wk:page":"Hunawng_%2824%C2%B056%22N_94%C2%B054%22E%29"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cbf318b20376d5a4b17302e1d8f8c41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1327023543,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1327023543,
+    "wof:lastmodified":1537568501,
+    "wof:name":"Hunawng",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.90051,
+    24.93022,
+    94.90051,
+    24.93022
+],
+  "geometry": {"coordinates":[94.90051,24.93022],"type":"Point"}
+}

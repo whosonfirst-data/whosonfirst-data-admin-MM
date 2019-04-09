@@ -1,0 +1,69 @@
+{
+  "id": 1293214195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.02572,19.89637,93.02572,19.89637",
+    "geom:latitude":19.89637,
+    "geom:longitude":93.02572,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D001",
+    "gn:admin3_code":"MMR012007",
+    "gn:asciiname":"Sawmaigyi",
+    "gn:country_code":"MM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297659,
+    "gn:latitude":19.89637,
+    "gn:longitude":93.02572,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sawmaigyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297659
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"796ad704c45fbd624ec0c100d3fcd200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":1293214195,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1293214195,
+    "wof:lastmodified":1536683890,
+    "wof:name":"Sawmaigyi",
+    "wof:parent_id":1092047375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.02572,
+    19.89637,
+    93.02572,
+    19.89637
+],
+  "geometry": {"coordinates":[93.02572000000001,19.89637],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209803297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.91667,22.56667,98.91667,22.56667",
+    "geom:latitude":22.56667,
+    "geom:longitude":98.91667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Ngekhting",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304309,
+    "gn:latitude":22.56667,
+    "gn:longitude":98.91667,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ngekhting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngekting",
+        "Ngekhting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304309
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"096a003090ec565a752fe9ab35d7ab7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1209803297,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1209803297,
+    "wof:lastmodified":1537665409,
+    "wof:name":"Ngekhting",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.91667,
+    22.56667,
+    98.91667,
+    22.56667
+],
+  "geometry": {"coordinates":[98.91667,22.56667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327422425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.97425,24.87765,94.97425,24.87765",
+    "geom:latitude":24.87765,
+    "geom:longitude":94.97425,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Man Maw",
+    "gn:country_code":"MM",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311173,
+    "gn:latitude":24.87765,
+    "gn:longitude":94.97425,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Maw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n Maw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311173,
+        "wk:page":"Man_Maw_%2824%C2%B052%22N_94%C2%B058%22E%29"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"85ac4e8225186c2c436931363f679102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1327422425,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1327422425,
+    "wof:lastmodified":1537665449,
+    "wof:name":"Man Maw",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.97425,
+    24.87765,
+    94.97425,
+    24.87765
+],
+  "geometry": {"coordinates":[94.97425,24.87765],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209411915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.54288,22.07185,96.54288,22.07185",
+    "geom:latitude":22.07185,
+    "geom:longitude":96.54288,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010008",
+    "gn:asciiname":"Pwekawk",
+    "gn:country_code":"MM",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1299328,
+    "gn:latitude":22.07185,
+    "gn:longitude":96.54288,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pwekawk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1299328
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"25f048b29944b5ef61760f53003bc17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209411915
+        }
+    ],
+    "wof:id":1209411915,
+    "wof:lastmodified":1536287811,
+    "wof:name":"Pwekawk",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.54288,
+    22.07185,
+    96.54288,
+    22.07185
+],
+  "geometry": {"coordinates":[96.54288,22.07185],"type":"Point"}
+}

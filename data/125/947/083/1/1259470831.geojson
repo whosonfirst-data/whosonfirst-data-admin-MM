@@ -1,0 +1,69 @@
+{
+  "id": 1259470831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.12901,20.29175,99.12901,20.29175",
+    "geom:latitude":20.29175,
+    "geom:longitude":99.12901,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D002",
+    "gn:admin3_code":"MMR016008",
+    "gn:asciiname":"Wan Mehai",
+    "gn:country_code":"MM",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288131,
+    "gn:latitude":20.29175,
+    "gn:longitude":99.12901,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n M\u00e8hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288131
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"60bb3c64eac891619bb192808437b3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046683,
+            "locality_id":1259470831,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259470831,
+    "wof:lastmodified":1536876066,
+    "wof:name":"Wan Mehai",
+    "wof:parent_id":1092046683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.12901,
+    20.29175,
+    99.12901,
+    20.29175
+],
+  "geometry": {"coordinates":[99.12900999999999,20.29175],"type":"Point"}
+}

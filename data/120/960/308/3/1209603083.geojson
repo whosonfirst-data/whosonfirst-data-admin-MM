@@ -1,0 +1,63 @@
+{
+  "id": 1209603083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.0384,22.6254,97.0384,22.6254",
+    "geom:latitude":22.6254,
+    "geom:longitude":97.0384,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015012",
+    "gn:asciiname":"Manna",
+    "gn:country_code":"MM",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311126,
+    "gn:latitude":22.6254,
+    "gn:longitude":97.0384,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101nna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311126
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"857b21612cc28dcefa0724725fc42371",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209603083
+        }
+    ],
+    "wof:id":1209603083,
+    "wof:lastmodified":1536282102,
+    "wof:name":"Manna",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.0384,
+    22.6254,
+    97.0384,
+    22.6254
+],
+  "geometry": {"coordinates":[97.0384,22.6254],"type":"Point"}
+}

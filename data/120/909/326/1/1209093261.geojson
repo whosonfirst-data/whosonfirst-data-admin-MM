@@ -1,0 +1,63 @@
+{
+  "id": 1209093261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.5955,13.49522,98.5955,13.49522",
+    "geom:latitude":13.49522,
+    "geom:longitude":98.5955,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006003",
+    "gn:asciiname":"Nahi",
+    "gn:country_code":"MM",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307480,
+    "gn:latitude":13.49522,
+    "gn:longitude":98.5955,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307480
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"46bce23b0f9195a9b9deba2cf967d35a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209093261
+        }
+    ],
+    "wof:id":1209093261,
+    "wof:lastmodified":1536297969,
+    "wof:name":"Nahi",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.5955,
+    13.495220000000002,
+    98.5955,
+    13.495220000000002
+],
+  "geometry": {"coordinates":[98.5955,13.49522],"type":"Point"}
+}

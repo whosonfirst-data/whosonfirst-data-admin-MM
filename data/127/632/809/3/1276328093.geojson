@@ -1,0 +1,67 @@
+{
+  "id": 1276328093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.00321,21.70654,96.00321,21.70654",
+    "geom:latitude":21.70654,
+    "geom:longitude":96.00321,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shwebawgyun",
+    "gn:country_code":"MM",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296738,
+    "gn:latitude":21.70654,
+    "gn:longitude":96.00321,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Shwebawgyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296738
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"dd099d582809881d814dd1d9e232e04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1276328093,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1276328093,
+    "wof:lastmodified":1536786130,
+    "wof:name":"Shwebawgyun",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.00321,
+    21.70654,
+    96.00321,
+    21.70654
+],
+  "geometry": {"coordinates":[96.00321,21.70654],"type":"Point"}
+}

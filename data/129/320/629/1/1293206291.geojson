@@ -1,0 +1,69 @@
+{
+  "id": 1293206291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.62506,25.4536,97.62506,25.4536",
+    "geom:latitude":25.4536,
+    "geom:longitude":97.62506,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001002",
+    "gn:asciiname":"Tingum Saga",
+    "gn:country_code":"MM",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290923,
+    "gn:latitude":25.4536,
+    "gn:longitude":97.62506,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tingum Saga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290923
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3447967cedac06626857d9a2c14ee524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1293206291,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293206291,
+    "wof:lastmodified":1536695621,
+    "wof:name":"Tingum Saga",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.62506,
+    25.4536,
+    97.62506,
+    25.4536
+],
+  "geometry": {"coordinates":[97.62506,25.4536],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310287025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.68307,17.13483,96.68307,17.13483",
+    "geom:latitude":17.13483,
+    "geom:longitude":96.68307,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007003",
+    "gn:asciiname":"Mwebwegon",
+    "gn:country_code":"MM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308279,
+    "gn:latitude":17.13483,
+    "gn:longitude":96.68307,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mwebwegon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308279
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e8ba73d56900ab4e9893bdd9eef4e173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1310287025,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1310287025,
+    "wof:lastmodified":1536734751,
+    "wof:name":"Mwebwegon",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.68307,
+    17.13482999999999,
+    96.68307,
+    17.13482999999999
+],
+  "geometry": {"coordinates":[96.68307,17.13482999999999],"type":"Point"}
+}

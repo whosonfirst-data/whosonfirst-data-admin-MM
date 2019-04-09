@@ -1,0 +1,69 @@
+{
+  "id": 1310398835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.97725,16.92605,97.97725,16.92605",
+    "geom:latitude":16.92605,
+    "geom:longitude":97.97725,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003002",
+    "gn:asciiname":"Kwanta",
+    "gn:country_code":"MM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317643,
+    "gn:latitude":16.92605,
+    "gn:longitude":97.97725,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kwanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317643
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e354f4f9a90381ac48c54483c2bf00a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1310398835,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1310398835,
+    "wof:lastmodified":1537067917,
+    "wof:name":"Kwanta",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.97725,
+    16.92605,
+    97.97725,
+    16.92605
+],
+  "geometry": {"coordinates":[97.97725,16.92605],"type":"Point"}
+}

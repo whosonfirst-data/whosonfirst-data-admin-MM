@@ -1,0 +1,69 @@
+{
+  "id": 1310177965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.40088,20.03809,94.40088,20.03809",
+    "geom:latitude":20.03809,
+    "geom:longitude":94.40088,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009009",
+    "gn:asciiname":"Yebok",
+    "gn:country_code":"MM",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285574,
+    "gn:latitude":20.03809,
+    "gn:longitude":94.40088,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yebok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285574
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4cf8f941e70a6505ce03ea4ebdd1c994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1310177965,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1310177965,
+    "wof:lastmodified":1536891815,
+    "wof:name":"Yebok",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.40088,
+    20.03809,
+    94.40088,
+    20.03809
+],
+  "geometry": {"coordinates":[94.40088,20.03809],"type":"Point"}
+}

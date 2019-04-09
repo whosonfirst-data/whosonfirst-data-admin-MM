@@ -1,0 +1,63 @@
+{
+  "id": 1209622081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.34336,16.54961,94.34336,16.54961",
+    "geom:latitude":16.54961,
+    "geom:longitude":94.34336,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D001",
+    "gn:admin3_code":"MMR017004",
+    "gn:asciiname":"Moteinbyin",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308496,
+    "gn:latitude":16.54961,
+    "gn:longitude":94.34336,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Moteinbyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308496
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"11ed2e593cc8aea031cb1598560a9230",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209622081
+        }
+    ],
+    "wof:id":1209622081,
+    "wof:lastmodified":1536281483,
+    "wof:name":"Moteinbyin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.34336,
+    16.54961,
+    94.34336,
+    16.54961
+],
+  "geometry": {"coordinates":[94.34336,16.54961],"type":"Point"}
+}

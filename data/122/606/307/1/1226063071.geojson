@@ -1,0 +1,67 @@
+{
+  "id": 1226063071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.10655,23.66776,96.10655,23.66776",
+    "geom:latitude":23.66776,
+    "geom:longitude":96.10655,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kyungyi",
+    "gn:country_code":"MM",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315531,
+    "gn:latitude":23.66776,
+    "gn:longitude":96.10655,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kyungyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315531
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7782c8c81b0b7ec6d578c7efa5495049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1226063071,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1226063071,
+    "wof:lastmodified":1536700516,
+    "wof:name":"Kyungyi",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.10655,
+    23.66776,
+    96.10655,
+    23.66776
+],
+  "geometry": {"coordinates":[96.10655,23.66776],"type":"Point"}
+}

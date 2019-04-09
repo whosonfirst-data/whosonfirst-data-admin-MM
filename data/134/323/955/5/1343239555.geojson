@@ -1,0 +1,69 @@
+{
+  "id": 1343239555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.4334,23.08302,98.4334,23.08302",
+    "geom:latitude":23.08302,
+    "geom:longitude":98.4334,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Ho-kuk",
+    "gn:country_code":"MM",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324102,
+    "gn:latitude":23.08302,
+    "gn:longitude":98.4334,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ho-kuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324102
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9adce3eb5a5529ee5e6770a89b4b481d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1343239555,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343239555,
+    "wof:lastmodified":1537062421,
+    "wof:name":"Ho-kuk",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.4334,
+    23.08302,
+    98.4334,
+    23.08302
+],
+  "geometry": {"coordinates":[98.43340000000001,23.08302],"type":"Point"}
+}

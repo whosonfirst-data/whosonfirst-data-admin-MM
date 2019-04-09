@@ -1,0 +1,69 @@
+{
+  "id": 1360284127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.51202,17.03592,97.51202,17.03592",
+    "geom:latitude":17.03592,
+    "geom:longitude":97.51202,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003001",
+    "gn:asciiname":"Nopadaw",
+    "gn:country_code":"MM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304001,
+    "gn:latitude":17.03592,
+    "gn:longitude":97.51202,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nopadaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304001
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"78139f9b5269ff8bcf92e7dc301e5045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1360284127,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1360284127,
+    "wof:lastmodified":1536658627,
+    "wof:name":"Nopadaw",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.51202,
+    17.03592,
+    97.51202,
+    17.03592
+],
+  "geometry": {"coordinates":[97.51202000000001,17.03592],"type":"Point"}
+}

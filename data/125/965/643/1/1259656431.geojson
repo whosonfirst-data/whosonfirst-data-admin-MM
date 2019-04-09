@@ -1,0 +1,69 @@
+{
+  "id": 1259656431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.12959,19.74532,95.12959,19.74532",
+    "geom:latitude":19.74532,
+    "geom:longitude":95.12959,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009017",
+    "gn:asciiname":"Tubauk",
+    "gn:country_code":"MM",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290551,
+    "gn:latitude":19.74532,
+    "gn:longitude":95.12959,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tubauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290551
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"62aaf515ab7e93c759600b28af608e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1259656431,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1259656431,
+    "wof:lastmodified":1536606831,
+    "wof:name":"Tubauk",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.12959,
+    19.74532,
+    95.12959,
+    19.74532
+],
+  "geometry": {"coordinates":[95.12958999999999,19.74532],"type":"Point"}
+}

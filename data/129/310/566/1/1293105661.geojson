@@ -1,0 +1,74 @@
+{
+  "id": 1293105661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.27044,17.81192,95.27044,17.81192",
+    "geom:latitude":17.81192,
+    "geom:longitude":95.27044,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D002",
+    "gn:admin3_code":"MMR017013",
+    "gn:asciiname":"Ingabu",
+    "gn:country_code":"MM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322148,
+    "gn:latitude":17.81192,
+    "gn:longitude":95.27044,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ingabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingapu",
+        "Ingabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092045277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322148,
+        "wk:page":"Ingapu"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d8a4832753ec4f3a0436deda19eb0032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045277,
+            "locality_id":1293105661,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1293105661,
+    "wof:lastmodified":1537665513,
+    "wof:name":"Ingabu",
+    "wof:parent_id":1092045277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.27044,
+    17.81192,
+    95.27044,
+    17.81192
+],
+  "geometry": {"coordinates":[95.27043999999999,17.81192],"type":"Point"}
+}

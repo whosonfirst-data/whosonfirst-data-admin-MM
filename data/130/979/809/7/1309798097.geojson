@@ -1,0 +1,74 @@
+{
+  "id": 1309798097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.50556,19.26972,97.50556,19.26972",
+    "geom:latitude":19.26972,
+    "geom:longitude":97.50556,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002005",
+    "gn:asciiname":"Wan Loi",
+    "gn:cc2":"MM",
+    "gn:country_code":"MM",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288439,
+    "gn:latitude":19.26972,
+    "gn:longitude":97.50556,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Loi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loi",
+        "W\u0101n Loi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288439
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d11fbca770170153d67f53a18562c943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1309798097,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1309798097,
+    "wof:lastmodified":1537665322,
+    "wof:name":"Wan Loi",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.50556,
+    19.26972,
+    97.50556,
+    19.26972
+],
+  "geometry": {"coordinates":[97.50556,19.26972],"type":"Point"}
+}

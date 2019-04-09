@@ -1,0 +1,84 @@
+{
+  "id": 421189361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.3701,23.3225,94.3701,23.3225",
+    "geom:latitude":23.3225,
+    "geom:longitude":94.3701,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kazet"
+    ],
+    "name:eng_x_preferred":[
+        "Kazet"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1319453,
+    "qs:gn_pop":0,
+    "qs:name":"Kazet",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Sagaing",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":43869,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017476,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319453,
+        "gp:id":1017476,
+        "qs:id":43869,
+        "wd:id":"Q6381054"
+    },
+    "wof:country":"MM",
+    "wof:created":1459009622,
+    "wof:geomhash":"ed6e46fe4971d4a5fff77569f9544fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":421189361,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":421189361,
+    "wof:lastmodified":1527716268,
+    "wof:name":"Kazet",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.3701,
+    23.3225,
+    94.3701,
+    23.3225
+],
+  "geometry": {"coordinates":[94.37009999999999,23.3225],"type":"Point"}
+}

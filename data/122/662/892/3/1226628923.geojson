@@ -1,0 +1,69 @@
+{
+  "id": 1226628923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.65972,19.21845,95.65972,19.21845",
+    "geom:latitude":19.21845,
+    "geom:longitude":95.65972,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009016",
+    "gn:asciiname":"Thitnyo",
+    "gn:country_code":"MM",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291353,
+    "gn:latitude":19.21845,
+    "gn:longitude":95.65972,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thitnyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291353
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"16e8f89ca2f2a6739b5529720304999f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1226628923,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1226628923,
+    "wof:lastmodified":1536883131,
+    "wof:name":"Thitnyo",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.65972,
+    19.21845,
+    95.65972,
+    19.21845
+],
+  "geometry": {"coordinates":[95.65971999999999,19.21845],"type":"Point"}
+}

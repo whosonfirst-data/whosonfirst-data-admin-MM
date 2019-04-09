@@ -1,0 +1,69 @@
+{
+  "id": 1260381111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.09539,20.749,95.09539,20.749",
+    "geom:latitude":20.749,
+    "geom:longitude":95.09539,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010020",
+    "gn:asciiname":"Inbingyi",
+    "gn:country_code":"MM",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322282,
+    "gn:latitude":20.749,
+    "gn:longitude":95.09539,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Inbingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322282
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e37baa5caa41faaf3f4b70ddd623991d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1260381111,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1260381111,
+    "wof:lastmodified":1537075107,
+    "wof:name":"Inbingyi",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.09539,
+    20.749,
+    95.09539,
+    20.749
+],
+  "geometry": {"coordinates":[95.09538999999999,20.749],"type":"Point"}
+}

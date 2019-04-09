@@ -1,0 +1,69 @@
+{
+  "id": 1293081499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.65656,21.91866,99.65656,21.91866",
+    "geom:latitude":21.91866,
+    "geom:longitude":99.65656,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016003",
+    "gn:asciiname":"Wan Ho-na-ho-ta",
+    "gn:country_code":"MM",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289453,
+    "gn:latitude":21.91866,
+    "gn:longitude":99.65656,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Ho-na-ho-ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289453
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ff21716db201fd33e0577fb096a903d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1293081499,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293081499,
+    "wof:lastmodified":1536874499,
+    "wof:name":"Wan Ho-na-ho-ta",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.65656,
+    21.91866,
+    99.65656,
+    21.91866
+],
+  "geometry": {"coordinates":[99.65656,21.91866],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226829445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.71925,22.09018,98.71925,22.09018",
+    "geom:latitude":22.09018,
+    "geom:longitude":98.71925,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Man Hpakhi",
+    "gn:country_code":"MM",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311696,
+    "gn:latitude":22.09018,
+    "gn:longitude":98.71925,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Hpakhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101n Hpaki",
+        "M\u0101n Hpakhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311696
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"34573e83e7fa71be5d1abe20d243fff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1226829445,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226829445,
+    "wof:lastmodified":1537665452,
+    "wof:name":"Man Hpakhi",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.71925,
+    22.09018,
+    98.71925,
+    22.09018
+],
+  "geometry": {"coordinates":[98.71925,22.09018],"type":"Point"}
+}

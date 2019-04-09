@@ -1,0 +1,70 @@
+{
+  "id": 1276650157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.93363,24.29765,95.93363,24.29765",
+    "geom:latitude":24.29765,
+    "geom:longitude":95.93363,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Thaunggyi",
+    "gn:country_code":"MM",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292249,
+    "gn:latitude":24.29765,
+    "gn:longitude":95.93363,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thaunggyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292249,
+        "wk:page":"Thaunggyi_%2824%C2%B018%22N_95%C2%B056%22E%29"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f5aee4c5bfaa6158aacf4b39d55c3b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1276650157,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1276650157,
+    "wof:lastmodified":1537568455,
+    "wof:name":"Thaunggyi",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.93363,
+    24.29765,
+    95.93363,
+    24.29765
+],
+  "geometry": {"coordinates":[95.93362999999999,24.29765],"type":"Point"}
+}

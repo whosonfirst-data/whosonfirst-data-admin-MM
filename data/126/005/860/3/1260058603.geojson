@@ -1,0 +1,70 @@
+{
+  "id": 1260058603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.05214,24.73943,95.05214,24.73943",
+    "geom:latitude":24.73943,
+    "geom:longitude":95.05214,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Tawngbohla",
+    "gn:country_code":"MM",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293464,
+    "gn:latitude":24.73943,
+    "gn:longitude":95.05214,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tawngbohla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293464,
+        "wk:page":"Tawngbohla"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cc2d11895081b755343c0670e4bcd43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1260058603,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1260058603,
+    "wof:lastmodified":1537568456,
+    "wof:name":"Tawngbohla",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.05214,
+    24.73943,
+    95.05214,
+    24.73943
+],
+  "geometry": {"coordinates":[95.05213999999999,24.73943],"type":"Point"}
+}

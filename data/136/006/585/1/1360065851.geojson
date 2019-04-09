@@ -1,0 +1,73 @@
+{
+  "id": 1360065851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.64648,23.3478,97.64648,23.3478",
+    "geom:latitude":23.3478,
+    "geom:longitude":97.64648,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D002",
+    "gn:admin3_code":"MMR015011",
+    "gn:asciiname":"Man Pat",
+    "gn:country_code":"MM",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310816,
+    "gn:latitude":23.3478,
+    "gn:longitude":97.64648,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Pat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00f6ng Pat",
+        "M\u0101n Pat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310816
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"13ea0bc4a19c602152f01c2d0ad919f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046811,
+            "locality_id":1360065851,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1360065851,
+    "wof:lastmodified":1537665447,
+    "wof:name":"Man Pat",
+    "wof:parent_id":1092046811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.64648,
+    23.3478,
+    97.64648,
+    23.3478
+],
+  "geometry": {"coordinates":[97.64648,23.3478],"type":"Point"}
+}

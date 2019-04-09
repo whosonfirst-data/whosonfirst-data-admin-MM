@@ -1,0 +1,73 @@
+{
+  "id": 1293871659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.98668,20.67549,97.98668,20.67549",
+    "geom:latitude":20.67549,
+    "geom:longitude":97.98668,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014019",
+    "gn:asciiname":"Wan Longkyawng",
+    "gn:country_code":"MM",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478491,
+    "gn:latitude":20.67549,
+    "gn:longitude":97.98668,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u00e3n Longkyawng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mawlek",
+        "W\u00e3n Longkyawng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478491
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f930f7be98cbaddf9d9f1233ba60151c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1293871659,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1293871659,
+    "wof:lastmodified":1537665554,
+    "wof:name":"Wan Longkyawng",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.98668,
+    20.67549,
+    97.98668,
+    20.67549
+],
+  "geometry": {"coordinates":[97.98668000000001,20.67549],"type":"Point"}
+}

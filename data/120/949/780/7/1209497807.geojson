@@ -1,0 +1,63 @@
+{
+  "id": 1209497807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.81493,20.57897,94.81493,20.57897",
+    "geom:latitude":20.57897,
+    "geom:longitude":94.81493,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D001",
+    "gn:admin3_code":"MMR009003",
+    "gn:asciiname":"Kyaukye",
+    "gn:country_code":"MM",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316452,
+    "gn:latitude":20.57897,
+    "gn:longitude":94.81493,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316452
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bba21426be0102a44525f860d4f2c43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209497807
+        }
+    ],
+    "wof:id":1209497807,
+    "wof:lastmodified":1536285280,
+    "wof:name":"Kyaukye",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.81493,
+    20.57897,
+    94.81493,
+    20.57897
+],
+  "geometry": {"coordinates":[94.81493,20.57897],"type":"Point"}
+}

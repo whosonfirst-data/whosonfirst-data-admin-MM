@@ -1,0 +1,67 @@
+{
+  "id": 1209493727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.60489,24.09573,94.60489,24.09573",
+    "geom:latitude":24.09573,
+    "geom:longitude":94.60489,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D007",
+    "gn:admin3_code":"MMR005032",
+    "gn:asciiname":"Kundaw",
+    "gn:country_code":"MM",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317896,
+    "gn:latitude":24.09573,
+    "gn:longitude":94.60489,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kundaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuntaw",
+        "Kundaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317896
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b06e8446ec088d90d6d1c2bb8064503f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209493727
+        }
+    ],
+    "wof:id":1209493727,
+    "wof:lastmodified":1537665488,
+    "wof:name":"Kundaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.60489,
+    24.09573,
+    94.60489,
+    24.09573
+],
+  "geometry": {"coordinates":[94.60489,24.09573],"type":"Point"}
+}

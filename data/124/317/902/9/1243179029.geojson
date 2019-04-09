@@ -1,0 +1,69 @@
+{
+  "id": 1243179029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.62448,16.56248,95.62448,16.56248",
+    "geom:latitude":16.56248,
+    "geom:longitude":95.62448,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017025",
+    "gn:asciiname":"Taman",
+    "gn:country_code":"MM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294832,
+    "gn:latitude":16.56248,
+    "gn:longitude":95.62448,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674585,
+        1092047167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294832
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fdfe716e6ffbf6f5aa0589202b63ff48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047167,
+            "locality_id":1243179029,
+            "region_id":85674585
+        }
+    ],
+    "wof:id":1243179029,
+    "wof:lastmodified":1536694258,
+    "wof:name":"Taman",
+    "wof:parent_id":1092047167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.62448,
+    16.56247999999999,
+    95.62448,
+    16.56247999999999
+],
+  "geometry": {"coordinates":[95.62448000000001,16.56247999999999],"type":"Point"}
+}

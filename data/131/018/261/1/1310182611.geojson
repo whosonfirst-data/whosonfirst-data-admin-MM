@@ -1,0 +1,73 @@
+{
+  "id": 1310182611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.89371,22.54285,97.89371,22.54285",
+    "geom:latitude":22.54285,
+    "geom:longitude":97.89371,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015003",
+    "gn:asciiname":"Kio-wuen",
+    "gn:country_code":"MM",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318895,
+    "gn:latitude":22.54285,
+    "gn:longitude":97.89371,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kio-w\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kio-w\u0101n",
+        "Kio-w\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318895
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"3ce29693371f2a9533823c4eed0e6b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1310182611,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310182611,
+    "wof:lastmodified":1537665492,
+    "wof:name":"Kio-wuen",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.89371,
+    22.54285,
+    97.89371,
+    22.54285
+],
+  "geometry": {"coordinates":[97.89371,22.54285],"type":"Point"}
+}

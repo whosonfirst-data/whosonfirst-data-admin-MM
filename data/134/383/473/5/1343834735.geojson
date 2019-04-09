@@ -1,0 +1,69 @@
+{
+  "id": 1343834735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.55271,10.34457,98.55271,10.34457",
+    "geom:latitude":10.34457,
+    "geom:longitude":98.55271,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006009",
+    "gn:asciiname":"Sungei-I-nu",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295493,
+    "gn:latitude":10.34457,
+    "gn:longitude":98.55271,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sung\u0113i-I-nu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295493
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"67acceee3a2b6ec73ae1f50fd0e3fcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1343834735,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1343834735,
+    "wof:lastmodified":1536704066,
+    "wof:name":"Sungei-I-nu",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.55271,
+    10.34457,
+    98.55271,
+    10.34457
+],
+  "geometry": {"coordinates":[98.55271,10.34457],"type":"Point"}
+}

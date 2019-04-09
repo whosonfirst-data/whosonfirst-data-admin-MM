@@ -1,0 +1,69 @@
+{
+  "id": 1242950537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.78333,23.3,96.78333,23.3",
+    "geom:latitude":23.3,
+    "geom:longitude":96.78333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D008",
+    "gn:admin3_code":"MMR015017",
+    "gn:asciiname":"Namkaisan",
+    "gn:country_code":"MM",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306896,
+    "gn:latitude":23.3,
+    "gn:longitude":96.78333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namkaisan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306896
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"96fc4430c86899cc3b5a0a5d6cb5a2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1242950537,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1242950537,
+    "wof:lastmodified":1537022591,
+    "wof:name":"Namkaisan",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.78333,
+    23.3,
+    96.78333,
+    23.3
+],
+  "geometry": {"coordinates":[96.78333000000001,23.3],"type":"Point"}
+}

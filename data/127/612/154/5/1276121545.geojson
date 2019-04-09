@@ -1,0 +1,69 @@
+{
+  "id": 1276121545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.27148,19.87656,94.27148,19.87656",
+    "geom:latitude":19.87656,
+    "geom:longitude":94.27148,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012014",
+    "gn:asciiname":"Lawngrit",
+    "gn:country_code":"MM",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1314594,
+    "gn:latitude":19.87656,
+    "gn:longitude":94.27148,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Lawngrit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1314594
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cc17682fa2591325644f6a4a09e80071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1276121545,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1276121545,
+    "wof:lastmodified":1537059727,
+    "wof:name":"Lawngrit",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.27148,
+    19.87656,
+    94.27148,
+    19.87656
+],
+  "geometry": {"coordinates":[94.27148,19.87656],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421203623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.78813,17.65399,95.78813,17.65399",
+    "geom:latitude":17.65399,
+    "geom:longitude":95.78813,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bur_x_preferred":[
+        "\u101e\u102c\u101a\u102c\u101d\u1010\u102e\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Tharyarwady"
+    ],
+    "name:dut_x_preferred":[
+        "Tharrawaddy"
+    ],
+    "name:eng_x_preferred":[
+        "Tharrawaddy"
+    ],
+    "name:fre_x_preferred":[
+        "Thayawady"
+    ],
+    "name:swe_x_preferred":[
+        "Tharyarwady"
+    ],
+    "name:unk_x_variant":[
+        "Thayawadi"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1292313,
+    "qs:gn_pop":54386,
+    "qs:name":"Tharyarwady",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Bago",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":78999,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":56120922,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292313,
+        "gp:id":56120922,
+        "qs:id":78999,
+        "wd:id":"Q7710820",
+        "wk:page":"Tharrawaddy, Myanmar"
+    },
+    "wof:country":"MM",
+    "wof:created":1459010158,
+    "wof:geomhash":"b6389a3d988d5389bf43ab3857fc080b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047665,
+            "locality_id":421203623,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":421203623,
+    "wof:lastmodified":1527716198,
+    "wof:name":"Tharyarwady",
+    "wof:parent_id":1092047665,
+    "wof:placetype":"locality",
+    "wof:population":54386,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.78813,
+    17.65399,
+    95.78813,
+    17.65399
+],
+  "geometry": {"coordinates":[95.78813,17.65399],"type":"Point"}
+}

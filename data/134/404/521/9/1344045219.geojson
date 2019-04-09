@@ -1,0 +1,69 @@
+{
+  "id": 1344045219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.5693,19.90724,97.5693,19.90724",
+    "geom:latitude":19.90724,
+    "geom:longitude":97.5693,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014020",
+    "gn:asciiname":"Wan Pungsawk",
+    "gn:country_code":"MM",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287099,
+    "gn:latitude":19.90724,
+    "gn:longitude":97.5693,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n P\u016bngsawk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287099
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fad5f3f275a799cb80b4f3c0c036451f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1344045219,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1344045219,
+    "wof:lastmodified":1536897507,
+    "wof:name":"Wan Pungsawk",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.5693,
+    19.90724,
+    97.5693,
+    19.90724
+],
+  "geometry": {"coordinates":[97.5693,19.90724],"type":"Point"}
+}

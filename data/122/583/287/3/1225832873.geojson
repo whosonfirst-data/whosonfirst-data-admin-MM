@@ -1,0 +1,69 @@
+{
+  "id": 1225832873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.56329,20.59786,96.56329,20.59786",
+    "geom:latitude":20.59786,
+    "geom:longitude":96.56329,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014005",
+    "gn:asciiname":"Nanbalet",
+    "gn:country_code":"MM",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306226,
+    "gn:latitude":20.59786,
+    "gn:longitude":96.56329,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nanbalet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306226
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e29a52ba9c2fe1d0e6e12e2854b064b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1225832873,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1225832873,
+    "wof:lastmodified":1537030902,
+    "wof:name":"Nanbalet",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.56329,
+    20.59786,
+    96.56329,
+    20.59786
+],
+  "geometry": {"coordinates":[96.56328999999999,20.59786],"type":"Point"}
+}

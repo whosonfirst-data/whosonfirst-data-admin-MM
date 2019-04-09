@@ -1,0 +1,69 @@
+{
+  "id": 1293120583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.05398,20.9892,95.05398,20.9892",
+    "geom:latitude":20.9892,
+    "geom:longitude":95.05398,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010022",
+    "gn:asciiname":"Kaungnyo",
+    "gn:country_code":"MM",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320018,
+    "gn:latitude":20.9892,
+    "gn:longitude":95.05398,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaungnyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320018
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"db4f8ec31e8e97cf9f962560c4df5baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047061,
+            "locality_id":1293120583,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1293120583,
+    "wof:lastmodified":1536818219,
+    "wof:name":"Kaungnyo",
+    "wof:parent_id":1092047061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.05398,
+    20.9892,
+    95.05398,
+    20.9892
+],
+  "geometry": {"coordinates":[95.05398,20.9892],"type":"Point"}
+}

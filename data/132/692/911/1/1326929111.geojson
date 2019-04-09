@@ -1,0 +1,69 @@
+{
+  "id": 1326929111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.57669,18.23767,97.57669,18.23767",
+    "geom:latitude":18.23767,
+    "geom:longitude":97.57669,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D004",
+    "gn:admin3_code":"MMR003003",
+    "gn:asciiname":"Tedo",
+    "gn:country_code":"MM",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293245,
+    "gn:latitude":18.23767,
+    "gn:longitude":97.57669,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tedo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293245
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"72504b90360a1b30db495cc6cb6a8dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045467,
+            "locality_id":1326929111,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1326929111,
+    "wof:lastmodified":1536909595,
+    "wof:name":"Tedo",
+    "wof:parent_id":1092045467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.57669,
+    18.23767,
+    97.57669,
+    18.23767
+],
+  "geometry": {"coordinates":[97.57669,18.23767],"type":"Point"}
+}

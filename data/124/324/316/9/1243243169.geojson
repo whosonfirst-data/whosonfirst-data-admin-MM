@@ -1,0 +1,69 @@
+{
+  "id": 1243243169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.98525,11.49039,98.98525,11.49039",
+    "geom:latitude":11.49039,
+    "geom:longitude":98.98525,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D003",
+    "gn:admin3_code":"MMR006010",
+    "gn:asciiname":"Taungtin",
+    "gn:country_code":"MM",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1293705,
+    "gn:latitude":11.49039,
+    "gn:longitude":98.98525,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taungtin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1293705
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5ed99c5575d5d829c3b61436a98fcab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045625,
+            "locality_id":1243243169,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1243243169,
+    "wof:lastmodified":1537095318,
+    "wof:name":"Taungtin",
+    "wof:parent_id":1092045625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.98525,
+    11.49039,
+    98.98525,
+    11.49039
+],
+  "geometry": {"coordinates":[98.98524999999999,11.49039],"type":"Point"}
+}

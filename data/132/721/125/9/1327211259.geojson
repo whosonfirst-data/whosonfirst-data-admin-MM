@@ -1,0 +1,69 @@
+{
+  "id": 1327211259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.39877,20.69147,97.39877,20.69147",
+    "geom:latitude":20.69147,
+    "geom:longitude":97.39877,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014003",
+    "gn:asciiname":"Wan Mak Ka",
+    "gn:country_code":"MM",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288247,
+    "gn:latitude":20.69147,
+    "gn:longitude":97.39877,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wan Mak Ka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288247
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e0f4ef8aa812a95e578d193e9c4a7ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1327211259,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327211259,
+    "wof:lastmodified":1536999483,
+    "wof:name":"Wan Mak Ka",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.39877,
+    20.69147,
+    97.39877,
+    20.69147
+],
+  "geometry": {"coordinates":[97.39877,20.69147],"type":"Point"}
+}

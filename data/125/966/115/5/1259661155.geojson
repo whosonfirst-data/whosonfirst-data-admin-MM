@@ -1,0 +1,73 @@
+{
+  "id": 1259661155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.81658,22.29797,98.81658,22.29797",
+    "geom:latitude":22.29797,
+    "geom:longitude":98.81658,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015005",
+    "gn:asciiname":"Yawng Krong",
+    "gn:country_code":"MM",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1285682,
+    "gn:latitude":22.29797,
+    "gn:longitude":98.81658,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yawng Kr\u014dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yawng Kr\u014drg",
+        "Yawng Kr\u014dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1285682
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8f9229a452c1c48915d6f673ab23ac5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1259661155,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259661155,
+    "wof:lastmodified":1537665301,
+    "wof:name":"Yawng Krong",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.81658,
+    22.29797,
+    98.81658,
+    22.29797
+],
+  "geometry": {"coordinates":[98.81658,22.29797],"type":"Point"}
+}

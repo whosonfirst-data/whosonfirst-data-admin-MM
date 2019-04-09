@@ -1,0 +1,75 @@
+{
+  "id": 1276655727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.2371,16.55543,98.2371,16.55543",
+    "geom:latitude":16.55543,
+    "geom:longitude":98.2371,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D003",
+    "gn:admin3_code":"MMR003006",
+    "gn:asciiname":"Kawkareik",
+    "gn:country_code":"MM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1319898,
+    "gn:latitude":16.55543,
+    "gn:longitude":98.2371,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kawkareik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawkareit",
+        "Kawkayeik",
+        "Kawkareik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1319898,
+        "wk:page":"Kawkareik"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5db39c2fe9d14ac8bdedb31ddbf5f657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045583,
+            "locality_id":1276655727,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1276655727,
+    "wof:lastmodified":1537665501,
+    "wof:name":"Kawkareik",
+    "wof:parent_id":1092045583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.2371,
+    16.55543,
+    98.2371,
+    16.55543
+],
+  "geometry": {"coordinates":[98.2371,16.55543],"type":"Point"}
+}

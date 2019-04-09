@@ -1,0 +1,63 @@
+{
+  "id": 1209194843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.25814,21.86139,99.25814,21.86139",
+    "geom:latitude":21.86139,
+    "geom:longitude":99.25814,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016002",
+    "gn:asciiname":"Wan Pu-hsen",
+    "gn:country_code":"MM",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287145,
+    "gn:latitude":21.86139,
+    "gn:longitude":99.25814,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pu-hsen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287145
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d5323b64470147c423d609e9c2013523",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209194843
+        }
+    ],
+    "wof:id":1209194843,
+    "wof:lastmodified":1536294808,
+    "wof:name":"Wan Pu-hsen",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.25814,
+    21.86139,
+    99.25814,
+    21.86139
+],
+  "geometry": {"coordinates":[99.25814,21.86139],"type":"Point"}
+}

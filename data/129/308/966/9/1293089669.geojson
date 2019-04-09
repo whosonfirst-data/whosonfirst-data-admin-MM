@@ -1,0 +1,69 @@
+{
+  "id": 1293089669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.99246,25.52069,94.99246,25.52069",
+    "geom:latitude":25.52069,
+    "geom:longitude":94.99246,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005035",
+    "gn:asciiname":"Sutlakut",
+    "gn:country_code":"MM",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1295438,
+    "gn:latitude":25.52069,
+    "gn:longitude":94.99246,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sutlakut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1295438
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e3ebbce8a028d9f8829fad83e2deec54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045327,
+            "locality_id":1293089669,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1293089669,
+    "wof:lastmodified":1536862198,
+    "wof:name":"Sutlakut",
+    "wof:parent_id":1092045327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.99246,
+    25.52069,
+    94.99246,
+    25.52069
+],
+  "geometry": {"coordinates":[94.99245999999999,25.52069],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1225936091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.55208,19.71232,97.55208,19.71232",
+    "geom:latitude":19.71232,
+    "geom:longitude":97.55208,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002004",
+    "gn:asciiname":"Wan Hwe-ngao-nawn",
+    "gn:country_code":"MM",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288883,
+    "gn:latitude":19.71232,
+    "gn:longitude":97.55208,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hw\u00e8-ngao-nawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288883
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aa80e7871945e0cbb7fccb4fba32c81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1225936091,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1225936091,
+    "wof:lastmodified":1536882732,
+    "wof:name":"Wan Hwe-ngao-nawn",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.55208,
+    19.71232,
+    97.55208,
+    19.71232
+],
+  "geometry": {"coordinates":[97.55208,19.71232],"type":"Point"}
+}

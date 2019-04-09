@@ -1,0 +1,63 @@
+{
+  "id": 1209593031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.43587,21.90186,99.43587,21.90186",
+    "geom:latitude":21.90186,
+    "geom:longitude":99.43587,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016003",
+    "gn:asciiname":"Wan Pinghsung",
+    "gn:country_code":"MM",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287200,
+    "gn:latitude":21.90186,
+    "gn:longitude":99.43587,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Pinghs\u016bng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287200
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2114da03fffd4e75097d1d135ea9762b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209593031
+        }
+    ],
+    "wof:id":1209593031,
+    "wof:lastmodified":1536282416,
+    "wof:name":"Wan Pinghsung",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.43587,
+    21.90186,
+    99.43587,
+    21.90186
+],
+  "geometry": {"coordinates":[99.43586999999999,21.90186],"type":"Point"}
+}

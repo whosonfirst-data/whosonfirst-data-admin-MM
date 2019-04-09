@@ -1,0 +1,63 @@
+{
+  "id": 1209201573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.2758,13.7911,98.2758,13.7911",
+    "geom:latitude":13.7911,
+    "geom:longitude":98.2758,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006003",
+    "gn:asciiname":"Singyan",
+    "gn:country_code":"MM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296109,
+    "gn:latitude":13.7911,
+    "gn:longitude":98.2758,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Singyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296109
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cb8c8f255600c63d62eb7391a19079fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209201573
+        }
+    ],
+    "wof:id":1209201573,
+    "wof:lastmodified":1536294591,
+    "wof:name":"Singyan",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.2758,
+    13.7911,
+    98.2758,
+    13.7911
+],
+  "geometry": {"coordinates":[98.2758,13.7911],"type":"Point"}
+}

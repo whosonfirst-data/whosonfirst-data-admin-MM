@@ -1,0 +1,63 @@
+{
+  "id": 1209495623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.40696,21.41328,96.40696,21.41328",
+    "geom:latitude":21.41328,
+    "geom:longitude":96.40696,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014007",
+    "gn:asciiname":"Daungmizon",
+    "gn:country_code":"MM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326723,
+    "gn:latitude":21.41328,
+    "gn:longitude":96.40696,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Daungmizon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326723
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a9fdcfc9e8e5e5c14bcaa7d3a7496cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209495623
+        }
+    ],
+    "wof:id":1209495623,
+    "wof:lastmodified":1536285346,
+    "wof:name":"Daungmizon",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.40696,
+    21.41328,
+    96.40696,
+    21.41328
+],
+  "geometry": {"coordinates":[96.40696,21.41328],"type":"Point"}
+}

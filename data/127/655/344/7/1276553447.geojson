@@ -1,0 +1,69 @@
+{
+  "id": 1276553447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.66687,24.95902,97.66687,24.95902",
+    "geom:latitude":24.95902,
+    "geom:longitude":97.66687,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001002",
+    "gn:asciiname":"Kaiya",
+    "gn:country_code":"MM",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321402,
+    "gn:latitude":24.95902,
+    "gn:longitude":97.66687,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kaiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321402
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d42b4cde15e84673fa79dcb23e2d3caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047037,
+            "locality_id":1276553447,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276553447,
+    "wof:lastmodified":1536980374,
+    "wof:name":"Kaiya",
+    "wof:parent_id":1092047037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.66687,
+    24.95902,
+    97.66687,
+    24.95902
+],
+  "geometry": {"coordinates":[97.66687,24.95902],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310285451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.91456,21.08346,99.91456,21.08346",
+    "geom:latitude":21.08346,
+    "geom:longitude":99.91456,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016010",
+    "gn:asciiname":"Wan Hsenmau",
+    "gn:country_code":"MM",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289142,
+    "gn:latitude":21.08346,
+    "gn:longitude":99.91456,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsenmau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Mu-hs\u00f6 Hsenmau",
+        "W\u0101n Hsenmau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289142
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2621aaf04ae7f4ced76aa868f9ec92bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1310285451,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310285451,
+    "wof:lastmodified":1537665329,
+    "wof:name":"Wan Hsenmau",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.91456,
+    21.08346,
+    99.91456,
+    21.08346
+],
+  "geometry": {"coordinates":[99.91455999999999,21.08346],"type":"Point"}
+}

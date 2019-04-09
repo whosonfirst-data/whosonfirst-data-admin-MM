@@ -1,0 +1,73 @@
+{
+  "id": 1242582125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.22876,17.07603,98.22876,17.07603",
+    "geom:latitude":17.07603,
+    "geom:longitude":98.22876,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D002",
+    "gn:admin3_code":"MMR003005",
+    "gn:asciiname":"Methawe",
+    "gn:country_code":"MM",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309556,
+    "gn:latitude":17.07603,
+    "gn:longitude":98.22876,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Methaw\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mawkhi",
+        "Methaw\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092046901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309556
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d15851044fd6a3eae29ffb9774737ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046901,
+            "locality_id":1242582125,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1242582125,
+    "wof:lastmodified":1537665438,
+    "wof:name":"Methawe",
+    "wof:parent_id":1092046901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.22876,
+    17.07603,
+    98.22876,
+    17.07603
+],
+  "geometry": {"coordinates":[98.22875999999999,17.07603],"type":"Point"}
+}

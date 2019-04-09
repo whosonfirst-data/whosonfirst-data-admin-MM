@@ -1,0 +1,70 @@
+{
+  "id": 1277065165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.91643,24.52151,95.91643,24.52151",
+    "geom:latitude":24.52151,
+    "geom:longitude":95.91643,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D004",
+    "gn:admin3_code":"MMR005023",
+    "gn:asciiname":"Mutthein",
+    "gn:country_code":"MM",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308298,
+    "gn:latitude":24.52151,
+    "gn:longitude":95.91643,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mutthein",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308298,
+        "wk:page":"Mutthein"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"e4751ebf08e63c92562cfc343f35750b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045543,
+            "locality_id":1277065165,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1277065165,
+    "wof:lastmodified":1537568479,
+    "wof:name":"Mutthein",
+    "wof:parent_id":1092045543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.91643,
+    24.52151,
+    95.91643,
+    24.52151
+],
+  "geometry": {"coordinates":[95.91643000000001,24.52151],"type":"Point"}
+}

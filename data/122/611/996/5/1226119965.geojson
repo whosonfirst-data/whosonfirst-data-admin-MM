@@ -1,0 +1,73 @@
+{
+  "id": 1226119965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.5748,20.78782,97.5748,20.78782",
+    "geom:latitude":20.78782,
+    "geom:longitude":97.5748,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014013",
+    "gn:asciiname":"Wan Long",
+    "gn:country_code":"MM",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1288332,
+    "gn:latitude":20.78782,
+    "gn:longitude":97.5748,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Long",
+        "W\u0101n Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1288332
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"abca371d8a57d2479574f280b1cb81b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1226119965,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226119965,
+    "wof:lastmodified":1537665321,
+    "wof:name":"Wan Long",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.5748,
+    20.78782,
+    97.5748,
+    20.78782
+],
+  "geometry": {"coordinates":[97.5748,20.78782],"type":"Point"}
+}

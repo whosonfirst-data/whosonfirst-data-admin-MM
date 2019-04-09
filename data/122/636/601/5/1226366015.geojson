@@ -1,0 +1,75 @@
+{
+  "id": 1226366015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.58502,26.09197,98.58502,26.09197",
+    "geom:latitude":26.09197,
+    "geom:longitude":98.58502,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Gawlam",
+    "gn:country_code":"MM",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325951,
+    "gn:latitude":26.09197,
+    "gn:longitude":98.58502,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gawlam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku-lang",
+        "Gawlam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325951
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4fe13b949af0177fc78b9edf253b4f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732425,
+            "empire_id":136253041,
+            "locality_id":1226366015,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1226366015,
+    "wof:lastmodified":1537665533,
+    "wof:name":"Gawlam",
+    "wof:parent_id":1108732425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.58502,
+    26.09197,
+    98.58502,
+    26.09197
+],
+  "geometry": {"coordinates":[98.58502,26.09197],"type":"Point"}
+}

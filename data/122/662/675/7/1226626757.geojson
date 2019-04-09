@@ -1,0 +1,75 @@
+{
+  "id": 1226626757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.66912,23.10971,96.66912,23.10971",
+    "geom:latitude":23.10971,
+    "geom:longitude":96.66912,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D008",
+    "gn:admin3_code":"MMR015017",
+    "gn:asciiname":"Moeng Mit",
+    "gn:country_code":"MM",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1308651,
+    "gn:latitude":23.10971,
+    "gn:longitude":96.66912,
+    "gn:modification_date":"2017-03-15",
+    "gn:name":"M\u00f6ng Mit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maing Mit",
+        "Momeik",
+        "M\u00f6ng Mit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1308651,
+        "wk:page":"Momeik"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"23c6bf49172824837818e992e1bd60f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1226626757,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226626757,
+    "wof:lastmodified":1537665431,
+    "wof:name":"Moeng Mit",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.66912,
+    23.10971,
+    96.66912,
+    23.10971
+],
+  "geometry": {"coordinates":[96.66912000000001,23.10971],"type":"Point"}
+}

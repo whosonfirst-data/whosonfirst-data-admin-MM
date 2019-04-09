@@ -1,0 +1,73 @@
+{
+  "id": 1209888845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.93074,18.9807,94.93074,18.9807",
+    "geom:latitude":18.9807,
+    "geom:longitude":94.93074,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009015",
+    "gn:asciiname":"Alechaung",
+    "gn:country_code":"MM",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329364,
+    "gn:latitude":18.9807,
+    "gn:longitude":94.93074,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Alechaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alaichaung",
+        "Alechaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329364
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ea51203d3237cd0292ce10a4b4ba0226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1209888845,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1209888845,
+    "wof:lastmodified":1537665552,
+    "wof:name":"Alechaung",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.93074,
+    18.9807,
+    94.93074,
+    18.9807
+],
+  "geometry": {"coordinates":[94.93074,18.9807],"type":"Point"}
+}

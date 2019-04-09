@@ -1,0 +1,73 @@
+{
+  "id": 1260158413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.98588,21.88336,97.98588,21.88336",
+    "geom:latitude":21.88336,
+    "geom:longitude":97.98588,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D002",
+    "gn:admin3_code":"MMR014015",
+    "gn:asciiname":"Namhsong",
+    "gn:country_code":"MM",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306984,
+    "gn:latitude":21.88336,
+    "gn:longitude":97.98588,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhsong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namhsohg",
+        "Namhsong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306984
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4ba1c744afadfaf30e27c005f8e2c1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046115,
+            "locality_id":1260158413,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260158413,
+    "wof:lastmodified":1537665423,
+    "wof:name":"Namhsong",
+    "wof:parent_id":1092046115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.98588,
+    21.88336,
+    97.98588,
+    21.88336
+],
+  "geometry": {"coordinates":[97.98587999999999,21.88336],"type":"Point"}
+}

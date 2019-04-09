@@ -1,0 +1,69 @@
+{
+  "id": 1277153157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.50822,16.67991,96.50822,16.67991",
+    "geom:latitude":16.67991,
+    "geom:longitude":96.50822,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D003",
+    "gn:admin3_code":"MMR013024",
+    "gn:asciiname":"Zibyubin",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463240,
+    "gn:latitude":16.67991,
+    "gn:longitude":96.50822,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Zibyubin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463240
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"41362b1f71221e5fe65e992eb51c3486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047879,
+            "locality_id":1277153157,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1277153157,
+    "wof:lastmodified":1536666249,
+    "wof:name":"Zibyubin",
+    "wof:parent_id":1092047879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.50822,
+    16.67991,
+    96.50822,
+    16.67991
+],
+  "geometry": {"coordinates":[96.50821999999999,16.67991],"type":"Point"}
+}

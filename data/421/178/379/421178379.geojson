@@ -1,0 +1,108 @@
+{
+  "id": 421178379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.87595,20.18059,94.87595,20.18059",
+    "geom:latitude":20.18059,
+    "geom:longitude":94.87595,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043d\u0431\u0443"
+    ],
+    "name:bur_x_preferred":[
+        "\u1019\u1004\u103a\u1038\u1018\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Minbu"
+    ],
+    "name:dut_x_preferred":[
+        "Minbu"
+    ],
+    "name:eng_x_preferred":[
+        "Minbu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30f3\u30d6"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1004\u103a\u1038\u1018\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:swe_x_preferred":[
+        "Minbu"
+    ],
+    "name:vie_x_preferred":[
+        "Minbu"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1309289,
+    "qs:gn_pop":57342,
+    "qs:name":"Minbu",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Magway",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":112072,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017614,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":684,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309289,
+        "gp:id":1017614,
+        "qs:id":112072,
+        "wd:id":"Q3826997"
+    },
+    "wof:country":"MM",
+    "wof:created":1459009180,
+    "wof:geomhash":"7d51da9ceeb37a2576705b5682da6ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":421178379,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":421178379,
+    "wof:lastmodified":1527717721,
+    "wof:name":"Minbu",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:population":57342,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.87595,
+    20.18059,
+    94.87595,
+    20.18059
+],
+  "geometry": {"coordinates":[94.87595,20.18059],"type":"Point"}
+}

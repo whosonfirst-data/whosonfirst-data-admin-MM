@@ -1,0 +1,69 @@
+{
+  "id": 1243449591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.80733,20.99903,95.80733,20.99903",
+    "geom:latitude":20.99903,
+    "geom:longitude":95.80733,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010031",
+    "gn:asciiname":"Obyungan",
+    "gn:country_code":"MM",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1303217,
+    "gn:latitude":20.99903,
+    "gn:longitude":95.80733,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Obyungan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1303217
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ac8b14a6c77ebb1a1368688c64c86636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1243449591,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1243449591,
+    "wof:lastmodified":1536801058,
+    "wof:name":"Obyungan",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.80733,
+    20.99903,
+    95.80733,
+    20.99903
+],
+  "geometry": {"coordinates":[95.80732999999999,20.99903],"type":"Point"}
+}

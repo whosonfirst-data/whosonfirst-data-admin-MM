@@ -1,0 +1,67 @@
+{
+  "id": 1293877209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.92822,21.64348,95.92822,21.64348",
+    "geom:latitude":21.64348,
+    "geom:longitude":95.92822,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Einkan",
+    "gn:country_code":"MM",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326163,
+    "gn:latitude":21.64348,
+    "gn:longitude":95.92822,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Einkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092045867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326163
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"def7a7fc83947069a6fda22c1b4d57b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045867,
+            "locality_id":1293877209,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1293877209,
+    "wof:lastmodified":1536722763,
+    "wof:name":"Einkan",
+    "wof:parent_id":1092045867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.92822,
+    21.64348,
+    95.92822,
+    21.64348
+],
+  "geometry": {"coordinates":[95.92822,21.64348],"type":"Point"}
+}

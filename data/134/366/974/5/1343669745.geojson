@@ -1,0 +1,69 @@
+{
+  "id": 1343669745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.09666,21.29573,93.09666,21.29573",
+    "geom:latitude":21.29573,
+    "geom:longitude":93.09666,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D002",
+    "gn:admin3_code":"MMR004009",
+    "gn:asciiname":"Sami",
+    "gn:country_code":"MM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298155,
+    "gn:latitude":21.29573,
+    "gn:longitude":93.09666,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092046531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298155
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"91faa74aea4399a234c348c954404e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046531,
+            "locality_id":1343669745,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1343669745,
+    "wof:lastmodified":1536942180,
+    "wof:name":"Sami",
+    "wof:parent_id":1092046531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.09666,
+    21.29573,
+    93.09666,
+    21.29573
+],
+  "geometry": {"coordinates":[93.09666,21.29573],"type":"Point"}
+}

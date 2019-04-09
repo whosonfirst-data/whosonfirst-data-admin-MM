@@ -1,0 +1,69 @@
+{
+  "id": 1343836571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.80393,22.5026,94.80393,22.5026",
+    "geom:latitude":22.5026,
+    "geom:longitude":94.80393,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D009",
+    "gn:admin3_code":"MMR005017",
+    "gn:asciiname":"Medin",
+    "gn:country_code":"MM",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1309859,
+    "gn:latitude":22.5026,
+    "gn:longitude":94.80393,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u00e8din",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092047961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1309859
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4ce127634bb24e08b9f1c6682d65f13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047961,
+            "locality_id":1343836571,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343836571,
+    "wof:lastmodified":1536701387,
+    "wof:name":"Medin",
+    "wof:parent_id":1092047961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.80393,
+    22.5026,
+    94.80393,
+    22.5026
+],
+  "geometry": {"coordinates":[94.80392999999999,22.5026],"type":"Point"}
+}

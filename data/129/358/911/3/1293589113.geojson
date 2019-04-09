@@ -1,0 +1,69 @@
+{
+  "id": 1293589113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.21454,26.00578,96.21454,26.00578",
+    "geom:latitude":26.00578,
+    "geom:longitude":96.21454,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Tangkrau Ga",
+    "gn:country_code":"MM",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294576,
+    "gn:latitude":26.00578,
+    "gn:longitude":96.21454,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tangkrau Ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294576
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c19d1eea0ae7b100c13e19f91ea6cc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1293589113,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1293589113,
+    "wof:lastmodified":1536639633,
+    "wof:name":"Tangkrau Ga",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.21454,
+    26.00578,
+    96.21454,
+    26.00578
+],
+  "geometry": {"coordinates":[96.21454,26.00578],"type":"Point"}
+}

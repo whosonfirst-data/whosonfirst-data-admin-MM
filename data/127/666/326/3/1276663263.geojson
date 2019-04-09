@@ -1,0 +1,73 @@
+{
+  "id": 1276663263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.60442,25.48332,96.60442,25.48332",
+    "geom:latitude":25.48332,
+    "geom:longitude":96.60442,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001009",
+    "gn:asciiname":"Hkohka",
+    "gn:country_code":"MM",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324743,
+    "gn:latitude":25.48332,
+    "gn:longitude":96.60442,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hkohka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jumgahtawng",
+        "Hkohka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324743
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"61017f746a4f72c94415c19f9e09b3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1276663263,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1276663263,
+    "wof:lastmodified":1537665526,
+    "wof:name":"Hkohka",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.60442,
+    25.48332000000001,
+    96.60442,
+    25.48332000000001
+],
+  "geometry": {"coordinates":[96.60442,25.48332000000001],"type":"Point"}
+}

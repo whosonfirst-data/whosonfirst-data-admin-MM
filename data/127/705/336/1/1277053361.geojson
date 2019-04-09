@@ -1,0 +1,69 @@
+{
+  "id": 1277053361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.18076,23.31918,98.18076,23.31918",
+    "geom:latitude":23.31918,
+    "geom:longitude":98.18076,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015002",
+    "gn:asciiname":"Nawng-yom",
+    "gn:country_code":"MM",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304933,
+    "gn:latitude":23.31918,
+    "gn:longitude":98.18076,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nawng-yom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304933
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"630f28d8491226f1feddde7e2a7a166b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1277053361,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277053361,
+    "wof:lastmodified":1536808238,
+    "wof:name":"Nawng-yom",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.18076,
+    23.31918,
+    98.18076,
+    23.31918
+],
+  "geometry": {"coordinates":[98.18076000000001,23.31918],"type":"Point"}
+}

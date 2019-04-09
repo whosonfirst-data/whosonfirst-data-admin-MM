@@ -1,0 +1,115 @@
+{
+  "id": 421167337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.56388,16.07686,97.56388,16.07686",
+    "geom:latitude":16.07686,
+    "geom:longitude":97.56388,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u044f\u0438\u043a\u0430\u043c\u0438"
+    ],
+    "name:bur_x_preferred":[
+        "\u1000\u103b\u102d\u102f\u1000\u1039\u1001\u1019\u102e\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:dut_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:eng_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:fra_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:fre_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103b\u102d\u102f\u1000\u1039\u1001\u1019\u102e\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:spa_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:swe_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:unk_x_variant":[
+        "Amherst"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1317402,
+    "qs:gn_pop":48100,
+    "qs:name":"Kyaikkami",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Mon State",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":132697,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017344,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":678,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674575,
+        1092046407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317402,
+        "gp:id":1017344,
+        "qs:id":132697,
+        "wd:id":"Q3200882",
+        "wk:page":"Kyaikkami"
+    },
+    "wof:country":"MM",
+    "wof:created":1459008727,
+    "wof:geomhash":"71bb0d5f82eb2132460b8474c368e070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046407,
+            "locality_id":421167337,
+            "region_id":85674575
+        }
+    ],
+    "wof:id":421167337,
+    "wof:lastmodified":1527716153,
+    "wof:name":"Kyaikkami",
+    "wof:parent_id":1092046407,
+    "wof:placetype":"locality",
+    "wof:population":48100,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.56388,
+    16.07686,
+    97.56388,
+    16.07686
+],
+  "geometry": {"coordinates":[97.56388,16.07686],"type":"Point"}
+}

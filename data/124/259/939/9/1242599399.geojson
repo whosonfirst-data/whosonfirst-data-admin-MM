@@ -1,0 +1,73 @@
+{
+  "id": 1242599399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.19015,18.82758,97.19015,18.82758",
+    "geom:latitude":18.82758,
+    "geom:longitude":97.19015,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D002",
+    "gn:admin3_code":"MMR002006",
+    "gn:asciiname":"Namhu",
+    "gn:country_code":"MM",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306966,
+    "gn:latitude":18.82758,
+    "gn:longitude":97.19015,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanmahu",
+        "Namhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092044973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306966
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f9ae22d8c9775dd855f828e6e11f14f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044973,
+            "locality_id":1242599399,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1242599399,
+    "wof:lastmodified":1537665422,
+    "wof:name":"Namhu",
+    "wof:parent_id":1092044973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.19015,
+    18.82758,
+    97.19015,
+    18.82758
+],
+  "geometry": {"coordinates":[97.19015,18.82758],"type":"Point"}
+}

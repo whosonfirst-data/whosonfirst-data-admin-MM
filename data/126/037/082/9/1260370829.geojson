@@ -1,0 +1,69 @@
+{
+  "id": 1260370829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.40522,22.26961,97.40522,22.26961",
+    "geom:latitude":22.26961,
+    "geom:longitude":97.40522,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015014",
+    "gn:asciiname":"Na-pangkao",
+    "gn:country_code":"MM",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1305925,
+    "gn:latitude":22.26961,
+    "gn:longitude":97.40522,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"N\u0101-pangkao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1305925
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"89a3bb7aceaf2d98655d725169fe1e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045765,
+            "locality_id":1260370829,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1260370829,
+    "wof:lastmodified":1537088681,
+    "wof:name":"Na-pangkao",
+    "wof:parent_id":1092045765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.40522,
+    22.26961,
+    97.40522,
+    22.26961
+],
+  "geometry": {"coordinates":[97.40522,22.26961],"type":"Point"}
+}

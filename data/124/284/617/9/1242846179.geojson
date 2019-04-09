@@ -1,0 +1,73 @@
+{
+  "id": 1242846179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.59156,17.72603,96.59156,17.72603",
+    "geom:latitude":17.72603,
+    "geom:longitude":96.59156,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007007",
+    "gn:asciiname":"Singu",
+    "gn:country_code":"MM",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296130,
+    "gn:latitude":17.72603,
+    "gn:longitude":96.59156,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Singu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanzu",
+        "Singu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296130
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7ae72ec5921cccb98beae6b972b9b99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1242846179,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1242846179,
+    "wof:lastmodified":1537665368,
+    "wof:name":"Singu",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.59156,
+    17.72602999999999,
+    96.59156,
+    17.72602999999999
+],
+  "geometry": {"coordinates":[96.59156,17.72602999999999],"type":"Point"}
+}

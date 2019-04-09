@@ -1,0 +1,69 @@
+{
+  "id": 1225920821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.26319,13.81386,98.26319,13.81386",
+    "geom:latitude":13.81386,
+    "geom:longitude":98.26319,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D001",
+    "gn:admin3_code":"MMR006003",
+    "gn:asciiname":"Einshepyin",
+    "gn:country_code":"MM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326157,
+    "gn:latitude":13.81386,
+    "gn:longitude":98.26319,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Einshepyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092045061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326157
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fe8570a9847a16f967f0985442da7674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045061,
+            "locality_id":1225920821,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":1225920821,
+    "wof:lastmodified":1536905703,
+    "wof:name":"Einshepyin",
+    "wof:parent_id":1092045061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.26319,
+    13.81386,
+    98.26319,
+    13.81386
+],
+  "geometry": {"coordinates":[98.26318999999999,13.81386],"type":"Point"}
+}

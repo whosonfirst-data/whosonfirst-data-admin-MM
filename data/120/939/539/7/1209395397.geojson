@@ -1,0 +1,63 @@
+{
+  "id": 1209395397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.22115,23.57691,97.22115,23.57691",
+    "geom:latitude":23.57691,
+    "geom:longitude":97.22115,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D003",
+    "gn:admin3_code":"MMR015019",
+    "gn:asciiname":"Taram",
+    "gn:country_code":"MM",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294377,
+    "gn:latitude":23.57691,
+    "gn:longitude":97.22115,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Taram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294377
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"22d51cece409357bcbb243da9a9dbde5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209395397
+        }
+    ],
+    "wof:id":1209395397,
+    "wof:lastmodified":1536288319,
+    "wof:name":"Taram",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.22115,
+    23.57691,
+    97.22115,
+    23.57691
+],
+  "geometry": {"coordinates":[97.22114999999999,23.57691],"type":"Point"}
+}

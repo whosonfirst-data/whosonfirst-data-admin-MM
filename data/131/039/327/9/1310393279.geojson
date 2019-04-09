@@ -1,0 +1,73 @@
+{
+  "id": 1310393279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.50325,22.40357,98.50325,22.40357",
+    "geom:latitude":22.40357,
+    "geom:longitude":98.50325,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015004",
+    "gn:asciiname":"Man Sannampueng",
+    "gn:country_code":"MM",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310707,
+    "gn:latitude":22.40357,
+    "gn:longitude":98.50325,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Sannamp\u00fcng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sannampung",
+        "M\u0101n Sannamp\u00fcng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310707
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f5b306424bfe83dd75768b8bd2963dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1310393279,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310393279,
+    "wof:lastmodified":1537665446,
+    "wof:name":"Man Sannampueng",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.50325,
+    22.40357,
+    98.50325,
+    22.40357
+],
+  "geometry": {"coordinates":[98.50324999999999,22.40357],"type":"Point"}
+}

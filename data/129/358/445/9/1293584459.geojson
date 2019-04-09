@@ -1,0 +1,69 @@
+{
+  "id": 1293584459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.5398,21.66882,95.5398,21.66882",
+    "geom:latitude":21.66882,
+    "geom:longitude":95.5398,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010017",
+    "gn:asciiname":"Nabuaing",
+    "gn:country_code":"MM",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307568,
+    "gn:latitude":21.66882,
+    "gn:longitude":95.5398,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nabuaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307568
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ce4c6a945184390dc1356160a3b75309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1293584459,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1293584459,
+    "wof:lastmodified":1536646939,
+    "wof:name":"Nabuaing",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.5398,
+    21.66882,
+    95.5398,
+    21.66882
+],
+  "geometry": {"coordinates":[95.5398,21.66882],"type":"Point"}
+}

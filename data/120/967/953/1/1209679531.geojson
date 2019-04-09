@@ -1,0 +1,63 @@
+{
+  "id": 1209679531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.37673,18.6946,96.37673,18.6946",
+    "geom:latitude":18.6946,
+    "geom:longitude":96.37673,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D002",
+    "gn:admin3_code":"MMR007013",
+    "gn:asciiname":"Thayettaw",
+    "gn:country_code":"MM",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291978,
+    "gn:latitude":18.6946,
+    "gn:longitude":96.37673,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thayettaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291978
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d3b7456cfa2b5ac409b27437dfde8bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209679531
+        }
+    ],
+    "wof:id":1209679531,
+    "wof:lastmodified":1536279627,
+    "wof:name":"Thayettaw",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.37673,
+    18.6946,
+    96.37673,
+    18.6946
+],
+  "geometry": {"coordinates":[96.37672999999999,18.6946],"type":"Point"}
+}

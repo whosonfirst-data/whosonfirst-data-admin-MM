@@ -1,0 +1,69 @@
+{
+  "id": 1327039121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.75037,19.20465,93.75037,19.20465",
+    "geom:latitude":19.20465,
+    "geom:longitude":93.75037,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012011",
+    "gn:asciiname":"Hteindwe",
+    "gn:country_code":"MM",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322847,
+    "gn:latitude":19.20465,
+    "gn:longitude":93.75037,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hteindwe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322847
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9b71db7ccfe87768f0038fd049248e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1327039121,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1327039121,
+    "wof:lastmodified":1536750524,
+    "wof:name":"Hteindwe",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.75037,
+    19.20465,
+    93.75037,
+    19.20465
+],
+  "geometry": {"coordinates":[93.75037,19.20465],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310491589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.28654,21.00243,95.28654,21.00243",
+    "geom:latitude":21.00243,
+    "geom:longitude":95.28654,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010020",
+    "gn:asciiname":"Kangon",
+    "gn:country_code":"MM",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1320761,
+    "gn:latitude":21.00243,
+    "gn:longitude":95.28654,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kangon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1320761
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2560ff102a1315ef27c71aa96020ba31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1310491589,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1310491589,
+    "wof:lastmodified":1536937747,
+    "wof:name":"Kangon",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.28654,
+    21.00243,
+    95.28654,
+    21.00243
+],
+  "geometry": {"coordinates":[95.28654,21.00243],"type":"Point"}
+}

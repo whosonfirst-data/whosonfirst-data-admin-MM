@@ -1,0 +1,69 @@
+{
+  "id": 1344156817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.56914,25.02896,96.56914,25.02896",
+    "geom:latitude":25.02896,
+    "geom:longitude":96.56914,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D002",
+    "gn:admin3_code":"MMR001007",
+    "gn:asciiname":"Le-u",
+    "gn:country_code":"MM",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313810,
+    "gn:latitude":25.02896,
+    "gn:longitude":96.56914,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Le-u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092046579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313810
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"45dfef559f768db1a19618e2fbb5b1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046579,
+            "locality_id":1344156817,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1344156817,
+    "wof:lastmodified":1536736590,
+    "wof:name":"Le-u",
+    "wof:parent_id":1092046579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.56914,
+    25.02896,
+    96.56914,
+    25.02896
+],
+  "geometry": {"coordinates":[96.56914,25.02896],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243431795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.99036,19.91306,97.99036,19.91306",
+    "geom:latitude":19.91306,
+    "geom:longitude":97.99036,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D003",
+    "gn:admin3_code":"MMR014018",
+    "gn:asciiname":"Wan Peklawn",
+    "gn:country_code":"MM",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1287216,
+    "gn:latitude":19.91306,
+    "gn:longitude":97.99036,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Peklawn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan P\u00e4klawn",
+        "Wan Pakiawe",
+        "W\u0101n Peklawn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1287216
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"16ec4e96208581607c58ffb623e4fba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045947,
+            "locality_id":1243431795,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1243431795,
+    "wof:lastmodified":1537665310,
+    "wof:name":"Wan Peklawn",
+    "wof:parent_id":1092045947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.99036,
+    19.91306,
+    97.99036,
+    19.91306
+],
+  "geometry": {"coordinates":[97.99036,19.91306],"type":"Point"}
+}

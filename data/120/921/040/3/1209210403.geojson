@@ -1,0 +1,63 @@
+{
+  "id": 1209210403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.38273,21.68813,96.38273,21.68813",
+    "geom:latitude":21.68813,
+    "geom:longitude":96.38273,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D002",
+    "gn:admin3_code":"MMR010008",
+    "gn:asciiname":"Gwebin",
+    "gn:country_code":"MM",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325796,
+    "gn:latitude":21.68813,
+    "gn:longitude":96.38273,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Gwebin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325796
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"beb72954bcda644134891cabb03867ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209210403
+        }
+    ],
+    "wof:id":1209210403,
+    "wof:lastmodified":1536294310,
+    "wof:name":"Gwebin",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.38273,
+    21.68813,
+    96.38273,
+    21.68813
+],
+  "geometry": {"coordinates":[96.38273,21.68813],"type":"Point"}
+}

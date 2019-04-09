@@ -1,0 +1,63 @@
+{
+  "id": 1209191845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.03283,19.91929,97.03283,19.91929",
+    "geom:latitude":19.91929,
+    "geom:longitude":97.03283,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014010",
+    "gn:asciiname":"Wan Nammai",
+    "gn:country_code":"MM",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478842,
+    "gn:latitude":19.91929,
+    "gn:longitude":97.03283,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Nammai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478842
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"4a91451ba44cb542c767bd8d06c0ad6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209191845
+        }
+    ],
+    "wof:id":1209191845,
+    "wof:lastmodified":1536294907,
+    "wof:name":"Wan Nammai",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.03283,
+    19.91929,
+    97.03283,
+    19.91929
+],
+  "geometry": {"coordinates":[97.03283,19.91929],"type":"Point"}
+}

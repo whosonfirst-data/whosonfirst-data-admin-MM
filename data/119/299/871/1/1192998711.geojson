@@ -1,0 +1,73 @@
+{
+  "id": 1192998711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.80258,21.26068,99.80258,21.26068",
+    "geom:latitude":21.26068,
+    "geom:longitude":99.80258,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D001",
+    "gn:admin3_code":"MMR016001",
+    "gn:asciiname":"Wan Bok-ya-hsai",
+    "gn:country_code":"MM",
+    "gn:dem":1773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289737,
+    "gn:latitude":21.26068,
+    "gn:longitude":99.80258,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n B\u014dk-ya-hsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101n Kaw B\u014dkya-hsai",
+        "W\u0101n B\u014dk-ya-hsai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289737
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8d8eb0a02c861a06f4b01edbb688693a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045683,
+            "locality_id":1192998711,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1192998711,
+    "wof:lastmodified":1537665334,
+    "wof:name":"Wan Bok-ya-hsai",
+    "wof:parent_id":1092045683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.80258,
+    21.26068,
+    99.80258,
+    21.26068
+],
+  "geometry": {"coordinates":[99.80258000000001,21.26068],"type":"Point"}
+}

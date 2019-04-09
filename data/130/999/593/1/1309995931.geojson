@@ -1,0 +1,69 @@
+{
+  "id": 1309995931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.56421,21.40132,95.56421,21.40132",
+    "geom:latitude":21.40132,
+    "geom:longitude":95.56421,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D004",
+    "gn:admin3_code":"MMR010019",
+    "gn:asciiname":"Thama",
+    "gn:country_code":"MM",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292687,
+    "gn:latitude":21.40132,
+    "gn:longitude":95.56421,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292687
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"9b5b6e404754ee1caf4f275561d30d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1309995931,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1309995931,
+    "wof:lastmodified":1536657226,
+    "wof:name":"Thama",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.56421,
+    21.40132,
+    95.56421,
+    21.40132
+],
+  "geometry": {"coordinates":[95.56421,21.40132],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226713879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.39557,17.04869,96.39557,17.04869",
+    "geom:latitude":17.04869,
+    "geom:longitude":96.39557,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ngapyawdaw",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480778,
+    "gn:latitude":17.04869,
+    "gn:longitude":96.39557,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ngapyawdaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480778
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2dd35b0780b591d4970fbc60815a7c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1226713879,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1226713879,
+    "wof:lastmodified":1536761916,
+    "wof:name":"Ngapyawdaw",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.39557,
+    17.04869,
+    96.39557,
+    17.04869
+],
+  "geometry": {"coordinates":[96.39557000000001,17.04869],"type":"Point"}
+}

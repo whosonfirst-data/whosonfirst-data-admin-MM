@@ -1,0 +1,69 @@
+{
+  "id": 1327411219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.64599,23.64779,98.64599,23.64779",
+    "geom:latitude":23.64779,
+    "geom:longitude":98.64599,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D005",
+    "gn:admin3_code":"MMR015022",
+    "gn:asciiname":"Wan Hsiangpo-tang",
+    "gn:country_code":"MM",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1289115,
+    "gn:latitude":23.64779,
+    "gn:longitude":98.64599,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Hsiangpo-tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1289115
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bbdbb3b16172569a0ea1c0c2c4c50c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046035,
+            "locality_id":1327411219,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327411219,
+    "wof:lastmodified":1536711699,
+    "wof:name":"Wan Hsiangpo-tang",
+    "wof:parent_id":1092046035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.64599,
+    23.64779,
+    98.64599,
+    23.64779
+],
+  "geometry": {"coordinates":[98.64599,23.64779],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209221589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.7434,16.19584,95.7434,16.19584",
+    "geom:latitude":16.19584,
+    "geom:longitude":95.7434,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MMR017D006",
+    "gn:admin3_code":"MMR017026",
+    "gn:asciiname":"Kada",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321699,
+    "gn:latitude":16.19584,
+    "gn:longitude":95.7434,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kad\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321699
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"2b43a96f9bb0970e23f821d73223e120",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209221589
+        }
+    ],
+    "wof:id":1209221589,
+    "wof:lastmodified":1536293943,
+    "wof:name":"Kada",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.7434,
+    16.19584,
+    95.7434,
+    16.19584
+],
+  "geometry": {"coordinates":[95.74339999999999,16.19584],"type":"Point"}
+}

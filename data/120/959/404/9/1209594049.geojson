@@ -1,0 +1,64 @@
+{
+  "id": 1209594049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.887,24.76103,94.887,24.76103",
+    "geom:latitude":24.76103,
+    "geom:longitude":94.887,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D008",
+    "gn:admin3_code":"MMR005034",
+    "gn:asciiname":"Myintha",
+    "gn:country_code":"MM",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307776,
+    "gn:latitude":24.76103,
+    "gn:longitude":94.887,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myintha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307776,
+        "wk:page":"Myintha"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"bf1d2b604fe941a3edcc3a2234e3e6dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209594049
+        }
+    ],
+    "wof:id":1209594049,
+    "wof:lastmodified":1537568478,
+    "wof:name":"Myintha",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.887,
+    24.76103,
+    94.887,
+    24.76103
+],
+  "geometry": {"coordinates":[94.887,24.76103],"type":"Point"}
+}

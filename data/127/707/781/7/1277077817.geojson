@@ -1,0 +1,69 @@
+{
+  "id": 1277077817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.78675,19.37043,93.78675,19.37043",
+    "geom:latitude":19.37043,
+    "geom:longitude":93.78675,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D003",
+    "gn:admin3_code":"MMR012011",
+    "gn:asciiname":"Kyingyi",
+    "gn:country_code":"MM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1315908,
+    "gn:latitude":19.37043,
+    "gn:longitude":93.78675,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyingyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092045819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1315908
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"b402976b7e9b26b95c0cac64d6a9201f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045819,
+            "locality_id":1277077817,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1277077817,
+    "wof:lastmodified":1536775321,
+    "wof:name":"Kyingyi",
+    "wof:parent_id":1092045819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.78675,
+    19.37043,
+    93.78675,
+    19.37043
+],
+  "geometry": {"coordinates":[93.78675,19.37043],"type":"Point"}
+}

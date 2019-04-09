@@ -1,0 +1,69 @@
+{
+  "id": 1326807811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9183,21.59528,100.9183,21.59528",
+    "geom:latitude":21.59528,
+    "geom:longitude":100.9183,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR016D003",
+    "gn:admin3_code":"MMR016011",
+    "gn:asciiname":"Wan Sa-longkiao",
+    "gn:country_code":"MM",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1847157,
+    "gn:latitude":21.59528,
+    "gn:longitude":100.9183,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"W\u0101n Sa-l\u014dngkiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1847157
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ce3e02f00264f743a08396b44db6f488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046623,
+            "locality_id":1326807811,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1326807811,
+    "wof:lastmodified":1537080919,
+    "wof:name":"Wan Sa-longkiao",
+    "wof:parent_id":1092046623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9183,
+    21.59528,
+    100.9183,
+    21.59528
+],
+  "geometry": {"coordinates":[100.9183,21.59528],"type":"Point"}
+}

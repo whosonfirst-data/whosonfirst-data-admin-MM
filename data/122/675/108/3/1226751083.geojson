@@ -1,0 +1,69 @@
+{
+  "id": 1226751083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.01426,20.42508,93.01426,20.42508",
+    "geom:latitude":20.42508,
+    "geom:longitude":93.01426,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D001",
+    "gn:admin3_code":"MMR012002",
+    "gn:asciiname":"Yongon",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284718,
+    "gn:latitude":20.42508,
+    "gn:longitude":93.01426,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yongon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092047375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284718
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"adac5891ed6c5b854a6b64a9345556d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047375,
+            "locality_id":1226751083,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1226751083,
+    "wof:lastmodified":1536708102,
+    "wof:name":"Yongon",
+    "wof:parent_id":1092047375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.01426,
+    20.42508,
+    93.01426,
+    20.42508
+],
+  "geometry": {"coordinates":[93.01425999999999,20.42508],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310385907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.67569,22.96565,96.67569,22.96565",
+    "geom:latitude":22.96565,
+    "geom:longitude":96.67569,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hsailong",
+    "gn:country_code":"MM",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1323331,
+    "gn:latitude":22.96565,
+    "gn:longitude":96.67569,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hsail\u00f6ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092047259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1323331
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"27bedc96b3c64db67747794ad7f366b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047259,
+            "locality_id":1310385907,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1310385907,
+    "wof:lastmodified":1537086332,
+    "wof:name":"Hsailong",
+    "wof:parent_id":1092047259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.67569,
+    22.96565,
+    96.67569,
+    22.96565
+],
+  "geometry": {"coordinates":[96.67569,22.96565],"type":"Point"}
+}

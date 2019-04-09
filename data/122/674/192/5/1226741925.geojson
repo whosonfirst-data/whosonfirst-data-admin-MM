@@ -1,0 +1,73 @@
+{
+  "id": 1226741925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.11584,19.56638,97.11584,19.56638",
+    "geom:latitude":19.56638,
+    "geom:longitude":97.11584,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"MMR002D001",
+    "gn:admin3_code":"MMR002002",
+    "gn:asciiname":"Daw No-hku",
+    "gn:country_code":"MM",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326554,
+    "gn:latitude":19.56638,
+    "gn:longitude":97.11584,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Daw No-hku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daw No-liku",
+        "Daw No-hku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674551,
+        1092046067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326554
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"cba232198170e96e1e4fc5edb9ec5973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046067,
+            "locality_id":1226741925,
+            "region_id":85674551
+        }
+    ],
+    "wof:id":1226741925,
+    "wof:lastmodified":1537665536,
+    "wof:name":"Daw No-hku",
+    "wof:parent_id":1092046067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.11584,
+    19.56638,
+    97.11584,
+    19.56638
+],
+  "geometry": {"coordinates":[97.11584000000001,19.56638],"type":"Point"}
+}

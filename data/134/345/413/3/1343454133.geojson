@@ -1,0 +1,69 @@
+{
+  "id": 1343454133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.58333,16.28333,98.58333,16.28333",
+    "geom:latitude":16.28333,
+    "geom:longitude":98.58333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D002",
+    "gn:admin3_code":"MMR003005",
+    "gn:asciiname":"Kuhta",
+    "gn:country_code":"MM",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318019,
+    "gn:latitude":16.28333,
+    "gn:longitude":98.58333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kuhta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092046901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318019
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"91d4751c301dcf2e5e65f205ead1d245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046901,
+            "locality_id":1343454133,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1343454133,
+    "wof:lastmodified":1536755392,
+    "wof:name":"Kuhta",
+    "wof:parent_id":1092046901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.58333,
+    16.28333,
+    98.58333,
+    16.28333
+],
+  "geometry": {"coordinates":[98.58333,16.28333],"type":"Point"}
+}

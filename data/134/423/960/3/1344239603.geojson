@@ -1,0 +1,69 @@
+{
+  "id": 1344239603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.61796,20.52507,94.61796,20.52507",
+    "geom:latitude":20.52507,
+    "geom:longitude":94.61796,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009010",
+    "gn:asciiname":"Yonbingan",
+    "gn:country_code":"MM",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1284750,
+    "gn:latitude":20.52507,
+    "gn:longitude":94.61796,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Yonbingan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1284750
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a19fa8988deca2b8ca32080bae8a9d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1344239603,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1344239603,
+    "wof:lastmodified":1536614761,
+    "wof:name":"Yonbingan",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.61796,
+    20.52507,
+    94.61796,
+    20.52507
+],
+  "geometry": {"coordinates":[94.61796,20.52507],"type":"Point"}
+}

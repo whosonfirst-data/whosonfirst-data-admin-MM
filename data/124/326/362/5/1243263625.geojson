@@ -1,0 +1,69 @@
+{
+  "id": 1243263625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.49912,27.62448,97.49912,27.62448",
+    "geom:latitude":27.62448,
+    "geom:longitude":97.49912,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D004",
+    "gn:admin3_code":"MMR001016",
+    "gn:asciiname":"Tarandam",
+    "gn:country_code":"MM",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1294375,
+    "gn:latitude":27.62448,
+    "gn:longitude":97.49912,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tarand\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674605,
+        1092047123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1294375
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6eee1c6e7e789eba6289daf92b5996fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047123,
+            "locality_id":1243263625,
+            "region_id":85674605
+        }
+    ],
+    "wof:id":1243263625,
+    "wof:lastmodified":1537066182,
+    "wof:name":"Tarandam",
+    "wof:parent_id":1092047123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.49912,
+    27.62448,
+    97.49912,
+    27.62448
+],
+  "geometry": {"coordinates":[97.49912,27.62448],"type":"Point"}
+}

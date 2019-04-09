@@ -1,0 +1,69 @@
+{
+  "id": 1277160001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.74298,19.80659,94.74298,19.80659",
+    "geom:latitude":19.80659,
+    "geom:longitude":94.74298,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D003",
+    "gn:admin3_code":"MMR009013",
+    "gn:asciiname":"Sinmagyat",
+    "gn:country_code":"MM",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1296020,
+    "gn:latitude":19.80659,
+    "gn:longitude":94.74298,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Sinmagyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092047713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1296020
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"50b36017ab3820526ccdf6e114614a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047713,
+            "locality_id":1277160001,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1277160001,
+    "wof:lastmodified":1536656429,
+    "wof:name":"Sinmagyat",
+    "wof:parent_id":1092047713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.74298,
+    19.80659,
+    94.74298,
+    19.80659
+],
+  "geometry": {"coordinates":[94.74298,19.80659],"type":"Point"}
+}

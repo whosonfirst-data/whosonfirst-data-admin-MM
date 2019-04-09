@@ -1,0 +1,70 @@
+{
+  "id": 1343439539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.187,23.19924,94.187,23.19924",
+    "geom:latitude":23.19924,
+    "geom:longitude":94.187,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D005",
+    "gn:admin3_code":"MMR005027",
+    "gn:asciiname":"Kyaukka",
+    "gn:country_code":"MM",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1317061,
+    "gn:latitude":23.19924,
+    "gn:longitude":94.187,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kyaukka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674607,
+        1092045503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1317061,
+        "wk:page":"Kyaukka"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"5810c57f159c3de03a551edd70341777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045503,
+            "locality_id":1343439539,
+            "region_id":85674607
+        }
+    ],
+    "wof:id":1343439539,
+    "wof:lastmodified":1537568493,
+    "wof:name":"Kyaukka",
+    "wof:parent_id":1092045503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.187,
+    23.19924,
+    94.187,
+    23.19924
+],
+  "geometry": {"coordinates":[94.187,23.19924],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226722763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.65834,20.57923,94.65834,20.57923",
+    "geom:latitude":20.57923,
+    "geom:longitude":94.65834,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"MMR009D002",
+    "gn:admin3_code":"MMR009010",
+    "gn:asciiname":"Salin",
+    "gn:country_code":"MM",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1298230,
+    "gn:latitude":20.57923,
+    "gn:longitude":94.65834,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Salin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salin-myo",
+        "Salin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674589,
+        1092046483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1298230,
+        "wk:page":"Salin,_Myanmar"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"71c72071f8bef05a4e0cd703876198be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046483,
+            "locality_id":1226722763,
+            "region_id":85674589
+        }
+    ],
+    "wof:id":1226722763,
+    "wof:lastmodified":1537665380,
+    "wof:name":"Salin",
+    "wof:parent_id":1092046483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.65834,
+    20.57923,
+    94.65834,
+    20.57923
+],
+  "geometry": {"coordinates":[94.65834,20.57923],"type":"Point"}
+}

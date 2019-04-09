@@ -1,0 +1,63 @@
+{
+  "id": 1209191027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.69775,12.92581,98.69775,12.92581",
+    "geom:latitude":12.92581,
+    "geom:longitude":98.69775,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"MMR006D002",
+    "gn:admin3_code":"MMR006007",
+    "gn:asciiname":"Pawut",
+    "gn:country_code":"MM",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1300784,
+    "gn:latitude":12.92581,
+    "gn:longitude":98.69775,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Pawut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300784
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"fb9bb64e88d78b28e2be925f37f11f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209191027
+        }
+    ],
+    "wof:id":1209191027,
+    "wof:lastmodified":1536294934,
+    "wof:name":"Pawut",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.69775,
+    12.92581,
+    98.69775,
+    12.92581
+],
+  "geometry": {"coordinates":[98.69775,12.92581],"type":"Point"}
+}

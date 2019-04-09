@@ -1,0 +1,69 @@
+{
+  "id": 1226032705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.79721,20.9178,96.79721,20.9178",
+    "geom:latitude":20.9178,
+    "geom:longitude":96.79721,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014005",
+    "gn:asciiname":"Bawlon",
+    "gn:country_code":"MM",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1328323,
+    "gn:latitude":20.9178,
+    "gn:longitude":96.79721,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Bawlon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1328323
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"7a952676f440b1b4b1b36a041eb1803a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1226032705,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226032705,
+    "wof:lastmodified":1536743710,
+    "wof:name":"Bawlon",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.79721,
+    20.9178,
+    96.79721,
+    20.9178
+],
+  "geometry": {"coordinates":[96.79721000000001,20.9178],"type":"Point"}
+}

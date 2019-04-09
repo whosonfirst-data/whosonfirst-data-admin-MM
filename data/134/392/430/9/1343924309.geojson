@@ -1,0 +1,69 @@
+{
+  "id": 1343924309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.15247,17.0347,96.15247,17.0347",
+    "geom:latitude":17.0347,
+    "geom:longitude":96.15247,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D001",
+    "gn:admin3_code":"MMR013002",
+    "gn:asciiname":"Tagundaing",
+    "gn:country_code":"MM",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480191,
+    "gn:latitude":17.0347,
+    "gn:longitude":96.15247,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tagundaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480191
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"46f874f4d55adc6d1aa3f700a5b242a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047835,
+            "locality_id":1343924309,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1343924309,
+    "wof:lastmodified":1537069247,
+    "wof:name":"Tagundaing",
+    "wof:parent_id":1092047835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.15247,
+    17.0347,
+    96.15247,
+    17.0347
+],
+  "geometry": {"coordinates":[96.15246999999999,17.0347],"type":"Point"}
+}

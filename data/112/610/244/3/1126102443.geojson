@@ -1,0 +1,93 @@
+{
+  "id": 1126102443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.17332,16.77182,96.17332,16.77182",
+    "geom:latitude":16.77182,
+    "geom:longitude":96.17332,
+    "gn:gn_country":"MM",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"MM",
+    "lbl:latitude":16.77182,
+    "lbl:longitude":96.17332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MM",
+    "qs_pg:gn_country":"MM",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1327995,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Botataung",
+    "qs_pg:name_adm0":"Myanmar",
+    "qs_pg:name_adm1":"Yangon",
+    "qs_pg:photos":1758,
+    "qs_pg:photos_1k":356,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1758,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":240592,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424763,
+    "qs_pg:woe_id":982178,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424763,
+    "woe:name_adm0":"Myanmar",
+    "woe:name_adm1":"Yangon",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85674569,
+        102191569,
+        85632181,
+        1092047809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1327995,
+        "gp:id":982178,
+        "qs_pg:id":240592
+    },
+    "wof:country":"MM",
+    "wof:created":1497316313,
+    "wof:geomhash":"f6343daada41ca093404ca768b8a0612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047809,
+            "locality_id":-1,
+            "neighbourhood_id":1126102443,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1126102443,
+    "wof:lastmodified":1534379380,
+    "wof:name":"Botataung",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[
+        85902719
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.17332,
+    16.77182,
+    96.17332,
+    16.77182
+],
+  "geometry": {"coordinates":[96.17332,16.77182],"type":"Point"}
+}

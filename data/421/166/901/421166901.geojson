@@ -1,0 +1,87 @@
+{
+  "id": 421166901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.50591,18.49167,95.50591,18.49167",
+    "geom:latitude":18.49167,
+    "geom:longitude":95.50591,
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:mya_x_preferred":[
+        "\u1015\u1031\u102b\u1004\u103a\u1038\u1010\u100a\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:unk_x_variant":[
+        "Paung-deh"
+    ],
+    "qs:gn_country":"MM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1300969,
+    "qs:gn_pop":36971,
+    "qs:name":"Paungde",
+    "qs:name_adm0":"Myanmar",
+    "qs:name_adm1":"Bago",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":276521,
+    "qs:woe_adm0":23424763,
+    "qs:woe_id":1017777,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1300969,
+        "gp:id":1017777,
+        "qs:id":276521,
+        "wd:id":"Q11176618"
+    },
+    "wof:country":"MM",
+    "wof:created":1459008706,
+    "wof:geomhash":"3583a77c9d3aa3c0416923b1155a290c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":421166901,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":421166901,
+    "wof:lastmodified":1527716101,
+    "wof:name":"Paungde",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:population":36971,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.50591,
+    18.49167,
+    95.50591,
+    18.49167
+],
+  "geometry": {"coordinates":[95.50591,18.49167],"type":"Point"}
+}

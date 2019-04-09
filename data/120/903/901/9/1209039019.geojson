@@ -1,0 +1,64 @@
+{
+  "id": 1209039019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.56528,26.26922,98.56528,26.26922",
+    "geom:latitude":26.26922,
+    "geom:longitude":98.56528,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MMR001D001",
+    "gn:admin3_code":"MMR001005",
+    "gn:asciiname":"Mapili",
+    "gn:country_code":"MM",
+    "gn:dem":2160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1310502,
+    "gn:latitude":26.26922,
+    "gn:longitude":98.56528,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Mapili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1310502,
+        "wk:page":"Mapili"
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"54025761aa7f2cba0a2e49d46ff594a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209039019
+        }
+    ],
+    "wof:id":1209039019,
+    "wof:lastmodified":1537568482,
+    "wof:name":"Mapili",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.56528,
+    26.26922,
+    98.56528,
+    26.26922
+],
+  "geometry": {"coordinates":[98.56528,26.26922],"type":"Point"}
+}

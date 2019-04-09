@@ -1,0 +1,73 @@
+{
+  "id": 1327218559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.83757,20.93396,95.83757,20.93396",
+    "geom:latitude":20.93396,
+    "geom:longitude":95.83757,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D007",
+    "gn:admin3_code":"MMR010028",
+    "gn:asciiname":"Myindawgan",
+    "gn:country_code":"MM",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1307879,
+    "gn:latitude":20.93396,
+    "gn:longitude":95.83757,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Myindawgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myindawkan",
+        "Myindawgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1307879
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"415f0cd2ed691cef45c19e2276112f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046443,
+            "locality_id":1327218559,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1327218559,
+    "wof:lastmodified":1537665427,
+    "wof:name":"Myindawgan",
+    "wof:parent_id":1092046443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.83757,
+    20.93396,
+    95.83757,
+    20.93396
+],
+  "geometry": {"coordinates":[95.83757,20.93396],"type":"Point"}
+}

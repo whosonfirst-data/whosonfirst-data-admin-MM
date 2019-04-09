@@ -1,0 +1,69 @@
+{
+  "id": 1309886259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.62381,23.2473,98.62381,23.2473",
+    "geom:latitude":23.2473,
+    "geom:longitude":98.62381,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015020",
+    "gn:asciiname":"Man Hpueng",
+    "gn:country_code":"MM",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1311671,
+    "gn:latitude":23.2473,
+    "gn:longitude":98.62381,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"M\u0101n Hp\u00fcng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092045729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1311671
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8f3458a5b2d8b587029f137daa6576f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045729,
+            "locality_id":1309886259,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1309886259,
+    "wof:lastmodified":1536814489,
+    "wof:name":"Man Hpueng",
+    "wof:parent_id":1092045729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.62381,
+    23.2473,
+    98.62381,
+    23.2473
+],
+  "geometry": {"coordinates":[98.62381000000001,23.2473],"type":"Point"}
+}

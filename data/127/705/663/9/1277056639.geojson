@@ -1,0 +1,69 @@
+{
+  "id": 1277056639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.77515,22.98024,97.77515,22.98024",
+    "geom:latitude":22.98024,
+    "geom:longitude":97.77515,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Hatka",
+    "gn:country_code":"MM",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1325330,
+    "gn:latitude":22.98024,
+    "gn:longitude":97.77515,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Hatka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1325330
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1c5d944dff03a04b0ec1896220b395f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1277056639,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1277056639,
+    "wof:lastmodified":1536803968,
+    "wof:name":"Hatka",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.77515,
+    22.98024,
+    97.77515,
+    22.98024
+],
+  "geometry": {"coordinates":[97.77515,22.98024],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209101099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.92485,21.88414,95.92485,21.88414",
+    "geom:latitude":21.88414,
+    "geom:longitude":95.92485,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"MMR005D001",
+    "gn:admin3_code":"MMR005001",
+    "gn:asciiname":"Daungma",
+    "gn:country_code":"MM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1326725,
+    "gn:latitude":21.88414,
+    "gn:longitude":95.92485,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Daungma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1326725
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"0495ae2f641c4f034b5f1704d1a28ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209101099
+        }
+    ],
+    "wof:id":1209101099,
+    "wof:lastmodified":1536297730,
+    "wof:name":"Daungma",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.92485,
+    21.88414,
+    95.92485,
+    21.88414
+],
+  "geometry": {"coordinates":[95.92485000000001,21.88414],"type":"Point"}
+}

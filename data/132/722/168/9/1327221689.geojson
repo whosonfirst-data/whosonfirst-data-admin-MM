@@ -1,0 +1,73 @@
+{
+  "id": 1327221689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.72102,20.73317,96.72102,20.73317",
+    "geom:latitude":20.73317,
+    "geom:longitude":96.72102,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014005",
+    "gn:asciiname":"Tingyigyat East",
+    "gn:country_code":"MM",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1290919,
+    "gn:latitude":20.73317,
+    "gn:longitude":96.72102,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tingyigyat East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tingyigyat",
+        "Tingyigyat East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092047487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1290919
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"16e40af279b9ccd5ea95c302fd0998d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047487,
+            "locality_id":1327221689,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1327221689,
+    "wof:lastmodified":1537665341,
+    "wof:name":"Tingyigyat East",
+    "wof:parent_id":1092047487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.72102,
+    20.73317,
+    96.72102,
+    20.73317
+],
+  "geometry": {"coordinates":[96.72102,20.73317],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209492743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.24043,20.99733,97.24043,20.99733",
+    "geom:latitude":20.99733,
+    "geom:longitude":97.24043,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR014D001",
+    "gn:admin3_code":"MMR014003",
+    "gn:asciiname":"Konsa-lai",
+    "gn:country_code":"MM",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1318223,
+    "gn:latitude":20.99733,
+    "gn:longitude":97.24043,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Konsa-lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1318223
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"40e6077a1e3fdd75871c51de1831f79f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1209492743
+        }
+    ],
+    "wof:id":1209492743,
+    "wof:lastmodified":1536285433,
+    "wof:name":"Konsa-lai",
+    "wof:parent_id":85632181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.24043,
+    20.99733,
+    97.24043,
+    20.99733
+],
+  "geometry": {"coordinates":[97.24043,20.99733],"type":"Point"}
+}

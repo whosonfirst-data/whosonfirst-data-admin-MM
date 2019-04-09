@@ -1,0 +1,73 @@
+{
+  "id": 1259560939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.8728,22.68786,97.8728,22.68786",
+    "geom:latitude":22.68786,
+    "geom:longitude":97.8728,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015003",
+    "gn:asciiname":"Ho-hko-nam-hpak-luen",
+    "gn:country_code":"MM",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324163,
+    "gn:latitude":22.68786,
+    "gn:longitude":97.8728,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ho-hko-nam-hpak-l\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-hko Namhpoklun",
+        "Ho-hko-nam-hpak-l\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324163
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"1d6ddde7425d592af9107f90871b5f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1259560939,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1259560939,
+    "wof:lastmodified":1537665524,
+    "wof:name":"Ho-hko-nam-hpak-luen",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.8728,
+    22.68786,
+    97.8728,
+    22.68786
+],
+  "geometry": {"coordinates":[97.8728,22.68786],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327124325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.4312,20.81695,95.4312,20.81695",
+    "geom:latitude":20.81695,
+    "geom:longitude":95.4312,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D005",
+    "gn:admin3_code":"MMR010020",
+    "gn:asciiname":"Wetchokkon",
+    "gn:country_code":"MM",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1286337,
+    "gn:latitude":20.81695,
+    "gn:longitude":95.4312,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Wetchokkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1286337
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"ec122916987471b6d981f10cd704e956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046999,
+            "locality_id":1327124325,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1327124325,
+    "wof:lastmodified":1536625885,
+    "wof:name":"Wetchokkon",
+    "wof:parent_id":1092046999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.4312,
+    20.81695,
+    95.4312,
+    20.81695
+],
+  "geometry": {"coordinates":[95.4312,20.81695],"type":"Point"}
+}

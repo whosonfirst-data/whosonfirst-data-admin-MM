@@ -1,0 +1,69 @@
+{
+  "id": 1226324631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.68683,19.1228,95.68683,19.1228",
+    "geom:latitude":19.1228,
+    "geom:longitude":95.68683,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR008D001",
+    "gn:admin3_code":"MMR008002",
+    "gn:asciiname":"Namyawgyi",
+    "gn:country_code":"MM",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1306276,
+    "gn:latitude":19.1228,
+    "gn:longitude":95.68683,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Namyawgyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092047213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1306276
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"41e0eb263e6b3d83f95b5bf4db40356c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047213,
+            "locality_id":1226324631,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1226324631,
+    "wof:lastmodified":1536819098,
+    "wof:name":"Namyawgyi",
+    "wof:parent_id":1092047213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.68683,
+    19.1228,
+    95.68683,
+    19.1228
+],
+  "geometry": {"coordinates":[95.68683,19.1228],"type":"Point"}
+}

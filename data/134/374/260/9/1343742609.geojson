@@ -1,0 +1,69 @@
+{
+  "id": 1343742609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.21222,22.44084,98.21222,22.44084",
+    "geom:latitude":22.44084,
+    "geom:longitude":98.21222,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015003",
+    "gn:asciiname":"Loi-pang",
+    "gn:country_code":"MM",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1313329,
+    "gn:latitude":22.44084,
+    "gn:longitude":98.21222,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Loi-p\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1313329
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"6461f31d4e07906f91148ad2cc0d2e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1343742609,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1343742609,
+    "wof:lastmodified":1536835621,
+    "wof:name":"Loi-pang",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.21222,
+    22.44084,
+    98.21222,
+    22.44084
+],
+  "geometry": {"coordinates":[98.21222,22.44084],"type":"Point"}
+}

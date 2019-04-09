@@ -1,0 +1,69 @@
+{
+  "id": 1242590305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.78333,22.46667,93.78333,22.46667",
+    "geom:latitude":22.46667,
+    "geom:longitude":93.78333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"MMR004D003",
+    "gn:admin3_code":"MMR004002",
+    "gn:asciiname":"Tinan",
+    "gn:country_code":"MM",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1291019,
+    "gn:latitude":22.46667,
+    "gn:longitude":93.78333,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Tinan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674581,
+        1092045227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1291019
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"82a70a0574667ab4bbd0dd97ecd048b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045227,
+            "locality_id":1242590305,
+            "region_id":85674581
+        }
+    ],
+    "wof:id":1242590305,
+    "wof:lastmodified":1537043468,
+    "wof:name":"Tinan",
+    "wof:parent_id":1092045227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.78333,
+    22.46667,
+    93.78333,
+    22.46667
+],
+  "geometry": {"coordinates":[93.78333000000001,22.46667],"type":"Point"}
+}

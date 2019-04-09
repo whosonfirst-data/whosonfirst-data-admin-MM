@@ -1,0 +1,73 @@
+{
+  "id": 1209787583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.05684,17.56993,97.05684,17.56993",
+    "geom:latitude":17.56993,
+    "geom:longitude":97.05684,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"MMR007D001",
+    "gn:admin3_code":"MMR007008",
+    "gn:asciiname":"Htikala",
+    "gn:country_code":"MM",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1322785,
+    "gn:latitude":17.56993,
+    "gn:longitude":97.05684,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Htikala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tikala",
+        "Htikala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674565,
+        1092044937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1322785
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"85ad4f1acbfa9b6a3c463b972d4923a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092044937,
+            "locality_id":1209787583,
+            "region_id":85674565
+        }
+    ],
+    "wof:id":1209787583,
+    "wof:lastmodified":1537665517,
+    "wof:name":"Htikala",
+    "wof:parent_id":1092044937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.05684,
+    17.56993,
+    97.05684,
+    17.56993
+],
+  "geometry": {"coordinates":[97.05683999999999,17.56993],"type":"Point"}
+}

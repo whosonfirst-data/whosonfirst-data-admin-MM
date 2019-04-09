@@ -1,0 +1,69 @@
+{
+  "id": 1310581673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.44886,23.15119,98.44886,23.15119",
+    "geom:latitude":23.15119,
+    "geom:longitude":98.44886,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D001",
+    "gn:admin3_code":"MMR015001",
+    "gn:asciiname":"Ho-hsaw",
+    "gn:country_code":"MM",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1324147,
+    "gn:latitude":23.15119,
+    "gn:longitude":98.44886,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Ho-hsaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1324147
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"405ba4e45cf730f2db7daab5285bfc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046001,
+            "locality_id":1310581673,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1310581673,
+    "wof:lastmodified":1536806857,
+    "wof:name":"Ho-hsaw",
+    "wof:parent_id":1092046001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.44886,
+    23.15119,
+    98.44886,
+    23.15119
+],
+  "geometry": {"coordinates":[98.44886,23.15119],"type":"Point"}
+}

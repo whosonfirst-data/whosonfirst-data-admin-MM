@@ -1,0 +1,68 @@
+{
+  "id": 1344143857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.61761,11.06925,98.61761,11.06925",
+    "geom:latitude":11.06925,
+    "geom:longitude":98.61761,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kyeinnidaung",
+    "gn:country_code":"MM",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1316178,
+    "gn:latitude":11.06925,
+    "gn:longitude":98.61761,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Kyeinnidaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyeinmedaung",
+        "Kyeinnidaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1316178
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"8b5c42135adde12c7429e397111ab3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "locality_id":1344143857,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344143857,
+    "wof:lastmodified":1537665476,
+    "wof:name":"Kyeinnidaung",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.61761,
+    11.06925,
+    98.61761,
+    11.06925
+],
+  "geometry": {"coordinates":[98.61761,11.06925],"type":"Point"}
+}

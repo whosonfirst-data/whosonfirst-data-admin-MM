@@ -1,0 +1,69 @@
+{
+  "id": 1344270815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.50214,21.12785,92.50214,21.12785",
+    "geom:latitude":21.12785,
+    "geom:longitude":92.50214,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"MMR012D002",
+    "gn:admin3_code":"MMR012010",
+    "gn:asciiname":"Amila",
+    "gn:country_code":"MM",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329205,
+    "gn:latitude":21.12785,
+    "gn:longitude":92.50214,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Amila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674579,
+        1092046317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329205
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"d04ad5699fe9f85b1110f6c92dde80cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046317,
+            "locality_id":1344270815,
+            "region_id":85674579
+        }
+    ],
+    "wof:id":1344270815,
+    "wof:lastmodified":1537066204,
+    "wof:name":"Amila",
+    "wof:parent_id":1092046317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.50214,
+    21.12785,
+    92.50214,
+    21.12785
+],
+  "geometry": {"coordinates":[92.50214,21.12785],"type":"Point"}
+}

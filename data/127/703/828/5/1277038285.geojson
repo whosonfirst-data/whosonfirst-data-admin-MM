@@ -1,0 +1,73 @@
+{
+  "id": 1277038285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.33878,16.91237,96.33878,16.91237",
+    "geom:latitude":16.91237,
+    "geom:longitude":96.33878,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"MMR013D002",
+    "gn:admin3_code":"MMR013021",
+    "gn:asciiname":"Thayetpinchaung",
+    "gn:country_code":"MM",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1292016,
+    "gn:latitude":16.91237,
+    "gn:longitude":96.33878,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Thayetpinchaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thayetpingyaung",
+        "Thayetpinchaung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674569,
+        1092047809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1292016
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"a58f76219be7659d8db1710d5a7a9919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092047809,
+            "locality_id":1277038285,
+            "region_id":85674569
+        }
+    ],
+    "wof:id":1277038285,
+    "wof:lastmodified":1537665346,
+    "wof:name":"Thayetpinchaung",
+    "wof:parent_id":1092047809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.33878,
+    16.91237000000001,
+    96.33878,
+    16.91237000000001
+],
+  "geometry": {"coordinates":[96.33878,16.91237000000001],"type":"Point"}
+}

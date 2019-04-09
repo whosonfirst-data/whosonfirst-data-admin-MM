@@ -1,0 +1,69 @@
+{
+  "id": 1242966469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.73336,17.35378,97.73336,17.35378",
+    "geom:latitude":17.35378,
+    "geom:longitude":97.73336,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"MMR003D001",
+    "gn:admin3_code":"MMR003002",
+    "gn:asciiname":"Kamawlechaung",
+    "gn:country_code":"MM",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1321086,
+    "gn:latitude":17.35378,
+    "gn:longitude":97.73336,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Kamawlechaung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674557,
+        1092045417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1321086
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"c5acad01eade4a3875f4c44979c421eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092045417,
+            "locality_id":1242966469,
+            "region_id":85674557
+        }
+    ],
+    "wof:id":1242966469,
+    "wof:lastmodified":1536999852,
+    "wof:name":"Kamawlechaung",
+    "wof:parent_id":1092045417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.73336,
+    17.35378,
+    97.73336,
+    17.35378
+],
+  "geometry": {"coordinates":[97.73336,17.35378],"type":"Point"}
+}

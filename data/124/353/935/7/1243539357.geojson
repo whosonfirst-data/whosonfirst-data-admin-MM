@@ -1,0 +1,69 @@
+{
+  "id": 1243539357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.20133,21.83849,96.20133,21.83849",
+    "geom:latitude":21.83849,
+    "geom:longitude":96.20133,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"MMR010D001",
+    "gn:admin3_code":"MMR010007",
+    "gn:asciiname":"Shanywagale",
+    "gn:country_code":"MM",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1297071,
+    "gn:latitude":21.83849,
+    "gn:longitude":96.20133,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Shanywagale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674559,
+        1092046205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1297071
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"f75a256847f5afdb13c5d23d6828c3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046205,
+            "locality_id":1243539357,
+            "region_id":85674559
+        }
+    ],
+    "wof:id":1243539357,
+    "wof:lastmodified":1536671600,
+    "wof:name":"Shanywagale",
+    "wof:parent_id":1092046205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.20133,
+    21.83849,
+    96.20133,
+    21.83849
+],
+  "geometry": {"coordinates":[96.20133,21.83849],"type":"Point"}
+}

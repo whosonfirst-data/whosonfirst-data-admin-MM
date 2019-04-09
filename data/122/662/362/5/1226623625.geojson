@@ -1,0 +1,73 @@
+{
+  "id": 1226623625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.73231,21.78353,98.73231,21.78353",
+    "geom:latitude":21.78353,
+    "geom:longitude":98.73231,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"MMR015D007",
+    "gn:admin3_code":"MMR015024",
+    "gn:asciiname":"Nga-hawm",
+    "gn:country_code":"MM",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1304696,
+    "gn:latitude":21.78353,
+    "gn:longitude":98.73231,
+    "gn:modification_date":"2016-06-01",
+    "gn:name":"Nga-hawm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"MM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nga-hawn",
+        "Nga-hawm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674595,
+        1092046245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1304696
+    },
+    "wof:country":"MM",
+    "wof:geomhash":"aa66563d366a67a1a8fa28c3894e4902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046245,
+            "locality_id":1226623625,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":1226623625,
+    "wof:lastmodified":1537665412,
+    "wof:name":"Nga-hawm",
+    "wof:parent_id":1092046245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.73231,
+    21.78353,
+    98.73231,
+    21.78353
+],
+  "geometry": {"coordinates":[98.73231,21.78353],"type":"Point"}
+}
