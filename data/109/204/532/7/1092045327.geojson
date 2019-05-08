@@ -10,6 +10,12 @@
     "geom:latitude":25.790724,
     "geom:longitude":95.551231,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Hkamti District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.384796,
     "lbl:longitude":95.427252,
     "meso:admin1_loc":"\u1005\u1005\u103a\u1000\u102d\u102f\u1004\u103a\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092045327,
-    "wof:lastmodified":1536615125,
+    "wof:lastmodified":1553718077,
     "wof:name":"Hkamti",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

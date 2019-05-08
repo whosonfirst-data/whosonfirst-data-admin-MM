@@ -10,6 +10,12 @@
     "geom:latitude":26.011617,
     "geom:longitude":97.418485,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Myitkyina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.608581,
     "lbl:longitude":97.671179,
     "meso:admin1_loc":"\u1000\u1001\u103b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1092047037,
-    "wof:lastmodified":1536615131,
+    "wof:lastmodified":1553718085,
     "wof:name":"Myitkyina",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

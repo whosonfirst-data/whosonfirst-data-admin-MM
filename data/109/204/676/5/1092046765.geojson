@@ -10,6 +10,12 @@
     "geom:latitude":20.474829,
     "geom:longitude":93.356179,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Mrauk-U District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.475205,
     "lbl:longitude":93.449778,
     "meso:admin1_loc":"\u101b\u1001\u102d\u102f\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -27,6 +33,9 @@
     "mps:longitude":93.449778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mrauk-U"
+    ],
     "name:eng_x_variant":[
         "Sittwe"
     ],
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1092046765,
-    "wof:lastmodified":1536615130,
+    "wof:lastmodified":1555220362,
     "wof:name":"Mrauk-U",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

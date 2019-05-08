@@ -10,6 +10,12 @@
     "geom:latitude":21.394019,
     "geom:longitude":97.927078,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Loilen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.394927,
     "lbl:longitude":97.943224,
     "meso:admin1_loc":"\u101b\u103e\u1019\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a (\u1010\u1031\u102c\u1004\u103a)",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092046115,
-    "wof:lastmodified":1536615128,
+    "wof:lastmodified":1553718079,
     "wof:name":"Loilen",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

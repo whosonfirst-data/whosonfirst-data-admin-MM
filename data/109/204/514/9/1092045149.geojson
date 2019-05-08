@@ -10,6 +10,12 @@
     "geom:latitude":23.421865,
     "geom:longitude":93.714763,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Falam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.419426,
     "lbl:longitude":93.706894,
     "meso:admin1_loc":"\u1001\u103b\u1004\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092045149,
-    "wof:lastmodified":1536615125,
+    "wof:lastmodified":1553718076,
     "wof:name":"Falam",
     "wof:parent_id":85674581,
     "wof:placetype":"county",

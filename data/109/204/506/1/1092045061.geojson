@@ -10,6 +10,12 @@
     "geom:latitude":14.089461,
     "geom:longitude":98.470103,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Dawei District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.885872,
     "lbl:longitude":98.601632,
     "meso:admin1_loc":"\u1010\u1014\u1004\u103a\u1039\u101e\u102c\u101b\u102e\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1092045061,
-    "wof:lastmodified":1536615124,
+    "wof:lastmodified":1553718077,
     "wof:name":"Dawei",
     "wof:parent_id":85674599,
     "wof:placetype":"county",

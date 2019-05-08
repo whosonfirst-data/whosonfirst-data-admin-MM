@@ -10,6 +10,12 @@
     "geom:latitude":21.803029,
     "geom:longitude":94.182138,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Gangaw District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.96473,
     "lbl:longitude":94.204706,
     "meso:admin1_loc":"\u1019\u1000\u103d\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092045189,
-    "wof:lastmodified":1536615125,
+    "wof:lastmodified":1553718076,
     "wof:name":"Gangaw",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

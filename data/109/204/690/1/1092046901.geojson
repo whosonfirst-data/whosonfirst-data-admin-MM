@@ -10,6 +10,12 @@
     "geom:latitude":16.548571,
     "geom:longitude":98.520874,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Myawaddy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.911373,
     "lbl:longitude":98.367029,
     "meso:admin1_loc":"\u1000\u101b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1092046901,
-    "wof:lastmodified":1536615130,
+    "wof:lastmodified":1553718088,
     "wof:name":"Myawaddy",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.257342,
     "geom:longitude":95.264317,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Monywa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.285799,
     "lbl:longitude":95.258904,
     "meso:admin1_loc":"\u1005\u1005\u103a\u1000\u102d\u102f\u1004\u103a\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1092046719,
-    "wof:lastmodified":1536615130,
+    "wof:lastmodified":1553718080,
     "wof:name":"Monywa",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

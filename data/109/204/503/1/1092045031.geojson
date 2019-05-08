@@ -10,6 +10,12 @@
     "geom:latitude":24.258093,
     "geom:longitude":97.162048,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Bhamo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.186664,
     "lbl:longitude":97.211268,
     "meso:admin1_loc":"\u1000\u1001\u103b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1092045031,
-    "wof:lastmodified":1536615124,
+    "wof:lastmodified":1553718076,
     "wof:name":"Bhamo",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":25.302289,
     "geom:longitude":96.497911,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Mohnyin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":25.313913,
     "lbl:longitude":96.484624,
     "meso:admin1_loc":"\u1000\u1001\u103b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -34,10 +40,11 @@
         "\u83ab\u5be7\u7e23"
     ],
     "name:eng_x_preferred":[
-        "Mohnyin District"
+        "Mohnyin"
     ],
     "name:eng_x_variant":[
-        "Myitkyina"
+        "Myitkyina",
+        "Mohnyin"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30fc\u30cb\u30a4\u30f3\u770c"
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":1092046579,
-    "wof:lastmodified":1536615129,
+    "wof:lastmodified":1555220361,
     "wof:name":"Mohnyin",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

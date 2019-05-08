@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.925038,
-    "geom:area_square_m":10891849130.477173,
+    "geom:area_square_m":10891849130.478069,
     "geom:bbox":"96.3945269848,16.5141598484,98.322761,19.5053711769",
     "geom:latitude":17.756581,
     "geom:longitude":97.451018,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Hpa-An District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.066929,
     "lbl:longitude":97.825672,
     "meso:admin1_loc":"\u1000\u101b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092045417,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555037658,
     "wof:name":"Hpa-An",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":21.283221,
     "geom:longitude":95.461253,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Myingyan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.29257,
     "lbl:longitude":95.412663,
     "meso:admin1_loc":"\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1092046999,
-    "wof:lastmodified":1536615131,
+    "wof:lastmodified":1553718080,
     "wof:name":"Myingyan",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":16.003322,
     "geom:longitude":98.226259,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Kawkareik District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.850659,
     "lbl:longitude":98.258384,
     "meso:admin1_loc":"\u1000\u101b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092045583,
-    "wof:lastmodified":1536615126,
+    "wof:lastmodified":1553718078,
     "wof:name":"Kawkareik",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":17.138066,
     "geom:longitude":97.27942,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Thaton District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.321208,
     "lbl:longitude":97.253602,
     "meso:admin1_loc":"\u1019\u103d\u1014\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1092047619,
-    "wof:lastmodified":1536615133,
+    "wof:lastmodified":1553718082,
     "wof:name":"Thaton",
     "wof:parent_id":85674575,
     "wof:placetype":"county",

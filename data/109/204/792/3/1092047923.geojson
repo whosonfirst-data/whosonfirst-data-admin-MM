@@ -10,6 +10,12 @@
     "geom:latitude":16.832915,
     "geom:longitude":96.138177,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Yangon West District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.851728,
     "lbl:longitude":96.13247,
     "meso:admin1_loc":"\u101b\u1014\u103a\u1000\u102f\u1014\u103a\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092047923,
-    "wof:lastmodified":1536615134,
+    "wof:lastmodified":1555092029,
     "wof:name":"Yangon (West)",
     "wof:parent_id":85674569,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.502168,
-    "geom:area_square_m":5798524749.592908,
+    "geom:area_square_m":5798524749.593464,
     "geom:bbox":"95.4657948599,20.5079252639,96.5773757179,21.4098668562",
     "geom:latitude":20.959266,
     "geom:longitude":95.973485,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Meiktila District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.027317,
     "lbl:longitude":95.935587,
     "meso:admin1_loc":"\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092046443,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555037658,
     "wof:name":"Meiktila",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

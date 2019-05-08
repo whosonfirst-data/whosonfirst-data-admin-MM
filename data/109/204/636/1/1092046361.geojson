@@ -10,6 +10,12 @@
     "geom:latitude":23.969527,
     "geom:longitude":94.74653,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Mawlaik District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.967952,
     "lbl:longitude":94.755441,
     "meso:admin1_loc":"\u1005\u1005\u103a\u1000\u102d\u102f\u1004\u103a\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092046361,
-    "wof:lastmodified":1536615129,
+    "wof:lastmodified":1553718079,
     "wof:name":"Mawlaik",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

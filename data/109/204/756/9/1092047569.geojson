@@ -10,6 +10,12 @@
     "geom:latitude":18.531654,
     "geom:longitude":94.501257,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Thandwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.53355,
     "lbl:longitude":94.508208,
     "meso:admin1_loc":"\u101b\u1001\u102d\u102f\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1092047569,
-    "wof:lastmodified":1536615133,
+    "wof:lastmodified":1553718084,
     "wof:name":"Thandwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

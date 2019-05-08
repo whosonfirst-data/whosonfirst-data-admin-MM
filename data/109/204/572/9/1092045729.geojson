@@ -10,6 +10,12 @@
     "geom:latitude":23.434157,
     "geom:longitude":98.607256,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Kunlong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":23.390259,
     "lbl:longitude":98.604282,
     "meso:admin1_loc":"NO DATA",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092045729,
-    "wof:lastmodified":1536615127,
+    "wof:lastmodified":1553718077,
     "wof:name":"Kunlong",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

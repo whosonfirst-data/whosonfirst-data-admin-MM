@@ -10,6 +10,12 @@
     "geom:latitude":22.902731,
     "geom:longitude":97.006283,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Kyaukme District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.772627,
     "lbl:longitude":97.09818,
     "meso:admin1_loc":"\u101b\u103e\u1019\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a (\u1019\u103c\u1031\u102c\u1000\u103a)",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1092045765,
-    "wof:lastmodified":1536615127,
+    "wof:lastmodified":1553718078,
     "wof:name":"Kyaukme",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

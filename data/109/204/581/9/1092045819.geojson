@@ -10,6 +10,12 @@
     "geom:latitude":19.678307,
     "geom:longitude":93.926211,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Kyaukpyu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.806733,
     "lbl:longitude":94.037587,
     "meso:admin1_loc":"\u101b\u1001\u102d\u102f\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092045819,
-    "wof:lastmodified":1536615127,
+    "wof:lastmodified":1553718079,
     "wof:name":"Kyaukpyu",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

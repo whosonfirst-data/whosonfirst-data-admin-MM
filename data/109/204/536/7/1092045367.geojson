@@ -10,6 +10,12 @@
     "geom:latitude":23.026317,
     "geom:longitude":98.968342,
     "iso:country":"MM",
+    "label:eng_x_preferred_longname":[
+        "Hopang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.990821,
     "lbl:longitude":98.912797,
     "meso:admin1_loc":"\u101b\u103e\u1019\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a (\u1019\u103c\u1031\u102c\u1000\u103a)",
@@ -31,11 +37,12 @@
         "\u101f\u102d\u102f\u1015\u1014\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
     "name:eng_x_preferred":[
-        "Hopang District"
+        "Hopang"
     ],
     "name:eng_x_variant":[
         "Lashio",
-        "Lasho"
+        "Lasho",
+        "Hopang"
     ],
     "name:jpn_x_preferred":[
         "\u30db\u30d1\u30f3\u770c"
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":1092045367,
-    "wof:lastmodified":1536615125,
+    "wof:lastmodified":1555220361,
     "wof:name":"Hopang",
     "wof:parent_id":85674595,
     "wof:placetype":"county",
