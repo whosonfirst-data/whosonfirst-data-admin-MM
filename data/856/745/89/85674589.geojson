@@ -35,20 +35,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0997\u0993\u09af\u09bc\u09c7 \u0985\u099e\u09cd\u099a\u09b2"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u1000\u103d\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038"
-    ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Magwe"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u572d\u7701"
     ],
     "name:dan_x_preferred":[
         "Magway Region"
     ],
-    "name:dut_x_preferred":[
-        "Magway"
+    "name:deu_x_preferred":[
+        "Magway-Region"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03ba\u03b3\u03bf\u03c5\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Magway"
@@ -56,20 +53,14 @@
     "name:est_x_preferred":[
         "Magway piirkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u06af\u0648\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Magway"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Magway"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Magway"
-    ],
-    "name:ger_x_preferred":[
-        "Magway-Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b3\u03ba\u03b3\u03bf\u03c5\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a97\u0ab5\u0ac7 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -98,20 +89,23 @@
     "name:lit_x_preferred":[
         "Magv\u0117s regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0433\u0432\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0945\u0917\u0935\u0947 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0433\u0432\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Magway Region"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u103d\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038"
+    ],
+    "name:nld_x_preferred":[
+        "Magway"
     ],
     "name:nob_x_preferred":[
         "Magway"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u06af\u0648\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Magwe"
@@ -157,6 +151,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00f9ng Magway"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u572d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MMR",
@@ -281,7 +278,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1553550469,
+    "wof:lastmodified":1561843735,
     "wof:name":"Magway",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

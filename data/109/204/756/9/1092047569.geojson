@@ -33,14 +33,11 @@
     "mps:longitude":94.508208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u101e\u1036\u1010\u103d\u1032\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:cat_x_preferred":[
         "Districte de Thandwe"
     ],
-    "name:chi_x_preferred":[
-        "\u4e39\u514c\u7e23"
+    "name:deu_x_preferred":[
+        "Thandwe District"
     ],
     "name:eng_x_preferred":[
         "Thandwe"
@@ -49,17 +46,20 @@
         "Thandwe",
         "Thandwe District"
     ],
-    "name:ger_x_preferred":[
-        "Thandwe District"
-    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30c9\u30a6\u30a7\u770c"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u1036\u1010\u103d\u1032\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
     "name:swe_x_preferred":[
         "Thandwe District"
     ],
     "name:und_x_variant":[
         "\u101e\u1036\u1010\u103d\u1032\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u514c\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1092047569,
-    "wof:lastmodified":1553718084,
+    "wof:lastmodified":1561843791,
     "wof:name":"Thandwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

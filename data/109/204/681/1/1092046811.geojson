@@ -33,12 +33,6 @@
     "mps:longitude":98.019733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u1019\u1030\u1006\u101a\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u6728\u59d0\u7e23"
-    ],
     "name:eng_x_preferred":[
         "Mu Se"
     ],
@@ -49,11 +43,17 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30bb\u770c"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u1030\u1006\u101a\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:swe_x_preferred":[
         "Mu Se District"
     ],
     "name:und_x_variant":[
         "\u1019\u1030\u1006\u101a\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u59d0\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1092046811,
-    "wof:lastmodified":1553718080,
+    "wof:lastmodified":1561843788,
     "wof:name":"Muse",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

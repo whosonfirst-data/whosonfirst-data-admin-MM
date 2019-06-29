@@ -33,12 +33,6 @@
     "mps:longitude":96.171985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u1015\u103c\u1004\u103a\u1026\u1038\u101c\u103d\u1004\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u5f6c\u4e4c\u4f26\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Pyin-Oo-Lwin"
     ],
@@ -49,11 +43,17 @@
     "name:jpn_x_preferred":[
         "\u30d4\u30f3\u30fb\u30a6\u30fc\u30fb\u30eb\u30a6\u30a3\u30f3\u770c"
     ],
+    "name:mya_x_preferred":[
+        "\u1015\u103c\u1004\u103a\u1026\u1038\u101c\u103d\u1004\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:swe_x_preferred":[
         "Pyin Oo Lwin District"
     ],
     "name:und_x_variant":[
         "\u1015\u103c\u1004\u103a\u1026\u1038\u101c\u103d\u1004\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f6c\u4e4c\u4f26\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1092047259,
-    "wof:lastmodified":1553718082,
+    "wof:lastmodified":1561843789,
     "wof:name":"Pyinoolwin",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

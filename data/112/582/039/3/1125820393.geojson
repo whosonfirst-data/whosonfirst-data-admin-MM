@@ -28,20 +28,17 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0448\u0438\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u101c\u102c\u1038\u101b\u103e\u102d\u102f\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Lashio"
-    ],
-    "name:chi_x_preferred":[
-        "\u81d8\u620c"
     ],
     "name:dan_x_preferred":[
         "Lashio"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lashio"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Lashio"
@@ -49,14 +46,8 @@
     "name:fin_x_preferred":[
         "Lashio"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lashio"
-    ],
-    "name:ger_x_preferred":[
-        "Lashio"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03c3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0ab6\u0abf\u0aaf\u0acb"
@@ -88,11 +79,14 @@
     "name:mar_x_preferred":[
         "\u0932\u093e\u0936\u093f\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lashio"
     ],
     "name:mya_x_preferred":[
         "\u101c\u102c\u1038\u101b\u103e\u102d\u102f\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Lashio"
     ],
     "name:nob_x_preferred":[
         "Lashio"
@@ -184,7 +178,7 @@
         }
     ],
     "wof:id":1125820393,
-    "wof:lastmodified":1514484850,
+    "wof:lastmodified":1561843800,
     "wof:name":"Lashio",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

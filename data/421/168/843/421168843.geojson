@@ -14,16 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:bur_x_preferred":[
-        "\u101b\u103d\u103e\u1031\u1018\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Shwebo"
     ],
-    "name:chi_x_preferred":[
-        "\u745e\u6ce2"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shwebo"
     ],
     "name:eng_x_preferred":[
@@ -32,17 +26,14 @@
     "name:fra_x_preferred":[
         "Shwebo"
     ],
-    "name:fre_x_preferred":[
-        "Shwebo"
-    ],
-    "name:ger_x_preferred":[
-        "Shwebo"
-    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30a6\u30a7\u30dc"
     ],
     "name:mya_x_preferred":[
         "\u101b\u103d\u103e\u1031\u1018\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Shwebo"
     ],
     "name:oci_x_preferred":[
         "Shwebo"
@@ -211,7 +202,7 @@
         }
     ],
     "wof:id":421168843,
-    "wof:lastmodified":1527716092,
+    "wof:lastmodified":1561843798,
     "wof:name":"Shwebo",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

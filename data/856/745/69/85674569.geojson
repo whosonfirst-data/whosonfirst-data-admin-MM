@@ -38,14 +38,8 @@
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u0997\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
-    "name:bur_x_preferred":[
-        "\u101b\u1014\u103a\u1000\u102f\u1014\u103a\u1010\u102d\u102f\u1004\u103a\u1038"
-    ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Yangon"
-    ],
-    "name:chi_x_preferred":[
-        "\u4ef0\u5149\u7701"
     ],
     "name:dan_x_preferred":[
         "Yangon Region"
@@ -53,8 +47,8 @@
     "name:deu_x_preferred":[
         "Yangon-Region"
     ],
-    "name:dut_x_preferred":[
-        "Rangoon"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bd\u03b3\u03ba\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Yangon"
@@ -70,15 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Yangon"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Yangon"
-    ],
-    "name:ger_x_preferred":[
-        "Yangon-Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ac\u03bd\u03b3\u03ba\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0a82\u0a97\u0acb\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -107,20 +92,20 @@
     "name:lit_x_preferred":[
         "Jangono regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0430\u043d\u0433\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092f\u093e\u0902\u0917\u0949\u0928 \u0930\u093f\u091c\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Yangon Region"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u043d\u0433\u043e\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Yangon Region"
+    ],
     "name:mya_x_preferred":[
         "\u101b\u1014\u103a\u1000\u102f\u1014\u103a\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038"
+    ],
+    "name:mya_x_variant":[
+        "\u101b\u1014\u103a\u1000\u102f\u1014\u103a\u1010\u102d\u102f\u1004\u103a\u1038"
     ],
     "name:nld_x_preferred":[
         "Rangoon"
@@ -130,9 +115,6 @@
     ],
     "name:nor_x_preferred":[
         "Yangon"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u06cc\u0627\u0646\u06af\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Rangun"
@@ -303,7 +285,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1553550466,
+    "wof:lastmodified":1561843735,
     "wof:name":"Yangon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

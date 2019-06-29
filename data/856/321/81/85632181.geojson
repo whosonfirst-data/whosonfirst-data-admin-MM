@@ -665,9 +665,6 @@
     "name:ron_x_variant":[
         "Myanmar"
     ],
-    "name:rum_x_preferred":[
-        "Birmania"
-    ],
     "name:run_x_preferred":[
         "Burumaniya"
     ],
@@ -910,7 +907,6 @@
         "\u7f05\u7538"
     ],
     "name:zho_x_variant":[
-        "\u7f05\u7538",
         "\u7dec\u7538"
     ],
     "name:zho_yue_x_preferred":[
@@ -1065,7 +1061,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1544059307,
+    "wof:lastmodified":1561843730,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

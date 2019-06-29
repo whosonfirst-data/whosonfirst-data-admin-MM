@@ -16,15 +16,6 @@
     "name:bul_x_preferred":[
         "\u041a\u044f\u0438\u043a\u0442\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u103b\u102d\u102f\u1000\u103a\u1011\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
-    ],
-    "name:chi_x_preferred":[
-        "\u5409\u6843"
-    ],
-    "name:dut_x_preferred":[
-        "Kyaikto"
-    ],
     "name:eng_x_preferred":[
         "Kyaikto"
     ],
@@ -34,11 +25,17 @@
     "name:mya_x_preferred":[
         "\u1000\u103b\u102d\u102f\u1000\u103a\u1011\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:nld_x_preferred":[
+        "Kyaikto"
+    ],
     "name:slv_x_preferred":[
         "Kyaikto"
     ],
     "name:swe_x_preferred":[
         "Kyaikto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u6843"
     ],
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421202435,
-    "wof:lastmodified":1527716212,
+    "wof:lastmodified":1561843798,
     "wof:name":"Kyaikto",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

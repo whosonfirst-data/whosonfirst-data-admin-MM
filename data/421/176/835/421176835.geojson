@@ -17,14 +17,14 @@
     "name:bul_x_preferred":[
         "\u041f\u044e"
     ],
-    "name:dut_x_preferred":[
-        "Pyu"
-    ],
     "name:eng_x_preferred":[
         "Pyu"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30e5"
+    ],
+    "name:nld_x_preferred":[
+        "Pyu"
     ],
     "name:pol_x_preferred":[
         "Pyu"
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":421176835,
-    "wof:lastmodified":1527726471,
+    "wof:lastmodified":1561843799,
     "wof:name":"Pyu",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

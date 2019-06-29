@@ -33,14 +33,8 @@
     "mps:longitude":92.895504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u1005\u1005\u103a\u1010\u103d\u1031\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:cat_x_preferred":[
         "Districte de Sittwe"
-    ],
-    "name:chi_x_preferred":[
-        "\u5be6\u514c\u7e23"
     ],
     "name:eng_x_preferred":[
         "Sittwe"
@@ -52,11 +46,17 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30c3\u30c8\u30a6\u30a7\u770c"
     ],
+    "name:mya_x_preferred":[
+        "\u1005\u1005\u103a\u1010\u103d\u1031\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:swe_x_preferred":[
         "Sittwe District"
     ],
     "name:und_x_variant":[
         "\u1005\u1005\u103a\u1010\u103d\u1031\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5be6\u514c\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1092047375,
-    "wof:lastmodified":1553718083,
+    "wof:lastmodified":1561843787,
     "wof:name":"Sittwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

@@ -17,25 +17,16 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0627\u0648\u0643\u0628\u064a\u0648"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u103b\u1031\u102c\u1000\u103a\u1016\u103c\u1030\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Kyaukpyu"
     ],
-    "name:chi_x_preferred":[
-        "\u768e\u6f02"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kyaukpyu"
     ],
     "name:eng_x_preferred":[
         "Kyaukpyu"
     ],
-    "name:fre_x_preferred":[
-        "Kyaukpyu"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kyaukpyu"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +34,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a6\u30c3\u30d4\u30e5\u30fc"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103b\u1031\u102c\u1000\u103a\u1016\u103c\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Kyaukpyu"
     ],
     "name:nob_x_preferred":[
         "Kyaukpyu"
@@ -52,6 +49,9 @@
     ],
     "name:spa_x_preferred":[
         "Kyaukpyu"
+    ],
+    "name:zho_x_preferred":[
+        "\u768e\u6f02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Myanmar",
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":1141908357,
-    "wof:lastmodified":1514484847,
+    "wof:lastmodified":1561843827,
     "wof:name":"Kyaukphyu",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

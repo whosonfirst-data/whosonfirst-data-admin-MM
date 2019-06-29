@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017863,
-    "geom:area_square_m":207923721.139674,
+    "geom:area_square_m":207923721.139714,
     "geom:bbox":"95.996298611,19.6493621776,96.1901646641,19.7866655442",
     "geom:latitude":19.717555,
     "geom:longitude":96.081424,
@@ -28,23 +28,14 @@
     "name:afr_x_preferred":[
         "Naypyidaw"
     ],
-    "name:alb_x_preferred":[
-        "Nepxhidou"
-    ],
     "name:ara_x_preferred":[
         "\u0646\u0627\u064a\u0628\u064a\u062f\u0627\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u0575\u057a\u0575\u056b\u0564\u0561\u0578\u0582"
     ],
     "name:aze_x_preferred":[
         "Naypyida"
     ],
     "name:bak_x_preferred":[
         "\u041d\u0435\u0439\u043f\u044c\u0438\u0434\u043e"
-    ],
-    "name:baq_x_preferred":[
-        "Naypyidaw"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0430\u0439\u043f'\u0456\u0434\u0430"
@@ -61,20 +52,17 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0439\u043f\u0438\u0434\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041d\u0435\u0439\u043f\u044c\u0438\u0434\u043e"
     ],
     "name:cat_x_preferred":[
         "Naypyidaw"
     ],
+    "name:ces_x_preferred":[
+        "Neipyijto"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0435\u0439\u043f\u044c\u0438\u0434\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u5948\u6bd4\u591a"
     ],
     "name:chv_x_preferred":[
         "\u041d\u0435\u0439\u043f\u044c\u0438\u0434\u043e"
@@ -82,14 +70,17 @@
     "name:ckb_x_preferred":[
         "\u0646\u0627\u06cc\u067e\u06cc\u062f\u0627\u0648"
     ],
-    "name:cze_x_preferred":[
-        "Neipyijto"
+    "name:cym_x_preferred":[
+        "Naypyidaw"
     ],
     "name:dan_x_preferred":[
         "Naypyidaw"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Naypyidaw"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03b9 \u03a0\u03b9 \u03a4\u03ac\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Naypyitaw"
@@ -103,19 +94,19 @@
     "name:est_x_preferred":[
         "Naypyidaw"
     ],
+    "name:eus_x_preferred":[
+        "Naypyidaw"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06cc\u067e\u06cc\u062f\u0627\u0648"
+    ],
     "name:fin_x_preferred":[
         "Naypyidaw"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naypyidaw"
     ],
     "name:fry_x_preferred":[
-        "Naypyidaw"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10d8\u10e4\u10d8\u10d8\u10d3\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Naypyidaw"
     ],
     "name:gla_x_preferred":[
@@ -126,9 +117,6 @@
     ],
     "name:glg_x_preferred":[
         "Naypyidaw"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ac\u03b9 \u03a0\u03b9 \u03a4\u03ac\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0aaa\u0abf\u0aa1\u0acb"
@@ -151,8 +139,8 @@
     "name:hun_x_preferred":[
         "Nepjida"
     ],
-    "name:ice_x_preferred":[
-        "Naypyidaw"
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0575\u057a\u0575\u056b\u0564\u0561\u0578\u0582"
     ],
     "name:ile_x_preferred":[
         "Naypyidaw"
@@ -161,6 +149,9 @@
         "Naypyidaw"
     ],
     "name:ind_x_preferred":[
+        "Naypyidaw"
+    ],
+    "name:isl_x_preferred":[
         "Naypyidaw"
     ],
     "name:ita_x_preferred":[
@@ -180,6 +171,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cc7\u0caa\u0ccd\u0caf\u0cbf\u0ca1\u0cbe\u0cb5\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d8\u10e4\u10d8\u10d8\u10d3\u10dd"
     ],
     "name:khm_x_preferred":[
         "\u178e\u17c3\u1796\u17b7\u178a\u17c4"
@@ -211,29 +205,33 @@
     "name:lrc_x_preferred":[
         "\u0646\u0627\u06cc\u067e\u06cc\u062f\u0627\u0648"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0435\u043f\u0458\u0438\u0434\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d28\u0d47\u0d2a\u0d4d\u0d2f\u0d3f\u0d21\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u0928\u0947\u092a\u093f\u0921\u094b"
     ],
-    "name:may_x_preferred":[
-        "Naypyidaw"
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u043f\u0458\u0438\u0434\u043e"
     ],
     "name:mlg_x_preferred":[
+        "Naypyidaw"
+    ],
+    "name:msa_x_preferred":[
         "Naypyidaw"
     ],
     "name:mya_x_preferred":[
         "Naypyidaw"
     ],
     "name:mya_x_variant":[
-        "Nay Pyi Taw"
+        "Nay Pyi Taw",
+        "\u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nan_x_preferred":[
         "Pyinmana"
+    ],
+    "name:nld_x_preferred":[
+        "Naypyidaw"
     ],
     "name:nno_x_preferred":[
         "Naypyidaw"
@@ -253,9 +251,6 @@
     "name:oss_x_preferred":[
         "\u041d\u0435\u0439\u043f\u044c\u0438\u0434\u043e"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u06cc\u067e\u06cc\u062f\u0627\u0648"
-    ],
     "name:pms_x_preferred":[
         "Naypyidaw"
     ],
@@ -268,7 +263,7 @@
     "name:por_x_preferred":[
         "Naipidau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Naypyidaw"
     ],
     "name:rus_x_preferred":[
@@ -280,7 +275,7 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dda\u0db4\u0dd2\u0daf\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Neipyijto"
     ],
     "name:slv_x_preferred":[
@@ -291,6 +286,9 @@
     ],
     "name:spa_x_preferred":[
         "Naipyid\u00f3"
+    ],
+    "name:sqi_x_preferred":[
+        "Nepxhidou"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u0458\u043f\u0458\u0438\u0434\u043e"
@@ -340,9 +338,6 @@
     "name:war_x_preferred":[
         "Naypyidaw"
     ],
-    "name:wel_x_preferred":[
-        "Naypyidaw"
-    ],
     "name:xmf_x_preferred":[
         "\u10dc\u10d0\u10d8\u10e4\u10d8\u10d8\u10d3\u10dd"
     ],
@@ -354,6 +349,9 @@
     ],
     "name:zha_x_preferred":[
         "Nay Pyi Daw"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u6bd4\u591a"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Myanmar",
@@ -475,7 +473,7 @@
     },
     "wof:country":"MM",
     "wof:created":1469052515,
-    "wof:geomhash":"1606dd7bae285058cc536c505413d3ef",
+    "wof:geomhash":"f4abbbc3c1cfb13ae80033faab3b48f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -493,7 +491,7 @@
         }
     ],
     "wof:id":890445571,
-    "wof:lastmodified":1552689274,
+    "wof:lastmodified":1561843800,
     "wof:name":"Nay Pyi Taw",
     "wof:parent_id":1092045099,
     "wof:placetype":"locality",
@@ -506,7 +504,7 @@
 },
   "bbox": [
     95.99629861099983,
-    19.649362177569728,
+    19.64936217756973,
     96.19016466413592,
     19.78666554418591
 ],
