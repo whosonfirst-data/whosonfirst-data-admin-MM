@@ -18,26 +18,23 @@
     "name:bul_x_preferred":[
         "\u041a\u044f\u0443\u043a\u0441\u0435"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u103b\u1031\u102c\u1000\u103a\u1006\u100a\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
-        "Kyaukse"
-    ],
-    "name:chi_x_preferred":[
-        "\u768e\u514b\u897f"
-    ],
-    "name:dut_x_preferred":[
         "Kyaukse"
     ],
     "name:eng_x_preferred":[
         "Kyaukse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kyaukse"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30a7\u30a6\u30bb"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103b\u1031\u102c\u1000\u103a\u1006\u100a\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Kyaukse"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0436\u0430\u0443\u0441\u0445\u0438"
@@ -50,6 +47,9 @@
     ],
     "name:vie_x_preferred":[
         "Kyaukse"
+    ],
+    "name:zho_x_preferred":[
+        "\u768e\u514b\u897f"
     ],
     "qs:name":"Kyaukse",
     "qs:photos_9r":0,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890436615,
-    "wof:lastmodified":1527735404,
+    "wof:lastmodified":1561843799,
     "wof:name":"Kyaukse",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

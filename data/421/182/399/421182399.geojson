@@ -17,19 +17,10 @@
     "name:bul_x_preferred":[
         "\u041f\u044f\u0439"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u103c\u100a\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Prome"
     ],
-    "name:chi_x_preferred":[
-        "\u5351\u8b2c\u5e02"
-    ],
     "name:deu_x_preferred":[
-        "Pyay"
-    ],
-    "name:dut_x_preferred":[
         "Pyay"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +28,6 @@
     ],
     "name:fra_x_preferred":[
         "Prome"
-    ],
-    "name:fre_x_preferred":[
-        "Prome"
-    ],
-    "name:ger_x_preferred":[
-        "Pyay"
     ],
     "name:ita_x_preferred":[
         "Prome"
@@ -97,6 +82,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0627\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u5351\u8b2c\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Myanmar",
@@ -238,7 +226,7 @@
         }
     ],
     "wof:id":421182399,
-    "wof:lastmodified":1527726427,
+    "wof:lastmodified":1561843799,
     "wof:name":"Pyay",
     "wof:parent_id":1092047213,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:aze_x_preferred":[
         "Mandalay"
     ],
-    "name:baq_x_preferred":[
-        "Mandalay"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439"
     ],
@@ -36,9 +33,6 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0435\u0439"
-    ],
-    "name:bur_x_preferred":[
-        "\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:cat_x_preferred":[
         "Mandalay"
@@ -49,20 +43,14 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u5fb7\u52d2"
-    ],
-    "name:cze_x_preferred":[
-        "Mandalaj"
-    ],
     "name:dan_x_preferred":[
         "Mandalay"
     ],
     "name:deu_x_preferred":[
         "Mandalay"
     ],
-    "name:dut_x_preferred":[
-        "Mandalay"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03b1\u03bb\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mandalay"
@@ -73,6 +61,9 @@
     "name:est_x_preferred":[
         "Mandalay piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Mandalay"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0627\u0644\u06cc"
     ],
@@ -81,15 +72,6 @@
     ],
     "name:fra_x_preferred":[
         "Mandalay"
-    ],
-    "name:fre_x_preferred":[
-        "Mandalay"
-    ],
-    "name:ger_x_preferred":[
-        "Mandalay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03c4\u03b1\u03bb\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a82\u0aa1\u0ab2\u0ac7"
@@ -103,13 +85,13 @@
     "name:hun_x_preferred":[
         "Mandalaj"
     ],
-    "name:ice_x_preferred":[
-        "Mandalay"
-    ],
     "name:ile_x_preferred":[
         "Mandalay"
     ],
     "name:ind_x_preferred":[
+        "Mandalay"
+    ],
+    "name:isl_x_preferred":[
         "Mandalay"
     ],
     "name:ita_x_preferred":[
@@ -139,20 +121,17 @@
     "name:lit_x_preferred":[
         "Mandalajus"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043d\u0434\u0430\u043b\u0435\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0902\u0921\u0932\u0947"
-    ],
-    "name:may_x_preferred":[
-        "Mandalay"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0435\u0458"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Mandalay"
     ],
     "name:mya_x_preferred":[
         "\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1019\u103c\u102d\u102f\u1037"
@@ -165,9 +144,6 @@
     ],
     "name:nob_x_preferred":[
         "Mandalay"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0646\u062f\u0627\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Mandalaj"
@@ -185,9 +161,6 @@
         "\u0db8\u0dd0\u0db1\u0dca\u0da9\u0dbd\u0dda"
     ],
     "name:slk_x_preferred":[
-        "Mandalaj"
-    ],
-    "name:slo_x_preferred":[
         "Mandalaj"
     ],
     "name:slv_x_preferred":[
@@ -367,7 +340,7 @@
         }
     ],
     "wof:id":890443763,
-    "wof:lastmodified":1527787057,
+    "wof:lastmodified":1561843800,
     "wof:name":"Mandalay",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",

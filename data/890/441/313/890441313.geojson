@@ -21,29 +21,20 @@
     "name:aze_x_preferred":[
         "Baqan"
     ],
-    "name:baq_x_preferred":[
-        "Bagan"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0433\u0430\u043d"
-    ],
-    "name:bur_x_preferred":[
-        "\u1015\u102f\u1002\u1036"
     ],
     "name:cat_x_preferred":[
         "Bagan"
     ],
-    "name:chi_x_preferred":[
-        "\u84b2\u7518"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pagan"
     ],
     "name:deu_x_preferred":[
         "Bagan"
     ],
-    "name:dut_x_preferred":[
-        "Pagan"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Bagan"
@@ -51,20 +42,14 @@
     "name:est_x_preferred":[
         "Bagan"
     ],
+    "name:eus_x_preferred":[
+        "Bagan"
+    ],
     "name:fin_x_preferred":[
         "Bagan"
     ],
     "name:fra_x_preferred":[
         "Bagan"
-    ],
-    "name:fre_x_preferred":[
-        "Bagan"
-    ],
-    "name:ger_x_preferred":[
-        "Bagan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05d2\u05d0\u05df"
@@ -101,6 +86,9 @@
     ],
     "name:lit_x_preferred":[
         "Baganas"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u102f\u1002\u1036"
     ],
     "name:nld_x_preferred":[
         "Pagan"
@@ -183,7 +171,7 @@
         }
     ],
     "wof:id":890441313,
-    "wof:lastmodified":1527727230,
+    "wof:lastmodified":1561843799,
     "wof:name":"Pagan",
     "wof:parent_id":1092047061,
     "wof:placetype":"locality",

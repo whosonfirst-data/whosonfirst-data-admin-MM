@@ -23,20 +23,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0439\u043d\u0433\u044f\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103c\u1004\u103a\u1038\u1001\u103c\u1036\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Myingyan"
-    ],
-    "name:chi_x_preferred":[
-        "\u654f\u5efa"
     ],
     "name:dan_x_preferred":[
         "Myingyan"
     ],
-    "name:dut_x_preferred":[
-        "Myingyan"
+    "name:ell_x_preferred":[
+        "\u039c\u03b3\u03b9\u03bd\u03b3\u03ba\u03b3\u03b9\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Myingyan"
@@ -46,12 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Myingyan"
-    ],
-    "name:fre_x_preferred":[
-        "Myingyan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b3\u03b9\u03bd\u03b3\u03ba\u03b3\u03b9\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a87\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0abe\u0aa8"
@@ -83,11 +71,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u092f\u091c\u0940\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Myingyan"
     ],
     "name:mya_x_preferred":[
         "\u1019\u103c\u1004\u103a\u1038\u1001\u103c\u1036\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Myingyan"
     ],
     "name:nob_x_preferred":[
         "Myringyan"
@@ -130,6 +121,9 @@
     ],
     "name:vie_x_preferred":[
         "Myingyan"
+    ],
+    "name:zho_x_preferred":[
+        "\u654f\u5efa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Myanmar",
@@ -271,7 +265,7 @@
         }
     ],
     "wof:id":421168845,
-    "wof:lastmodified":1527716091,
+    "wof:lastmodified":1561843798,
     "wof:name":"Myingyan",
     "wof:parent_id":1092046999,
     "wof:placetype":"locality",

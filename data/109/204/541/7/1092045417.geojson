@@ -33,12 +33,6 @@
     "mps:longitude":97.825672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u1018\u102c\u1038\u1021\u1036\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e15\u5b89\u7e23"
-    ],
     "name:eng_x_preferred":[
         "Hpa-an"
     ],
@@ -49,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30a2\u30f3\u770c"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u102c\u1038\u1021\u1036\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
     "name:pol_x_preferred":[
         "Ba-an"
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Hpa-an"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5b89\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1092045417,
-    "wof:lastmodified":1555037658,
+    "wof:lastmodified":1561843794,
     "wof:name":"Hpa-An",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

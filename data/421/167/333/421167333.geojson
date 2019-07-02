@@ -22,14 +22,8 @@
     "name:bul_x_preferred":[
         "\u0422\u0445\u0430\u0442\u043e\u043d"
     ],
-    "name:bur_x_preferred":[
-        "\u101e\u1011\u102f\u1036\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Thaton"
-    ],
-    "name:chi_x_preferred":[
-        "\u76f4\u901a"
     ],
     "name:dan_x_preferred":[
         "Thaton"
@@ -37,8 +31,8 @@
     "name:deu_x_preferred":[
         "Thaton"
     ],
-    "name:dut_x_preferred":[
-        "Thaton"
+    "name:ell_x_preferred":[
+        "\u0398\u03ac\u03c4\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Thaton"
@@ -48,15 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Thaton"
-    ],
-    "name:fre_x_preferred":[
-        "Thaton"
-    ],
-    "name:ger_x_preferred":[
-        "Thaton"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03c4\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abe\u0a9f\u0acb\u0aa8"
@@ -91,11 +76,14 @@
     "name:mar_x_preferred":[
         "\u0925\u094d\u092f\u0945\u091f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Thaton"
     ],
     "name:mya_x_preferred":[
         "\u101e\u1011\u102f\u1036\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Thaton"
     ],
     "name:nob_x_preferred":[
         "Thaton"
@@ -141,6 +129,9 @@
     ],
     "name:vie_x_preferred":[
         "Thaton"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f4\u901a"
     ],
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
@@ -190,7 +181,7 @@
         }
     ],
     "wof:id":421167333,
-    "wof:lastmodified":1527716159,
+    "wof:lastmodified":1561843798,
     "wof:name":"Thaton",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

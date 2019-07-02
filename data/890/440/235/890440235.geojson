@@ -24,32 +24,26 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0433\u043e\u043a"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u102d\u102f\u1038\u1000\u102f\u1010\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Mogok"
-    ],
-    "name:chi_x_preferred":[
-        "\u62b9\u8c37"
     ],
     "name:dan_x_preferred":[
         "Mogok"
     ],
-    "name:dut_x_preferred":[
-        "Mogok"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03b3\u03ba\u03cc\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mogok"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06af\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Mogok"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mogok"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03b3\u03ba\u03cc\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a97\u0ac9\u0a95"
@@ -81,14 +75,17 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0917\u094c\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Mogok"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u102d\u102f\u1038\u1000\u102f\u1010\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
         "Mogok"
     ],
     "name:nob_x_preferred":[
         "Mogok"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06af\u06a9"
     ],
     "name:pol_x_preferred":[
         "Mogok"
@@ -132,6 +129,9 @@
     "name:vie_x_preferred":[
         "Mogok"
     ],
+    "name:zho_x_preferred":[
+        "\u62b9\u8c37"
+    ],
     "qs:name":"Mogok",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":890440235,
-    "wof:lastmodified":1527727103,
+    "wof:lastmodified":1561843799,
     "wof:name":"Mogok",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

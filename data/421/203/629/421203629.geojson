@@ -17,13 +17,13 @@
     "name:bul_x_preferred":[
         "\u041c\u044f\u0439\u0434\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u1031\u102c\u1004\u103a\u101c\u1036\u1019\u103c\u102d\u102f\u1037"
-    ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Myede"
     ],
-    "name:eng_x_preferred":[
+    "name:mya_x_preferred":[
+        "\u1021\u1031\u102c\u1004\u103a\u101c\u1036\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
         "Myede"
     ],
     "name:pol_x_preferred":[
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":421203629,
-    "wof:lastmodified":1514484878,
+    "wof:lastmodified":1561843798,
     "wof:name":"Myaydo",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

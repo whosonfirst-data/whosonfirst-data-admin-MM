@@ -17,28 +17,16 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043a\u043e\u043a\u0443"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u1001\u102f\u1000\u1039\u1000\u1030\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Pakokku"
     ],
     "name:deu_x_preferred":[
         "Pakokku"
     ],
-    "name:dut_x_preferred":[
-        "Pakokku"
-    ],
     "name:eng_x_preferred":[
         "Pakokku"
     ],
     "name:fra_x_preferred":[
-        "Pakokku"
-    ],
-    "name:fre_x_preferred":[
-        "Pakokku"
-    ],
-    "name:ger_x_preferred":[
         "Pakokku"
     ],
     "name:jpn_x_preferred":[
@@ -52,6 +40,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1015\u1001\u102f\u1000\u1039\u1000\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Pakokku"
     ],
     "name:nob_x_preferred":[
         "Pakokku"
@@ -217,7 +208,7 @@
         }
     ],
     "wof:id":421201157,
-    "wof:lastmodified":1527716431,
+    "wof:lastmodified":1561843799,
     "wof:name":"Pakokku",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

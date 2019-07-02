@@ -25,20 +25,14 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0443\u043d\u0433\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1010\u1031\u102c\u1004\u103a\u1004\u1030\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Toungoo"
-    ],
-    "name:chi_x_preferred":[
-        "\u6771\u5401\u7e23"
     ],
     "name:dan_x_preferred":[
         "Taungoo"
     ],
-    "name:dut_x_preferred":[
-        "Taungoo"
+    "name:ell_x_preferred":[
+        "\u03a4\u03cc\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Taungoo"
@@ -48,12 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Taung\u00fb"
-    ],
-    "name:fre_x_preferred":[
-        "Taung\u00fb"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03cc\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acc\u0aa8\u0a97\u0acd\u0aaf\u0ac2"
@@ -85,11 +73,14 @@
     "name:mar_x_preferred":[
         "\u091f\u093e\u0909\u0928\u0917\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Taungoo"
     ],
     "name:mya_x_preferred":[
         "\u1010\u1031\u102c\u1004\u103a\u1004\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Taungoo"
     ],
     "name:nob_x_preferred":[
         "Taungoo"
@@ -138,6 +129,9 @@
     ],
     "name:vie_x_preferred":[
         "Taungoo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5401\u7e23"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Myanmar",
@@ -264,7 +258,7 @@
         }
     ],
     "wof:id":890433713,
-    "wof:lastmodified":1527792953,
+    "wof:lastmodified":1561843800,
     "wof:name":"Taungoo",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

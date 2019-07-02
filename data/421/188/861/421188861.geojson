@@ -19,14 +19,8 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0987\u0997\u09cb"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u1032\u1001\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Pegu"
-    ],
-    "name:chi_x_preferred":[
-        "\u52c3\u56fa"
     ],
     "name:dan_x_preferred":[
         "Bago"
@@ -34,8 +28,8 @@
     "name:deu_x_preferred":[
         "Bago"
     ],
-    "name:dut_x_preferred":[
-        "Pegu"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bago"
@@ -51,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "P\u00e9gou"
-    ],
-    "name:fre_x_preferred":[
-        "P\u00e9gou"
-    ],
-    "name:ger_x_preferred":[
-        "Bago"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a97\u0acb"
@@ -97,7 +82,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0917\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bago"
     ],
     "name:mya_x_preferred":[
@@ -114,9 +99,6 @@
     ],
     "name:nor_x_preferred":[
         "Bago"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06af\u0648\u060c \u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
     ],
     "name:pol_x_preferred":[
         "Pegu"
@@ -225,7 +207,7 @@
         }
     ],
     "wof:id":421188861,
-    "wof:lastmodified":1527716278,
+    "wof:lastmodified":1561843799,
     "wof:name":"Pegu",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

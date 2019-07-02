@@ -33,12 +33,6 @@
     "mps:longitude":92.512089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u1019\u1031\u102c\u1004\u103a\u1010\u1031\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u8c8c\u596a\u7e23"
-    ],
     "name:eng_x_preferred":[
         "Maungdaw"
     ],
@@ -49,11 +43,17 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c9\u30a6\u770c"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u1031\u102c\u1004\u103a\u1010\u1031\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:swe_x_preferred":[
         "Maungdaw District"
     ],
     "name:und_x_variant":[
         "\u1019\u1031\u102c\u1004\u103a\u1010\u1031\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c8c\u596a\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1092046317,
-    "wof:lastmodified":1553718079,
+    "wof:lastmodified":1561843793,
     "wof:name":"Maungdaw",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

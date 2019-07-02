@@ -33,12 +33,6 @@
     "mps:longitude":94.893211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u101c\u1015\u103d\u1010\u1039\u1010\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5e03\u9054\u7e23"
-    ],
     "name:eng_x_preferred":[
         "Labutta"
     ],
@@ -50,11 +44,17 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30d6\u30c3\u30bf\u770c"
     ],
+    "name:mya_x_preferred":[
+        "\u101c\u1015\u103d\u1010\u1039\u1010\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:swe_x_preferred":[
         "Labutta District"
     ],
     "name:und_x_variant":[
         "\u101c\u1015\u103d\u1010\u1039\u1010\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e03\u9054\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1092045903,
-    "wof:lastmodified":1555220361,
+    "wof:lastmodified":1561843791,
     "wof:name":"Labutta",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

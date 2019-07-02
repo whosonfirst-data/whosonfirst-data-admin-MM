@@ -23,26 +23,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:bur_x_preferred":[
-        "\u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a \u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f\u1014\u101a\u103a\u1019\u103c\u1031"
-    ],
     "name:cat_x_preferred":[
         "Territori de la Uni\u00f3 de Naypyidaw"
     ],
-    "name:chi_x_preferred":[
-        "\u5185\u6bd4\u90fd\u8054\u90a6\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Naypyidaw Union Territory"
+    "name:deu_x_preferred":[
+        "Unionsterritorium Naypyidaw"
     ],
     "name:eng_x_preferred":[
         "Naypyidaw"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naypyidaw Territoire de l'Union"
-    ],
-    "name:ger_x_preferred":[
-        "Unionsterritorium Naypyidaw"
     ],
     "name:ita_x_preferred":[
         "Territorio dell'Unione di Naypyidaw"
@@ -52,6 +43,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub124\ud53c\ub3c4 \uc5f0\ubc29\uad6c"
+    ],
+    "name:mya_x_preferred":[
+        "\u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a \u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f\u1014\u101a\u103a\u1019\u103c\u1031"
+    ],
+    "name:nld_x_preferred":[
+        "Naypyidaw Union Territory"
     ],
     "name:pol_x_preferred":[
         "Naypyidaw"
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "L\u00e3nh th\u1ed5 Li\u00ean bang Naypyidaw"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u6bd4\u90fd\u8054\u90a6\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -117,7 +117,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1553551420,
+    "wof:lastmodified":1561843776,
     "wof:name":"Naypyitaw",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

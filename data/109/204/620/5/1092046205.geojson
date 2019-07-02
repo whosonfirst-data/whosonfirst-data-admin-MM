@@ -33,14 +33,8 @@
     "mps:longitude":96.161325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:cat_x_preferred":[
         "Districte de Mandalay"
-    ],
-    "name:chi_x_preferred":[
-        "\u66fc\u5fb7\u52d2\u7e23"
     ],
     "name:eng_x_preferred":[
         "Mandalay"
@@ -55,11 +49,17 @@
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30c0\u30ec\u30fc\u770c"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
     "name:swe_x_preferred":[
         "Mandalay District"
     ],
     "name:und_x_variant":[
         "\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u5fb7\u52d2\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1092046205,
-    "wof:lastmodified":1553718078,
+    "wof:lastmodified":1561843788,
     "wof:name":"Mandalay",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.314804,
-    "geom:area_square_m":38913380358.659767,
+    "geom:area_square_m":38913380358.655296,
     "geom:bbox":"94.6871324216,16.81788826,97.2224525439,19.4929249275",
     "geom:latitude":18.299358,
     "geom:longitude":96.113901,
@@ -35,14 +35,8 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09cb"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u1032\u1001\u1030\u1038\u1010\u102d\u102f\u1004\u103a\u1038"
-    ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Bago"
-    ],
-    "name:chi_x_preferred":[
-        "\u52c3\u56fa\u7701"
     ],
     "name:dan_x_preferred":[
         "Bago"
@@ -50,8 +44,8 @@
     "name:deu_x_preferred":[
         "Bago-Region"
     ],
-    "name:dut_x_preferred":[
-        "Bago"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bago"
@@ -67,15 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Bago"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Bago"
-    ],
-    "name:ger_x_preferred":[
-        "Bago-Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a97\u0acb"
@@ -104,20 +89,20 @@
     "name:lit_x_preferred":[
         "Bago regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0433\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0917\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Bago"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0433\u043e"
     ],
+    "name:msa_x_preferred":[
+        "Bago"
+    ],
     "name:mya_x_preferred":[
         "\u1015\u1032\u1001\u1030\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038"
+    ],
+    "name:mya_x_variant":[
+        "\u1015\u1032\u1001\u1030\u1038\u1010\u102d\u102f\u1004\u103a\u1038"
     ],
     "name:nld_x_preferred":[
         "Bago"
@@ -127,9 +112,6 @@
     ],
     "name:nor_x_preferred":[
         "Bago"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u06af\u0648"
     ],
     "name:pol_x_preferred":[
         "Pegu"
@@ -303,7 +285,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561843736,
     "wof:name":"Bago",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
