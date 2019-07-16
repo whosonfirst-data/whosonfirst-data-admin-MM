@@ -33,11 +33,13 @@
     "mps:longitude":94.387419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tamu District"
+    ],
     "name:eng_x_preferred":[
         "Tamu"
     ],
     "name:eng_x_variant":[
-        "Tamu",
         "Tamu District"
     ],
     "name:jpn_x_preferred":[
@@ -45,6 +47,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1010\u1019\u1030\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:pol_x_preferred":[
+        "Tamu"
     ],
     "name:swe_x_preferred":[
         "Tamu District"
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":1092047447,
-    "wof:lastmodified":1561843793,
+    "wof:lastmodified":1563268794,
     "wof:name":"Tamu",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

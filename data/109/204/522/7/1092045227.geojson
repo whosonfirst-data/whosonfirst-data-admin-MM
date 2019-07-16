@@ -39,13 +39,19 @@
     "name:eng_x_variant":[
         "Falam",
         "Palam",
-        "Hakha"
+        "Hakha District"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30ab\u30fc\u770c"
     ],
     "name:mya_x_preferred":[
         "\u101f\u102c\u1038\u1001\u102b\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:pol_x_preferred":[
+        "Haka"
+    ],
+    "name:shn_x_preferred":[
+        "\u1081\u1083\u1038\u1076\u1083\u1038\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:und_x_variant":[
         "\u101f\u102c\u1038\u1001\u102b\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1092045227,
-    "wof:lastmodified":1561843794,
+    "wof:lastmodified":1563268796,
     "wof:name":"Hakha",
     "wof:parent_id":85674581,
     "wof:placetype":"county",

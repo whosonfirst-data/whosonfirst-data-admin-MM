@@ -19,10 +19,16 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0648\u064a\u060c \u0645\u064a\u0627\u0646\u0645\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0648\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u0993\u09af\u09bc\u09c7"
     ],
     "name:cat_x_preferred":[
+        "Dawei"
+    ],
+    "name:ceb_x_preferred":[
         "Dawei"
     ],
     "name:dan_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Dawei"
+    ],
+    "name:epo_x_preferred":[
+        "Davej"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0648\u06cc"
@@ -94,6 +103,9 @@
     "name:pol_x_preferred":[
         "Dawei"
     ],
+    "name:pol_x_variant":[
+        "Taw\u00e8"
+    ],
     "name:por_x_preferred":[
         "Dawei"
     ],
@@ -102,6 +114,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0432\u043e\u0439"
+    ],
+    "name:shn_x_preferred":[
+        "\u1011\u101d\u1084\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0da9\u0dc0\u0dda"
@@ -263,7 +278,7 @@
         }
     ],
     "wof:id":890431445,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269050,
     "wof:name":"Dawei",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

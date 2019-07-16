@@ -47,8 +47,14 @@
     "name:por_x_preferred":[
         "Kyaukpyu"
     ],
+    "name:shn_x_preferred":[
+        "\u1075\u103b\u103d\u1075\u103a\u1089\u107d\u103b\u1030\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:spa_x_preferred":[
         "Kyaukpyu"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e08\u0e32\u0e30\u0e1e\u0e22\u0e39"
     ],
     "name:zho_x_preferred":[
         "\u768e\u6f02"
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1141908357,
-    "wof:lastmodified":1561843827,
+    "wof:lastmodified":1563271062,
     "wof:name":"Kyaukphyu",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

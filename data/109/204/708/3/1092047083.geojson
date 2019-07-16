@@ -40,12 +40,14 @@
         "Pathein"
     ],
     "name:eng_x_variant":[
-        "Pathein",
         "Bassein",
         "Pathein District"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30c6\u30a4\u30f3\u770c"
+    ],
+    "name:kjp_x_preferred":[
+        "\u1015\u103a\u102f\u101e\u102d\u1004\u103a\u1001\u103c\u102d\u102f\u1004\u1037\u103a"
     ],
     "name:mya_x_preferred":[
         "\u1015\u102f\u101e\u102d\u1019\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -55,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "\u1015\u102f\u101e\u102d\u1019\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u062a\u06be\u0626\u06cc\u0646 \u0636\u0644\u0639"
     ],
     "name:zho_x_preferred":[
         "\u52c3\u751f\u7e23"
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1092047083,
-    "wof:lastmodified":1561843787,
+    "wof:lastmodified":1563268763,
     "wof:name":"Pathein",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

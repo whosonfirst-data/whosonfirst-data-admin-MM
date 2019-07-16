@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Myingyan"
     ],
+    "name:ceb_x_preferred":[
+        "Myingyan"
+    ],
     "name:dan_x_preferred":[
         "Myingyan"
     ],
@@ -89,6 +92,9 @@
     "name:rus_x_preferred":[
         "\u041c\u044c\u0438\u043d\u0434\u0436\u0430\u043d"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u103b\u102d\u107c\u103a\u1038\u1076\u103b\u1062\u107c\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd2\u0db1\u0dca\u0dba\u0dd0\u0db1\u0dca"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e22\u0e34\u0e19\u0e08\u0e32\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e22\u0e35\u0e48\u0e19\u0e0a\u0e32\u0e19"
     ],
     "name:tur_x_preferred":[
         "Myingyan"
@@ -265,7 +274,7 @@
         }
     ],
     "wof:id":421168845,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1563269025,
     "wof:name":"Myingyan",
     "wof:parent_id":1092046999,
     "wof:placetype":"locality",

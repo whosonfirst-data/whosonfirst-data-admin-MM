@@ -14,8 +14,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Thongwa Township"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f3\u30b0\u30ef\u90e1\u533a"
+    ],
     "name:mya_x_preferred":[
         "\u101e\u102f\u1036\u1038\u1001\u103d\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u1030\u1004\u103a\u1038\u1076\u1082\u1083\u1089\u104a \u1078\u1084\u1088\u101d\u1035\u1004\u103a\u1038"
     ],
     "name:unk_x_variant":[
         "Thon-Khwa"
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":421168841,
-    "wof:lastmodified":1527716096,
+    "wof:lastmodified":1563269026,
     "wof:name":"Thongwa",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

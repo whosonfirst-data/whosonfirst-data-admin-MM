@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Thaton"
     ],
+    "name:ceb_x_preferred":[
+        "Thaton"
+    ],
     "name:dan_x_preferred":[
         "Thaton"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca5\u0cbe\u0c9f\u0ca8\u0ccd"
+    ],
+    "name:kjp_x_preferred":[
+        "\u100d\u102f\u1036\u101e\u102f\u1013\u1019\u103a"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ud1a4"
@@ -97,6 +103,12 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0442\u0445\u043e\u0443\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u0442\u043e\u043d"
+    ],
+    "name:shn_x_preferred":[
+        "\u101e\u1011\u1030\u1004\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dad\u0dda\u0da7\u0db1\u0dca"
     ],
@@ -114,6 +126,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e15\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e30\u0e40\u0e17\u0e34\u0e21"
     ],
     "name:tur_x_preferred":[
         "Thaton"
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":421167333,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1563269030,
     "wof:name":"Thaton",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

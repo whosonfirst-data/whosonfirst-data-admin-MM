@@ -40,7 +40,6 @@
         "Thaton"
     ],
     "name:eng_x_variant":[
-        "Thaton",
         "Thaton District"
     ],
     "name:jpn_x_preferred":[
@@ -48,6 +47,12 @@
     ],
     "name:mya_x_preferred":[
         "\u101e\u1011\u102f\u1036\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u101e\u1011\u1030\u1004\u103a\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
+    "name:spa_x_preferred":[
+        "Thatom"
     ],
     "name:swe_x_preferred":[
         "Thaton District"
@@ -94,7 +99,7 @@
         }
     ],
     "wof:id":1092047619,
-    "wof:lastmodified":1561843791,
+    "wof:lastmodified":1563268784,
     "wof:name":"Thaton",
     "wof:parent_id":85674575,
     "wof:placetype":"county",

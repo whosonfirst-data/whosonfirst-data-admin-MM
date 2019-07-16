@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u063a\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Bagan"
+    ],
     "name:aze_x_preferred":[
         "Baqan"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:cat_x_preferred":[
         "Bagan"
+    ],
+    "name:ceb_x_preferred":[
+        "Pagan"
     ],
     "name:ces_x_preferred":[
         "Pagan"
@@ -78,11 +84,17 @@
     "name:khm_x_preferred":[
         "\u1794\u17b6\u1780\u17b6\u1793"
     ],
+    "name:kjp_x_preferred":[
+        "\u1015\u103a\u102f\u1000\u1004\u103a"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\uac04"
     ],
     "name:lat_x_preferred":[
         "Pagan"
+    ],
+    "name:lav_x_preferred":[
+        "Bagana"
     ],
     "name:lit_x_preferred":[
         "Baganas"
@@ -96,6 +108,9 @@
     "name:oci_x_preferred":[
         "Bagan"
     ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a3e\u0a17\u0a3e\u0a28"
+    ],
     "name:pol_x_preferred":[
         "Pagan"
     ],
@@ -108,14 +123,26 @@
     "name:sco_x_preferred":[
         "Bagan"
     ],
+    "name:shn_x_preferred":[
+        "\u1015\u1030\u1038\u1075\u1019\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:slv_x_preferred":[
         "Bagan"
     ],
     "name:spa_x_preferred":[
         "Bagan"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0433\u0430\u043d"
+    ],
     "name:swe_x_preferred":[
         "Pagan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0b95\u0ba9\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Bagan"
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e38\u0e01\u0e32\u0e21"
@@ -171,7 +198,7 @@
         }
     ],
     "wof:id":890441313,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269046,
     "wof:name":"Pagan",
     "wof:parent_id":1092047061,
     "wof:placetype":"locality",

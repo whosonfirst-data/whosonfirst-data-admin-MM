@@ -33,11 +33,13 @@
     "mps:longitude":98.168759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lashio District"
+    ],
     "name:eng_x_preferred":[
         "Lashio"
     ],
     "name:eng_x_variant":[
-        "Lashio",
         "Lasho",
         "Lashio District"
     ],
@@ -50,6 +52,9 @@
     "name:mya_x_preferred":[
         "\u101c\u102c\u1038\u101b\u103e\u102d\u102f\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
+    "name:shn_x_preferred":[
+        "\u101c\u1083\u1088\u101e\u1035\u101d\u103a\u1088\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Lashio District"
     ],
@@ -58,6 +63,9 @@
     ],
     "name:zho_x_preferred":[
         "\u81d8\u620c\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u81d8\u620d\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":1092046001,
-    "wof:lastmodified":1561843793,
+    "wof:lastmodified":1563268792,
     "wof:name":"Lashio",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

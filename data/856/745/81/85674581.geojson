@@ -26,17 +26,167 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ace_x_preferred":[
+        "Nanggro\u00eb Chin"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062a\u0634\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09a8 \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
+    ],
+    "name:bre_x_preferred":[
+        "Stad Chin"
+    ],
+    "name:cat_x_preferred":[
+        "Xin"
+    ],
+    "name:ceb_x_preferred":[
+        "Chin State"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cjinsk\u00fd st\u00e1t"
+    ],
+    "name:dan_x_preferred":[
+        "Chin"
+    ],
+    "name:deu_x_preferred":[
+        "Chin-Staat"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Chin State"
+    ],
+    "name:epo_x_preferred":[
+        "\u015ctato \u0108in"
+    ],
+    "name:est_x_preferred":[
+        "T\u0161ini osariik"
+    ],
+    "name:eus_x_preferred":[
+        "Chin estatua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0686\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Chin"
     ],
     "name:fra_x_preferred":[
         "\u00c9tat de Chin"
     ],
+    "name:fra_x_variant":[
+        "Chin"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0abf\u0aa8 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u0928 \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Stato Chin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30f3\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cbf\u0ca8\u0ccd \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\uce5c\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cina"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cin\u0173 valstija"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1a\u0d3f\u0d7b \u0d38\u0d02\u0d38\u0d4d\u0d25\u0d3e\u0d28\u0d02"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u093f\u0928 \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Chin State"
+    ],
+    "name:mya_x_preferred":[
+        "\u1001\u103b\u1004\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a\u200c"
+    ],
+    "name:nan_x_preferred":[
+        "Chin Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Chin"
+    ],
+    "name:nob_x_preferred":[
+        "Chin"
+    ],
+    "name:pol_x_preferred":[
+        "Czin"
+    ],
+    "name:por_x_preferred":[
+        "Chin"
+    ],
+    "name:ron_x_preferred":[
+        "Statul Chin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Chin State"
+    ],
+    "name:shn_x_preferred":[
+        "\u1076\u103b\u1062\u1004\u103a\u1038\u104a \u1078\u1084\u1088\u1019\u102d\u1030\u1004\u103a\u1038"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dd2\u0db1\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Chin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u043d"
+    ],
     "name:swe_x_preferred":[
         "Chinstaten"
     ],
+    "name:swe_x_variant":[
+        "Chin"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c3f\u0c28\u0c4d \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e0a\u0e35\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Chin Eyaleti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043d"
+    ],
     "name:unk_x_variant":[
         "Special Division of the Chins"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0646 \u0631\u06cc\u0627\u0633\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Chin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u90a6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MMR",
@@ -161,7 +311,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1553550469,
+    "wof:lastmodified":1563265837,
     "wof:name":"Chin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

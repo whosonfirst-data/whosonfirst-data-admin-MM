@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Pakokku"
     ],
+    "name:ceb_x_preferred":[
+        "Pakokku"
+    ],
     "name:deu_x_preferred":[
         "Pakokku"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:rus_x_variant":[
         "\u041f\u0430\u043a\u043e\u043a\u043a\u0443"
+    ],
+    "name:shn_x_preferred":[
+        "\u1015\u1076\u1030\u1075\u103a\u1089\u1075\u1030\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:swe_x_preferred":[
         "Pakokku"
@@ -208,7 +214,7 @@
         }
     ],
     "wof:id":421201157,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269039,
     "wof:name":"Pakokku",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

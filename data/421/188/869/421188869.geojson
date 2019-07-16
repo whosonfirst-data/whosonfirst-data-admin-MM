@@ -13,6 +13,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:dan_x_preferred":[
+        "Ulo"
+    ],
+    "name:deu_x_preferred":[
+        "Ulu"
+    ],
+    "name:eng_x_preferred":[
+        "ulu"
+    ],
+    "name:est_x_preferred":[
+        "Ulu"
+    ],
+    "name:fra_x_preferred":[
+        "ulu"
+    ],
+    "name:hrv_x_preferred":[
+        "Ulu"
+    ],
+    "name:nld_x_preferred":[
+        "ulu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Ulu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u0443"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":421188869,
-    "wof:lastmodified":1527716279,
+    "wof:lastmodified":1563269036,
     "wof:name":"Ulu",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

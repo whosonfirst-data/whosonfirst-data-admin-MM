@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Mogok"
     ],
+    "name:ceb_x_preferred":[
+        "Mogok"
+    ],
     "name:dan_x_preferred":[
         "Mogok"
     ],
@@ -96,6 +99,12 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0433\u043e\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u0433\u043e\u0443"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u102f\u1010\u103a\u1088\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0d9c\u0ddc\u0d9a\u0dca"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e21\u0e01\u0e47\u0e2d\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e21\u0e48\u0e42\u0e01\u0e30"
     ],
     "name:tur_x_preferred":[
         "Mogok"
@@ -165,7 +177,7 @@
         }
     ],
     "wof:id":890440235,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269044,
     "wof:name":"Mogok",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

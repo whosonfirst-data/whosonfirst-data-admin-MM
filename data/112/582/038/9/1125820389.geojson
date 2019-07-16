@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Meiktila"
     ],
+    "name:ceb_x_preferred":[
+        "Meiktila"
+    ],
     "name:dan_x_preferred":[
         "Meiktila"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Meiktila"
+    ],
+    "name:epo_x_preferred":[
+        "Mejktila"
     ],
     "name:fin_x_preferred":[
         "Meiktila"
@@ -96,6 +102,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0439\u0442\u0445\u0438\u043b\u0430"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1035\u1075\u103a\u1089\u1011\u102e\u1087\u101c\u1083\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0d9a\u0dca\u0da7\u0dd2\u0dbd\u0dcf"
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":1125820389,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269065,
     "wof:name":"Meiktila",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

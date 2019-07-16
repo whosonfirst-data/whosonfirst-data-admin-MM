@@ -33,6 +33,9 @@
     "mps:longitude":96.140266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0427\u0436\u0430\u045e\u0441\u0445\u0456"
+    ],
     "name:cat_x_preferred":[
         "Districte de Kyaukse"
     ],
@@ -40,20 +43,31 @@
         "Kyaukse"
     ],
     "name:eng_x_variant":[
-        "Kyaukse",
         "Kyaukse District"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30a7\u30a6\u30bb\u770c"
     ],
+    "name:kjp_x_preferred":[
+        "\u1000\u103b\u102f\u1000\u103a\u1006\u101a\u103a\u1001\u103c\u102d\u102f\u1004\u1037\u103a"
+    ],
     "name:mya_x_preferred":[
         "\u1000\u103b\u1031\u102c\u1000\u103a\u1006\u100a\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:pol_x_preferred":[
+        "Kyaukse"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0436\u0430\u0443\u0441\u0445\u0438"
     ],
+    "name:shn_x_preferred":[
+        "\u1075\u103b\u103d\u1075\u103a\u1089\u101e\u1084\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Kyaukse District"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e08\u0e32\u0e30\u0e41\u0e0b"
     ],
     "name:und_x_variant":[
         "\u1000\u103b\u1031\u102c\u1000\u103a\u1006\u100a\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -97,7 +111,7 @@
         }
     ],
     "wof:id":1092045867,
-    "wof:lastmodified":1561843789,
+    "wof:lastmodified":1563268775,
     "wof:name":"Kyaukse",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

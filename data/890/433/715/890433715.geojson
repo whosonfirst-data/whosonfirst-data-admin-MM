@@ -15,6 +15,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Taungdwingyi"
+    ],
     "name:eng_x_preferred":[
         "Taungdwingyi"
     ],
@@ -30,8 +33,14 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0443\u043d\u0434\u0443\u0438\u043d\u0434\u0436\u0438"
     ],
+    "name:shn_x_preferred":[
+        "\u1010\u103d\u1004\u103a\u1087\u1010\u1082\u102d\u107c\u103a\u1038\u1075\u103b\u102e\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:swe_x_preferred":[
         "Taungdwingyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u6566\u679d"
     ],
     "qs:name":"Taungdwingyi",
     "qs:photos_9r":0,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":890433715,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269059,
     "wof:name":"Taungdwingyi",
     "wof:parent_id":1092046159,
     "wof:placetype":"locality",

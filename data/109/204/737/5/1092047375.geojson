@@ -40,7 +40,6 @@
         "Sittwe"
     ],
     "name:eng_x_variant":[
-        "Sittwe",
         "Sittwe District"
     ],
     "name:jpn_x_preferred":[
@@ -49,8 +48,14 @@
     "name:mya_x_preferred":[
         "\u1005\u1005\u103a\u1010\u103d\u1031\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
+    "name:shn_x_preferred":[
+        "\u1078\u102d\u1010\u103a\u1089\u1010\u1030\u107a\u103a\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Sittwe District"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e34\u0e15\u0e40\u0e27"
     ],
     "name:und_x_variant":[
         "\u1005\u1005\u103a\u1010\u103d\u1031\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -94,7 +99,7 @@
         }
     ],
     "wof:id":1092047375,
-    "wof:lastmodified":1561843787,
+    "wof:lastmodified":1563268764,
     "wof:name":"Sittwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

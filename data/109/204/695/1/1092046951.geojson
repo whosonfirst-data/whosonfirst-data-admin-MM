@@ -40,15 +40,23 @@
         "Myeik"
     ],
     "name:eng_x_variant":[
-        "Myeik",
         "Mergui",
         "Myeik District"
     ],
     "name:jpn_x_preferred":[
         "\u30df\u30a7\u30a4\u770c"
     ],
+    "name:jpn_x_variant":[
+        "\u30d9\u30a4\u770c"
+    ],
     "name:mya_x_preferred":[
         "\u1019\u103c\u102d\u1010\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u103b\u1035\u1075\u103a\u1089\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
+    "name:swe_x_preferred":[
+        "Myeik District"
     ],
     "name:und_x_variant":[
         "\u1019\u103c\u102d\u1010\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -92,7 +100,7 @@
         }
     ],
     "wof:id":1092046951,
-    "wof:lastmodified":1561843788,
+    "wof:lastmodified":1563268772,
     "wof:name":"Myeik",
     "wof:parent_id":85674599,
     "wof:placetype":"county",
