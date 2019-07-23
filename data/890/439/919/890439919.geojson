@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Magwe"
     ],
+    "name:ceb_x_preferred":[
+        "Magway"
+    ],
     "name:dan_x_preferred":[
         "Magwe"
     ],
@@ -91,11 +94,17 @@
     "name:pol_x_preferred":[
         "Magwe"
     ],
+    "name:por_x_preferred":[
+        "Maguai"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0433\u0443\u044d"
     ],
     "name:sco_x_preferred":[
         "Magway"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1075\u1030\u107a\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd0\u0d9c\u0dca\u0dc0\u0dda"
@@ -255,7 +264,7 @@
         }
     ],
     "wof:id":890439919,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269048,
     "wof:name":"Magway",
     "wof:parent_id":1092046159,
     "wof:placetype":"locality",

@@ -33,13 +33,16 @@
     "mps:longitude":94.893211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Labutta District"
+    ],
     "name:eng_x_preferred":[
         "Labutta"
     ],
     "name:eng_x_variant":[
         "Myaungmya",
         "Myoungmya",
-        "Labutta"
+        "Labutta District"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30d6\u30c3\u30bf\u770c"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1092045903,
-    "wof:lastmodified":1561843791,
+    "wof:lastmodified":1563268780,
     "wof:name":"Labutta",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

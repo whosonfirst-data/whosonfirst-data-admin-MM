@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Myitkyina"
     ],
+    "name:ceb_x_preferred":[
+        "Myitkyina"
+    ],
     "name:dan_x_preferred":[
         "Myitkyina"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Myitkyina"
+    ],
+    "name:epo_x_preferred":[
+        "Mji\u0109ina"
     ],
     "name:fin_x_preferred":[
         "Myitkyina"
@@ -100,6 +106,9 @@
     "name:rus_x_preferred":[
         "\u041c\u044c\u0438\u0447\u0438\u043d\u0430"
     ],
+    "name:shn_x_preferred":[
+        "\u1078\u1084\u1088\u107c\u1083\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dba\u0dd2\u0da7\u0dca\u0d9a\u0dba\u0dd2\u0db1"
     ],
@@ -124,11 +133,17 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e34\u0e15\u0e08\u0e35\u0e19\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e22\u0e34\u0e08\u0e35\u0e19\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Myitkyina"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0457\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u044c\u0456\u0447\u0438\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Myitkyin"
@@ -267,7 +282,7 @@
         }
     ],
     "wof:id":890443759,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269055,
     "wof:name":"Myitkyin\u0101",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

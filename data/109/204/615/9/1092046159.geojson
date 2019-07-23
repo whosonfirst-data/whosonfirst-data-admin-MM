@@ -40,7 +40,6 @@
         "Magway"
     ],
     "name:eng_x_variant":[
-        "Magway",
         "Magwe Minbu",
         "Magway District"
     ],
@@ -50,8 +49,14 @@
     "name:mya_x_preferred":[
         "\u1019\u1000\u103d\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u1075\u1030\u107a\u103a\u1038\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Magway District"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e30\u0e01\u0e40\u0e27"
     ],
     "name:und_x_variant":[
         "\u1019\u1000\u103d\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1092046159,
-    "wof:lastmodified":1561843792,
+    "wof:lastmodified":1563268788,
     "wof:name":"Magway",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

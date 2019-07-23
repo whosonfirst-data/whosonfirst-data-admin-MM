@@ -33,11 +33,13 @@
     "mps:longitude":99.661658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kengtung District"
+    ],
     "name:eng_x_preferred":[
         "Kengtung"
     ],
     "name:eng_x_variant":[
-        "Kengtung",
         "Kengtung District"
     ],
     "name:jpn_x_preferred":[
@@ -45,6 +47,12 @@
     ],
     "name:mya_x_preferred":[
         "\u1000\u103b\u102d\u102f\u1004\u103a\u1038\u1010\u102f\u1036\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:por_x_preferred":[
+        "Kengtung"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u1035\u1004\u103a\u1038\u1010\u102f\u1004\u103a\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Kengtung District"
@@ -91,7 +99,7 @@
         }
     ],
     "wof:id":1092045683,
-    "wof:lastmodified":1561843787,
+    "wof:lastmodified":1563268765,
     "wof:name":"Kengtung",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

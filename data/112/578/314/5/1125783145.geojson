@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Pyapon"
     ],
+    "name:ceb_x_preferred":[
+        "Pyapon"
+    ],
     "name:eng_x_preferred":[
         "Pyapon"
     ],
@@ -46,11 +49,17 @@
     "name:rus_x_preferred":[
         "\u041f\u044c\u044f\u043f\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0445\u044c\u044f\u043f\u043e\u0443\u043d"
+    ],
     "name:swe_x_preferred":[
         "Pyapon"
     ],
     "name:unk_x_variant":[
         "Pyab\u00f4n"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c4e\u699c"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u4e9e\u670b"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1125783145,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269066,
     "wof:name":"Pyapon",
     "wof:parent_id":1092047167,
     "wof:placetype":"locality",

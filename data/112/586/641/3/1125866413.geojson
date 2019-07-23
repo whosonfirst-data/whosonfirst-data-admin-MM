@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0430\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bogale"
+    ],
     "name:eng_x_preferred":[
         "Bogale"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125866413,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269062,
     "wof:name":"Bogale",
     "wof:parent_id":1092047167,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Myawaddy"
     ],
+    "name:epo_x_preferred":[
+        "Mjavadi"
+    ],
     "name:fra_x_preferred":[
         "Myawaddy"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:sco_x_preferred":[
         "Mywaddy"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u103b\u1083\u1089\u101d\u1010\u102e\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:swe_x_preferred":[
         "Myawaddy"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421192291,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1563269028,
     "wof:name":"Myawadi",
     "wof:parent_id":1092046901,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:mya_x_preferred":[
         "\u1019\u102d\u102f\u1004\u103a\u1038\u1006\u1010\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1062\u1010\u103a\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Mong Hsat District"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092046683,
-    "wof:lastmodified":1561843789,
+    "wof:lastmodified":1563268773,
     "wof:name":"Monghsat",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

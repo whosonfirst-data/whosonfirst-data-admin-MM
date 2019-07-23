@@ -17,17 +17,29 @@
     "name:bul_x_preferred":[
         "\u041f\u044e"
     ],
+    "name:ceb_x_preferred":[
+        "Pyu"
+    ],
     "name:eng_x_preferred":[
         "Pyu"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30e5"
     ],
+    "name:kjp_x_preferred":[
+        "\u100d\u102f\u1036\u1016\u103b\u1030\u108b"
+    ],
+    "name:mya_x_preferred":[
+        "\u1016\u103c\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nld_x_preferred":[
         "Pyu"
     ],
     "name:pol_x_preferred":[
         "Pyu"
+    ],
+    "name:shn_x_preferred":[
+        "\u107d\u103b\u1030\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:spa_x_preferred":[
         "Pyu"
@@ -175,7 +187,7 @@
         }
     ],
     "wof:id":421176835,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269042,
     "wof:name":"Pyu",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

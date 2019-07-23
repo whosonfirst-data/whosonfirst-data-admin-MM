@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u041c\u044f\u0439\u0434\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Myaydo"
+    ],
     "name:eng_x_preferred":[
         "Myede"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:pol_x_preferred":[
         "Myede"
+    ],
+    "name:shn_x_preferred":[
+        "\u1022\u103d\u1004\u103a\u1087\u101c\u1062\u107c\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:spa_x_preferred":[
         "Myede"
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":421203629,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1563269030,
     "wof:name":"Myaydo",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

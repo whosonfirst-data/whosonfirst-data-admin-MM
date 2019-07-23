@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Hinthada"
     ],
+    "name:ceb_x_preferred":[
+        "Hinthada"
+    ],
     "name:dan_x_preferred":[
         "Hinthada"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e34\u0e19\u0e18\u0e32\u0e14\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e35\u0e19\u0e15\u0e32\u0e14\u0e30"
     ],
     "name:tur_x_preferred":[
         "Hinthada"
@@ -261,7 +267,7 @@
         }
     ],
     "wof:id":890443775,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269055,
     "wof:name":"Hinthada",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

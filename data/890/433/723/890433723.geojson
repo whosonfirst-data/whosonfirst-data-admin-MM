@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Mawlamyaing"
     ],
+    "name:ceb_x_preferred":[
+        "Mawlamyine"
+    ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043b\u0430\u043c\u044c\u044f\u0439\u043d"
     ],
@@ -43,6 +46,9 @@
     "name:eng_x_preferred":[
         "Mawlamyine"
     ],
+    "name:epo_x_preferred":[
+        "Molamjajn"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0648\u0644\u0627\u0645\u06cc\u0627\u06cc\u0646"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0abe\u0aae\u0abe\u0a87\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d5\u05dc\u05de\u05d9\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094c\u0932\u093e\u092e\u094d\u092f\u093e\u0907\u0928"
@@ -72,6 +81,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043b\u0430\u043c\u044c\u044f\u0439\u043d"
+    ],
+    "name:kjp_x_preferred":[
+        "\u100d\u102f\u1036\u1019\u101d\u103a\u101c\u103a\u102f\u1019\u103b\u102c\u1004\u103a"
     ],
     "name:kor_x_preferred":[
         "\ubaa8\uc6b8\uba54\uc778"
@@ -112,6 +124,9 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043b\u0430\u043c\u044c\u044f\u0439\u043d"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u1031\u1083\u1087\u101c\u1019\u1085\u1004\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dc0\u0dca\u0dbd\u0db8\u0dba\u0dd2\u0db1\u0dda"
     ],
@@ -138,6 +153,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0430\u043c\u044f\u0439\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u043b\u0430\u043c'\u044f\u0439\u043d"
     ],
     "name:unk_x_variant":[
         "Moulmein"
@@ -281,7 +299,7 @@
         }
     ],
     "wof:id":890433723,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269060,
     "wof:name":"Mawlamyine",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

@@ -17,10 +17,16 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0648\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0442\u0443\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a4\u09cd\u09ac\u09c7"
     ],
     "name:cat_x_preferred":[
+        "Sittwe"
+    ],
+    "name:ceb_x_preferred":[
         "Sittwe"
     ],
     "name:dan_x_preferred":[
@@ -38,8 +44,8 @@
     "name:eng_x_preferred":[
         "Sittwe"
     ],
-    "name:eng_x_variant":[
-        "Sittwe"
+    "name:epo_x_preferred":[
+        "Sit\u016de"
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u062a\u0648\u0647"
@@ -67,6 +73,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0c9f\u0ccd\u0c9f\u0ccd\u0cb5\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e2\u10e3\u10d4"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\ud2b8\uc6e8"
@@ -116,6 +125,9 @@
     "name:rus_x_variant":[
         "\u0410\u043a\u044c\u044f\u0431"
     ],
+    "name:shn_x_preferred":[
+        "\u1078\u102d\u1010\u103a\u1089\u1010\u1030\u107a\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0da7\u0dca\u0dc0\u0dda"
     ],
@@ -128,9 +140,6 @@
     "name:swe_x_preferred":[
         "Akyab"
     ],
-    "name:swe_x_variant":[
-        "Akyab"
-    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0b9f\u0bcd\u0bb5\u0bbf"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e34\u0e15\u0e15\u0e40\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e34\u0e15\u0e40\u0e27"
     ],
     "name:tur_x_preferred":[
         "Sittwe"
@@ -281,7 +293,7 @@
         }
     ],
     "wof:id":1141909329,
-    "wof:lastmodified":1561843827,
+    "wof:lastmodified":1563271063,
     "wof:name":"Sittwe",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

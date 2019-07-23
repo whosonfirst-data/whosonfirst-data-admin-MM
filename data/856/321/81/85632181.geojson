@@ -51,10 +51,14 @@
         "\u0628\u0648\u0631\u0645\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0645\u064a\u0627\u0646\u0645\u0627\u0631 -\u0628\u0648\u0631\u0645\u0627"
+        "\u0645\u064a\u0627\u0646\u0645\u0627\u0631 -\u0628\u0648\u0631\u0645\u0627",
+        "\u0645\u064a\u0627\u0646\u0645\u0627\u0631"
     ],
     "name:arg_x_preferred":[
         "Myanmar"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0627\u0646\u0645\u0627\u0631"
     ],
     "name:asm_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09a8\u09ae\u09be\u09f0"
@@ -95,6 +99,9 @@
     "name:ben_x_variant":[
         "\u09ae\u09be\u09af\u09bc\u09a8\u09ae\u09be\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u094d\u092f\u093e\u0901\u092e\u093e\u0930"
+    ],
     "name:bis_x_preferred":[
         "Burma"
     ],
@@ -118,6 +125,9 @@
     ],
     "name:bre_x_variant":[
         "Myanmar [Birmania]"
+    ],
+    "name:brh_x_preferred":[
+        "Barm\u00e1"
     ],
     "name:bug_x_preferred":[
         "Myanmar"
@@ -192,6 +202,9 @@
     "name:dsb_x_preferred":[
         "Myanmar"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u094d\u092f\u093e\u0928\u092e\u093e\u0930"
+    ],
     "name:dzo_x_preferred":[
         "\u0f58\u0f7a\u0f0b\u0f58\u0f62\u0f0b"
     ],
@@ -239,6 +252,9 @@
     "name:ewe_x_preferred":[
         "Myanmar [Burma] nutome"
     ],
+    "name:ewe_x_variant":[
+        "Myanmar"
+    ],
     "name:ext_x_preferred":[
         "Myanmar"
     ],
@@ -269,6 +285,9 @@
     ],
     "name:frp_x_preferred":[
         "Birmanie"
+    ],
+    "name:frr_x_preferred":[
+        "Mjanmaar"
     ],
     "name:fry_x_preferred":[
         "Birma"
@@ -303,14 +322,21 @@
     "name:gom_x_preferred":[
         "\u092e\u094d\u092f\u093e\u0928\u092e\u093e\u0930"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf3c\ud800\udf3e\ud800\udf30\ud800\udf3d\ud800\udf3c\ud800\udf30\ud800\udf42/Mjanmar"
+    ],
     "name:grn_x_preferred":[
         "Miamar"
+    ],
+    "name:gsw_x_preferred":[
+        "Myanmar"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab0\u0acd\u0aae\u0abe"
     ],
     "name:guj_x_variant":[
-        "\u0aae\u0acd\u0aaf\u0abe\u0a82\u0aae\u0abe\u0ab0"
+        "\u0aae\u0acd\u0aaf\u0abe\u0a82\u0aae\u0abe\u0ab0",
+        "\u0aae\u0acd\u0aaf\u0abe\u0aa8\u0aae\u0abe\u0ab0"
     ],
     "name:hak_x_preferred":[
         "Mi\u00e9n-thien"
@@ -348,7 +374,8 @@
     ],
     "name:hin_x_variant":[
         "\u092e\u094d\u092f\u093e\u0928\u092e\u093e\u0930",
-        "\u092e\u094d\u092f\u093e\u0901\u092e\u093e\u0930"
+        "\u092e\u094d\u092f\u093e\u0901\u092e\u093e\u0930",
+        "\u092e\u094d\u092f\u093e\u0928\u094d\u092e\u093e\u0930"
     ],
     "name:hrv_x_preferred":[
         "Mjanmar"
@@ -391,6 +418,9 @@
     "name:ind_x_preferred":[
         "Myanmar"
     ],
+    "name:ipk_x_preferred":[
+        "Myanmar"
+    ],
     "name:isl_x_preferred":[
         "Mjanmar"
     ],
@@ -428,6 +458,9 @@
     "name:kas_x_preferred":[
         "\u092e\u094d\u200d\u092f\u0928\u094d\u092e\u093e\u0930"
     ],
+    "name:kas_x_variant":[
+        "\u092c\u0930\u094d\u092e\u093e"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10d0\u10dc\u10db\u10d0\u10e0\u10d8"
     ],
@@ -436,6 +469,9 @@
     ],
     "name:kbd_x_preferred":[
         "\u041c\u0438\u044f\u043d\u043c\u044d"
+    ],
+    "name:kbp_x_preferred":[
+        "Pirmaanii"
     ],
     "name:khm_x_preferred":[
         "\u1798\u17b8\u1799\u17c9\u17b6\u1793\u17cb\u1798\u17c9\u17b6"
@@ -482,6 +518,9 @@
     "name:lav_x_variant":[
         "Mjanma [Birma]"
     ],
+    "name:lfn_x_preferred":[
+        "Miama"
+    ],
     "name:lij_x_preferred":[
         "Myanmar"
     ],
@@ -493,6 +532,9 @@
     ],
     "name:lin_x_preferred":[
         "Myanmar"
+    ],
+    "name:lin_x_variant":[
+        "Birmanie"
     ],
     "name:lit_x_preferred":[
         "Mianmaras"
@@ -512,6 +554,9 @@
     "name:lug_x_preferred":[
         "Myanima"
     ],
+    "name:lzh_x_preferred":[
+        "\u7dec\u7538"
+    ],
     "name:mai_x_preferred":[
         "\u092c\u0930\u094d\u092e\u093e"
     ],
@@ -519,7 +564,8 @@
         "\u0d2e\u0d4d\u0d2f\u0d3e\u0d7b\u0d2e\u0d3e\u0d7c"
     ],
     "name:mal_x_variant":[
-        "\u0d2e\u0d4d\u0d2f\u0d3e\u0d28\u0d4d\u200d\u0d2e\u0d3e\u0d30\u0d4d\u200d"
+        "\u0d2e\u0d4d\u0d2f\u0d3e\u0d28\u0d4d\u200d\u0d2e\u0d3e\u0d30\u0d4d\u200d",
+        "\u0d2e\u0d4d\u0d2f\u0d3e\u0d28\u0d4d\u0d2e\u0d3e\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u092e\u094d\u092f\u093e\u0928\u092e\u093e\u0930"
@@ -566,6 +612,15 @@
     "name:mzn_x_preferred":[
         "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
     ],
+    "name:mzn_x_variant":[
+        "\u0645\u06cc\u0648\u0646\u0645\u0627\u0631"
+    ],
+    "name:nah_x_preferred":[
+        "Mianma"
+    ],
+    "name:nan_x_preferred":[
+        "Myanma"
+    ],
     "name:nap_x_preferred":[
         "Birmania"
     ],
@@ -586,6 +641,9 @@
     ],
     "name:new_x_preferred":[
         "\u092e\u094d\u092f\u093e\u0928\u094d\u092e\u093e\u0930"
+    ],
+    "name:new_x_variant":[
+        "\u092e\u094d\u092f\u093e\u0928\u092e\u093e\u0930"
     ],
     "name:nld_x_preferred":[
         "Myanmar"
@@ -609,11 +667,15 @@
     "name:oci_x_preferred":[
         "Birmania"
     ],
+    "name:olo_x_preferred":[
+        "Mjanmar"
+    ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b4d\u0b5f\u0b3e\u0b28\u0b2e\u0b3e\u0b30"
     ],
     "name:ori_x_variant":[
-        "\u0b2e\u0b3f\u0b5f\u0b3e\u0b2e\u0b3e\u0b30\u0b4d"
+        "\u0b2e\u0b3f\u0b5f\u0b3e\u0b2e\u0b3e\u0b30\u0b4d",
+        "\u0b2e\u0b3f\u0b06\u0b01\u0b2e\u0b3e\u0b30"
     ],
     "name:orm_x_preferred":[
         "Maaynamaar"
@@ -629,6 +691,15 @@
     ],
     "name:pap_x_preferred":[
         "Myanmar"
+    ],
+    "name:pcd_x_preferred":[
+        "Birmanie"
+    ],
+    "name:pih_x_preferred":[
+        "Myanmaa"
+    ],
+    "name:pli_x_preferred":[
+        "\u092e\u092f\u0928\u094d\u092e\u093e\u0930"
     ],
     "name:pms_x_preferred":[
         "Myanmar"
@@ -665,6 +736,9 @@
     "name:ron_x_variant":[
         "Myanmar"
     ],
+    "name:rue_x_preferred":[
+        "\u041c\u044f\u043d\u043c\u0430\u0440\u044c\u0441\u043a\u043e"
+    ],
     "name:run_x_preferred":[
         "Burumaniya"
     ],
@@ -684,7 +758,8 @@
         "\u092c\u0930\u094d\u092e\u093e"
     ],
     "name:san_x_variant":[
-        "\u092c\u094d\u0930\u0939\u094d\u092e\u0926\u0947\u0936"
+        "\u092c\u094d\u0930\u0939\u094d\u092e\u0926\u0947\u0936",
+        "\u092e\u094d\u092f\u0928\u094d\u092e\u093e\u0930"
     ],
     "name:scn_x_preferred":[
         "Myanmar"
@@ -694,6 +769,9 @@
     ],
     "name:sco_x_preferred":[
         "Burma"
+    ],
+    "name:sgs_x_preferred":[
+        "Mianmars"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd4\u0dbb\u0dd4\u0db8\u0dba"
@@ -725,6 +803,9 @@
     "name:sna_x_variant":[
         "Myanmar"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u064a\u0627\u0646\u0645\u0627\u0631"
+    ],
     "name:som_x_preferred":[
         "Burma"
     ],
@@ -743,6 +824,9 @@
     ],
     "name:srd_x_preferred":[
         "Myanmar"
+    ],
+    "name:srd_x_variant":[
+        "Birmania"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0458\u0430\u043d\u043c\u0430\u0440"
@@ -807,6 +891,9 @@
     "name:ton_x_preferred":[
         "Pema"
     ],
+    "name:tpi_x_preferred":[
+        "Myanmar"
+    ],
     "name:tuk_x_preferred":[
         "M\u00fdanma"
     ],
@@ -870,6 +957,9 @@
     "name:vol_x_preferred":[
         "Mianmar\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Birma"
+    ],
     "name:war_x_preferred":[
         "Myanmar"
     ],
@@ -893,6 +983,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Manamari"
+    ],
+    "name:yue_x_preferred":[
+        "\u7dec\u7538"
     ],
     "name:zea_x_preferred":[
         "Myanmar"
@@ -1061,7 +1154,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1561843730,
+    "wof:lastmodified":1563265820,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

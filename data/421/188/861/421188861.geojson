@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Pegu"
     ],
+    "name:ceb_x_preferred":[
+        "Bago"
+    ],
     "name:dan_x_preferred":[
         "Bago"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u06af\u0648\u060c \u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u06af\u0648"
     ],
     "name:fin_x_preferred":[
         "Bago"
@@ -112,6 +118,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0433\u0443"
     ],
+    "name:shn_x_preferred":[
+        "\u1015\u1083\u1087\u1075\u102d\u1030\u101d\u103a\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd0\u0d9c\u0ddd"
     ],
@@ -133,6 +142,9 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e30\u0e42\u0e04"
     ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e07\u0e2a\u0e32\u0e27\u0e14\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Bago"
     ],
@@ -144,6 +156,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06af\u0648\u060c \u0628\u0631\u0645\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0627\u06af\u0648"
     ],
     "name:vie_x_preferred":[
         "Bago"
@@ -207,7 +222,7 @@
         }
     ],
     "wof:id":421188861,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269036,
     "wof:name":"Pegu",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

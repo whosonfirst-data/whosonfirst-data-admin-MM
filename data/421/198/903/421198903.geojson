@@ -70,6 +70,9 @@
     "name:sco_x_preferred":[
         "Amarapura"
     ],
+    "name:shn_x_preferred":[
+        "\u1022\u1019\u101b\u1015\u1030\u1087\u101b\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:slv_x_preferred":[
         "Amarapura"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Amarapura"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bae\u0bb0\u0bbe\u0baa\u0bc1\u0bb0\u0bbe"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e21\u0e23\u0e1b\u0e38\u0e23\u0e30"
@@ -90,6 +96,9 @@
     ],
     "name:vie_x_preferred":[
         "Amarapura"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6469\u7f85\u88dc\u7f85"
     ],
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":421198903,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269038,
     "wof:name":"Amarapura",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u044f\u043d\u0430\u0443\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Myanaung"
+    ],
     "name:eng_x_preferred":[
         "Myanaung"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421182719,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1563269042,
     "wof:name":"Myanaung",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

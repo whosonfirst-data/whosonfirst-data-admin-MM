@@ -28,8 +28,14 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09cd\u09a6\u09be\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Mandalay"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0435\u0439"
@@ -121,6 +127,9 @@
     "name:lit_x_preferred":[
         "Mandalajus"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d23\u0d4d\u0d21\u0d32\u0d48"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0902\u0921\u0932\u0947"
     ],
@@ -157,6 +166,9 @@
     "name:sco_x_preferred":[
         "Mandalay"
     ],
+    "name:shn_x_preferred":[
+        "\u1010\u1083\u1088\u101c\u102d\u1030\u101d\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd0\u0db1\u0dca\u0da9\u0dbd\u0dda"
     ],
@@ -167,6 +179,9 @@
         "Mandalaj"
     ],
     "name:spa_x_preferred":[
+        "Mandalay"
+    ],
+    "name:sqi_x_preferred":[
         "Mandalay"
     ],
     "name:srp_x_preferred":[
@@ -340,7 +355,7 @@
         }
     ],
     "wof:id":890443763,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269052,
     "wof:name":"Mandalay",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",

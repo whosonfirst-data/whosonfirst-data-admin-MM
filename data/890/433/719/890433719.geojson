@@ -96,6 +96,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u043c\u044c\u043e"
     ],
+    "name:shn_x_preferred":[
+        "\u1015\u1062\u1004\u103a\u1087\u1022\u1030\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd2\u0db1\u0dca \u0d8c \u0dbd\u0dca\u0dc0\u0dd2\u0db1\u0dca"
     ],
@@ -113,6 +116,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e22\u0e34\u0e19\u0e2d\u0e39\u0e25\u0e27\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e22\u0e35\u0e19\u0e2d\u0e39\u0e49\u0e25\u0e27\u0e35\u0e19"
     ],
     "name:tur_x_preferred":[
         "Pyin Oo Lwin"
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":890433719,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269060,
     "wof:name":"Maymyo",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

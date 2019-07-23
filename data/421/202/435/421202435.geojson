@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u044f\u0438\u043a\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kyaikto"
+    ],
     "name:eng_x_preferred":[
         "Kyaikto"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:nld_x_preferred":[
         "Kyaikto"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u103b\u1085\u1075\u103a\u1089\u1011\u1030\u101d\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:slv_x_preferred":[
         "Kyaikto"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421202435,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1563269032,
     "wof:name":"Kyaikto",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

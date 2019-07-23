@@ -22,6 +22,18 @@
     "name:nld_x_preferred":[
         "Aungban"
     ],
+    "name:por_x_preferred":[
+        "Aungban"
+    ],
+    "name:shn_x_preferred":[
+        "\u1022\u102f\u1019\u103a\u1087\u1015\u101d\u103a\u1038"
+    ],
+    "name:tgl_x_preferred":[
+        "Aungban"
+    ],
+    "name:zho_x_preferred":[
+        "\u6602\u73ed"
+    ],
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1328865,
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":421173141,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1563269034,
     "wof:name":"Aungban",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

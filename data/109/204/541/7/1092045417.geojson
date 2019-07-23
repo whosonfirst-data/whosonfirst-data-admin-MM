@@ -33,11 +33,13 @@
     "mps:longitude":97.825672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hpa-an District"
+    ],
     "name:eng_x_preferred":[
         "Hpa-an"
     ],
     "name:eng_x_variant":[
-        "Hpa-an",
         "Kawkareik",
         "Hpa-an District"
     ],
@@ -49,6 +51,9 @@
     ],
     "name:pol_x_preferred":[
         "Ba-an"
+    ],
+    "name:shn_x_preferred":[
+        "\u107d\u1083\u1022\u1062\u1004\u103a\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Hpa-an District"
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1092045417,
-    "wof:lastmodified":1561843794,
+    "wof:lastmodified":1563268797,
     "wof:name":"Hpa-An",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

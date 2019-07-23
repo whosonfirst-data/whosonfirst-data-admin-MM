@@ -17,6 +17,9 @@
     "name:cat_x_preferred":[
         "Shwebo"
     ],
+    "name:ceb_x_preferred":[
+        "Shwebo"
+    ],
     "name:deu_x_preferred":[
         "Shwebo"
     ],
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421168843,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1563269026,
     "wof:name":"Shwebo",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

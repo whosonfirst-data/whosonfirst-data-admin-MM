@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Toungoo"
     ],
+    "name:ceb_x_preferred":[
+        "Taungoo"
+    ],
     "name:dan_x_preferred":[
         "Taungoo"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Taungoo"
+    ],
+    "name:epo_x_preferred":[
+        "Taungu"
     ],
     "name:fin_x_preferred":[
         "Taungoo"
@@ -60,6 +66,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cbe\u0c89\u0c82\u0c97\u0ccd\u0cb5\u0cc2"
+    ],
+    "name:kjp_x_preferred":[
+        "\u100d\u102f\u1036\u1010\u1036\u1004\u103a\u1021\u1030"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\uc6c5\uc6b0"
@@ -93,6 +102,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0443\u043d\u0433\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u0443\u043d\u043d\u0433\u0443"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u103d\u1004\u103a\u1087\u1004\u1030\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0ddc\u0db1\u0dca\u0d9c\u0dd4"
@@ -132,6 +147,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6771\u5401\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u6771\u5401"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Myanmar",
@@ -258,7 +276,7 @@
         }
     ],
     "wof:id":890433713,
-    "wof:lastmodified":1561843800,
+    "wof:lastmodified":1563269059,
     "wof:name":"Taungoo",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",
