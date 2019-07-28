@@ -27,6 +27,30 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pantun"
+    ],
+    "name:ind_x_preferred":[
+        "Pantun"
+    ],
+    "name:jav_x_preferred":[
+        "Parikan"
+    ],
+    "name:msa_x_preferred":[
+        "Pantun"
+    ],
+    "name:pol_x_preferred":[
+        "Pantun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0442\u0443\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Paparikan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e31\u0e19\u0e15\u0e38\u0e19"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1326710831,
-    "wof:lastmodified":1536727018,
+    "wof:lastmodified":1564313217,
     "wof:name":"Pantun",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

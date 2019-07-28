@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pathi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1259755969,
-    "wof:lastmodified":1536962686,
+    "wof:lastmodified":1564318805,
     "wof:name":"Pathi",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

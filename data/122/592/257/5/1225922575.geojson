@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1021\u101b\u102c\u1010\u1031\u102c\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:tgl_x_preferred":[
+        "Ayadaw"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1225922575,
-    "wof:lastmodified":1537568509,
+    "wof:lastmodified":1564318855,
     "wof:name":"Ayadaw",
     "wof:parent_id":1092045503,
     "wof:placetype":"locality",

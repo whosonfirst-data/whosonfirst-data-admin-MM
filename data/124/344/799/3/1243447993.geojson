@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646\u06af\u0634\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243447993,
-    "wof:lastmodified":1537568510,
+    "wof:lastmodified":1564318016,
     "wof:name":"Aingshe",
     "wof:parent_id":1092046719,
     "wof:placetype":"locality",

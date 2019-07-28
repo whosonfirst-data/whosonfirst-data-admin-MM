@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Thalun"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u102c\u101c\u103d\u1014\u103a\u1019\u1004\u103a\u1038"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e30\u0e40\u0e08\u0e49\u0e32\u0e15\u0e32\u0e25\u0e39\u0e19"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1327218553,
-    "wof:lastmodified":1536988814,
+    "wof:lastmodified":1564313393,
     "wof:name":"Thalun",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

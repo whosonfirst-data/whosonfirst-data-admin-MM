@@ -27,6 +27,63 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0646 \u0645\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646\u0645\u06cc"
+    ],
+    "name:est_x_preferred":[
+        "Sunmi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u0645\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Sunmi"
+    ],
+    "name:fra_x_preferred":[
+        "Sunmi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b \u054d\u0578\u0576\u0574\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Sunmi"
+    ],
+    "name:ita_x_preferred":[
+        "Lee Sun-mi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30f3\u30df"
+    ],
+    "name:msa_x_preferred":[
+        "Sunmi"
+    ],
+    "name:por_x_preferred":[
+        "Lee Sun-mi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438 \u0421\u043e\u043d\u043c\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Sunmi"
+    ],
+    "name:spa_x_preferred":[
+        "Sunmi"
+    ],
+    "name:swe_x_preferred":[
+        "Sunmi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e47\u0e2d\u0e19\u0e21\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Sunmi"
+    ],
+    "name:vie_x_preferred":[
+        "Sunmi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +107,7 @@
         }
     ],
     "wof:id":1225931761,
-    "wof:lastmodified":1536889212,
+    "wof:lastmodified":1564318845,
     "wof:name":"Sunmi",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

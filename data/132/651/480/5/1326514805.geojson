@@ -25,6 +25,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Begon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326514805,
-    "wof:lastmodified":1537008494,
+    "wof:lastmodified":1564312963,
     "wof:name":"Begon",
     "wof:parent_id":1092045099,
     "wof:placetype":"locality",

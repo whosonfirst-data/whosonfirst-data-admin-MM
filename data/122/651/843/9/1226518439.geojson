@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226518439,
-    "wof:lastmodified":1537035925,
+    "wof:lastmodified":1564319059,
     "wof:name":"Mada",
     "wof:parent_id":1092047809,
     "wof:placetype":"locality",

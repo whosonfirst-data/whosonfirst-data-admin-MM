@@ -27,8 +27,77 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Naloet"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0644\u0648\u062a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u043b\u0443\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Nalut"
+    ],
+    "name:deu_x_preferred":[
+        "Nalut"
+    ],
+    "name:epo_x_preferred":[
+        "Nalut"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0644\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Nalout"
+    ],
+    "name:ita_x_preferred":[
+        "Nalut"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30fc\u30eb\u30fc\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10da\u10e3\u10d7\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub0a0\ub8e8\ud2b8"
+    ],
+    "name:pol_x_preferred":[
+        "Nalut"
+    ],
+    "name:por_x_preferred":[
+        "Nalute"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043b\u0443\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Nalut"
+    ],
+    "name:spa_x_preferred":[
+        "Nalut"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u043b\u0443\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Nalut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043b\u0443\u0442"
+    ],
     "name:und_x_variant":[
         "Kanale",
+        "Nalut"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0644\u0648\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Nalut"
+    ],
+    "name:vol_x_preferred":[
         "Nalut"
     ],
     "src:geom":"geonames",
@@ -54,7 +123,7 @@
         }
     ],
     "wof:id":1242563773,
-    "wof:lastmodified":1537665424,
+    "wof:lastmodified":1564317647,
     "wof:name":"Nalut",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

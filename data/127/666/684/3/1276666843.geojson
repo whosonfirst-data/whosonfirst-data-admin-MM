@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0981\u09a5\u09be"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0928\u094d\u0925\u093e \u0915\u0936\u0940\u0926\u093e\u0915\u093e\u0930\u0940"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b15\u0b28\u0b4d\u0b25\u0b3e"
+    ],
+    "name:swe_x_preferred":[
+        "Kanthabroderi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276666843,
-    "wof:lastmodified":1536827836,
+    "wof:lastmodified":1564315089,
     "wof:name":"Kantha",
     "wof:parent_id":1092046765,
     "wof:placetype":"locality",

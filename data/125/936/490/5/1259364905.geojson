@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Tazo"
+    ],
+    "name:pol_x_preferred":[
+        "Tazo Tea"
+    ],
+    "name:tur_x_preferred":[
+        "Tazo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1259364905,
-    "wof:lastmodified":1537027856,
+    "wof:lastmodified":1564318060,
     "wof:name":"Tazo",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

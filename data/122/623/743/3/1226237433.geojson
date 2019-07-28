@@ -27,6 +27,51 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bugyi"
+    ],
+    "name:ces_x_preferred":[
+        "Bugyi"
+    ],
+    "name:epo_x_preferred":[
+        "Bugyi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u06cc\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Bugyi"
+    ],
+    "name:hun_x_preferred":[
+        "Bugyi"
+    ],
+    "name:ita_x_preferred":[
+        "Bugyi"
+    ],
+    "name:msa_x_preferred":[
+        "Bugyi"
+    ],
+    "name:nld_x_preferred":[
+        "Bugyi"
+    ],
+    "name:ron_x_preferred":[
+        "Bugyi"
+    ],
+    "name:slk_x_preferred":[
+        "Bugyi"
+    ],
+    "name:slv_x_preferred":[
+        "Bugyi"
+    ],
+    "name:swe_x_preferred":[
+        "Bugyi"
+    ],
+    "name:vie_x_preferred":[
+        "Bugyi"
+    ],
+    "name:vol_x_preferred":[
+        "Bugyi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +95,7 @@
         }
     ],
     "wof:id":1226237433,
-    "wof:lastmodified":1536946024,
+    "wof:lastmodified":1564319246,
     "wof:name":"Bugyi",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

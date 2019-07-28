@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u101e\u1004\u103a\u1039\u1003\u1014\u103a\u1038\u1000\u103b\u103d\u1014\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Thingangyun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293172009,
-    "wof:lastmodified":1537568454,
+    "wof:lastmodified":1564314765,
     "wof:name":"Thingangyun",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

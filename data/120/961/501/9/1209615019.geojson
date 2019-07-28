@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ba"
+    ],
     "name:und_x_variant":[
         "Kaxu",
         "Kazu"
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209615019,
-    "wof:lastmodified":1537665497,
+    "wof:lastmodified":1564315830,
     "wof:name":"Kazu",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1000\u103b\u102d\u102f\u1000\u103a\u1019\u101b\u1031\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u103b\u1085\u1075\u103a\u1089\u1019\u101b\u1031\u1083\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Kyaikmaraw"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309891781,
-    "wof:lastmodified":1537568494,
+    "wof:lastmodified":1564317386,
     "wof:name":"Kyaikmaraw",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

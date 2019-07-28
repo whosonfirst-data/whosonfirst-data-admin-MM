@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1000\u1014\u1037\u103a\u1018\u101c\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:und_x_variant":[
         "Kanbala",
         "Kanbalu"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1309900859,
-    "wof:lastmodified":1537665507,
+    "wof:lastmodified":1564317233,
     "wof:name":"Kanbalu",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

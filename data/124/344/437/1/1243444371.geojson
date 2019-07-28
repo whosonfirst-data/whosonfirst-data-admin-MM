@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Wuntho"
+    ],
+    "name:mya_x_preferred":[
+        "\u101d\u1014\u103a\u1038\u101e\u102d\u102f\u1019\u103c\u102d\u102f\u1037\u1014\u101a\u103a"
+    ],
+    "name:spa_x_preferred":[
+        "Wuntho"
+    ],
+    "name:swe_x_preferred":[
+        "Wuntho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1243444371,
-    "wof:lastmodified":1536808187,
+    "wof:lastmodified":1564318020,
     "wof:name":"Wuntho",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

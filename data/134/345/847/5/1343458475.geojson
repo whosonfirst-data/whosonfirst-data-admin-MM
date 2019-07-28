@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u062c\u06cc\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343458475,
-    "wof:lastmodified":1537568490,
+    "wof:lastmodified":1564314029,
     "wof:name":"Lajing",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

@@ -27,6 +27,45 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Thanlyin"
+    ],
+    "name:ceb_x_preferred":[
+        "Syriam"
+    ],
+    "name:fra_x_preferred":[
+        "Thanlyin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ea\u30a2\u30e0"
+    ],
+    "name:lit_x_preferred":[
+        "Tanlinas"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u1014\u103a\u101c\u103b\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Thanlyin"
+    ],
+    "name:por_x_preferred":[
+        "Siri\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0445\u043b\u044c\u0438\u043d"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u1062\u107c\u103a\u1087\u101c\u102d\u107c\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Thanlyin"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e32\u0e19-\u0e25\u0e22\u0e35\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0445\u043b\u044c\u0457\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1327410033,
-    "wof:lastmodified":1537568455,
+    "wof:lastmodified":1564313139,
     "wof:name":"Thanhlyin",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

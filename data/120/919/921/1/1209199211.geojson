@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yandabo"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u1014\u1039\u1010\u1015\u102d\u102f\u101b\u103d\u102c"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baf\u0bbe\u0ba8\u0bcd\u0ba4\u0baa\u0bc1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6768\u8fbe\u5761"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209199211,
-    "wof:lastmodified":1537568445,
+    "wof:lastmodified":1564316068,
     "wof:name":"Yandabo",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

@@ -27,6 +27,81 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Masein"
+    ],
+    "name:ceb_x_preferred":[
+        "Masein"
+    ],
+    "name:deu_x_preferred":[
+        "Masein"
+    ],
+    "name:epo_x_preferred":[
+        "Masein"
+    ],
+    "name:eus_x_preferred":[
+        "Masein"
+    ],
+    "name:fra_x_preferred":[
+        "Masein"
+    ],
+    "name:ind_x_preferred":[
+        "Masein"
+    ],
+    "name:ita_x_preferred":[
+        "Masein"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0439\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Medezenus"
+    ],
+    "name:lmo_x_preferred":[
+        "Masein"
+    ],
+    "name:msa_x_preferred":[
+        "Masein"
+    ],
+    "name:nld_x_preferred":[
+        "Masein"
+    ],
+    "name:nno_x_preferred":[
+        "Masein"
+    ],
+    "name:pms_x_preferred":[
+        "Masein"
+    ],
+    "name:pol_x_preferred":[
+        "Masein"
+    ],
+    "name:por_x_preferred":[
+        "Masein"
+    ],
+    "name:roh_x_preferred":[
+        "Masagn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0439\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Masein"
+    ],
+    "name:sqi_x_preferred":[
+        "Masein"
+    ],
+    "name:swe_x_preferred":[
+        "Masein"
+    ],
+    "name:uzb_x_preferred":[
+        "Masein"
+    ],
+    "name:vol_x_preferred":[
+        "Masein"
+    ],
+    "name:war_x_preferred":[
+        "Masein"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +125,7 @@
         }
     ],
     "wof:id":1243532941,
-    "wof:lastmodified":1536680890,
+    "wof:lastmodified":1564317465,
     "wof:name":"Masein",
     "wof:parent_id":1092045503,
     "wof:placetype":"locality",

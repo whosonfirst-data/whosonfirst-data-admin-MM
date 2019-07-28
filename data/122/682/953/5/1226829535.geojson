@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hsum Hsai"
+    ],
     "name:und_x_variant":[
         "Thonze",
         "Hsum Hsai"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226829535,
-    "wof:lastmodified":1537665518,
+    "wof:lastmodified":1564319199,
     "wof:name":"Hsum Hsai",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

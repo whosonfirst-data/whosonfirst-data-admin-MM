@@ -27,6 +27,36 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Hsipaw"
+    ],
+    "name:ceb_x_preferred":[
+        "Hsipaw"
+    ],
+    "name:deu_x_preferred":[
+        "Hsipaw"
+    ],
+    "name:fra_x_preferred":[
+        "Thibaw"
+    ],
+    "name:lat_x_preferred":[
+        "Hsipaw"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u102e\u1015\u1031\u102b\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:por_x_preferred":[
+        "Hsipaw"
+    ],
+    "name:shn_x_preferred":[
+        "\u101e\u102e\u1087\u1015\u1031\u1083\u1089\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Hsipaw"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e35\u0e48\u0e1b\u0e49\u0e2d"
+    ],
     "name:und_x_variant":[
         "Thibaw",
         "Hsipaw"
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1344244799,
-    "wof:lastmodified":1537665518,
+    "wof:lastmodified":1564313647,
     "wof:name":"Hsipaw",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

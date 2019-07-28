@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Loilong"
+    ],
+    "name:lat_x_preferred":[
+        "Loilong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1226230049,
-    "wof:lastmodified":1536956334,
+    "wof:lastmodified":1564319243,
     "wof:name":"Loilong",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

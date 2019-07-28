@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u06af\u0645\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1344245601,
-    "wof:lastmodified":1537568463,
+    "wof:lastmodified":1564313642,
     "wof:name":"Saingme",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

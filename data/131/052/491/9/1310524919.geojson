@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06af\u0648\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310524919,
-    "wof:lastmodified":1537568490,
+    "wof:lastmodified":1564316712,
     "wof:name":"Lagwi",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

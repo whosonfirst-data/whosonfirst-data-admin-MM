@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Wayi"
+    ],
+    "name:fra_x_preferred":[
+        "Wayi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1259849417,
-    "wof:lastmodified":1536827412,
+    "wof:lastmodified":1564318245,
     "wof:name":"Wayi",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

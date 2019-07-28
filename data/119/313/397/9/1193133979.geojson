@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646\u06af\u062f\u0627\u06cc\u0646\u06af"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1004\u103a\u1038\u1010\u102d\u102f\u1004\u103a\u101b\u103d\u102c"
+    ],
+    "name:spa_x_preferred":[
+        "Aingdaing"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1193133979,
-    "wof:lastmodified":1537568510,
+    "wof:lastmodified":1564316195,
     "wof:name":"Aingdaing",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

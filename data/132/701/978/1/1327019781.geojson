@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u062a\u06be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1327019781,
-    "wof:lastmodified":1536779206,
+    "wof:lastmodified":1564312834,
     "wof:name":"Ywatha",
     "wof:parent_id":1092047061,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Bassein"
     ],
+    "name:spa_x_preferred":[
+        "Bassein"
+    ],
     "name:swe_x_preferred":[
         "Bassein"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421188853,
-    "wof:lastmodified":1527716294,
+    "wof:lastmodified":1564317419,
     "wof:name":"Bassein",
     "wof:parent_id":1092047083,
     "wof:placetype":"locality",

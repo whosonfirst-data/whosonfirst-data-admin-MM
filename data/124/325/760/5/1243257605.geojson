@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manyu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u044e"
+    ],
+    "name:swe_x_preferred":[
+        "Manyu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1243257605,
-    "wof:lastmodified":1537074678,
+    "wof:lastmodified":1564317745,
     "wof:name":"Manyu",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

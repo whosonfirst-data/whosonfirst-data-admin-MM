@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "L\u0101paidan"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u06cc\u0688\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242970769,
-    "wof:lastmodified":1537665467,
+    "wof:lastmodified":1564317947,
     "wof:name":"Lapaidan",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

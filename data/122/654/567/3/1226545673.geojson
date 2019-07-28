@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u06cc\u06be\u06a9\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226545673,
-    "wof:lastmodified":1536997338,
+    "wof:lastmodified":1564319376,
     "wof:name":"Yihku",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

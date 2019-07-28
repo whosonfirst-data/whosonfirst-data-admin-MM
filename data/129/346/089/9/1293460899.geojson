@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bhileng"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u102e\u1038\u101c\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1015\u102e\u1038\u101c\u102d\u107c\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:spa_x_preferred":[
+        "Bilin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1293460899,
-    "wof:lastmodified":1537568508,
+    "wof:lastmodified":1564314321,
     "wof:name":"Bilin",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

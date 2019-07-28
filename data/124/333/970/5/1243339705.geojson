@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30df\u30f3\u30ac\u30e9\u30c9\u30f3\u90e1\u533a"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1004\u103a\u1039\u1002\u101c\u102c\u1012\u102f\u1036\u1019\u103c\u102d\u102f\u1037\u1014\u101a\u103a"
+    ],
+    "name:pol_x_preferred":[
+        "Mingaladon"
+    ],
+    "name:swe_x_preferred":[
+        "Mingaladon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1243339705,
-    "wof:lastmodified":1537568481,
+    "wof:lastmodified":1564317826,
     "wof:name":"Mingaladon",
     "wof:parent_id":1092047835,
     "wof:placetype":"locality",

@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Dabayin, Debayin, Depayin, Tabayin"
     ],
+    "name:fra_x_preferred":[
+        "Dabayin"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u102e\u1015\u1032\u101a\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243432797,
-    "wof:lastmodified":1537568472,
+    "wof:lastmodified":1564318040,
     "wof:name":"Ngapayin",
     "wof:parent_id":1092046719,
     "wof:placetype":"locality",

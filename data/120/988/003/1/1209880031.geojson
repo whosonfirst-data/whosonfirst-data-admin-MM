@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Muki"
+    ],
     "name:und_x_variant":[
         "Mogi",
         "Muki"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209880031,
-    "wof:lastmodified":1537665430,
+    "wof:lastmodified":1564316098,
     "wof:name":"Muki",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

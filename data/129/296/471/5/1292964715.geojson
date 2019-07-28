@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0632\u0648"
+    ],
+    "name:tgl_x_preferred":[
+        "Alanzu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1292964715,
-    "wof:lastmodified":1537568510,
+    "wof:lastmodified":1564314593,
     "wof:name":"Alanzu",
     "wof:parent_id":1092047665,
     "wof:placetype":"locality",

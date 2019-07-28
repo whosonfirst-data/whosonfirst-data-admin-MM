@@ -27,6 +27,30 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0646 \u0644\u064a"
+    ],
+    "name:deu_x_preferred":[
+        "Wan Li"
+    ],
+    "name:fra_x_preferred":[
+        "Wan Li"
+    ],
+    "name:nor_x_preferred":[
+        "Wan Li"
+    ],
+    "name:pol_x_preferred":[
+        "Wan Li"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u044c \u041b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Wan Li"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ea1n L\u00fd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1209793115,
-    "wof:lastmodified":1536394104,
+    "wof:lastmodified":1564315722,
     "wof:name":"Wan Li",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

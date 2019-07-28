@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "M\u0101chulo"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0648\u0644\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326930325,
-    "wof:lastmodified":1537665457,
+    "wof:lastmodified":1564312997,
     "wof:name":"Machulo",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

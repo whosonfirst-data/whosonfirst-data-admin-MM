@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Towa"
+    ],
+    "name:deu_x_preferred":[
+        "Towa"
+    ],
+    "name:swe_x_preferred":[
+        "Towa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209110639,
-    "wof:lastmodified":1536297418,
+    "wof:lastmodified":1564315949,
     "wof:name":"Towa",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

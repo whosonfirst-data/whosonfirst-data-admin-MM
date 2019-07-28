@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "L\u0101ching"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0686\u06cc\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209320389,
-    "wof:lastmodified":1537665470,
+    "wof:lastmodified":1564315866,
     "wof:name":"Laching",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

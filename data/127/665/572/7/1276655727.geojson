@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1000\u1031\u102c\u1037\u1000\u101b\u102d\u1010\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Kawkareik"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u1031\u1083\u1089\u1075\u101b\u1035\u1075\u103a\u1089\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e48\u0e2d\u0e01\u0e30\u0e40\u0e23\u0e30"
+    ],
     "name:und_x_variant":[
         "Kawkareit",
         "Kawkayeik",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1276655727,
-    "wof:lastmodified":1537665501,
+    "wof:lastmodified":1564315426,
     "wof:name":"Kawkareik",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

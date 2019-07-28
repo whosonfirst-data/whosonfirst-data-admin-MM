@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bogon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293280851,
-    "wof:lastmodified":1537081747,
+    "wof:lastmodified":1564314744,
     "wof:name":"Bogon",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

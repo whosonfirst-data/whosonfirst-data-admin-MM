@@ -27,6 +27,33 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0437\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Maso"
+    ],
+    "name:deu_x_preferred":[
+        "Maso"
+    ],
+    "name:fra_x_preferred":[
+        "Maso"
+    ],
+    "name:ita_x_preferred":[
+        "Maso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Maso"
+    ],
+    "name:srp_x_preferred":[
+        "Maso"
+    ],
+    "name:swe_x_preferred":[
+        "Maso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1343728573,
-    "wof:lastmodified":1536855750,
+    "wof:lastmodified":1564314107,
     "wof:name":"Maso",
     "wof:parent_id":1092047809,
     "wof:placetype":"locality",

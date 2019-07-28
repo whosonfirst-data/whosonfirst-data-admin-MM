@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mesari"
+    ],
+    "name:fra_x_preferred":[
+        "Mesari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0441\u0430\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209603091,
-    "wof:lastmodified":1536282102,
+    "wof:lastmodified":1564315885,
     "wof:name":"Mesari",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0647\u06a9\u0627\u0648\u062a\u0648\u0646\u06af"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06c1\u06a9\u0627\u0648\u062a\u0648\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1210039997,
-    "wof:lastmodified":1537568510,
+    "wof:lastmodified":1564316143,
     "wof:name":"Ahkawhtawng",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

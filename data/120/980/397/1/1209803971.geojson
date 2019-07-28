@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0626\u0633\u0627\u0626\u06cc \u06af\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209803971,
-    "wof:lastmodified":1537568490,
+    "wof:lastmodified":1564316011,
     "wof:name":"Laisai Ga",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

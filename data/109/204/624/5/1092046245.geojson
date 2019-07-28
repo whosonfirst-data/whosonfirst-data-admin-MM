@@ -40,6 +40,12 @@
         "Lashio",
         "Lasho"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u103a\u1019\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1062\u1075\u103a\u1087\u1019\u1004\u103a\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:und_x_variant":[
         "\u1019\u1000\u103a\u1019\u1014\u103a\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092046245,
-    "wof:lastmodified":1555220361,
+    "wof:lastmodified":1564317195,
     "wof:name":"Matman",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

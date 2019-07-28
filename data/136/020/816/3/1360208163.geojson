@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u101b\u103d\u102c\u101e\u1005\u103a\u1019\u103c\u102d\u102f\u1037\u104a \u1019\u102d\u102f\u1038\u100a\u103e\u1004\u103a\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u101a\u1082\u1083\u1087\u1010\u102d\u1010\u103a\u1089\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0627\u062a\u06c1\u062a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360208163,
-    "wof:lastmodified":1537568444,
+    "wof:lastmodified":1564317079,
     "wof:name":"Ywathit",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

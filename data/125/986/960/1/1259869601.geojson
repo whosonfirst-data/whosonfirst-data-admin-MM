@@ -27,6 +27,42 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Myingyan"
+    ],
+    "name:ceb_x_preferred":[
+        "Myingyan"
+    ],
+    "name:fra_x_preferred":[
+        "Myingyan"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbfc\uc9c0\uc548"
+    ],
+    "name:lit_x_preferred":[
+        "Mjind\u017eanas"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u103c\u1004\u103a\u1038\u1001\u103c\u1036\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Myingyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044c\u0438\u043d\u0434\u0436\u0430\u043d"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u103b\u102d\u107c\u103a\u1038\u1076\u103b\u1062\u107c\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:spa_x_preferred":[
+        "Myingyan"
+    ],
+    "name:swe_x_preferred":[
+        "Myingyan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e22\u0e35\u0e48\u0e19\u0e0a\u0e32\u0e19"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +86,7 @@
         }
     ],
     "wof:id":1259869601,
-    "wof:lastmodified":1536799295,
+    "wof:lastmodified":1564318820,
     "wof:name":"Myingyan",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0647\u06a9\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293316035,
-    "wof:lastmodified":1537032819,
+    "wof:lastmodified":1564314225,
     "wof:name":"Kuhkan",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

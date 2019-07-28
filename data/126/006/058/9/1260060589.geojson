@@ -27,6 +27,27 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nammo"
+    ],
+    "name:hye_x_preferred":[
+        "Nammo"
+    ],
+    "name:ind_x_preferred":[
+        "Nammo"
+    ],
+    "name:ita_x_preferred":[
+        "Nammo"
+    ],
+    "name:nor_x_preferred":[
+        "Nammo"
+    ],
+    "name:rus_x_preferred":[
+        "Nammo"
+    ],
+    "name:spa_x_preferred":[
+        "Nammo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1260060589,
-    "wof:lastmodified":1537020178,
+    "wof:lastmodified":1564316455,
     "wof:name":"Nammo",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

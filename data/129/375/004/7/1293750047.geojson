@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hlegu"
+    ],
+    "name:mya_x_preferred":[
+        "\u101c\u103e\u100a\u103a\u1038\u1000\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:swe_x_preferred":[
+        "Hlegu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293750047,
-    "wof:lastmodified":1537568503,
+    "wof:lastmodified":1564314810,
     "wof:name":"Hlegu",
     "wof:parent_id":1092047835,
     "wof:placetype":"locality",

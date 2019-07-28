@@ -27,6 +27,27 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mido"
+    ],
+    "name:deu_x_preferred":[
+        "Mido"
+    ],
+    "name:fin_x_preferred":[
+        "Mido"
+    ],
+    "name:fra_x_preferred":[
+        "Mido"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mido"
+    ],
+    "name:swe_x_preferred":[
+        "Mido"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1326612161,
-    "wof:lastmodified":1536867595,
+    "wof:lastmodified":1564313021,
     "wof:name":"Mido",
     "wof:parent_id":1092047213,
     "wof:placetype":"locality",

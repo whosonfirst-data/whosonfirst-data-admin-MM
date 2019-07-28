@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pawang"
+    ],
     "name:und_x_variant":[
         "Paw-wang",
         "Pawang"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276740497,
-    "wof:lastmodified":1537665394,
+    "wof:lastmodified":1564314973,
     "wof:name":"Pawang",
     "wof:parent_id":1092046811,
     "wof:placetype":"locality",

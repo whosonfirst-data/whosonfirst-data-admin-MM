@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Samka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242854911,
-    "wof:lastmodified":1536664268,
+    "wof:lastmodified":1564317889,
     "wof:name":"Samka",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

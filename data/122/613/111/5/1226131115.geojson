@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Utha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226131115,
-    "wof:lastmodified":1537095584,
+    "wof:lastmodified":1564319165,
     "wof:name":"Utha",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

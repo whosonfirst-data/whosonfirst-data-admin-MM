@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Zigana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1309884299,
-    "wof:lastmodified":1536817219,
+    "wof:lastmodified":1564317399,
     "wof:name":"Zigana",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

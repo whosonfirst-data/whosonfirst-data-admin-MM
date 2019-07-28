@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0627\u062a\u062c\u06cc\u0648\u06af\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243296223,
-    "wof:lastmodified":1537568510,
+    "wof:lastmodified":1564317970,
     "wof:name":"Amatgyigon",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

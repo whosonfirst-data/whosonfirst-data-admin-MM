@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mahsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u0633\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1210022159,
-    "wof:lastmodified":1536392366,
+    "wof:lastmodified":1564316150,
     "wof:name":"Mahsa",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

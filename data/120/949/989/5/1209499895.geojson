@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u101c\u1031\u1038\u1019\u103b\u1000\u103a\u1014\u103e\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209499895,
-    "wof:lastmodified":1536285216,
+    "wof:lastmodified":1564315789,
     "wof:name":"Lemyethna",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

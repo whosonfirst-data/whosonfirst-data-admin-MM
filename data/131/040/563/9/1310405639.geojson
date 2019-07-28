@@ -31,6 +31,9 @@
         "Lahta",
         "Lahta-gahtawng"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06c1\u0679\u0627-\u06af\u0627\u06c1\u0679\u0627\u0648\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310405639,
-    "wof:lastmodified":1537665469,
+    "wof:lastmodified":1564316639,
     "wof:name":"Lahta-gahtawng",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

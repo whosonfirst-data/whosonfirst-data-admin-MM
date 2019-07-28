@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Mapili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209039019,
-    "wof:lastmodified":1537568482,
+    "wof:lastmodified":1564315871,
     "wof:name":"Mapili",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

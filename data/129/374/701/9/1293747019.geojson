@@ -27,6 +27,24 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nyaunglebin"
+    ],
+    "name:mya_x_preferred":[
+        "\u100a\u1031\u102c\u1004\u103a\u101c\u1031\u1038\u1015\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Nyaunglebin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044f\u0443\u043d\u043b\u0435\u0431\u0438\u043d"
+    ],
+    "name:shn_x_preferred":[
+        "\u107a\u103d\u1004\u103a\u1087\u101c\u1031\u1038\u1015\u102d\u107c\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Nyaunglebin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1293747019,
-    "wof:lastmodified":1536910519,
+    "wof:lastmodified":1564314733,
     "wof:name":"Nyaunglebin",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

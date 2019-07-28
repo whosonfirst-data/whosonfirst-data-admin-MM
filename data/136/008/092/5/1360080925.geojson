@@ -27,6 +27,21 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mokwa"
+    ],
+    "name:fra_x_preferred":[
+        "Mokwa"
+    ],
+    "name:hau_x_preferred":[
+        "Mokwa"
+    ],
+    "name:ita_x_preferred":[
+        "Mokwa"
+    ],
+    "name:spa_x_preferred":[
+        "Mokwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1360080925,
-    "wof:lastmodified":1536951856,
+    "wof:lastmodified":1564317057,
     "wof:name":"Mokwa",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

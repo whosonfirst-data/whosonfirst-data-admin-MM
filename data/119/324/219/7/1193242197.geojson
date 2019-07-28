@@ -27,6 +27,24 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mathon"
+    ],
+    "name:deu_x_preferred":[
+        "Mathon"
+    ],
+    "name:epo_x_preferred":[
+        "Mathon"
+    ],
+    "name:eus_x_preferred":[
+        "Mathon"
+    ],
+    "name:fra_x_preferred":[
+        "Mathon"
+    ],
+    "name:swe_x_preferred":[
+        "Mathon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1193242197,
-    "wof:lastmodified":1536377230,
+    "wof:lastmodified":1564316173,
     "wof:name":"Mathon",
     "wof:parent_id":1092047213,
     "wof:placetype":"locality",

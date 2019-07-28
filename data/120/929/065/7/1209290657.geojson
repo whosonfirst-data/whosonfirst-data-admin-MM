@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0439\u043b\u044a\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209290657,
-    "wof:lastmodified":1536291706,
+    "wof:lastmodified":1564315961,
     "wof:name":"Kalok",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

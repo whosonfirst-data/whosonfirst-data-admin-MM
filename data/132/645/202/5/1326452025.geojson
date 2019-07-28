@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1016\u102c\u1038\u1006\u1031\u102c\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u107d\u1083\u101e\u103d\u1004\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Hpasawng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326452025,
-    "wof:lastmodified":1537568502,
+    "wof:lastmodified":1564312918,
     "wof:name":"Hpasawng",
     "wof:parent_id":1092044973,
     "wof:placetype":"locality",

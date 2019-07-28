@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "My\u0101sa"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0627\u0633\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226539867,
-    "wof:lastmodified":1537665429,
+    "wof:lastmodified":1564319375,
     "wof:name":"Myasa",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

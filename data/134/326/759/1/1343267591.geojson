@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mankwe"
+    ],
+    "name:est_x_preferred":[
+        "Mankwe"
+    ],
+    "name:nso_x_preferred":[
+        "Mankwe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343267591,
-    "wof:lastmodified":1537023522,
+    "wof:lastmodified":1564314082,
     "wof:name":"Mankwe",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

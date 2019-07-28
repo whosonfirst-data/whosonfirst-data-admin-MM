@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06c1\u06a9\u0627\u0645"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209105931,
-    "wof:lastmodified":1537568490,
+    "wof:lastmodified":1564316086,
     "wof:name":"Lahkam",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

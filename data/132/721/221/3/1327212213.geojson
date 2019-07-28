@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "My\u00e8ngan"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u06af\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327212213,
-    "wof:lastmodified":1537665428,
+    "wof:lastmodified":1564313376,
     "wof:name":"Myengan",
     "wof:parent_id":1092045503,
     "wof:placetype":"locality",
