@@ -27,6 +27,60 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043f\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Pote"
+    ],
+    "name:deu_x_preferred":[
+        "Pfote"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c4\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:est_x_preferred":[
+        "K\u00e4pp"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00e4p\u00e4l\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "Patte"
+    ],
+    "name:hat_x_preferred":[
+        "Pat"
+    ],
+    "name:lin_x_preferred":[
+        "Ekolo"
+    ],
+    "name:lmo_x_preferred":[
+        "Sciampa"
+    ],
+    "name:nno_x_preferred":[
+        "Labb"
+    ],
+    "name:nor_x_preferred":[
+        "Labb"
+    ],
+    "name:por_x_preferred":[
+        "Pata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Paw"
+    ],
+    "name:swe_x_preferred":[
+        "Tass"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043f\u0430"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05d0\u05e4\u05e2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +104,7 @@
         }
     ],
     "wof:id":1226024475,
-    "wof:lastmodified":1536755961,
+    "wof:lastmodified":1564319039,
     "wof:name":"Paw",
     "wof:parent_id":1092046951,
     "wof:placetype":"locality",

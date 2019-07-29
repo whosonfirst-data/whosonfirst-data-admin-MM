@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bome"
+    ],
+    "name:ita_x_preferred":[
+        "Bome"
+    ],
+    "name:swe_x_preferred":[
+        "Bome"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +45,7 @@
         "gn:id":1328055
     },
     "wof:country":"MM",
-    "wof:geomhash":"b6ff6023cdb1a04081fbfbe463ac64b5",
+    "wof:geomhash":"2f06135fe43a595600e5479f3b1e0e97",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209075985,
-    "wof:lastmodified":1536298493,
+    "wof:lastmodified":1564315525,
     "wof:name":"Bome",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +64,9 @@
 },
   "bbox": [
     94.3758,
-    21.300320000000006,
+    21.30032000000001,
     94.3758,
-    21.300320000000006
+    21.30032000000001
 ],
   "geometry": {"coordinates":[94.3758,21.30032000000001],"type":"Point"}
 }

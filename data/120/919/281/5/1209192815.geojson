@@ -27,6 +27,36 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tape"
+    ],
+    "name:fra_x_preferred":[
+        "Ruban"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30fc\u30d7"
+    ],
+    "name:kor_x_preferred":[
+        "\ud14c\uc774\ud504"
+    ],
+    "name:nld_x_preferred":[
+        "Tape"
+    ],
+    "name:pol_x_preferred":[
+        "Ta\u015bma"
+    ],
+    "name:por_x_preferred":[
+        "Fita"
+    ],
+    "name:que_x_preferred":[
+        "Sinta"
+    ],
+    "name:spa_x_preferred":[
+        "Cinta"
+    ],
+    "name:swe_x_preferred":[
+        "Tejp"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +66,7 @@
         "gn:id":1294421
     },
     "wof:country":"MM",
-    "wof:geomhash":"a52bf6af699b000233e8bc00d0e97aa9",
+    "wof:geomhash":"a3b58934ccbd2f4194a18c842fe9d0f9",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +74,7 @@
         }
     ],
     "wof:id":1209192815,
-    "wof:lastmodified":1536294875,
+    "wof:lastmodified":1564316055,
     "wof:name":"Tape",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +85,9 @@
 },
   "bbox": [
     94.86667,
-    24.866670000000006,
+    24.86667000000001,
     94.86667,
-    24.866670000000006
+    24.86667000000001
 ],
   "geometry": {"coordinates":[94.86667,24.86667000000001],"type":"Point"}
 }

@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u304f\u3093"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e02\u0e33\u0e01\u0e25\u0e34\u0e49\u0e07\u0e25\u0e34\u0e07\u0e01\u0e31\u0e1a\u0e2b\u0e21\u0e32"
+    ],
+    "name:zho_x_preferred":[
+        "\u72d7\u72d7\u7329\u7329\u5927\u5192\u96aa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293078525,
-    "wof:lastmodified":1536878969,
+    "wof:lastmodified":1564314170,
     "wof:name":"Pankun",
     "wof:parent_id":1092045367,
     "wof:placetype":"locality",

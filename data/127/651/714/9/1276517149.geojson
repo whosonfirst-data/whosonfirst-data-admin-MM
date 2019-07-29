@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zarama"
+    ],
     "name:und_x_variant":[
         "Zarma",
         "Zarama"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276517149,
-    "wof:lastmodified":1537665294,
+    "wof:lastmodified":1564315048,
     "wof:name":"Zarama",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

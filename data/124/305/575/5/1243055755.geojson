@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Indaw"
+    ],
+    "name:fra_x_preferred":[
+        "Indaw"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1004\u103a\u1038\u1010\u1031\u102c\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:slv_x_preferred":[
+        "Indaw"
+    ],
     "name:und_x_variant":[
         "W\u0101n Ingtaw",
         "Indaw"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243055755,
-    "wof:lastmodified":1537665514,
+    "wof:lastmodified":1564317838,
     "wof:name":"Indaw",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

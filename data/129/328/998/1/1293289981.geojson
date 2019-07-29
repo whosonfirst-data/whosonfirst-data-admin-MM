@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gonga"
+    ],
+    "name:fra_x_preferred":[
+        "Gonga"
+    ],
+    "name:swe_x_preferred":[
+        "Gonga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293289981,
-    "wof:lastmodified":1537068777,
+    "wof:lastmodified":1564314736,
     "wof:name":"Gonga",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

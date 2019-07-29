@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1000\u1014\u1037\u103a\u1018\u101c\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1210023367,
-    "wof:lastmodified":1536391842,
+    "wof:lastmodified":1564316144,
     "wof:name":"Kanbalu",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

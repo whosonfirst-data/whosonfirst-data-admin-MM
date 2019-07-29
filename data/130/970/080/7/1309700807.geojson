@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Hapa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1309700807,
-    "wof:lastmodified":1537079373,
+    "wof:lastmodified":1564317273,
     "wof:name":"Hapa",
     "wof:parent_id":1092046361,
     "wof:placetype":"locality",

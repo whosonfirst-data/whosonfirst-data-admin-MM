@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gaw"
+    ],
+    "name:swe_x_preferred":[
+        "Gaw"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1310208421,
-    "wof:lastmodified":1536846917,
+    "wof:lastmodified":1564316779,
     "wof:name":"Gaw",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

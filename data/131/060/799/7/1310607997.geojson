@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Danubyu"
+    ],
+    "name:mya_x_preferred":[
+        "\u1013\u1014\u102f\u1016\u103c\u1030\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0443\u0431\u044c\u044e"
+    ],
     "name:und_x_variant":[
         "Donabyu",
         "Danubyu"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310607997,
-    "wof:lastmodified":1537665537,
+    "wof:lastmodified":1564317002,
     "wof:name":"Danubyu",
     "wof:parent_id":1092046289,
     "wof:placetype":"locality",

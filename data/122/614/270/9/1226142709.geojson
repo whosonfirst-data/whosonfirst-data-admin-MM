@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "L\u0101-hok"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627-\u06c1\u0648\u06a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226142709,
-    "wof:lastmodified":1537665469,
+    "wof:lastmodified":1564319155,
     "wof:name":"La-hok",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

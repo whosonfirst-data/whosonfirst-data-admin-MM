@@ -26,6 +26,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:bre_x_preferred":[
+        "Kayah"
+    ],
+    "name:ceb_x_preferred":[
+        "Kayah"
+    ],
     "name:deu_x_preferred":[
         "Kayah"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Kayahstaten"
+    ],
+    "name:swe_x_variant":[
+        "Kayah"
     ],
     "name:unk_x_variant":[
         "Karenni District"
@@ -175,7 +184,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1553550549,
+    "wof:lastmodified":1564314156,
     "wof:name":"Kayah",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

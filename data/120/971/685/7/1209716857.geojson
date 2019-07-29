@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Thandi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209716857,
-    "wof:lastmodified":1536388175,
+    "wof:lastmodified":1564315767,
     "wof:name":"Thandi",
     "wof:parent_id":1092047167,
     "wof:placetype":"locality",

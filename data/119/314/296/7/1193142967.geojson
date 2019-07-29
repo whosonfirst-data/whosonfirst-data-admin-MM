@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tahona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1193142967,
-    "wof:lastmodified":1536364635,
+    "wof:lastmodified":1564316208,
     "wof:name":"Tahona",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

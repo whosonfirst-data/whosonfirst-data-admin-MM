@@ -27,6 +27,24 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mingala"
+    ],
+    "name:fra_x_preferred":[
+        "Mingala"
+    ],
+    "name:ita_x_preferred":[
+        "Mingala"
+    ],
+    "name:pol_x_preferred":[
+        "Mingala"
+    ],
+    "name:sag_x_preferred":[
+        "Mingala"
+    ],
+    "name:swe_x_preferred":[
+        "Mingala"
+    ],
     "name:und_x_variant":[
         "Tadaingshe",
         "Mingala"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1310491597,
-    "wof:lastmodified":1537665437,
+    "wof:lastmodified":1564316629,
     "wof:name":"Mingala",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",

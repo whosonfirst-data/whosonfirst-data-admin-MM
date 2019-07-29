@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e15\u0e30\u0e42\u0e01\u0e49\u0e19"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242953561,
-    "wof:lastmodified":1537018434,
+    "wof:lastmodified":1564317616,
     "wof:name":"Tatkon",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

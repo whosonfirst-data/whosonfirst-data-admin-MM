@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabani"
+    ],
+    "name:swe_x_preferred":[
+        "Kabani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1226524333,
-    "wof:lastmodified":1537027765,
+    "wof:lastmodified":1564319300,
     "wof:name":"Kabani",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mazin"
+    ],
+    "name:hrv_x_preferred":[
+        "Mazin"
+    ],
+    "name:hun_x_preferred":[
+        "Mazin"
+    ],
+    "name:pol_x_preferred":[
+        "Mazin"
+    ],
+    "name:slv_x_preferred":[
+        "Mazin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0437\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0437\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1243175555,
-    "wof:lastmodified":1536699373,
+    "wof:lastmodified":1564318001,
     "wof:name":"Mazin",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

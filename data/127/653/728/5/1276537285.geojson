@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beyin"
+    ],
     "name:und_x_variant":[
         "Biyin",
         "Beyin"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276537285,
-    "wof:lastmodified":1537665544,
+    "wof:lastmodified":1564315457,
     "wof:name":"Beyin",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

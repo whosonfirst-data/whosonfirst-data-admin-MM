@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Lalganj"
+    ],
     "name:und_x_variant":[
         "Lalagan",
         "L\u0101lganj"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309777829,
-    "wof:lastmodified":1537665468,
+    "wof:lastmodified":1564317259,
     "wof:name":"Lalganj",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

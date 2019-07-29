@@ -27,6 +27,33 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Thayetmyo"
+    ],
+    "name:ceb_x_preferred":[
+        "Thayetmyo"
+    ],
+    "name:fra_x_preferred":[
+        "Thayetmyo"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u101b\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Thayet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0435\u043c\u044c\u043e"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u101a\u1085\u1010\u103a\u1089\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Thayet"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e30\u0e41\u0e22\u0e30"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1226548945,
-    "wof:lastmodified":1536992511,
+    "wof:lastmodified":1564319378,
     "wof:name":"Thayet",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kande"
+    ],
+    "name:swe_x_preferred":[
+        "Kande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1259964475,
-    "wof:lastmodified":1536662560,
+    "wof:lastmodified":1564318103,
     "wof:name":"Kande",
     "wof:parent_id":1092047763,
     "wof:placetype":"locality",

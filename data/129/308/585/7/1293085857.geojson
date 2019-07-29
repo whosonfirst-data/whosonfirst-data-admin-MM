@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1005\u1009\u1037\u103a\u1000\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1078\u102d\u107c\u103a\u1089\u1075\u1030\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:und_x_variant":[
         "Sinua",
         "Singu"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293085857,
-    "wof:lastmodified":1537665368,
+    "wof:lastmodified":1564314273,
     "wof:name":"Singu",
     "wof:parent_id":1092047061,
     "wof:placetype":"locality",

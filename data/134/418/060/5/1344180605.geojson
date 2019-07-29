@@ -31,6 +31,9 @@
         "Yihku-gahtawng",
         "Yihku"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06be\u06a9\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344180605,
-    "wof:lastmodified":1537665297,
+    "wof:lastmodified":1564313964,
     "wof:name":"Yihku",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

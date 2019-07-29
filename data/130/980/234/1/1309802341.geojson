@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kawka"
+    ],
+    "name:pol_x_preferred":[
+        "Kawka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1309802341,
-    "wof:lastmodified":1536936825,
+    "wof:lastmodified":1564317371,
     "wof:name":"Kawka",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

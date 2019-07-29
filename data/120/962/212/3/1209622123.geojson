@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1010\u1036\u1001\u103d\u1014\u103a\u1010\u102d\u102f\u1004\u103a"
+    ],
+    "name:nno_x_preferred":[
+        "Tagundaing"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +42,7 @@
         "gn:id":1295193
     },
     "wof:country":"MM",
-    "wof:geomhash":"ce4ed729889633e9ce5b88d3ceac94d9",
+    "wof:geomhash":"6177bd948e99fb8d24f4ae6057dba59f",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209622123,
-    "wof:lastmodified":1536281481,
+    "wof:lastmodified":1564315551,
     "wof:name":"Tagundaing",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +61,9 @@
 },
   "bbox": [
     95.23283,
-    17.070439999999998,
+    17.07044,
     95.23283,
-    17.070439999999998
+    17.07044
 ],
   "geometry": {"coordinates":[95.23283000000001,17.07044],"type":"Point"}
 }

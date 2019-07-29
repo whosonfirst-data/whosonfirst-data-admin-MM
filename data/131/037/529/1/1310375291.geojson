@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u101e\u101b\u1000\u103a\u1001\u103b\u1031\u102c\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u101a\u1085\u1010\u103a\u1089\u1076\u103b\u103d\u1004\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Thayetchaung"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310375291,
-    "wof:lastmodified":1536604419,
+    "wof:lastmodified":1564316748,
     "wof:name":"Thayetchaung",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

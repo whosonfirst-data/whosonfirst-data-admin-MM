@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0648\u06a9\u0627\u0645"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1309744427,
-    "wof:lastmodified":1537568489,
+    "wof:lastmodified":1564317366,
     "wof:name":"Laokam",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

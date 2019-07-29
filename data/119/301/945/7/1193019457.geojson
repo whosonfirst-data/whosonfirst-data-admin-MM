@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kaw"
+    ],
+    "name:deu_x_preferred":[
+        "Kaw"
+    ],
+    "name:fra_x_preferred":[
+        "Kaw"
+    ],
+    "name:pol_x_preferred":[
+        "Kaw"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1193019457,
-    "wof:lastmodified":1536374834,
+    "wof:lastmodified":1564316169,
     "wof:name":"Kaw",
     "wof:parent_id":1092046765,
     "wof:placetype":"locality",

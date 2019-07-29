@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pintia"
+    ],
+    "name:fra_x_preferred":[
+        "Pintia"
+    ],
+    "name:glg_x_preferred":[
+        "Pintia"
+    ],
+    "name:spa_x_preferred":[
+        "Pintia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1259395203,
-    "wof:lastmodified":1536984578,
+    "wof:lastmodified":1564318123,
     "wof:name":"Pintia",
     "wof:parent_id":1092046531,
     "wof:placetype":"locality",

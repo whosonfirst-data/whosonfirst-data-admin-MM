@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Myebon"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u103c\u1031\u1015\u102f\u1036\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u103b\u1031\u1087\u1015\u1030\u1004\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Myebon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1360198209,
-    "wof:lastmodified":1536782875,
+    "wof:lastmodified":1564317178,
     "wof:name":"Myebon",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

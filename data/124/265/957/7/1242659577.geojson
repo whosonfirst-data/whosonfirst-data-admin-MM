@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1000\u103c\u102d\u102f\u1037\u1015\u1004\u103a\u1000\u1031\u102c\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u103b\u1030\u101d\u103a\u1089\u1015\u102d\u107c\u103a\u1087\u1075\u103d\u1075\u103a\u1089\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Gyobingauk"
+    ],
     "name:und_x_variant":[
         "Kyobingauk",
         "Gobingauk",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1242659577,
-    "wof:lastmodified":1537665531,
+    "wof:lastmodified":1564317931,
     "wof:name":"Gyobingauk",
     "wof:parent_id":1092047665,
     "wof:placetype":"locality",

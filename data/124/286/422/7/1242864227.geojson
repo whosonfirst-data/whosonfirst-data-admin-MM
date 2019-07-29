@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Patta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242864227,
-    "wof:lastmodified":1536650610,
+    "wof:lastmodified":1564317534,
     "wof:name":"Patta",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

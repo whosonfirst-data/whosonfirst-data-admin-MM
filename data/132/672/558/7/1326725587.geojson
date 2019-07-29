@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Padin"
+    ],
     "name:und_x_variant":[
         "Padi",
         "Padin"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326725587,
-    "wof:lastmodified":1537665401,
+    "wof:lastmodified":1564312892,
     "wof:name":"Padin",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

@@ -30,11 +30,23 @@
     "name:cat_x_preferred":[
         "Mrohaung"
     ],
+    "name:deu_x_preferred":[
+        "Mrauk"
+    ],
     "name:eng_x_preferred":[
         "Mrauk U"
     ],
     "name:fra_x_preferred":[
         "Mrauk U"
+    ],
+    "name:fra_x_variant":[
+        "Mrauk"
+    ],
+    "name:ind_x_preferred":[
+        "Mrauk"
+    ],
+    "name:ita_x_preferred":[
+        "Mrauk"
     ],
     "name:mya_x_preferred":[
         "\u1019\u103c\u1031\u102c\u1000\u103a\u200c\u1026\u1038\u1019\u103c\u102d\u102f\u1037"
@@ -45,11 +57,32 @@
     "name:pol_x_preferred":[
         "Myauk U"
     ],
+    "name:pol_x_variant":[
+        "Myauk"
+    ],
     "name:por_x_preferred":[
         "Mrauk-U"
     ],
     "name:rus_x_preferred":[
         "\u041c\u044c\u044f\u0443-\u0423"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0440\u0430\u0443-\u0423"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u103b\u103d\u1075\u103a\u1089\u1022\u1030\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:spa_x_preferred":[
+        "Mrauk"
+    ],
+    "name:swe_x_preferred":[
+        "Mrauk"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bb0\u0bbe\u0b95\u0bcd \u0baf\u0bc1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e40\u0e22\u0e32\u0e30\u0e2d\u0e39\u0e49"
     ],
     "name:und_x_variant":[
         "Myonaung",
@@ -80,7 +113,7 @@
         }
     ],
     "wof:id":1292912531,
-    "wof:lastmodified":1537665426,
+    "wof:lastmodified":1564314602,
     "wof:name":"Mrauk U",
     "wof:parent_id":1092046765,
     "wof:placetype":"locality",

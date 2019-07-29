@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mindat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1292977481,
-    "wof:lastmodified":1537024227,
+    "wof:lastmodified":1564314620,
     "wof:name":"Mindat",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

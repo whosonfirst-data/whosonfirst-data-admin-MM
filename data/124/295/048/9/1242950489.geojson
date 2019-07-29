@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nanhu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242950489,
-    "wof:lastmodified":1537022658,
+    "wof:lastmodified":1564317608,
     "wof:name":"Nanhu",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

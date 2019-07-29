@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1019\u102c\u1014\u103a\u1021\u1031\u102c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1062\u107c\u103a\u1087\u1022\u103d\u1004\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1309775879,
-    "wof:lastmodified":1536973889,
+    "wof:lastmodified":1564317260,
     "wof:name":"Manaung",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

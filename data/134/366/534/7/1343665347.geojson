@@ -31,6 +31,9 @@
         "Saagyi",
         "Sabagyi"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u06af\u06cc\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343665347,
-    "wof:lastmodified":1537665383,
+    "wof:lastmodified":1564313836,
     "wof:name":"Sabagyi",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

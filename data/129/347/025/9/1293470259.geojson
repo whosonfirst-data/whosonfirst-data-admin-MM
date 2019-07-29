@@ -27,6 +27,21 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1019\u1018\u102d\u1019\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:por_x_preferred":[
+        "Mabein"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1062\u107c\u103a\u1088\u1015\u1035\u1004\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Mabein"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0628\u06cc\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1293470259,
-    "wof:lastmodified":1537568486,
+    "wof:lastmodified":1564314411,
     "wof:name":"Mabein",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

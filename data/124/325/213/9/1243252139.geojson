@@ -27,6 +27,21 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Meza"
+    ],
+    "name:eus_x_preferred":[
+        "Meza"
+    ],
+    "name:fra_x_preferred":[
+        "Meza"
+    ],
+    "name:ita_x_preferred":[
+        "Meza"
+    ],
+    "name:swa_x_preferred":[
+        "Meza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1243252139,
-    "wof:lastmodified":1537082465,
+    "wof:lastmodified":1564317752,
     "wof:name":"Meza",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

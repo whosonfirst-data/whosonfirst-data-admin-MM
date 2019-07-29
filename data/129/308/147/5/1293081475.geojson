@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Panhu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293081475,
-    "wof:lastmodified":1536874538,
+    "wof:lastmodified":1564314276,
     "wof:name":"Panhu",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

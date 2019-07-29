@@ -33,12 +33,18 @@
     "mps:longitude":95.427252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Khamti"
+    ],
     "name:eng_x_preferred":[
         "Hkamti"
     ],
     "name:eng_x_variant":[
         "Khamti",
         "Hkamti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0445\u0430\u043c\u0442\u0438"
     ],
     "name:und_x_variant":[
         "\u1001\u1014\u1039\u1010\u102e\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1092045327,
-    "wof:lastmodified":1553718077,
+    "wof:lastmodified":1564317192,
     "wof:name":"Hkamti",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

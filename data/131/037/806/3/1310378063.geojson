@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zitha"
+    ],
+    "name:swe_x_preferred":[
+        "Zitha"
+    ],
+    "name:war_x_preferred":[
+        "Zitha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310378063,
-    "wof:lastmodified":1536600173,
+    "wof:lastmodified":1564316748,
     "wof:name":"Zitha",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

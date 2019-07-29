@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Yengnan"
+    ],
+    "name:lat_x_preferred":[
+        "Yengan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1360058143,
-    "wof:lastmodified":1536983881,
+    "wof:lastmodified":1564317190,
     "wof:name":"Yengan",
     "wof:parent_id":1092046159,
     "wof:placetype":"locality",

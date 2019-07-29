@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngama"
+    ],
+    "name:pol_x_preferred":[
+        "Ngama"
+    ],
+    "name:ron_x_preferred":[
+        "Ngama"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0430\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276517159,
-    "wof:lastmodified":1537028626,
+    "wof:lastmodified":1564315049,
     "wof:name":"Ngama",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

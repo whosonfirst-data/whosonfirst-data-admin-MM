@@ -27,6 +27,21 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ratedaungas"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u101e\u1031\u1037\u1010\u1031\u102c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u101a\u1010\u1031\u1089\u1010\u103d\u1004\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Rathedaung"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5cb1\u7576"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1243463515,
-    "wof:lastmodified":1537568464,
+    "wof:lastmodified":1564317666,
     "wof:name":"Rathedaung",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

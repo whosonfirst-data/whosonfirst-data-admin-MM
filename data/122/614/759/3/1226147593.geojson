@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u3068\u304d\u3069"
+    ],
+    "name:vie_x_preferred":[
+        "Tokido"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1226147593,
-    "wof:lastmodified":1537071919,
+    "wof:lastmodified":1564319155,
     "wof:name":"Tokido",
     "wof:parent_id":1092045467,
     "wof:placetype":"locality",

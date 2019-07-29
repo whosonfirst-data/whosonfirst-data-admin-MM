@@ -25,6 +25,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1010\u1036\u1010\u102c\u1038\u1026\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Tada-U"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u1010\u1083\u1038\u1022\u1030\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Tada-U"
+    ],
     "name:und_x_variant":[
         "Tadu-u",
         "Tada-u"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276865473,
-    "wof:lastmodified":1537665364,
+    "wof:lastmodified":1564314880,
     "wof:name":"Tada-u",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

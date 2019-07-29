@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Rawng-aw"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276878689,
-    "wof:lastmodified":1537568464,
+    "wof:lastmodified":1564314994,
     "wof:name":"Rawng-aw",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

@@ -27,6 +27,99 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Bayet"
+    ],
+    "name:cat_x_preferred":[
+        "Baiac"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayet"
+    ],
+    "name:deu_x_preferred":[
+        "Bayet"
+    ],
+    "name:eus_x_preferred":[
+        "Bayet"
+    ],
+    "name:fra_x_preferred":[
+        "Bayet"
+    ],
+    "name:hun_x_preferred":[
+        "Bayet"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0575\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "Bayet"
+    ],
+    "name:ita_x_preferred":[
+        "Bayet"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0435"
+    ],
+    "name:lat_x_preferred":[
+        "Bayet"
+    ],
+    "name:msa_x_preferred":[
+        "Bayet"
+    ],
+    "name:nld_x_preferred":[
+        "Bayet"
+    ],
+    "name:oci_x_preferred":[
+        "Baiet"
+    ],
+    "name:pms_x_preferred":[
+        "Bayet"
+    ],
+    "name:pol_x_preferred":[
+        "Bayet"
+    ],
+    "name:por_x_preferred":[
+        "Bayet"
+    ],
+    "name:ron_x_preferred":[
+        "Bayet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Bayet"
+    ],
+    "name:spa_x_preferred":[
+        "Bayet"
+    ],
+    "name:sqi_x_preferred":[
+        "Bayet"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bayet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0454"
+    ],
+    "name:uzb_x_preferred":[
+        "Bayet"
+    ],
+    "name:vie_x_preferred":[
+        "Bayet"
+    ],
+    "name:vol_x_preferred":[
+        "Bayet"
+    ],
+    "name:war_x_preferred":[
+        "Bayet"
+    ],
+    "name:zea_x_preferred":[
+        "Bayet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +143,7 @@
         }
     ],
     "wof:id":1243034453,
-    "wof:lastmodified":1536902655,
+    "wof:lastmodified":1564317758,
     "wof:name":"Bayet",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

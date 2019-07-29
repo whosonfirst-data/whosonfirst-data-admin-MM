@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pe"
+    ],
+    "name:por_x_preferred":[
+        "P\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Pe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293676123,
-    "wof:lastmodified":1537011670,
+    "wof:lastmodified":1564314559,
     "wof:name":"Pe",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

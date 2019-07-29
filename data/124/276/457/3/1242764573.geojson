@@ -30,6 +30,18 @@
     "name:eng_x_preferred":[
         "Bokpyin"
     ],
+    "name:mya_x_preferred":[
+        "\u1018\u102f\u1010\u103a\u1015\u103c\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1015\u1030\u1075\u103a\u1089\u1015\u103b\u102d\u107c\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Bokpyin"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e01\u0e40\u0e1b\u0e35\u0e49\u0e22\u0e19"
+    ],
     "name:und_x_variant":[
         "Bokpyinn",
         "Bokpyin"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1242764573,
-    "wof:lastmodified":1537665544,
+    "wof:lastmodified":1564317883,
     "wof:name":"Bokpyin",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0627\u0645"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0646\u0627\u0645"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1276670591,
-    "wof:lastmodified":1536822864,
+    "wof:lastmodified":1564315069,
     "wof:name":"Senam",
     "wof:parent_id":1092045149,
     "wof:placetype":"locality",

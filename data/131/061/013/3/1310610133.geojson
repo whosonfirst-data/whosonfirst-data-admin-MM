@@ -27,6 +27,21 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1019\u1004\u103a\u1038\u1015\u103c\u102c\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Minbya"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u107c\u103a\u1038\u1015\u103b\u1083\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Minbya"
+    ],
+    "name:zho_x_preferred":[
+        "\u654f\u6bd4\u4e9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310610133,
-    "wof:lastmodified":1537568481,
+    "wof:lastmodified":1564316897,
     "wof:name":"Minbya",
     "wof:parent_id":1092046765,
     "wof:placetype":"locality",

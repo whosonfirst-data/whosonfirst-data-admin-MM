@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u06af\u06a9\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209024385,
-    "wof:lastmodified":1537568464,
+    "wof:lastmodified":1564315940,
     "wof:name":"Saingkun",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

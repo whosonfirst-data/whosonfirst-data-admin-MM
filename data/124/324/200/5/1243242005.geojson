@@ -27,6 +27,48 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Strembach"
+    ],
+    "name:ces_x_preferred":[
+        "Pinka"
+    ],
+    "name:chv_x_preferred":[
+        "\u041f\u0438\u043d\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Pinka"
+    ],
+    "name:fra_x_preferred":[
+        "Pinka"
+    ],
+    "name:hun_x_preferred":[
+        "Pinka"
+    ],
+    "name:lit_x_preferred":[
+        "Pinka"
+    ],
+    "name:nno_x_preferred":[
+        "Pinka"
+    ],
+    "name:pol_x_preferred":[
+        "Pinka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Pinka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pinka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u5361\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +92,7 @@
         }
     ],
     "wof:id":1243242005,
-    "wof:lastmodified":1537096916,
+    "wof:lastmodified":1564317687,
     "wof:name":"Pinka",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

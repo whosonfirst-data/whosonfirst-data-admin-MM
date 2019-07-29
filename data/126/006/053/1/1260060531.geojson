@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pangma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1260060531,
-    "wof:lastmodified":1537020261,
+    "wof:lastmodified":1564316437,
     "wof:name":"Pangma",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

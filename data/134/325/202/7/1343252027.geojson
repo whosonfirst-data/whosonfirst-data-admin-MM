@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sindo"
+    ],
+    "name:fra_x_preferred":[
+        "Sindo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u043d\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sindo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1343252027,
-    "wof:lastmodified":1537045239,
+    "wof:lastmodified":1564313810,
     "wof:name":"Sindo",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

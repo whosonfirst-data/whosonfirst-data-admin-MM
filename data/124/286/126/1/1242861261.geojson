@@ -27,6 +27,27 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Lebet"
+    ],
+    "name:fra_x_preferred":[
+        "Lebet"
+    ],
+    "name:msa_x_preferred":[
+        "Lebet"
+    ],
+    "name:por_x_preferred":[
+        "Lebet"
+    ],
+    "name:slv_x_preferred":[
+        "Lebet"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1242861261,
-    "wof:lastmodified":1536655120,
+    "wof:lastmodified":1564317542,
     "wof:name":"Lebet",
     "wof:parent_id":1092046951,
     "wof:placetype":"locality",

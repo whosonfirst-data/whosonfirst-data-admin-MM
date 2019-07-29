@@ -28,6 +28,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Thau"
+    ],
+    "name:fra_x_preferred":[
+        "Thau"
+    ],
     "name:und_x_variant":[
         "Htaw",
         "Thau"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276230049,
-    "wof:lastmodified":1537665348,
+    "wof:lastmodified":1564315262,
     "wof:name":"Thau",
     "wof:parent_id":1092045227,
     "wof:placetype":"locality",

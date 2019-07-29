@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06af\u0627\u0679\u06cc\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209129403,
-    "wof:lastmodified":1537568490,
+    "wof:lastmodified":1564315739,
     "wof:name":"Lagatyan",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

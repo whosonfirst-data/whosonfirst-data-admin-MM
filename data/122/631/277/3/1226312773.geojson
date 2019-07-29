@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u101d\u1019\u103a\u1038\u1010\u103d\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u101d\u1062\u107c\u103a\u1038\u1010\u1082\u102d\u107c\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1226312773,
-    "wof:lastmodified":1536836118,
+    "wof:lastmodified":1564319393,
     "wof:name":"Wundwin",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

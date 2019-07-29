@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nawnghoi"
+    ],
+    "name:mya_x_preferred":[
+        "\u1014\u1031\u102c\u1004\u103a\u101f\u103d\u102d\u102f\u1004\u103a\u1010\u1031\u102c\u1004\u103a"
+    ],
+    "name:swe_x_preferred":[
+        "Nawnghoi"
+    ],
     "name:und_x_variant":[
         "W\u0101n Pang",
         "Nawngho",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343742613,
-    "wof:lastmodified":1537665414,
+    "wof:lastmodified":1564314053,
     "wof:name":"Nawnghoi",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

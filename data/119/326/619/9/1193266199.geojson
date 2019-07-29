@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mawnang"
+    ],
+    "name:lat_x_preferred":[
+        "Mawnang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1193266199,
-    "wof:lastmodified":1537568482,
+    "wof:lastmodified":1564316321,
     "wof:name":"Mawnang",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

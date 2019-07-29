@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u101c\u102d\u1015\u103a\u101e\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u101c\u1035\u1075\u103a\u1089\u1010\u1030\u101d\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:und_x_variant":[
         "Leikthe Kyaukk\u00f4n",
         "Leiktho"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293094281,
-    "wof:lastmodified":1537665464,
+    "wof:lastmodified":1564314219,
     "wof:name":"Leiktho",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

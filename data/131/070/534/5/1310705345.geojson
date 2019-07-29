@@ -27,9 +27,33 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062b\u064a\u062f\u0648\u0646\u063a"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ud2f0\ub2e4\uc6c5"
+    ],
+    "name:lit_x_preferred":[
+        "Butidaungas"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u1030\u1038\u101e\u102e\u1038\u1010\u1031\u102c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1015\u1030\u1038\u1010\u102e\u1038\u1010\u103d\u1004\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:swe_x_preferred":[
+        "Buthidaung"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e39\u0e49\u0e15\u0e35\u0e49\u0e14\u0e2d\u0e07"
+    ],
     "name:und_x_variant":[
         "Buthedaung",
         "Buthidaung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5e1d\u6d1e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1310705345,
-    "wof:lastmodified":1537665542,
+    "wof:lastmodified":1564316615,
     "wof:name":"Buthidaung",
     "wof:parent_id":1092046317,
     "wof:placetype":"locality",

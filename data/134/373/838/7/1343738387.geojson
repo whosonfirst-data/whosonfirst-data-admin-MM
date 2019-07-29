@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tada"
+    ],
+    "name:deu_x_preferred":[
+        "Tada"
+    ],
+    "name:nld_x_preferred":[
+        "ToekomstATELIERdelAvenir"
+    ],
+    "name:swe_x_preferred":[
+        "Tada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1343738387,
-    "wof:lastmodified":1536841722,
+    "wof:lastmodified":1564314040,
     "wof:name":"Tada",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

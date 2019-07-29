@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kasat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293593741,
-    "wof:lastmodified":1536632446,
+    "wof:lastmodified":1564314458,
     "wof:name":"Kasat",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

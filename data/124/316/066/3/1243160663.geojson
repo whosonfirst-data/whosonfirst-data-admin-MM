@@ -27,6 +27,15 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mawlaik"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1031\u102c\u103a\u101c\u102d\u102f\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:swe_x_preferred":[
+        "Mawlaik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1243160663,
-    "wof:lastmodified":1537568482,
+    "wof:lastmodified":1564317976,
     "wof:name":"Mawlaik",
     "wof:parent_id":1092045503,
     "wof:placetype":"locality",

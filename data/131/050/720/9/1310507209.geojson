@@ -27,6 +27,12 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1019\u102d\u102f\u1038\u1019\u1031\u102c\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u103d\u1075\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310507209,
-    "wof:lastmodified":1537568480,
+    "wof:lastmodified":1564316916,
     "wof:name":"Momauk",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

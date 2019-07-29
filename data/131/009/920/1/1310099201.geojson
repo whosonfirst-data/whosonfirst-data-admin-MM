@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u101b\u1031\u1026\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310099201,
-    "wof:lastmodified":1537568444,
+    "wof:lastmodified":1564316700,
     "wof:name":"Ye-u",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

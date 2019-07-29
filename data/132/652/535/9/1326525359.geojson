@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06d2-\u0679\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326525359,
-    "wof:lastmodified":1537568479,
+    "wof:lastmodified":1564313275,
     "wof:name":"Mwe-te",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

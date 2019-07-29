@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1000\u1031\u102c\u1037\u1012\u103d\u1010\u103a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1260376959,
-    "wof:lastmodified":1537568497,
+    "wof:lastmodified":1564316419,
     "wof:name":"Kawdut",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

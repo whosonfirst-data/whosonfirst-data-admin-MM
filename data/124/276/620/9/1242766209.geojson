@@ -31,6 +31,9 @@
         "Saingkya",
         "Saingkyu"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u06af\u06a9\u06cc\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242766209,
-    "wof:lastmodified":1537665381,
+    "wof:lastmodified":1564317877,
     "wof:name":"Saingkyu",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

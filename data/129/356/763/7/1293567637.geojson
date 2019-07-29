@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Shinpa"
+    ],
+    "name:ita_x_preferred":[
+        "Shinpa"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ud30c\uadf9"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6d3e\u5287"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293567637,
-    "wof:lastmodified":1536671545,
+    "wof:lastmodified":1564314514,
     "wof:name":"Shinpa",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

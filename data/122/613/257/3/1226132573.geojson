@@ -27,6 +27,18 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bilin"
+    ],
+    "name:deu_x_preferred":[
+        "Bilin"
+    ],
+    "name:srp_x_preferred":[
+        "Bilin"
+    ],
+    "name:swe_x_preferred":[
+        "Bilin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1226132573,
-    "wof:lastmodified":1537093512,
+    "wof:lastmodified":1564319163,
     "wof:name":"Bilin",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

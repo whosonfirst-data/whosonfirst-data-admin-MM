@@ -27,6 +27,9 @@
     "iso:country":"MM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0627\u062a\u06be\u0679\u06a9\u0648\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209591805,
-    "wof:lastmodified":1536282454,
+    "wof:lastmodified":1564315851,
     "wof:name":"Ywathitkon",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
