@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TN"
+    ],
     "lbl:latitude":12.223736,
     "lbl:longitude":99.088106,
     "meso:name_local":"\u1010\u1014\u1004\u103a\u1039\u101e\u102c\u101b\u102e\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85674599,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mya"
     ],
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1563265839,
+    "wof:lastmodified":1565727829,
     "wof:name":"Tanintharyi",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

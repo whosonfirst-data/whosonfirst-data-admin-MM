@@ -15,6 +15,9 @@
     "itu:country_code":[
         "95"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MM"
+    ],
     "lbl:latitude":21.576814,
     "lbl:longitude":96.06596,
     "mps:latitude":21.576814,
@@ -1145,16 +1148,13 @@
         }
     ],
     "wof:id":85632181,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mya"
     ],
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1563265820,
+    "wof:lastmodified":1565727820,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

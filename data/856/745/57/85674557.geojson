@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":16.948531,
     "lbl:longitude":97.911502,
     "meso:name_local":"\u1000\u101b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -293,16 +296,13 @@
         }
     ],
     "wof:id":85674557,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mya"
     ],
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1563265832,
+    "wof:lastmodified":1565727826,
     "wof:name":"Kayin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

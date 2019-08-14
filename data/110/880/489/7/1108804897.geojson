@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "union territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NY"
+    ],
     "lbl:latitude":19.803311,
     "lbl:longitude":96.144382,
     "meso:name_local":"\u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a",
@@ -123,7 +126,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1563268137,
+    "wof:lastmodified":1565727949,
     "wof:name":"Naypyitaw",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

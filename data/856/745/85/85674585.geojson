@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AY"
+    ],
     "lbl:latitude":16.793118,
     "lbl:longitude":95.130556,
     "meso:name_local":"\u1027\u101b\u102c\u101d\u1010\u102e\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
@@ -333,16 +336,13 @@
         }
     ],
     "wof:id":85674585,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mya"
     ],
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1563265843,
+    "wof:lastmodified":1565727830,
     "wof:name":"Ayeyarwady",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

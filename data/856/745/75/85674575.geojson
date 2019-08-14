@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":15.276303,
     "lbl:longitude":97.981655,
     "meso:name_local":"\u1019\u103d\u1014\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85674575,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mya"
     ],
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1563265836,
+    "wof:lastmodified":1565727828,
     "wof:name":"Mon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

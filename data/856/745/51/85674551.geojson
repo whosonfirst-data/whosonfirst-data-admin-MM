@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":19.255878,
     "lbl:longitude":97.364658,
     "meso:name_local":"\u1000\u101a\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -175,16 +178,13 @@
         }
     ],
     "wof:id":85674551,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mya"
     ],
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1564314156,
+    "wof:lastmodified":1565727827,
     "wof:name":"Kayah",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

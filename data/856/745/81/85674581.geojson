@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":21.598367,
     "lbl:longitude":93.369877,
     "meso:name_local":"\u1001\u103b\u1004\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85674581,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mya"
     ],
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1563265837,
+    "wof:lastmodified":1565727828,
     "wof:name":"Chin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
