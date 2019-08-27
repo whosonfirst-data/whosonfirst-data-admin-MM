@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.64529,22.10436,95.68529,22.14436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Talaingkyun",
         "Talainggyun"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277065167,
-    "wof:lastmodified":1537665362,
+    "wof:lastmodified":1566608659,
     "wof:name":"Talainggyun",
     "wof:parent_id":1092047295,
     "wof:placetype":"locality",

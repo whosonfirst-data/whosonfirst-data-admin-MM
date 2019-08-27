@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.95633,21.74525,97.99633,21.78525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344234353,
-    "wof:lastmodified":1536622727,
+    "wof:lastmodified":1566607820,
     "wof:name":"Wan Pa-hpang",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

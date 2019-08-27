@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.17433,19.46934,94.21433,19.50934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khamoung",
         "Khamaung"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343861809,
-    "wof:lastmodified":1537665496,
+    "wof:lastmodified":1566608133,
     "wof:name":"Khamaung",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.33084,22.11187,95.37084,22.15187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1328847
     },
     "wof:country":"MM",
-    "wof:geomhash":"6b42ff77ec34f7ac11f274b415cf92f4",
+    "wof:geomhash":"a5e81a3ff102e558eb27709725245b6a",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209510123,
-    "wof:lastmodified":1536284908,
+    "wof:lastmodified":1566609338,
     "wof:name":"Aungchantha",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     95.35084,
-    22.131870000000006,
+    22.13187000000001,
     95.35084,
-    22.131870000000006
+    22.13187000000001
 ],
   "geometry": {"coordinates":[95.35084000000001,22.13187000000001],"type":"Point"}
 }

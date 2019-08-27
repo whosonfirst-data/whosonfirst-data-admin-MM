@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.56592,21.52314,98.60592,21.56314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277056623,
-    "wof:lastmodified":1536803985,
+    "wof:lastmodified":1566608854,
     "wof:name":"Ka-lo",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.14216,17.38976,96.18216,17.42976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1480056
     },
     "wof:country":"MM",
-    "wof:geomhash":"b09e16d4c96b8e010e7c293ea14fe46b",
+    "wof:geomhash":"620571c9a967125b8193cd3da0729422",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209692173,
-    "wof:lastmodified":1536279202,
+    "wof:lastmodified":1566609325,
     "wof:name":"Naungkyawgon",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.16216,
-    17.409760000000002,
+    17.40976,
     96.16216,
-    17.409760000000002
+    17.40976
 ],
   "geometry": {"coordinates":[96.16216,17.40976],"type":"Point"}
 }

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.79173,22.22109,98.83173,22.26109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243251327,
-    "wof:lastmodified":1537083643,
+    "wof:lastmodified":1566610609,
     "wof:name":"Man Yungprang",
     "wof:parent_id":1092046245,
     "wof:placetype":"locality",

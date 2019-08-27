@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.54994,22.86802,95.58994,22.90802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259461487,
-    "wof:lastmodified":1536890062,
+    "wof:lastmodified":1566610948,
     "wof:name":"Sizongyi",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

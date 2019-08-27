@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.45813,18.67144,96.49813,18.71144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tetung\u00f4n",
         "Potwungon",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344220855,
-    "wof:lastmodified":1537665390,
+    "wof:lastmodified":1566607750,
     "wof:name":"Petwingon",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

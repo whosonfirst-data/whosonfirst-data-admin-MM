@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.69925,23.14922,95.73925,23.18922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sabanatha",
         "Sabenatha"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276139879,
-    "wof:lastmodified":1537665382,
+    "wof:lastmodified":1566608864,
     "wof:name":"Sabenatha",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.17858,18.62134,95.21858,18.66134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344238895,
-    "wof:lastmodified":1536615822,
+    "wof:lastmodified":1566607809,
     "wof:name":"Mayaman",
     "wof:parent_id":1092047213,
     "wof:placetype":"locality",

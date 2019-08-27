@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.36084,16.848,94.40084,16.888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ngwe-Saung"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209321545,
-    "wof:lastmodified":1564315871,
+    "wof:lastmodified":1566609303,
     "wof:name":"Ngwesaung",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

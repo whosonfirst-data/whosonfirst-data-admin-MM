@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.394927,
     "lbl:longitude":97.943224,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u101b\u103e\u1019\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a (\u1010\u1031\u102c\u1004\u103a)",
     "meso:admin_1":"Shan (South)",
     "meso:dissme":"LoilenShan (South)",
@@ -33,6 +35,7 @@
     "mps:longitude":97.943224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Loilem District"
     ],
@@ -58,16 +61,13 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0456\u043b\u0435\u043d"
     ],
-    "name:und_x_variant":[
-        "\u101c\u103d\u102d\u102f\u1004\u103a\u101c\u1004\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:zho_x_preferred":[
         "\u840a\u6797\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"31948",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1092046115,
-    "wof:lastmodified":1563268771,
+    "wof:lastmodified":1566610169,
     "wof:name":"Loilen",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

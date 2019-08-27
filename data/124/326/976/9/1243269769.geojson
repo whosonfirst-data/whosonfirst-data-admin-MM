@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.28422,24.08805,97.32422,24.12805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243269769,
-    "wof:lastmodified":1537057638,
+    "wof:lastmodified":1566610804,
     "wof:name":"Nakang",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

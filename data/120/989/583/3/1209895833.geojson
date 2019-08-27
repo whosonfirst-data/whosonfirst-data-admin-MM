@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.69764,11.79346,98.73764,11.83346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1005\u1009\u1037\u103a\u1000\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209895833,
-    "wof:lastmodified":1564316042,
+    "wof:lastmodified":1566609416,
     "wof:name":"Singu",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

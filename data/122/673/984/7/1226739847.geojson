@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.48711,22.86,96.52711,22.9",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226739847,
-    "wof:lastmodified":1536724376,
+    "wof:lastmodified":1566611250,
     "wof:name":"Pyu-yaung",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

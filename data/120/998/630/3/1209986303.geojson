@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.32073,20.47541,94.36073,20.51541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209986303,
-    "wof:lastmodified":1536388451,
+    "wof:lastmodified":1566609084,
     "wof:name":"Myaung-u",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.33761,21.15924,100.37761,21.19924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1019\u102d\u102f\u1004\u103a\u1038\u101a\u1031\u102c\u1004\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1327211239,
-    "wof:lastmodified":1564313394,
+    "wof:lastmodified":1566607638,
     "wof:name":"Moeng Yawng",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

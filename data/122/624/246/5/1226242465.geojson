@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.62363,26.21954,96.66363,26.25954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kumnyen",
         "Kumnyen Ga"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226242465,
-    "wof:lastmodified":1537665489,
+    "wof:lastmodified":1566611442,
     "wof:name":"Kumnyen Ga",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

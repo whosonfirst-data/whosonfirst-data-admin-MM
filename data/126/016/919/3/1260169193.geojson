@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.68684,23.58269,98.72684,23.62269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260169193,
-    "wof:lastmodified":1536866338,
+    "wof:lastmodified":1566609692,
     "wof:name":"Man Tung",
     "wof:parent_id":1092046035,
     "wof:placetype":"locality",

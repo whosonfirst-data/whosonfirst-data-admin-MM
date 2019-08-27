@@ -11,8 +11,11 @@
     "geom:longitude":98.19423,
     "gn:country":"MM",
     "gn:fcode":"PPLA",
-    "gn:pop":136783,
+    "gn:population":136783,
     "iso:country":"MM",
+    "lbl:bbox":"98.17423,14.05375,98.21423,14.09375",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -139,9 +142,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0432\u043e\u0439"
     ],
-    "name:unk_x_variant":[
-        "Tavoy"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u0648\u0626\u06cc"
     ],
@@ -261,7 +261,7 @@
     "wof:concordances":{
         "gn:id":1293625,
         "gp:id":1017891,
-        "qs:id":276517,
+        "qs_pg:id":276517,
         "wd:id":"Q1018167",
         "wk:page":"Dawei"
     },
@@ -278,7 +278,7 @@
         }
     ],
     "wof:id":890431445,
-    "wof:lastmodified":1563269050,
+    "wof:lastmodified":1566610370,
     "wof:name":"Dawei",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

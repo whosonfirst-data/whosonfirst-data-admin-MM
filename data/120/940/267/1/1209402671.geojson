@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.56806,21.66687,97.60806,21.70687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1298013
     },
     "wof:country":"MM",
-    "wof:geomhash":"8164f5c59bf1133e880a8ab1c728dc35",
+    "wof:geomhash":"54a7c4a3e3b5341240b74ed92b816cf8",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209402671,
-    "wof:lastmodified":1536288094,
+    "wof:lastmodified":1566609224,
     "wof:name":"Sanglik",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     97.58806,
-    21.686870000000006,
+    21.68687000000001,
     97.58806,
-    21.686870000000006
+    21.68687000000001
 ],
   "geometry": {"coordinates":[97.58806,21.68687000000001],"type":"Point"}
 }

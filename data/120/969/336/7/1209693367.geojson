@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.13643,21.91902,99.17643,21.95902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1288031
     },
     "wof:country":"MM",
-    "wof:geomhash":"14e768811f12cfe7266c1a4d10b09466",
+    "wof:geomhash":"bfca79e8dfe40e9ee33b6605aed93958",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209693367,
-    "wof:lastmodified":1536279162,
+    "wof:lastmodified":1566609323,
     "wof:name":"Wan Muenhkammun",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     99.15643,
-    21.939020000000006,
+    21.93902000000001,
     99.15643,
-    21.939020000000006
+    21.93902000000001
 ],
   "geometry": {"coordinates":[99.15643,21.93902000000001],"type":"Point"}
 }

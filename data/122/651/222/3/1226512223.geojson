@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.30059,20.31903,94.34059,20.35903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226512223,
-    "wof:lastmodified":1537044627,
+    "wof:lastmodified":1566611310,
     "wof:name":"Kyauktalon",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

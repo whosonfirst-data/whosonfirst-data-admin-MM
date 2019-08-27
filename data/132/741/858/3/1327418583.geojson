@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.46579,21.89537,96.50579,21.93537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Thal\u00ea-kyia",
         "Thale-kyin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327418583,
-    "wof:lastmodified":1537665351,
+    "wof:lastmodified":1566607520,
     "wof:name":"Thale-kyin",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

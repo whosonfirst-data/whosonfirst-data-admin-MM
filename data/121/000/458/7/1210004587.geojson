@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.66447,21.31862,100.70447,21.35862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsenpanhkam",
         "W\u0101n Hsenpanhkam"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210004587,
-    "wof:lastmodified":1537665560,
+    "wof:lastmodified":1566609470,
     "wof:name":"Wan Hsenpanhkam",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.47819,19.6631,97.51819,19.7031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daw Hs\u00e0",
         "Daw Hs\u00e8"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259971809,
-    "wof:lastmodified":1537665536,
+    "wof:lastmodified":1566610898,
     "wof:name":"Daw Hse",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

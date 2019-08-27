@@ -11,8 +11,11 @@
     "geom:longitude":97.62825,
     "gn:country":"MM",
     "gn:fcode":"PPLA",
-    "gn:pop":438861,
+    "gn:population":438861,
     "iso:country":"MM",
+    "lbl:bbox":"97.60825,16.47051,97.64825,16.51051",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -157,9 +160,6 @@
     "name:ukr_x_variant":[
         "\u041c\u043e\u043b\u0430\u043c'\u044f\u0439\u043d"
     ],
-    "name:unk_x_variant":[
-        "Moulmein"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0648\u0644\u0627\u0645\u06cc\u0626\u0646"
     ],
@@ -282,7 +282,7 @@
     "wof:concordances":{
         "gn:id":1308465,
         "gp:id":1017661,
-        "qs:id":132689,
+        "qs_pg:id":132689,
         "wd:id":"Q685941",
         "wk:page":"Mawlamyine"
     },
@@ -299,7 +299,7 @@
         }
     ],
     "wof:id":890433723,
-    "wof:lastmodified":1563269060,
+    "wof:lastmodified":1566610372,
     "wof:name":"Mawlamyine",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

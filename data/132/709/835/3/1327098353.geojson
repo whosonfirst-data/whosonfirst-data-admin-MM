@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.57988,18.39824,96.61988,18.43824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Thongwagale",
         "Thongwale"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327098353,
-    "wof:lastmodified":1537665342,
+    "wof:lastmodified":1566607433,
     "wof:name":"Thongwale",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

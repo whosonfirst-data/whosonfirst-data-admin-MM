@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.47632,20.96771,99.51632,21.00771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wan Hseng Lan",
         "W\u0101n Hsenglao"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192995799,
-    "wof:lastmodified":1537665330,
+    "wof:lastmodified":1566609554,
     "wof:name":"Wan Hsenglao",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",

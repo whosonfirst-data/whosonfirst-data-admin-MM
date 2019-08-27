@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.65769,18.05032,97.69769,18.09032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209720103,
-    "wof:lastmodified":1536386766,
+    "wof:lastmodified":1566609462,
     "wof:name":"Dagwin",
     "wof:parent_id":1092045467,
     "wof:placetype":"locality",

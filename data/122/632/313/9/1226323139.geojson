@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.9185,20.99851,99.9585,21.03851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226323139,
-    "wof:lastmodified":1536821280,
+    "wof:lastmodified":1566611341,
     "wof:name":"Wan Pawkang",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

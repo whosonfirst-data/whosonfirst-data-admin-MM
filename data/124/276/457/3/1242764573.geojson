@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.74087,11.24576,98.78087,11.28576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bokpyin"
     ],
@@ -43,8 +47,7 @@
         "\u0e1a\u0e01\u0e40\u0e1b\u0e35\u0e49\u0e22\u0e19"
     ],
     "name:und_x_variant":[
-        "Bokpyinn",
-        "Bokpyin"
+        "Bokpyinn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1242764573,
-    "wof:lastmodified":1564317883,
+    "wof:lastmodified":1566610712,
     "wof:name":"Bokpyin",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

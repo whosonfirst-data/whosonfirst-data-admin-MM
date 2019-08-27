@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.54273,14.04907,98.58273,14.08907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1304352
     },
     "wof:country":"MM",
-    "wof:geomhash":"1c6ddc03aafee801c2c400f2b1cc6899",
+    "wof:geomhash":"29e2e8f8e37dd945be6eea3d0a95d31f",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209394549,
-    "wof:lastmodified":1536288347,
+    "wof:lastmodified":1566609105,
     "wof:name":"Ngayanni",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     98.56273,
-    14.069070000000002,
+    14.06907,
     98.56273,
-    14.069070000000002
+    14.06907
 ],
   "geometry": {"coordinates":[98.56273,14.06907],"type":"Point"}
 }

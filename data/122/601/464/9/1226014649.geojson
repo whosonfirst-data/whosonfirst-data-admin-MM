@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.41725,19.20467,95.45725,19.24467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lema"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226014649,
-    "wof:lastmodified":1564319332,
+    "wof:lastmodified":1566611498,
     "wof:name":"Lema",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

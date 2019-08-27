@@ -11,10 +11,14 @@
     "geom:longitude":94.40478,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":44540,
+    "gn:population":44540,
     "iso:country":"MM",
+    "lbl:bbox":"94.38478,23.62254,94.42478,23.66254",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Mawlaik"
     ],
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1310120,
         "gp:id":1017597,
-        "qs:id":132684,
+        "qs_pg:id":132684,
         "wd:id":"Q6794418",
         "wk:page":"Mawlaik"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890433721,
-    "wof:lastmodified":1563269061,
+    "wof:lastmodified":1566610372,
     "wof:name":"Mawlaik",
     "wof:parent_id":1092046361,
     "wof:placetype":"locality",

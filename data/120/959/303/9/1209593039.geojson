@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.84826,19.69472,96.88826,19.73472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kaba"
     ],
@@ -46,8 +50,7 @@
         "Kaba"
     ],
     "name:und_x_variant":[
-        "Kaba-Aye",
-        "Kaba"
+        "Kaba-Aye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209593039,
-    "wof:lastmodified":1564315855,
+    "wof:lastmodified":1566609293,
     "wof:name":"Kaba",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

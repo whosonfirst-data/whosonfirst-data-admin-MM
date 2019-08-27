@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.44735,21.02106,97.48735,21.06106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226530103,
-    "wof:lastmodified":1537019756,
+    "wof:lastmodified":1566611524,
     "wof:name":"Long-yok",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

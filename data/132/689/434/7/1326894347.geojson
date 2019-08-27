@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.4933,19.04777,96.5333,19.08777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanbin",
         "Kunbin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326894347,
-    "wof:lastmodified":1537665488,
+    "wof:lastmodified":1566607452,
     "wof:name":"Kunbin",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

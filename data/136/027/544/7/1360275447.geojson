@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.46654,22.14409,96.50654,22.18409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pongoheng",
         "Pongcheng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360275447,
-    "wof:lastmodified":1537665388,
+    "wof:lastmodified":1566610079,
     "wof:name":"Pongcheng",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

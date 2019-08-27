@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.57535,21.25107,99.61535,21.29107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hwe-hpun",
         "W\u0101n Hw\u00e8-hp\u016bn"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327311339,
-    "wof:lastmodified":1537665327,
+    "wof:lastmodified":1566607434,
     "wof:name":"Wan Hwe-hpun",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",

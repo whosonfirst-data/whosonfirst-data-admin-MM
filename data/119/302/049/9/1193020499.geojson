@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.62389,16.80972,97.66389,16.84972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193020499,
-    "wof:lastmodified":1536373768,
+    "wof:lastmodified":1566609535,
     "wof:name":"Tarokhla",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

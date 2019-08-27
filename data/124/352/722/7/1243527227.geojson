@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.14505,19.01762,95.18505,19.05762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243527227,
-    "wof:lastmodified":1536689279,
+    "wof:lastmodified":1566610430,
     "wof:name":"Sagyi",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

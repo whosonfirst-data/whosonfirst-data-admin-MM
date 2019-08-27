@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":21.252153,
     "lbl:longitude":98.159734,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u101b\u103e\u1019\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
     "mps:latitude":21.246668,
     "mps:longitude":98.156343,
@@ -173,9 +174,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Shan State"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0627\u0633\u062a \u0634\u0627\u0646"
     ],
@@ -263,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"158,222",
     "statoids:area_mi":"61,090",
     "statoids:as_of_date":"2003-01-01",
@@ -291,7 +289,7 @@
         "gp:id":2344820,
         "hasc:id":"MM.SH",
         "iso:id":"MM-17",
-        "qs:id":894849,
+        "qs_pg:id":894849,
         "unlc:id":"MM-17",
         "wd:id":"Q456847",
         "wk:page":"Shan State"
@@ -312,11 +310,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727825,
+    "wof:lastmodified":1566608188,
     "wof:name":"Shan",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4994364,
     "wof:population_rank":12,

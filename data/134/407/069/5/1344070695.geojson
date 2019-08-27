@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.04138,20.02949,93.08138,20.06949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344070695,
-    "wof:lastmodified":1536859370,
+    "wof:lastmodified":1566607830,
     "wof:name":"Kyauktan",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

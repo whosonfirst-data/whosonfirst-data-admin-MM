@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.46319,24.34061,96.50319,24.38061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Moda"
     ],
@@ -64,8 +68,7 @@
         "\u041c\u043e\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Ywama",
-        "Moda"
+        "Ywama"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1310394011,
-    "wof:lastmodified":1564316760,
+    "wof:lastmodified":1566609862,
     "wof:name":"Moda",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

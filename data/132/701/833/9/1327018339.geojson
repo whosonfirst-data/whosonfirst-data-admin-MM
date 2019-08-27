@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.66925,23.93733,95.70925,23.97733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327018339,
-    "wof:lastmodified":1536781278,
+    "wof:lastmodified":1566607426,
     "wof:name":"Mogyin",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

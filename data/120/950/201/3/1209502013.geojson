@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.06996,14.43765,98.10996,14.47765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0646\u06af\u0634\u06cc"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209502013,
-    "wof:lastmodified":1564315817,
+    "wof:lastmodified":1566609270,
     "wof:name":"Aingshe",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

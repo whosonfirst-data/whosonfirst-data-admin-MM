@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.31029,22.82911,98.35029,22.86911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Panglao"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226727313,
-    "wof:lastmodified":1564318877,
+    "wof:lastmodified":1566611173,
     "wof:name":"Panglao",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

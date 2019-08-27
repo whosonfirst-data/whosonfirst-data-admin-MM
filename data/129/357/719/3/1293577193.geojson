@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.82053,20.50655,99.86053,20.54655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293577193,
-    "wof:lastmodified":1536657926,
+    "wof:lastmodified":1566608436,
     "wof:name":"Wan Nai-nguen",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

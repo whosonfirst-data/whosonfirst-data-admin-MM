@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"92.70523,20.92861,92.74523,20.96861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ingyaung",
         "Ingyaungywa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225858659,
-    "wof:lastmodified":1537665513,
+    "wof:lastmodified":1566611554,
     "wof:name":"Ingyaungywa",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

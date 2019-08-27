@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.99318,20.96566,95.03318,21.00566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Sade"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1226532237,
-    "wof:lastmodified":1564319372,
+    "wof:lastmodified":1566611523,
     "wof:name":"Sade",
     "wof:parent_id":1092047061,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.95119,16.60309,94.99119,16.64309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1314016
     },
     "wof:country":"MM",
-    "wof:geomhash":"92a33d21d87e4d7aebbea85105b19841",
+    "wof:geomhash":"584075b6d159f193c33a48c59f649068",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209421871,
-    "wof:lastmodified":1536287504,
+    "wof:lastmodified":1566609419,
     "wof:name":"Letpan",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     94.97119,
-    16.623089999999998,
+    16.62309,
     94.97119,
-    16.623089999999998
+    16.62309
 ],
   "geometry": {"coordinates":[94.97119000000001,16.62309],"type":"Point"}
 }

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.441918,
     "lbl:longitude":96.027418,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u1015\u1032\u1001\u1030\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "mps:latitude":18.405036,
     "mps:longitude":96.036688,
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0433\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pegu Division"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +258,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"49,787",
     "statoids:area_mi":"19,223",
     "statoids:as_of_date":"2003-01-01",
@@ -285,7 +286,7 @@
         "gp:id":2344818,
         "hasc:id":"MM.BA",
         "iso:id":"MM-02",
-        "qs:id":235565,
+        "qs_pg:id":235565,
         "unlc:id":"MM-02",
         "wd:id":"Q800124",
         "wk:page":"Bago Region"
@@ -306,11 +307,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727828,
+    "wof:lastmodified":1566608196,
     "wof:name":"Bago",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":5186619,
     "wof:population_rank":13,

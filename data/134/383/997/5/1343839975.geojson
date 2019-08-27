@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.60555,18.33508,95.64555,18.37508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343839975,
-    "wof:lastmodified":1536696379,
+    "wof:lastmodified":1566607840,
     "wof:name":"Kubyu",
     "wof:parent_id":1092047665,
     "wof:placetype":"locality",

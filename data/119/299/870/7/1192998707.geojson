@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.74455,23.6065,98.78455,23.6465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Linkei-Cha",
         "Lingkei-chai"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192998707,
-    "wof:lastmodified":1537665461,
+    "wof:lastmodified":1566609550,
     "wof:name":"Lingkei-chai",
     "wof:parent_id":1092046035,
     "wof:placetype":"locality",

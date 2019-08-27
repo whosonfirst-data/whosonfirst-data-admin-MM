@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.79035,20.07728,94.83035,20.11728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1019\u1031\u102c\u1004\u103a\u1038\u1019\u1000\u1014\u103a\u1000\u1019\u103a\u1038\u1001\u103c\u1031"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310274787,
-    "wof:lastmodified":1564316785,
+    "wof:lastmodified":1566609877,
     "wof:name":"Maungmagan",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

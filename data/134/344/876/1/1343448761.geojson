@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.69337,21.24594,100.73337,21.28594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wan Lawnsa",
         "W\u0101n Lawnsai"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343448761,
-    "wof:lastmodified":1537665559,
+    "wof:lastmodified":1566608152,
     "wof:name":"Wan Lawnsai",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

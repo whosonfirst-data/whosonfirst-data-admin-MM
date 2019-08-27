@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.44951,24.98514,96.48951,25.02514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u101b\u103d\u102c\u101e\u1005\u103a\u1019\u103c\u102d\u102f\u1037\u104a \u1019\u102d\u102f\u1038\u100a\u103e\u1004\u103a\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360208163,
-    "wof:lastmodified":1564317079,
+    "wof:lastmodified":1566610076,
     "wof:name":"Ywathit",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

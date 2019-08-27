@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.85622,22.98195,98.89622,23.02195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310589021,
-    "wof:lastmodified":1536796721,
+    "wof:lastmodified":1566610015,
     "wof:name":"Yung Ka-lun",
     "wof:parent_id":1092045367,
     "wof:placetype":"locality",

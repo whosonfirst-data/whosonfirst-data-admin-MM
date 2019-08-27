@@ -10,8 +10,11 @@
     "geom:latitude":16.80418,
     "geom:longitude":96.18376,
     "iso:country":"MM",
+    "lbl:bbox":"96.17876,16.79918,96.18876,16.80918",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":994303,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85674569,
         102191569,
         85632181,
-        1092047809,
-        85674569
+        1092047809
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1312344,
         "gp:id":994303,
-        "qs:id":58520
+        "qs_pg:id":58520
     },
     "wof:country":"MM",
     "wof:created":1459009672,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421190861,
-    "wof:lastmodified":1531858653,
+    "wof:lastmodified":1566610366,
     "wof:name":"Mahlwagon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

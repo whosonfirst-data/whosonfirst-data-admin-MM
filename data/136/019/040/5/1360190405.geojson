@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.15945,25.83071,98.19945,25.87071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rijiaw",
         "Ritjaw"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360190405,
-    "wof:lastmodified":1537665383,
+    "wof:lastmodified":1566610151,
     "wof:name":"Ritjaw",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

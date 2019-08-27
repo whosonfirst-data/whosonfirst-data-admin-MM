@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.49896,19.03764,96.53896,19.07764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kunthado",
         "Kunthibin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326794455,
-    "wof:lastmodified":1537665487,
+    "wof:lastmodified":1566607554,
     "wof:name":"Kunthibin",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

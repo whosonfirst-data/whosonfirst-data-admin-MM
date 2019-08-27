@@ -10,8 +10,12 @@
     "geom:latitude":24.16831,
     "geom:longitude":94.5945,
     "iso:country":"MM",
+    "lbl:bbox":"94.5745,24.14831,94.6145,24.18831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1291916,
         "gp:id":29047286,
-        "qs:id":394729
+        "qs_pg:id":394729
     },
     "wof:country":"MM",
     "wof:created":1459009803,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421194379,
-    "wof:lastmodified":1500017049,
+    "wof:lastmodified":1566610362,
     "wof:name":"Ithai",
     "wof:parent_id":1092046361,
     "wof:placetype":"locality",

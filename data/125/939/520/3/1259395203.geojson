@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.18,21.96333,93.22,22.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pintia"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259395203,
-    "wof:lastmodified":1564318123,
+    "wof:lastmodified":1566610883,
     "wof:name":"Pintia",
     "wof:parent_id":1092046531,
     "wof:placetype":"locality",

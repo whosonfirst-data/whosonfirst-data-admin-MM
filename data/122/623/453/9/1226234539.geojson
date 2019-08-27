@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.16412,18.73933,97.20412,18.77933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226234539,
-    "wof:lastmodified":1536950071,
+    "wof:lastmodified":1566611429,
     "wof:name":"Swekale",
     "wof:parent_id":1092044973,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.01174,17.6822,97.05174,17.7222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193260435,
-    "wof:lastmodified":1536381468,
+    "wof:lastmodified":1566609588,
     "wof:name":"Lebaw",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

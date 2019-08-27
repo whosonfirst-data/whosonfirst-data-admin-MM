@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"97.61667,16.48333,97.61667,16.48333",
     "geom:latitude":16.48333,
     "geom:longitude":97.61667,
     "iso:country":"MM",
+    "lbl:bbox":"97.61167,16.47833,97.62167,16.48833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPLX",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1326935,
         "gp:id":982920,
-        "qs:id":1096453
+        "qs_pg:id":1096453
     },
     "wof:country":"MM",
     "wof:created":1459009554,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":421188403,
-    "wof:lastmodified":1531858618,
+    "wof:lastmodified":1566610366,
     "wof:name":"Daingwunkwin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

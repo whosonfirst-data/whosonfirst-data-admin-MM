@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.44476,25.99706,97.48476,26.03706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242777635,
-    "wof:lastmodified":1536776157,
+    "wof:lastmodified":1566610694,
     "wof:name":"'Nhkal Ga",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

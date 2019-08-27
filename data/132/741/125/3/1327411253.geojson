@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.93126,22.02108,99.97126,22.06108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Talam",
         "W\u0101n Talam"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327411253,
-    "wof:lastmodified":1537665308,
+    "wof:lastmodified":1566607524,
     "wof:name":"Wan Talam",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",

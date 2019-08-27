@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.56287,19.0022,96.60287,19.0422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tawbyugyi",
         "Tawbyagyi"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309999157,
-    "wof:lastmodified":1537665356,
+    "wof:lastmodified":1566610234,
     "wof:name":"Tawbyagyi",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

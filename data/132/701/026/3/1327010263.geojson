@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.92488,21.01558,99.96488,21.05558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wan Hkang Ho-paw",
         "W\u0101n Ho-paw"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327010263,
-    "wof:lastmodified":1537665332,
+    "wof:lastmodified":1566607429,
     "wof:name":"Wan Ho-paw",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

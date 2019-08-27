@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.34452,21.10733,100.38452,21.14733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Htangsang",
         "W\u0101n Ht\u0101ngsang"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310086085,
-    "wof:lastmodified":1537665560,
+    "wof:lastmodified":1566609846,
     "wof:name":"Wan Htangsang",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

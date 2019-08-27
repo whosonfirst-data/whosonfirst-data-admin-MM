@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.77787,18.61739,93.81787,18.65739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0627\u0624\u06a9-\u06cc\u0648\u0627"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293887099,
-    "wof:lastmodified":1564314838,
+    "wof:lastmodified":1566608650,
     "wof:name":"Myauk-ywa",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

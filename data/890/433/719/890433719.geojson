@@ -11,10 +11,14 @@
     "geom:longitude":96.47066,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":117303,
+    "gn:population":117303,
     "iso:country":"MM",
+    "lbl:bbox":"96.45066,22.00826,96.49066,22.04826",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0646 \u0644\u0648\u064a\u0646"
     ],
@@ -126,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u041f'\u0457\u043d-\u0423-\u041b\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Memyo"
     ],
     "name:urd_x_preferred":[
@@ -153,7 +157,7 @@
     "wof:concordances":{
         "gn:id":1309937,
         "gp:id":1017601,
-        "qs:id":132683,
+        "qs_pg:id":132683,
         "wd:id":"Q1360318"
     },
     "wof:country":"MM",
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":890433719,
-    "wof:lastmodified":1563269060,
+    "wof:lastmodified":1566610372,
     "wof:name":"Maymyo",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

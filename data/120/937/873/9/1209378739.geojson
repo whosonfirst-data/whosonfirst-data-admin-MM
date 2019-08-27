@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.36167,18.80857,96.40167,18.84857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1296142
     },
     "wof:country":"MM",
-    "wof:geomhash":"695e92a55e8b7617ca4ae7bb9545cf5a",
+    "wof:geomhash":"d19f241cd66bf56bf7699fa3526c2073",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209378739,
-    "wof:lastmodified":1536288858,
+    "wof:lastmodified":1566609142,
     "wof:name":"Singondaing",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.38167,
-    18.828570000000006,
+    18.82857000000001,
     96.38167,
-    18.828570000000006
+    18.82857000000001
 ],
   "geometry": {"coordinates":[96.38167,18.82857000000001],"type":"Point"}
 }

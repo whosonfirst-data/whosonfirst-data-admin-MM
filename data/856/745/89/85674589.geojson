@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.86057,
     "lbl:longitude":94.998854,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u1019\u1000\u103d\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "mps:latitude":19.887888,
     "mps:longitude":95.021635,
@@ -167,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0433\u0443\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magwe Division"
     ],
     "name:urd_x_preferred":[
@@ -251,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"44,799",
     "statoids:area_mi":"17,297",
     "statoids:as_of_date":"2003-01-01",
@@ -278,7 +279,7 @@
         "gp:id":2344816,
         "hasc:id":"MM.MG",
         "iso:id":"MM-03",
-        "qs:id":901861,
+        "qs_pg:id":901861,
         "unlc:id":"MM-03",
         "wd:id":"Q833013",
         "wk:page":"Magway Region"
@@ -299,11 +300,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727827,
+    "wof:lastmodified":1566608194,
     "wof:name":"Magway",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":4770905,
     "wof:population_rank":12,

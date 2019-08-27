@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.70191,22.77688,97.74191,22.81688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1210004647,
-    "wof:lastmodified":1536375011,
+    "wof:lastmodified":1566609464,
     "wof:name":"Mannam Hulian",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

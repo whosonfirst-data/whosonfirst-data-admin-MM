@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"92.26586,21.32415,92.30586,21.36415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kalarua",
         "K\u0101l\u0101deva"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209923427,
-    "wof:lastmodified":1537665509,
+    "wof:lastmodified":1566609285,
     "wof:name":"Kaladeva",
     "wof:parent_id":1092046317,
     "wof:placetype":"locality",

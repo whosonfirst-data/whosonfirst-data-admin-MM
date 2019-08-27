@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.27916,16.69355,97.31916,16.73355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225824411,
-    "wof:lastmodified":1537042709,
+    "wof:lastmodified":1566611539,
     "wof:name":"Thegon",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

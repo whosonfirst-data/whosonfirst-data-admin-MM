@@ -10,8 +10,12 @@
     "geom:latitude":20.50441,
     "geom:longitude":92.68285,
     "iso:country":"MM",
+    "lbl:bbox":"92.66285,20.48441,92.70285,20.52441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1309069,
         "gp:id":1017683,
-        "qs:id":1083209
+        "qs_pg:id":1083209
     },
     "wof:country":"MM",
     "wof:created":1459009513,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421187429,
-    "wof:lastmodified":1500016719,
+    "wof:lastmodified":1566610364,
     "wof:name":"Myohaung",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

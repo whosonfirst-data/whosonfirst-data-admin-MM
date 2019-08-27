@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.72366,17.93224,95.76366,17.97224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360248793,
-    "wof:lastmodified":1536709884,
+    "wof:lastmodified":1566610028,
     "wof:name":"Kaingbyingyi",
     "wof:parent_id":1092047665,
     "wof:placetype":"locality",

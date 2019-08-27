@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.35425,21.3786,100.39425,21.4186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209997023,
-    "wof:lastmodified":1536382776,
+    "wof:lastmodified":1566609168,
     "wof:name":"Wan Ta",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.03631,27.10045,96.07631,27.14045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360273947,
-    "wof:lastmodified":1536673151,
+    "wof:lastmodified":1566610082,
     "wof:name":"Lunglawng Ga",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

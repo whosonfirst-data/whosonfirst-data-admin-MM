@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.7534,16.70763,94.7934,16.74763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shanywa",
         "Pebin Shanywa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343964977,
-    "wof:lastmodified":1537665392,
+    "wof:lastmodified":1566607689,
     "wof:name":"Pebin Shanywa",
     "wof:parent_id":1092047083,
     "wof:placetype":"locality",

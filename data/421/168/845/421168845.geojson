@@ -10,6 +10,9 @@
     "geom:latitude":21.46002,
     "geom:longitude":95.3884,
     "iso:country":"MM",
+    "lbl:bbox":"95.3684,21.44002,95.4084,21.48002",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041c'\u0457\u043d\u0434\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myingan"
     ],
     "name:urd_x_preferred":[
@@ -257,7 +260,7 @@
     "wof:concordances":{
         "gn:id":1307835,
         "gp:id":1017672,
-        "qs:id":901806,
+        "qs_pg:id":901806,
         "wd:id":"Q974965",
         "wk:page":"Myingyan"
     },
@@ -274,7 +277,7 @@
         }
     ],
     "wof:id":421168845,
-    "wof:lastmodified":1563269025,
+    "wof:lastmodified":1566610361,
     "wof:name":"Myingyan",
     "wof:parent_id":1092046999,
     "wof:placetype":"locality",

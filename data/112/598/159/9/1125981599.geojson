@@ -9,15 +9,18 @@
     "geom:bbox":"97.20975,19.67798,97.20975,19.67798",
     "geom:latitude":19.67798,
     "geom:longitude":97.20975,
-    "gn:gn_country":"MM",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":17293,
+    "gn:country":"MM",
+    "gn:fcode":"PPLA",
     "gn:population":17293,
     "iso:country":"MM",
+    "lbl:bbox":"97.18975,19.65798,97.22975,19.69798",
     "lbl:latitude":19.67798,
     "lbl:longitude":97.20975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0648\u064a\u0643\u0627\u0648"
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0439\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lw\u00e8gaw"
     ],
     "name:urd_x_preferred":[
@@ -154,7 +157,7 @@
     "qs_pg:qs_id":273939,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1125981599,
-    "wof:lastmodified":1563269063,
+    "wof:lastmodified":1566610373,
     "wof:name":"Loikaw",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

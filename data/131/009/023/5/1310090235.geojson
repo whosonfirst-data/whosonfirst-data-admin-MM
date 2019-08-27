@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.06935,21.80823,96.10935,21.84823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310090235,
-    "wof:lastmodified":1537017808,
+    "wof:lastmodified":1566609814,
     "wof:name":"Mingaing",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.95829,21.07963,94.99829,21.11963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Taungwin",
         "Taungkwin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326720569,
-    "wof:lastmodified":1537665357,
+    "wof:lastmodified":1566607445,
     "wof:name":"Taungkwin",
     "wof:parent_id":1092047061,
     "wof:placetype":"locality",

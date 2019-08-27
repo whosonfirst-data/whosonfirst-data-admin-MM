@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.19485,19.81243,96.23485,19.85243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310477455,
-    "wof:lastmodified":1536957391,
+    "wof:lastmodified":1566609789,
     "wof:name":"Thayetthamein",
     "wof:parent_id":1092047063,
     "wof:placetype":"locality",

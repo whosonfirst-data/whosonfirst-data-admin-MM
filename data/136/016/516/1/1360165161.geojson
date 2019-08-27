@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.82988,20.60246,99.86988,20.64246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Hsenhkampu",
         "Wan Hsenhkamhou",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360165161,
-    "wof:lastmodified":1537665330,
+    "wof:lastmodified":1566610102,
     "wof:name":"Wan Hsenhkamhpu",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

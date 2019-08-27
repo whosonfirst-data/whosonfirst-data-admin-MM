@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.25636,26.36022,97.29636,26.40022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293104539,
-    "wof:lastmodified":1536841073,
+    "wof:lastmodified":1566608612,
     "wof:name":"Tinglu",
     "wof:parent_id":1092047123,
     "wof:placetype":"locality",

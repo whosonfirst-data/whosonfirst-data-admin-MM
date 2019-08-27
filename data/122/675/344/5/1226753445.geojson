@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.90234,25.04029,96.94234,25.08029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0423\u043a\u0430"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226753445,
-    "wof:lastmodified":1564318898,
+    "wof:lastmodified":1566611188,
     "wof:name":"Uka",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.86021,15.94323,94.90021,15.98323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243370545,
-    "wof:lastmodified":1536915456,
+    "wof:lastmodified":1566610418,
     "wof:name":"Wedaung",
     "wof:parent_id":1092045903,
     "wof:placetype":"locality",

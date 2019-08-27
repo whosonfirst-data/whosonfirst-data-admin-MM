@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.18843,14.23805,98.22843,14.27805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinseik",
         "Sinthe"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259959399,
-    "wof:lastmodified":1537665367,
+    "wof:lastmodified":1566611020,
     "wof:name":"Sinthe",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

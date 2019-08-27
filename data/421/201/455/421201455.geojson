@@ -10,8 +10,12 @@
     "geom:latitude":21.8579,
     "geom:longitude":96.06628,
     "iso:country":"MM",
+    "lbl:bbox":"96.04628,21.8379,96.08628,21.8779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Myitnge"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1307728,
         "gp:id":1017679,
-        "qs:id":211477,
+        "qs_pg:id":211477,
         "wd:id":"Q6947502",
         "wk:page":"Myitnge"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421201455,
-    "wof:lastmodified":1563269040,
+    "wof:lastmodified":1566610367,
     "wof:name":"Myitnge",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.34863,24.75822,96.38863,24.79822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mohnyin"
     ],
@@ -49,8 +53,7 @@
         "\u0e42\u0e21\u0e48\u0e0d\u0e35\u0e48\u0e19"
     ],
     "name:und_x_variant":[
-        "Mohnyn",
-        "Mohnyin"
+        "Mohnyn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1243560347,
-    "wof:lastmodified":1564317801,
+    "wof:lastmodified":1566610655,
     "wof:name":"Mohnyin",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

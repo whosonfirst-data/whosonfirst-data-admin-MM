@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.13758,20.41307,97.17758,20.45307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276214583,
-    "wof:lastmodified":1536938960,
+    "wof:lastmodified":1566608705,
     "wof:name":"Kongloeng",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

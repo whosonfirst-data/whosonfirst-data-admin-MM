@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.80824,20.48177,97.84824,20.52177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Konglang",
         "Knoglong"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260260179,
-    "wof:lastmodified":1537665492,
+    "wof:lastmodified":1566609719,
     "wof:name":"Knoglong",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.04581,26.09923,98.08581,26.13923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Adan"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1242777655,
-    "wof:lastmodified":1564317859,
+    "wof:lastmodified":1566610695,
     "wof:name":"Adan",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

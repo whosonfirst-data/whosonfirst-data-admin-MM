@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.63776,23.64119,95.67776,23.68119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Zigana"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309884299,
-    "wof:lastmodified":1564317399,
+    "wof:lastmodified":1566610348,
     "wof:name":"Zigana",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

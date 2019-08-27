@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.48333,21.77702,96.52333,21.81702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310697137,
-    "wof:lastmodified":1536639473,
+    "wof:lastmodified":1566609994,
     "wof:name":"Kyauk-ni",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

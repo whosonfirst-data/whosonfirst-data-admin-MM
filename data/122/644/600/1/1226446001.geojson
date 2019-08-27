@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.3713,19.54448,94.4113,19.58448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0686\u0627\u0648\u0627"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226446001,
-    "wof:lastmodified":1564318928,
+    "wof:lastmodified":1566611209,
     "wof:name":"Chawa",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.37081,20.85808,100.41081,20.89808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277154617,
-    "wof:lastmodified":1536664142,
+    "wof:lastmodified":1566608840,
     "wof:name":"Wan Ai-soe",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

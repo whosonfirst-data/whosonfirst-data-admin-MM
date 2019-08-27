@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.8976,15.96393,97.9376,16.00393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1010\u1031\u102c\u1004\u103a\u1012\u102e\u1038"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242576211,
-    "wof:lastmodified":1564317575,
+    "wof:lastmodified":1566610487,
     "wof:name":"Taungdi",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

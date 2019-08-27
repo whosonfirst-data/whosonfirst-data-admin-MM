@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.56036,18.53215,96.60036,18.57215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Okpat",
         "Okpyat"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259565325,
-    "wof:lastmodified":1537665403,
+    "wof:lastmodified":1566611076,
     "wof:name":"Okpyat",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

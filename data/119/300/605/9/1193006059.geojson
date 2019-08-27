@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.79942,21.44283,100.83942,21.48283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Ai-ta-ta-ho\u0113",
         "W\u0101n Ai-ta-ta-hp\u00e8"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193006059,
-    "wof:lastmodified":1537665565,
+    "wof:lastmodified":1566609485,
     "wof:name":"Wan Ai-ta-ta-hpe",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

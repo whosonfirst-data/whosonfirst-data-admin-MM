@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.25276,22.79954,98.29276,22.83954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209492697,
-    "wof:lastmodified":1536285434,
+    "wof:lastmodified":1566609242,
     "wof:name":"Man Pang",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

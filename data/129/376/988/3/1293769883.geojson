@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.14935,17.06401,97.18935,17.10401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Taunggyi"
     ],
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1293769883,
-    "wof:lastmodified":1564314405,
+    "wof:lastmodified":1566608364,
     "wof:name":"Taunggyi",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

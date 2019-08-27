@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.34022,16.92418,96.38022,16.96418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260248429,
-    "wof:lastmodified":1536759629,
+    "wof:lastmodified":1566609590,
     "wof:name":"Dalaban",
     "wof:parent_id":1092047809,
     "wof:placetype":"locality",

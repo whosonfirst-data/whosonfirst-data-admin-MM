@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.50216,17.36377,95.54216,17.40377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1302501
     },
     "wof:country":"MM",
-    "wof:geomhash":"67c921c5cd3307ad20039c4b374aa3f3",
+    "wof:geomhash":"0e64399ca4006ceb4b2a3f52062a1579",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209221587,
-    "wof:lastmodified":1536293944,
+    "wof:lastmodified":1566609259,
     "wof:name":"Paingsunnan",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     95.52216,
-    17.383770000000002,
+    17.38377,
     95.52216,
-    17.383770000000002
+    17.38377
 ],
   "geometry": {"coordinates":[95.52216,17.38377],"type":"Point"}
 }

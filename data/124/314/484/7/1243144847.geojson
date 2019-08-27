@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.94298,19.41176,94.98298,19.45176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sanie",
         "Sanle"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243144847,
-    "wof:lastmodified":1537665379,
+    "wof:lastmodified":1566610598,
     "wof:name":"Sanle",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

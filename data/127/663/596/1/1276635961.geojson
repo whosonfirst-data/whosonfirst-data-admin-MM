@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.23,22.46333,99.27,22.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Panung"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276635961,
-    "wof:lastmodified":1564315385,
+    "wof:lastmodified":1566608985,
     "wof:name":"Panung",
     "wof:parent_id":1092046245,
     "wof:placetype":"locality",

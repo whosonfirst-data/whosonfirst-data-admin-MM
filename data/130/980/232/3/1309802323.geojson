@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.47238,19.44536,96.51238,19.48536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chinbauktaung Wathit",
         "Chinbaungdaung Ywathit"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309802323,
-    "wof:lastmodified":1537665538,
+    "wof:lastmodified":1566610325,
     "wof:name":"Chinbaungdaung Ywathit",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

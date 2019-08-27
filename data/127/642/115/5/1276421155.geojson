@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.26241,20.80914,100.30241,20.84914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276421155,
-    "wof:lastmodified":1536661059,
+    "wof:lastmodified":1566608725,
     "wof:name":"Wan Paw-ai-noi",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

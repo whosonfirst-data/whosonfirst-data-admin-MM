@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.49858,18.16803,96.53858,18.20803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277148793,
-    "wof:lastmodified":1536672501,
+    "wof:lastmodified":1566608826,
     "wof:name":"Magyibin",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

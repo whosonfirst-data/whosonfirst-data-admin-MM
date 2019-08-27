@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.8549,20.10622,96.8949,20.14622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327112043,
-    "wof:lastmodified":1536645015,
+    "wof:lastmodified":1566607658,
     "wof:name":"Kongmakat",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

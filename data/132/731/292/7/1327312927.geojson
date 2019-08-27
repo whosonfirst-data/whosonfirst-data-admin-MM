@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.89283,15.11565,97.93283,15.15565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1019\u102c\u1014\u103a\u1021\u1031\u102c\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327312927,
-    "wof:lastmodified":1564312864,
+    "wof:lastmodified":1566607436,
     "wof:name":"Manaung",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

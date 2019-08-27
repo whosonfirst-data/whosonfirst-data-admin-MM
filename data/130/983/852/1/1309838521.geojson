@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.67578,25.08033,96.71578,25.12033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pagunyarg",
         "Pagunyang"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309838521,
-    "wof:lastmodified":1537665401,
+    "wof:lastmodified":1566610247,
     "wof:name":"Pagunyang",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":23.699189,
     "lbl:longitude":98.019733,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u101b\u103e\u1019\u103a\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a (\u1019\u103c\u1031\u102c\u1000\u103a)",
     "meso:admin_1":"Shan (North)",
     "meso:dissme":"MuseShan (North)",
@@ -33,6 +35,7 @@
     "mps:longitude":98.019733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mu Se"
     ],
@@ -55,16 +58,13 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u0445\u0435"
     ],
-    "name:und_x_variant":[
-        "\u1019\u1030\u1006\u101a\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:zho_x_preferred":[
         "\u6728\u59d0\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"7817",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1092046811,
-    "wof:lastmodified":1563268768,
+    "wof:lastmodified":1566610167,
     "wof:name":"Muse",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.2228,18.60788,95.2628,18.64788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Letyandan",
         "Letpandan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226314623,
-    "wof:lastmodified":1537665462,
+    "wof:lastmodified":1566611532,
     "wof:name":"Letpandan",
     "wof:parent_id":1092047213,
     "wof:placetype":"locality",

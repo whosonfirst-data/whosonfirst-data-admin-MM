@@ -25,8 +25,12 @@
     "gn:population":50000,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.61482,16.86953,97.65482,16.90953",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Hpa-an"
     ],
@@ -80,9 +84,7 @@
     ],
     "name:und_x_variant":[
         "Pa-an",
-        "Pan",
-        "Hpa-an",
-        "Hpa-An"
+        "Pan"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06be\u0627-\u0622\u0646"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":1193271235,
-    "wof:lastmodified":1564316283,
+    "wof:lastmodified":1566609560,
     "wof:name":"Hpa-An",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

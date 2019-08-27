@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.90558,24.09623,96.94558,24.13623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zinb\u00f4n"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309717849,
-    "wof:lastmodified":1537665291,
+    "wof:lastmodified":1566610288,
     "wof:name":"Zinbon",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

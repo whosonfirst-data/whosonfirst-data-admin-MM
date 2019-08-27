@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.1518,21.19329,100.1918,21.23329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hpya-ku-m\u00f6ng",
         "W\u0101n Hpya-ku-m\u00f6ng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209904005,
-    "wof:lastmodified":1537665562,
+    "wof:lastmodified":1566609149,
     "wof:name":"Wan Hpya-ku-moeng",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

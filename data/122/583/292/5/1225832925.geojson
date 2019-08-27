@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.66379,22.14547,98.70379,22.18547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u0101n Kawa-ye",
         "M\u0101n Kawn-y\u00e8"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225832925,
-    "wof:lastmodified":1537665451,
+    "wof:lastmodified":1566611565,
     "wof:name":"Man Kawn-ye",
     "wof:parent_id":1092046245,
     "wof:placetype":"locality",

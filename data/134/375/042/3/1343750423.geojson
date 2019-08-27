@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.1151,23.62737,96.1551,23.66737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mahlaingkyon",
         "Mahlainggyon"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343750423,
-    "wof:lastmodified":1537665456,
+    "wof:lastmodified":1566608127,
     "wof:name":"Mahlainggyon",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.32575,21.38903,100.36575,21.42903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ra-sa-hkuhm\u014dng",
         "W\u0101n Ra-sa-hk\u00fcnm\u00f6ng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276206887,
-    "wof:lastmodified":1537665557,
+    "wof:lastmodified":1566608753,
     "wof:name":"Wan Ra-sa-hkuenmoeng",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

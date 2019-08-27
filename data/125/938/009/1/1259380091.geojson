@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.20066,19.62308,97.24066,19.66308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259380091,
-    "wof:lastmodified":1537006483,
+    "wof:lastmodified":1566610851,
     "wof:name":"No-pi",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

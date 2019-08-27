@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.98,26.69667,96.02,26.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ringhku Ga",
         "Ringhkau Ga"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309900861,
-    "wof:lastmodified":1537665383,
+    "wof:lastmodified":1566610226,
     "wof:name":"Ringhkau Ga",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

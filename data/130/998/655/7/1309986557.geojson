@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.86097,20.78344,97.90097,20.82344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309986557,
-    "wof:lastmodified":1536670615,
+    "wof:lastmodified":1566610211,
     "wof:name":"Kongti",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

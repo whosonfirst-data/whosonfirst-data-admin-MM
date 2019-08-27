@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.58122,19.88601,97.62122,19.92601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mai-hu\u0101-s\u0113",
         "Mai-hsa-se"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344237333,
-    "wof:lastmodified":1537665455,
+    "wof:lastmodified":1566607815,
     "wof:name":"Mai-hsa-se",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

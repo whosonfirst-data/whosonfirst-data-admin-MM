@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.74223,17.79558,96.78223,17.83558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aunggyi",
         "Aunggyi Ywathit"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259943859,
-    "wof:lastmodified":1537665548,
+    "wof:lastmodified":1566611073,
     "wof:name":"Aunggyi Ywathit",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

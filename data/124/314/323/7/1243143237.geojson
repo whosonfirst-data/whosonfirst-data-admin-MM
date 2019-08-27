@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.48468,16.38876,97.52468,16.42876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kalaw"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1243143237,
-    "wof:lastmodified":1564317724,
+    "wof:lastmodified":1566610600,
     "wof:name":"Kalaw",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

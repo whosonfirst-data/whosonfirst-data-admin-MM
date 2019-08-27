@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.91697,20.15966,96.95697,20.19966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "In-hkung",
         "In-hkaung"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276310337,
-    "wof:lastmodified":1537665513,
+    "wof:lastmodified":1566609050,
     "wof:name":"In-hkaung",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

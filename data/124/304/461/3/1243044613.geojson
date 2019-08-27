@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.69303,11.89023,98.73303,11.93023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243044613,
-    "wof:lastmodified":1536887438,
+    "wof:lastmodified":1566610639,
     "wof:name":"Maingtwedaung",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

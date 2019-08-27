@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.25257,19.8461,97.29257,19.8861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259480479,
-    "wof:lastmodified":1536861732,
+    "wof:lastmodified":1566610913,
     "wof:name":"Wan Hpya-pa-da",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

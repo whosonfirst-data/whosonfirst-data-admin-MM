@@ -26,8 +26,12 @@
     "gn:population":2000,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.89773,16.02072,97.93773,16.06072",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209619763,
-    "wof:lastmodified":1536281561,
+    "wof:lastmodified":1566609278,
     "wof:name":"Dellok",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

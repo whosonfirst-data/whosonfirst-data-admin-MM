@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.57405,21.91873,98.61405,21.95873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1192995779,
-    "wof:lastmodified":1536376004,
+    "wof:lastmodified":1566609555,
     "wof:name":"Namsu",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

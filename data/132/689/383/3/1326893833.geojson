@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.01595,17.19664,96.05595,17.23664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326893833,
-    "wof:lastmodified":1536960152,
+    "wof:lastmodified":1566607452,
     "wof:name":"Thin-in",
     "wof:parent_id":1092047835,
     "wof:placetype":"locality",

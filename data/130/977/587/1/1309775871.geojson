@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.7619,19.25899,94.8019,19.29899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309775871,
-    "wof:lastmodified":1536973897,
+    "wof:lastmodified":1566610244,
     "wof:name":"Taukkyandaing",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

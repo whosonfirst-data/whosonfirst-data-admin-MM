@@ -10,8 +10,12 @@
     "geom:latitude":16.73148,
     "geom:longitude":95.65441,
     "iso:country":"MM",
+    "lbl:bbox":"95.63441,16.71148,95.67441,16.75148",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u0443\u0431\u0438\u043d"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Maubin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma-oo-beng"
     ],
     "qs:gn_country":"MM",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1310362,
         "gp:id":1017561,
-        "qs:id":132685,
+        "qs_pg:id":132685,
         "wd:id":"Q3300083",
         "wk:page":"Ma-ubin"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421167335,
-    "wof:lastmodified":1563269029,
+    "wof:lastmodified":1566610363,
     "wof:name":"Ma-ubin",
     "wof:parent_id":1092046289,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.26951,23.01853,95.30951,23.05853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hnakkin-gyi",
         "Hnangingyi"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225823779,
-    "wof:lastmodified":1537665524,
+    "wof:lastmodified":1566611541,
     "wof:name":"Hnangingyi",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

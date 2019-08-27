@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.89975,21.15277,95.93975,21.19277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344153959,
-    "wof:lastmodified":1536740551,
+    "wof:lastmodified":1566607791,
     "wof:name":"Kalaywa",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":19.36838,
     "geom:longitude":95.21512,
     "iso:country":"MM",
+    "lbl:bbox":"95.19512,19.34838,95.23512,19.38838",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Allanmyo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aunglanmyo"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +172,7 @@
     "wof:concordances":{
         "gn:id":1329239,
         "gp:id":56120930,
-        "qs:id":78998,
+        "qs_pg:id":78998,
         "wd:id":"Q6947282",
         "wk:page":"Myede"
     },
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":421203629,
-    "wof:lastmodified":1563269030,
+    "wof:lastmodified":1566610363,
     "wof:name":"Myaydo",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

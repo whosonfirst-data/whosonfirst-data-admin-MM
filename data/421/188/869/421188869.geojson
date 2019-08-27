@@ -10,8 +10,12 @@
     "geom:latitude":10.003166,
     "geom:longitude":98.565833,
     "iso:country":"MM",
+    "lbl:bbox":"98.545833,9.983166,98.585833,10.023166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:dan_x_preferred":[
         "Ulo"
@@ -72,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1017933,
-        "qs:id":1104789,
+        "qs_pg:id":1104789,
         "wd:id":"Q1424205"
     },
     "wof:country":"MM",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421188869,
-    "wof:lastmodified":1563269036,
+    "wof:lastmodified":1566610365,
     "wof:name":"Ulu",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

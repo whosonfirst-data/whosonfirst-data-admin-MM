@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.67817,20.15995,97.71817,20.19995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293078523,
-    "wof:lastmodified":1536878972,
+    "wof:lastmodified":1566608210,
     "wof:name":"Wan Kong",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

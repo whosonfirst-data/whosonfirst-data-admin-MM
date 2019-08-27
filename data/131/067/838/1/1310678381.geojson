@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.13064,23.69918,98.17064,23.73918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Man Ta-hsu-san",
         "M\u0101n Ta-hsu-sen"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310678381,
-    "wof:lastmodified":1537665446,
+    "wof:lastmodified":1566610004,
     "wof:name":"Man Ta-hsu-sen",
     "wof:parent_id":1092046811,
     "wof:placetype":"locality",

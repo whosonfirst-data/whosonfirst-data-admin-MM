@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.62079,17.13927,96.66079,17.17927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1284808
     },
     "wof:country":"MM",
-    "wof:geomhash":"ca4048482d6057df812b12c88fe31861",
+    "wof:geomhash":"ba3a3ee99dfb5416f546be5844534e42",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209378745,
-    "wof:lastmodified":1536288858,
+    "wof:lastmodified":1566609142,
     "wof:name":"Yitkan",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.64079,
-    17.159270000000006,
+    17.15927000000001,
     96.64079,
-    17.159270000000006
+    17.15927000000001
 ],
   "geometry": {"coordinates":[96.64079,17.15927000000001],"type":"Point"}
 }

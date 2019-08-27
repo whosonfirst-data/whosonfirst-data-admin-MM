@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.76082,23.68463,98.80082,23.72463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242961133,
-    "wof:lastmodified":1537007550,
+    "wof:lastmodified":1566610738,
     "wof:name":"Mu-kua-chai",
     "wof:parent_id":1092046035,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.10931,24.74688,95.14931,24.78688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226634641,
-    "wof:lastmodified":1537568496,
+    "wof:lastmodified":1566611486,
     "wof:name":"Kondan",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

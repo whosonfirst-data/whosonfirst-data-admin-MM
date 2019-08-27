@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.36976,16.73534,98.40976,16.77534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259576401,
-    "wof:lastmodified":1536725441,
+    "wof:lastmodified":1566611010,
     "wof:name":"Mepale",
     "wof:parent_id":1092046901,
     "wof:placetype":"locality",

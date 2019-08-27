@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.42456,24.32052,97.46456,24.36052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lana"
     ],
@@ -82,8 +86,7 @@
         "\u041b\u0430\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Lana-g\u0103htawng",
-        "Lana"
+        "Lana-g\u0103htawng"
     ],
     "name:war_x_preferred":[
         "Lana"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1260003023,
-    "wof:lastmodified":1564316380,
+    "wof:lastmodified":1566609616,
     "wof:name":"Lana",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

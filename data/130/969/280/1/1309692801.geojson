@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.99884,20.85372,98.03884,20.89372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "An Kang",
         "W\u0101n Kang"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309692801,
-    "wof:lastmodified":1537665326,
+    "wof:lastmodified":1566610309,
     "wof:name":"Wan Kang",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

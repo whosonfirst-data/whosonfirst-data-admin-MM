@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.99099,20.72774,100.03099,20.76774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wanar-sa-hoawng",
         "W\u0101n Ra-sa-hpawng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344137277,
-    "wof:lastmodified":1537665556,
+    "wof:lastmodified":1566607775,
     "wof:name":"Wan Ra-sa-hpawng",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

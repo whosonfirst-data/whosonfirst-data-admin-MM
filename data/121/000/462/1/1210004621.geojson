@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.51969,22.593,97.55969,22.633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1210004621,
-    "wof:lastmodified":1536375038,
+    "wof:lastmodified":1566609467,
     "wof:name":"Nawng-hen",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

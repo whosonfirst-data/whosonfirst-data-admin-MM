@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.10481,17.72268,97.14481,17.76268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bota",
         "Hohta"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209185931,
-    "wof:lastmodified":1537665524,
+    "wof:lastmodified":1566609387,
     "wof:name":"Hohta",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

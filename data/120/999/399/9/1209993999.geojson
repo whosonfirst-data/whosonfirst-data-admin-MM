@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.32871,21.68465,99.36871,21.72465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209993999,
-    "wof:lastmodified":1536385128,
+    "wof:lastmodified":1566609162,
     "wof:name":"Wan Ho-hkue",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",

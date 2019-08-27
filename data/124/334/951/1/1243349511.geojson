@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.30421,17.06221,97.34421,17.10221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243349511,
-    "wof:lastmodified":1536945785,
+    "wof:lastmodified":1566610668,
     "wof:name":"Winpa",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.53562,23.56863,98.57562,23.60863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310489391,
-    "wof:lastmodified":1536940827,
+    "wof:lastmodified":1566609750,
     "wof:name":"Man Heng",
     "wof:parent_id":1092045729,
     "wof:placetype":"locality",

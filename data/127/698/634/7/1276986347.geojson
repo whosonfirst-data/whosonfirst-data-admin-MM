@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.63829,26.24582,96.67829,26.28582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jat Ga",
         "Jat Gahtawng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276986347,
-    "wof:lastmodified":1537665512,
+    "wof:lastmodified":1566609014,
     "wof:name":"Jat Gahtawng",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

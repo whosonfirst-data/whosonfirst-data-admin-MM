@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.230813,
     "lbl:longitude":94.706866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u1005\u1005\u103a\u1000\u102d\u102f\u1004\u103a\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "meso:admin_1":"Sagaing",
     "meso:dissme":"YinmabinSagaing",
@@ -33,6 +35,7 @@
     "mps:longitude":94.706866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Yinmabin"
     ],
@@ -49,7 +52,7 @@
         "\u06cc\u0646\u0645\u0627\u0628\u06cc\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632181,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1092047961,
-    "wof:lastmodified":1564317191,
+    "wof:lastmodified":1566610166,
     "wof:name":"Yinmabin",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

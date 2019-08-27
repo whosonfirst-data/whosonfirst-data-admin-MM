@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.81502,22.12143,96.85502,22.16143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242862009,
-    "wof:lastmodified":1536653966,
+    "wof:lastmodified":1566610466,
     "wof:name":"Ya-peng",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

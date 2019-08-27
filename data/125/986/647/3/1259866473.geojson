@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.72409,11.37407,98.76409,11.41407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Padan-madan",
         "Padang Masang"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259866473,
-    "wof:lastmodified":1537665402,
+    "wof:lastmodified":1566611135,
     "wof:name":"Padang Masang",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

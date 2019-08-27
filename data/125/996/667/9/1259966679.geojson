@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.59138,12.94495,98.63138,12.98495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259966679,
-    "wof:lastmodified":1536659459,
+    "wof:lastmodified":1566610873,
     "wof:name":"Pidat",
     "wof:parent_id":1092046951,
     "wof:placetype":"locality",

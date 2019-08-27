@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.54459,16.78279,96.58459,16.82279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moksozeik",
         "Moksoseik"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310477839,
-    "wof:lastmodified":1537665433,
+    "wof:lastmodified":1566609785,
     "wof:name":"Moksoseik",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

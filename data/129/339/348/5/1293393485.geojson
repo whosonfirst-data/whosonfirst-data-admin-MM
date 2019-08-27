@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.3841,18.26029,94.4241,18.30029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sindingyi",
         "Sindingale"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293393485,
-    "wof:lastmodified":1537665369,
+    "wof:lastmodified":1566608285,
     "wof:name":"Sindingale",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.66388,20.97387,94.70388,21.01387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225827865,
-    "wof:lastmodified":1537037852,
+    "wof:lastmodified":1566611548,
     "wof:name":"Tanbingyaung",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

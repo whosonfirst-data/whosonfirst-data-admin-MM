@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.5834,24.08288,94.6234,24.12288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242961869,
-    "wof:lastmodified":1537006489,
+    "wof:lastmodified":1566610733,
     "wof:name":"Metset",
     "wof:parent_id":1092046361,
     "wof:placetype":"locality",

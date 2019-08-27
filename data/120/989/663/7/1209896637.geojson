@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.56266,21.94104,98.60266,21.98104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hkamp\u014dng",
         "W\u0101n Hkampng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209896637,
-    "wof:lastmodified":1537665333,
+    "wof:lastmodified":1566609413,
     "wof:name":"Wan Hkampng",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

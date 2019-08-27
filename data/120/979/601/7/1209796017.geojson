@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.11263,21.89879,97.15263,21.93879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30b3\u30a6\u30c9\u30a6"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209796017,
-    "wof:lastmodified":1564315719,
+    "wof:lastmodified":1566609205,
     "wof:name":"Kongtong",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

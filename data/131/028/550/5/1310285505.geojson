@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.3132,23.08398,98.3532,23.12398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310285505,
-    "wof:lastmodified":1536736805,
+    "wof:lastmodified":1566609914,
     "wof:name":"Hkengnyawng",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

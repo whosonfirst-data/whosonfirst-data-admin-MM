@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.53537,19.4967,97.57537,19.5367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daw Me-ku",
         "Daw Mi-ku"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260275367,
-    "wof:lastmodified":1537665536,
+    "wof:lastmodified":1566609667,
     "wof:name":"Daw Mi-ku",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.42809,18.85707,96.46809,18.89707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Milaunggyaung",
         "Milaunggon"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259754979,
-    "wof:lastmodified":1537665437,
+    "wof:lastmodified":1566611121,
     "wof:name":"Milaunggon",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

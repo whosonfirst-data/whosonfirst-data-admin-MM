@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.56813,27.27969,98.60813,27.31969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193275453,
-    "wof:lastmodified":1536366362,
+    "wof:lastmodified":1566609559,
     "wof:name":"Jigawng",
     "wof:parent_id":1092047123,
     "wof:placetype":"locality",

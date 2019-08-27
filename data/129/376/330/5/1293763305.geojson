@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.15485,14.22634,98.19485,14.26634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Thabyezu",
         "Thabyezun"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293763305,
-    "wof:lastmodified":1537665352,
+    "wof:lastmodified":1566608347,
     "wof:name":"Thabyezun",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.89026,19.48169,93.93026,19.52169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0648"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276766113,
-    "wof:lastmodified":1564315208,
+    "wof:lastmodified":1566608874,
     "wof:name":"Kapu",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

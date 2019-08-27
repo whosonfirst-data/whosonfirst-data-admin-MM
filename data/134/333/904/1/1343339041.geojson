@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.60062,21.36001,99.64062,21.40001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343339041,
-    "wof:lastmodified":1536922229,
+    "wof:lastmodified":1566608018,
     "wof:name":"Wan Yang",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"92.95514,20.74314,92.99514,20.78314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1015\u1031\u102b\u1000\u103a\u1010\u1031\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209318077,
-    "wof:lastmodified":1564315514,
+    "wof:lastmodified":1566609069,
     "wof:name":"Pauktaw",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

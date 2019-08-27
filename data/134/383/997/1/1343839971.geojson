@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.27308,18.81496,96.31308,18.85496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343839971,
-    "wof:lastmodified":1536696385,
+    "wof:lastmodified":1566607840,
     "wof:name":"Letpangon",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.78625,22.71635,97.82625,22.75635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260057629,
-    "wof:lastmodified":1537024272,
+    "wof:lastmodified":1566609732,
     "wof:name":"Na-yan",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

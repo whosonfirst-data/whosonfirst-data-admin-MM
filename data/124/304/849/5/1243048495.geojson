@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"101.08232,21.63958,101.12232,21.67958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243048495,
-    "wof:lastmodified":1536881553,
+    "wof:lastmodified":1566610636,
     "wof:name":"Wan Hsenwunhoeng",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

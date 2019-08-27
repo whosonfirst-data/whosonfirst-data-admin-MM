@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.48042,21.05244,100.52042,21.09244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310581661,
-    "wof:lastmodified":1536806871,
+    "wof:lastmodified":1566610009,
     "wof:name":"Pang Li",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

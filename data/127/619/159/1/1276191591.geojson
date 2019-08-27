@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.01002,16.89334,96.05002,16.93334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276191591,
-    "wof:lastmodified":1536968676,
+    "wof:lastmodified":1566608708,
     "wof:name":"Ningyan",
     "wof:parent_id":1092047835,
     "wof:placetype":"locality",

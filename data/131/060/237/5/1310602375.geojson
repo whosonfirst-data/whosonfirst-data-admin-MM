@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.4812,17.19914,95.5212,17.23914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310602375,
-    "wof:lastmodified":1536777720,
+    "wof:lastmodified":1566610025,
     "wof:name":"Laman",
     "wof:parent_id":1092046289,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.17397,15.96018,98.21397,16.00018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260186967,
-    "wof:lastmodified":1536842095,
+    "wof:lastmodified":1566609679,
     "wof:name":"Natchaung-bya",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

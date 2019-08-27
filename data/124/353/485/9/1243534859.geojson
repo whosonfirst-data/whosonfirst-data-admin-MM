@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.93818,20.84569,99.97818,20.88569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243534859,
-    "wof:lastmodified":1536678155,
+    "wof:lastmodified":1566610403,
     "wof:name":"Yanman",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.94227,22.71333,97.98227,22.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kungkham",
         "Kunghkam"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276528409,
-    "wof:lastmodified":1537665488,
+    "wof:lastmodified":1566608961,
     "wof:name":"Kunghkam",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

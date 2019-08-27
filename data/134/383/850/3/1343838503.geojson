@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.00251,21.77299,98.04251,21.81299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Kongnoi",
         "W\u0101n Kongnio"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343838503,
-    "wof:lastmodified":1537665324,
+    "wof:lastmodified":1566607843,
     "wof:name":"Wan Kongnio",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

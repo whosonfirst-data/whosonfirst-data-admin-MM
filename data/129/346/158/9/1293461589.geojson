@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.95987,17.8045,96.99987,17.8445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Leyat"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293461589,
-    "wof:lastmodified":1564314316,
+    "wof:lastmodified":1566608305,
     "wof:name":"Leyat",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.67689,21.27017,93.71689,21.31017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:snd_x_preferred":[
         "\u0622\u0628 \u06aa\u0648\u062b\u0631"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226055309,
-    "wof:lastmodified":1564319055,
+    "wof:lastmodified":1566611303,
     "wof:name":"Kothar",
     "wof:parent_id":1092046531,
     "wof:placetype":"locality",

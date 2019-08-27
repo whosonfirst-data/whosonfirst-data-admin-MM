@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.81159,22.73551,97.85159,22.77551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243251365,
-    "wof:lastmodified":1537083589,
+    "wof:lastmodified":1566610614,
     "wof:name":"Nam-lao",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

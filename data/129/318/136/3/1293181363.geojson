@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.15813,23.78006,98.19813,23.82006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Loimaw"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293181363,
-    "wof:lastmodified":1564314655,
+    "wof:lastmodified":1566608534,
     "wof:name":"Loimaw",
     "wof:parent_id":1092046811,
     "wof:placetype":"locality",

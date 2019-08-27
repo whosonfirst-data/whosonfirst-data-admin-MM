@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.46038,17.37921,95.50038,17.41921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360286701,
-    "wof:lastmodified":1536654793,
+    "wof:lastmodified":1566610133,
     "wof:name":"Kawkat",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

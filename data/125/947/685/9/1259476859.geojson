@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.2471,23.89247,94.2871,23.93247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mintham",
         "Minthami"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259476859,
-    "wof:lastmodified":1537665435,
+    "wof:lastmodified":1566610966,
     "wof:name":"Minthami",
     "wof:parent_id":1092047447,
     "wof:placetype":"locality",

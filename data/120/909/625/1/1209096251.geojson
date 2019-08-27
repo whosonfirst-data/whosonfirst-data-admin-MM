@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.47245,22.88937,96.51245,22.92937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1307790
     },
     "wof:country":"MM",
-    "wof:geomhash":"6f3dfdfa8b55df40f29ac892e6f81ccf",
+    "wof:geomhash":"64e8f5f891266e4490987a914ae1be15",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209096251,
-    "wof:lastmodified":1536297877,
+    "wof:lastmodified":1566609063,
     "wof:name":"Myintada",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.49245,
-    22.909370000000006,
+    22.90937000000001,
     96.49245,
-    22.909370000000006
+    22.90937000000001
 ],
   "geometry": {"coordinates":[96.49245000000001,22.90937000000001],"type":"Point"}
 }

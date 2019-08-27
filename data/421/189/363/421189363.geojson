@@ -10,8 +10,11 @@
     "geom:latitude":16.80971,
     "geom:longitude":96.15904,
     "iso:country":"MM",
+    "lbl:bbox":"96.15404,16.80471,96.16404,16.81471",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":1006180,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85674569,
         102191569,
         85632181,
-        1092047923,
-        85674569
+        1092047923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1296639,
         "gp:id":1006180,
-        "qs:id":43925
+        "qs_pg:id":43925
     },
     "wof:country":"MM",
     "wof:created":1459009622,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421189363,
-    "wof:lastmodified":1531858644,
+    "wof:lastmodified":1566610364,
     "wof:name":"Shwegundaing",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

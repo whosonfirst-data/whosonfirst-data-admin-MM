@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.72094,27.62071,97.76094,27.66071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242897261,
-    "wof:lastmodified":1537096909,
+    "wof:lastmodified":1566610452,
     "wof:name":"Binyadam",
     "wof:parent_id":1092047123,
     "wof:placetype":"locality",

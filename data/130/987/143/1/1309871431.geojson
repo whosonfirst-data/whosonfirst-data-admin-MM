@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.84706,19.5723,95.88706,19.6123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myinbin",
         "Minbyin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309871431,
-    "wof:lastmodified":1537665437,
+    "wof:lastmodified":1566610318,
     "wof:name":"Minbyin",
     "wof:parent_id":1092045099,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.76036,16.93281,95.80036,16.97281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyaungzauk",
         "Nyaungsauk"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226652887,
-    "wof:lastmodified":1537665405,
+    "wof:lastmodified":1566611515,
     "wof:name":"Nyaungsauk",
     "wof:parent_id":1092046289,
     "wof:placetype":"locality",

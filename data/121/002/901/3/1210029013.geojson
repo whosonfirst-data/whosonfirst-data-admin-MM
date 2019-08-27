@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.63389,23.35583,93.67389,23.39583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tedim"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1210029013,
-    "wof:lastmodified":1564316145,
+    "wof:lastmodified":1566609480,
     "wof:name":"Tedim",
     "wof:parent_id":1092045149,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":19.803311,
     "lbl:longitude":96.144382,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -84,8 +85,8 @@
         "\u5185\u6bd4\u90fd\u8054\u90a6\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -126,11 +127,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727949,
+    "wof:lastmodified":1566609740,
     "wof:name":"Naypyitaw",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"union territory",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:shortcode":"NY",

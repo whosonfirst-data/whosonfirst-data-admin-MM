@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.38499,21.15446,100.42499,21.19446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wanghka",
         "W\u0101n Wanghka"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343739661,
-    "wof:lastmodified":1537665554,
+    "wof:lastmodified":1566608091,
     "wof:name":"Wan Wanghka",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.67758,21.52524,95.71758,21.56524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209102643,
-    "wof:lastmodified":1536297683,
+    "wof:lastmodified":1566609449,
     "wof:name":"Kan-u",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.37115,16.37773,95.41115,16.41773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293884931,
-    "wof:lastmodified":1536711591,
+    "wof:lastmodified":1566608652,
     "wof:name":"Bamaw",
     "wof:parent_id":1092045903,
     "wof:placetype":"locality",

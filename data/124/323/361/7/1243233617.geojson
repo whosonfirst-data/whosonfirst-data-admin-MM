@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.51489,19.71372,94.55489,19.75372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaukkalein",
         "Kyaukkalein"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243233617,
-    "wof:lastmodified":1537665481,
+    "wof:lastmodified":1566610575,
     "wof:name":"Kyaukkalein",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

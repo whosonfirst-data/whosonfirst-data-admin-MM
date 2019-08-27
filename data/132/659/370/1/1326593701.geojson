@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.73914,18.24173,96.77914,18.28173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Matawg\u00f4n",
         "Mattawg\u00f4n"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326593701,
-    "wof:lastmodified":1537665445,
+    "wof:lastmodified":1566607480,
     "wof:name":"Mattawgon",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.39382,19.65234,94.43382,19.69234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyeintan",
         "Kyeindan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360255011,
-    "wof:lastmodified":1537665476,
+    "wof:lastmodified":1566610036,
     "wof:name":"Kyeindan",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

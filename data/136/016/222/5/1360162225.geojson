@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.60152,21.39868,97.64152,21.43868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360162225,
-    "wof:lastmodified":1536833439,
+    "wof:lastmodified":1566610106,
     "wof:name":"Hweku",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

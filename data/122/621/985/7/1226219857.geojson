@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.05611,20.93111,98.09611,20.97111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226219857,
-    "wof:lastmodified":1536970669,
+    "wof:lastmodified":1566611219,
     "wof:name":"Nawngpit",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

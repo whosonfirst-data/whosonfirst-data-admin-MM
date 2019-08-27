@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.53539,20.59968,93.57539,20.63968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0425\u0435\u043b\u0456\u043d"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1309909461,
-    "wof:lastmodified":1564317234,
+    "wof:lastmodified":1566610226,
     "wof:name":"Helin",
     "wof:parent_id":1092046765,
     "wof:placetype":"locality",

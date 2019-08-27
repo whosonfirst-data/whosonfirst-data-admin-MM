@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.20269,21.42312,96.24269,21.46312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209805509,
-    "wof:lastmodified":1536388785,
+    "wof:lastmodified":1566609395,
     "wof:name":"Mezegyan",
     "wof:parent_id":1092045867,
     "wof:placetype":"locality",

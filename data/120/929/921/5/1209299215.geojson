@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.07142,23.12942,96.11142,23.16942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1290655
     },
     "wof:country":"MM",
-    "wof:geomhash":"6073b6dd5c4db1a360848b29310358a6",
+    "wof:geomhash":"ed681d062648512733fc54e3a0ece84b",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209299215,
-    "wof:lastmodified":1536291416,
+    "wof:lastmodified":1566609372,
     "wof:name":"Tonkwe",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.09142,
-    23.149420000000006,
+    23.14942000000001,
     96.09142,
-    23.149420000000006
+    23.14942000000001
 ],
   "geometry": {"coordinates":[96.09142,23.14942000000001],"type":"Point"}
 }

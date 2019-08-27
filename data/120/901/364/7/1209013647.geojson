@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"92.8976,20.87485,92.9376,20.91485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Prainggyaung",
         "Prainggyaungywa"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209013647,
-    "wof:lastmodified":1537665387,
+    "wof:lastmodified":1566609096,
     "wof:name":"Prainggyaungywa",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

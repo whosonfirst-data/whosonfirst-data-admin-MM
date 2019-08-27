@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.84239,19.07045,93.88239,19.11045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ramree"
     ],
@@ -39,8 +43,7 @@
     "name:und_x_variant":[
         "Kyaukpyu",
         "Ramri",
-        "Yanby\u00e8",
-        "Ramree"
+        "Yanby\u00e8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293014271,
-    "wof:lastmodified":1564314278,
+    "wof:lastmodified":1566608280,
     "wof:name":"Ramree",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

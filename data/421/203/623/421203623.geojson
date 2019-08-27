@@ -10,8 +10,12 @@
     "geom:latitude":17.65399,
     "geom:longitude":95.78813,
     "iso:country":"MM",
+    "lbl:bbox":"95.76813,17.63399,95.80813,17.67399",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Tharyarwady"
@@ -40,7 +44,7 @@
     "name:tha_x_preferred":[
         "\u0e2a\u0e32\u0e23\u0e27\u0e14\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thayawadi"
     ],
     "qs:gn_country":"MM",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":1292313,
         "gp:id":56120922,
-        "qs:id":78999,
+        "qs_pg:id":78999,
         "wd:id":"Q7710820",
         "wk:page":"Tharrawaddy, Myanmar"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421203623,
-    "wof:lastmodified":1563269031,
+    "wof:lastmodified":1566610363,
     "wof:name":"Tharyarwady",
     "wof:parent_id":1092047665,
     "wof:placetype":"locality",

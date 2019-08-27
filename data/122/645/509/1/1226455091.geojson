@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.73,22.66333,93.77,22.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226455091,
-    "wof:lastmodified":1536630335,
+    "wof:lastmodified":1566611226,
     "wof:name":"Dauchim",
     "wof:parent_id":1092045227,
     "wof:placetype":"locality",

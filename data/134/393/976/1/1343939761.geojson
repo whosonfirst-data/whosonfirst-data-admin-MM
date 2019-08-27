@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.40498,18.94714,96.44498,18.98714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343939761,
-    "wof:lastmodified":1537047902,
+    "wof:lastmodified":1566607980,
     "wof:name":"Kanyo",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

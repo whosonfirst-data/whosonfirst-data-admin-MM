@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.74512,22.44271,98.78512,22.48271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u0101n Ho-nambkan",
         "M\u0101n Ho-namhkan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259463485,
-    "wof:lastmodified":1537665452,
+    "wof:lastmodified":1566610940,
     "wof:name":"Man Ho-namhkan",
     "wof:parent_id":1092046245,
     "wof:placetype":"locality",

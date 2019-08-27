@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.12942,14.52188,98.16942,14.56188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293568889,
-    "wof:lastmodified":1536669766,
+    "wof:lastmodified":1566608448,
     "wof:name":"Shanpan",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

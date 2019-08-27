@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.57199,22.71872,94.61199,22.75872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mahu"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1260058579,
-    "wof:lastmodified":1564316575,
+    "wof:lastmodified":1566609733,
     "wof:name":"Mahu",
     "wof:parent_id":1092045503,
     "wof:placetype":"locality",

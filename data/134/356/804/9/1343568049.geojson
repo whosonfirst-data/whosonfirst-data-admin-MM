@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.60834,15.87504,94.64834,15.91504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bomi"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343568049,
-    "wof:lastmodified":1564313861,
+    "wof:lastmodified":1566607962,
     "wof:name":"Bomi",
     "wof:parent_id":1092045903,
     "wof:placetype":"locality",

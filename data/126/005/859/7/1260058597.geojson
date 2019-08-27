@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.6983,22.20734,95.7383,22.24734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260058597,
-    "wof:lastmodified":1537022928,
+    "wof:lastmodified":1566609733,
     "wof:name":"Kandawyo",
     "wof:parent_id":1092047295,
     "wof:placetype":"locality",

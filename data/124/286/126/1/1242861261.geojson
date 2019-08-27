@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.57938,13.07882,98.61938,13.11882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0442"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1242861261,
-    "wof:lastmodified":1564317542,
+    "wof:lastmodified":1566610462,
     "wof:name":"Lebet",
     "wof:parent_id":1092046951,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":96.24503,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":69448,
+    "gn:population":69448,
     "iso:country":"MM",
+    "lbl:bbox":"96.22503,16.74887,96.26503,16.78887",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "qs:name":"Syriam",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,11 +34,11 @@
     "wof:concordances":{
         "gn:id":1295395,
         "gp:id":1017870,
-        "qs:id":276520
+        "qs_pg:id":276520
     },
     "wof:concordances_alt":{
         "gn:id":6262447,
-        "qs:id":906427
+        "qs_pg:id":906427
     },
     "wof:country":"MM",
     "wof:created":1469051891,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890431449,
-    "wof:lastmodified":1534379379,
+    "wof:lastmodified":1566610370,
     "wof:name":"Syriam",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

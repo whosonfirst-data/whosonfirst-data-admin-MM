@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.806733,
     "lbl:longitude":94.037587,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u101b\u1001\u102d\u102f\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
     "meso:admin_1":"Rakhine",
     "meso:dissme":"KyaukpyuRakhine",
@@ -33,6 +35,7 @@
     "mps:longitude":94.037587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte de Kyaukpyu"
     ],
@@ -53,16 +56,13 @@
     "name:swe_x_preferred":[
         "Kyaunkpyu District"
     ],
-    "name:und_x_variant":[
-        "\u1000\u103b\u1031\u102c\u1000\u103a\u1016\u103c\u1030\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:zho_x_preferred":[
         "\u768e\u6f02\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"9983",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092045819,
-    "wof:lastmodified":1561843789,
+    "wof:lastmodified":1566610174,
     "wof:name":"Kyaukpyu",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

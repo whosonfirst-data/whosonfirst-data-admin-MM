@@ -5,16 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21372720.465822,
+    "geom:area_square_m":0.0,
     "geom:bbox":"96.153404,16.798969,96.153404,16.798969",
     "geom:latitude":16.798969,
     "geom:longitude":96.153404,
-    "gn:gn_country":"MM",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"MM",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"MM",
+    "lbl:bbox":"96.148404,16.793969,96.158404,16.803969",
     "lbl:latitude":16.798969,
     "lbl:longitude":96.153404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.814386,
     "mps:longitude":96.165101,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Tamwe"
-    ],
-    "name:unk_x_variant":[
         "Tamwe"
     ],
     "qs:gn_adm0_cc":"MM",
@@ -79,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85674569,
         102191569,
@@ -90,7 +89,6 @@
     "wof:concordances":{
         "gn:id":1294755,
         "gp:id":1007603,
-        "qs:id":1083504,
         "qs_pg:id":1083504
     },
     "wof:country":"MM",
@@ -109,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1566608172,
     "wof:name":"Tamwe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

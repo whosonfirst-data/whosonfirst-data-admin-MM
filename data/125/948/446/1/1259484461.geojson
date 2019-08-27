@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.38613,16.21835,94.42613,16.25835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259484461,
-    "wof:lastmodified":1536856202,
+    "wof:lastmodified":1566610912,
     "wof:name":"Chaunggyo",
     "wof:parent_id":1092047083,
     "wof:placetype":"locality",

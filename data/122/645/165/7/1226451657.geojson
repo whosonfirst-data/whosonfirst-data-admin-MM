@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.05852,19.65791,94.09852,19.69791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226451657,
-    "wof:lastmodified":1536635609,
+    "wof:lastmodified":1566611226,
     "wof:name":"Auk Yebein",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

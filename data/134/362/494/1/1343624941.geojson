@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.96723,16.85193,96.00723,16.89193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tetthit",
         "Tat-ywa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343624941,
-    "wof:lastmodified":1537665358,
+    "wof:lastmodified":1566607687,
     "wof:name":"Tat-ywa",
     "wof:parent_id":1092047835,
     "wof:placetype":"locality",

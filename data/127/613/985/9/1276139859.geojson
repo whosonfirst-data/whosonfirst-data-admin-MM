@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.03623,22.7907,94.07623,22.8307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shabo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276139859,
-    "wof:lastmodified":1564315188,
+    "wof:lastmodified":1566608863,
     "wof:name":"Shabo",
     "wof:parent_id":1092045503,
     "wof:placetype":"locality",

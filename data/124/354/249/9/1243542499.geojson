@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.34629,21.378,100.38629,21.418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lawnkwai-nawn",
         "Lawnhwai-nawn",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243542499,
-    "wof:lastmodified":1537665560,
+    "wof:lastmodified":1566610396,
     "wof:name":"Wan Lawnkwai-nawn",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

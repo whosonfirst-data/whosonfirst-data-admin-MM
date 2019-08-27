@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.59416,17.97656,96.63416,18.01656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226713885,
-    "wof:lastmodified":1536761906,
+    "wof:lastmodified":1566611421,
     "wof:name":"Kyaban",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

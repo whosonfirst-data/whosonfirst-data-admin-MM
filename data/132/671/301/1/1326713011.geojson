@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.76189,20.23934,94.80189,20.27934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kadi"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326713011,
-    "wof:lastmodified":1564313214,
+    "wof:lastmodified":1566607547,
     "wof:name":"Kadi",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

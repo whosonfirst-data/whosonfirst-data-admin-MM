@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.87274,20.09474,93.91274,20.13474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0628\u0648\u06a9"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344066067,
-    "wof:lastmodified":1564313681,
+    "wof:lastmodified":1566607825,
     "wof:name":"Abeuk",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

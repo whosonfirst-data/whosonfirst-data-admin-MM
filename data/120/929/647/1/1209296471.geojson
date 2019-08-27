@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.44818,17.38068,96.48818,17.42068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1480302
     },
     "wof:country":"MM",
-    "wof:geomhash":"fbe4f2e1f2d68213c95f994ee534b973",
+    "wof:geomhash":"172b94d5af99f5b44b4d0af7c01b9191",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209296471,
-    "wof:lastmodified":1536291508,
+    "wof:lastmodified":1566609367,
     "wof:name":"Kyontagan",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.46818,
-    17.400679999999998,
+    17.40068,
     96.46818,
-    17.400679999999998
+    17.40068
 ],
   "geometry": {"coordinates":[96.46818,17.40068],"type":"Point"}
 }

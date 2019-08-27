@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.30215,18.41664,94.34215,18.45664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1004\u1015\u101c\u102e"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326939433,
-    "wof:lastmodified":1537665411,
+    "wof:lastmodified":1566607480,
     "wof:name":"Ngapali",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

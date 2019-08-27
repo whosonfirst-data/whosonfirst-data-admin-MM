@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.43257,22.33569,98.47257,22.37569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Loi-se",
         "M\u0101n Loi-se"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226032745,
-    "wof:lastmodified":1537665450,
+    "wof:lastmodified":1566611324,
     "wof:name":"Man Loi-se",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

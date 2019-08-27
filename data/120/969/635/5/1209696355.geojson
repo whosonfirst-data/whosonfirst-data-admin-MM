@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.32237,21.09349,100.36237,21.13349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wengmai",
         "W\u0101n W\u0113ngmai"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209696355,
-    "wof:lastmodified":1537665554,
+    "wof:lastmodified":1566609327,
     "wof:name":"Wan Wengmai",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

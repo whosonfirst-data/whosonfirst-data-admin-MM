@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.00115,20.39697,100.04115,20.43697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pa-kok",
         "Y\u00f6n",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259957287,
-    "wof:lastmodified":1537665558,
+    "wof:lastmodified":1566611029,
     "wof:name":"Wan Pa-kok",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

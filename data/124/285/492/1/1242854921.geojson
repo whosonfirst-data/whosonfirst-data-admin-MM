@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.11333,19.91333,98.15333,19.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kenghsen",
         "W\u0101n Kenghsen"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242854921,
-    "wof:lastmodified":1537665324,
+    "wof:lastmodified":1566610726,
     "wof:name":"Wan Kenghsen",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

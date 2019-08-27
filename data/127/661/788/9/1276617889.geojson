@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.08253,17.70844,97.12253,17.74844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mephaung",
         "M\u00e8paung Atet",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276617889,
-    "wof:lastmodified":1537665439,
+    "wof:lastmodified":1566608803,
     "wof:name":"Mephaung Atet",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

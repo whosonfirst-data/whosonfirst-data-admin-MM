@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.35661,21.01628,98.39661,21.05628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsaikao",
         "Hsai-hkao"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243442111,
-    "wof:lastmodified":1537665520,
+    "wof:lastmodified":1566610809,
     "wof:name":"Hsai-hkao",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

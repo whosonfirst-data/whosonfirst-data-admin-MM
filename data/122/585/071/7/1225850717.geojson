@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.84438,25.08672,96.88438,25.12672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225850717,
-    "wof:lastmodified":1537005738,
+    "wof:lastmodified":1566611552,
     "wof:name":"Tingmongyang",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

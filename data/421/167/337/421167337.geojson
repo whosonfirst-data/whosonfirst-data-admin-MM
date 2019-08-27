@@ -10,8 +10,12 @@
     "geom:latitude":16.07686,
     "geom:longitude":97.56388,
     "iso:country":"MM",
+    "lbl:bbox":"97.54388,16.05686,97.58388,16.09686",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u044f\u0438\u043a\u0430\u043c\u0438"
@@ -49,7 +53,7 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e08\u0e04\u0e30\u0e21\u0e35"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amherst"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1317402,
         "gp:id":1017344,
-        "qs:id":132697,
+        "qs_pg:id":132697,
         "wd:id":"Q3200882",
         "wk:page":"Kyaikkami"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421167337,
-    "wof:lastmodified":1563269029,
+    "wof:lastmodified":1566610363,
     "wof:name":"Kyaikkami",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

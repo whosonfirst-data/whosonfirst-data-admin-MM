@@ -10,8 +10,12 @@
     "geom:latitude":16.71047,
     "geom:longitude":95.92866,
     "iso:country":"MM",
+    "lbl:bbox":"95.90866,16.69047,95.94866,16.73047",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1290374,
         "gp:id":1017932,
-        "qs:id":132629
+        "qs_pg:id":132629
     },
     "wof:country":"MM",
     "wof:created":1459008727,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421167331,
-    "wof:lastmodified":1505340585,
+    "wof:lastmodified":1566610363,
     "wof:name":"Twante",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

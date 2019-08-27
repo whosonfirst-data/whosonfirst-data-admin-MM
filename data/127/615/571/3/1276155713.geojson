@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.61733,25.01093,96.65733,25.05093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0430\u0431\u0430"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1276155713,
-    "wof:lastmodified":1564315276,
+    "wof:lastmodified":1566608915,
     "wof:name":"Laba",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

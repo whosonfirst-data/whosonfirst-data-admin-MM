@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.10049,22.17686,98.14049,22.21686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327314233,
-    "wof:lastmodified":1536850423,
+    "wof:lastmodified":1566607435,
     "wof:name":"Loihseng",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

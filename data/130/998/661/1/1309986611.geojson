@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.13767,21.82258,97.17767,21.86258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pangyak",
         "Pangyap"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309986611,
-    "wof:lastmodified":1537665397,
+    "wof:lastmodified":1566610206,
     "wof:name":"Pangyap",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",
