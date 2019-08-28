@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.06989,21.85413,96.10989,21.89413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243167339,
-    "wof:lastmodified":1536711304,
+    "wof:lastmodified":1566610778,
     "wof:name":"Nayagan",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",

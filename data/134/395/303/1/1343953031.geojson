@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.02556,19.28444,97.06556,19.32444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343953031,
-    "wof:lastmodified":1537029502,
+    "wof:lastmodified":1566607932,
     "wof:name":"Yu-pra",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

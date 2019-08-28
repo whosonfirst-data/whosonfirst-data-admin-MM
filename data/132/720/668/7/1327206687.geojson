@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.57739,20.02712,94.61739,20.06712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327206687,
-    "wof:lastmodified":1537006133,
+    "wof:lastmodified":1566607670,
     "wof:name":"Padaung",
     "wof:parent_id":1092046483,
     "wof:placetype":"locality",

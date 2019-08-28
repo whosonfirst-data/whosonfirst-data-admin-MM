@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.38599,27.30506,97.42599,27.34506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0442\u044d\u043d\u0430"
     ],
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1209515113,
-    "wof:lastmodified":1564315930,
+    "wof:lastmodified":1566609340,
     "wof:name":"Paten",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

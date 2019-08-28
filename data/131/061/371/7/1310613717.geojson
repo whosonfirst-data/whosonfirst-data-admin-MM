@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.36267,23.32841,93.40267,23.36841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rhi",
         "Rih",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310613717,
-    "wof:lastmodified":1537665566,
+    "wof:lastmodified":1566609951,
     "wof:name":"Rihkhawdar",
     "wof:parent_id":1092045149,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.43505,23.1125,98.47505,23.1525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327411241,
-    "wof:lastmodified":1536711666,
+    "wof:lastmodified":1566607524,
     "wof:name":"Man Pungtung",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

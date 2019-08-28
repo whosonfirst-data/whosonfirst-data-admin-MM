@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.77344,17.37712,97.81344,17.41712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260180717,
-    "wof:lastmodified":1536850686,
+    "wof:lastmodified":1566609674,
     "wof:name":"Kuseik",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

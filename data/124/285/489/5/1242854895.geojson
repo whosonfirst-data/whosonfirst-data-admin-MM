@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.61143,23.02319,97.65143,23.06319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242854895,
-    "wof:lastmodified":1536664294,
+    "wof:lastmodified":1566610723,
     "wof:name":"Kongsa",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

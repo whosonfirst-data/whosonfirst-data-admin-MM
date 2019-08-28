@@ -11,10 +11,14 @@
     "geom:longitude":96.13874,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":59867,
+    "gn:population":59867,
     "iso:country":"MM",
+    "lbl:bbox":"96.11874,20.41189,96.15874,20.45189",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bul_x_preferred":[
         "\u042f\u043c\u0435\u0442\u0445\u0438\u043d"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Yamethin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yamethinn"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1285899,
         "gp:id":1017981,
-        "qs:id":132625,
+        "qs_pg:id":132625,
         "wd:id":"Q3571474",
         "wk:page":"Yamethin"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890415485,
-    "wof:lastmodified":1563269047,
+    "wof:lastmodified":1566610368,
     "wof:name":"Yamethin",
     "wof:parent_id":1092047763,
     "wof:placetype":"locality",

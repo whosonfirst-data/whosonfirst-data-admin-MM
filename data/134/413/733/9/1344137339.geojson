@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.02322,23.37409,98.06322,23.41409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344137339,
-    "wof:lastmodified":1536765055,
+    "wof:lastmodified":1566607766,
     "wof:name":"Longmun",
     "wof:parent_id":1092046811,
     "wof:placetype":"locality",

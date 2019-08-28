@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.72633,18.25407,96.76633,18.29407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyaungda",
         "Nyaungdan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344238879,
-    "wof:lastmodified":1537665406,
+    "wof:lastmodified":1566607809,
     "wof:name":"Nyaungdan",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

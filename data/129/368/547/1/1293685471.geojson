@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.16626,15.62519,98.20626,15.66519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0628\u0648\u0628\u0629"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1293685471,
-    "wof:lastmodified":1564314487,
+    "wof:lastmodified":1566608428,
     "wof:name":"Koma",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

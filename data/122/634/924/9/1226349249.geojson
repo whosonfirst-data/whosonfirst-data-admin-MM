@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.931,16.3085,95.971,16.3485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226349249,
-    "wof:lastmodified":1536784862,
+    "wof:lastmodified":1566611283,
     "wof:name":"Hlezeik",
     "wof:parent_id":1092047167,
     "wof:placetype":"locality",

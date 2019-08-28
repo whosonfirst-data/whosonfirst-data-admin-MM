@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.35162,19.44741,95.39162,19.48741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326702959,
-    "wof:lastmodified":1536737949,
+    "wof:lastmodified":1566607555,
     "wof:name":"Paungdin",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

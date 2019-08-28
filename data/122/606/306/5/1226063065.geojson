@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.32594,23.97735,95.36594,24.01735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nanlonka",
         "Nal\u014dnka"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226063065,
-    "wof:lastmodified":1537665424,
+    "wof:lastmodified":1566611494,
     "wof:name":"Nalonka",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

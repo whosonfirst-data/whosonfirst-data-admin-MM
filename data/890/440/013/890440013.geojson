@@ -11,8 +11,11 @@
     "geom:longitude":95.13583,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":182011,
+    "gn:population":182011,
     "iso:country":"MM",
+    "lbl:bbox":"95.11583,22.08856,95.15583,22.12856",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -250,10 +253,12 @@
     "wof:concordances":{
         "gn:id":1308522,
         "gp:id":1017659,
-        "qs:id":132690,
-        "qs_pg:id":1104714,
+        "qs_pg:id":132690,
         "wd:id":"Q1360304",
         "wk:page":"Monywa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1104714
     },
     "wof:country":"MM",
     "wof:created":1469052259,
@@ -268,7 +273,7 @@
         }
     ],
     "wof:id":890440013,
-    "wof:lastmodified":1563269043,
+    "wof:lastmodified":1566610368,
     "wof:name":"Monywa",
     "wof:parent_id":1092046719,
     "wof:placetype":"locality",

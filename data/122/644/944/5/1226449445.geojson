@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.21304,17.28863,95.25304,17.32863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mayanyo",
         "Mayanyo-auk"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226449445,
-    "wof:lastmodified":1537665442,
+    "wof:lastmodified":1566611211,
     "wof:name":"Mayanyo-auk",
     "wof:parent_id":1092047083,
     "wof:placetype":"locality",

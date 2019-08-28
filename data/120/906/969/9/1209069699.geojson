@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.12466,16.39971,96.16466,16.43971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1317461
     },
     "wof:country":"MM",
-    "wof:geomhash":"5386676a88812060d20052941783a86a",
+    "wof:geomhash":"be544b798adb9c4e8badd74afc33dc65",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209069699,
-    "wof:lastmodified":1536298687,
+    "wof:lastmodified":1566609116,
     "wof:name":"Kyagaik",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.14466,
-    16.419710000000002,
+    16.41971,
     96.14466,
-    16.419710000000002
+    16.41971
 ],
   "geometry": {"coordinates":[96.14466,16.41971],"type":"Point"}
 }

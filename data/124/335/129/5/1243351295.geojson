@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.73595,22.07188,96.77595,22.11188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tawnghpa",
         "Ton-pha"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243351295,
-    "wof:lastmodified":1537665339,
+    "wof:lastmodified":1566610647,
     "wof:name":"Ton-pha",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.47937,25.91645,97.51937,25.95645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u0437\u0430"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1327431395,
-    "wof:lastmodified":1564313357,
+    "wof:lastmodified":1566607616,
     "wof:name":"Waza",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

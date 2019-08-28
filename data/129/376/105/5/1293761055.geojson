@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.29684,20.53602,99.33684,20.57602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Pu-hsain",
         "W\u0101n Pu-hsin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293761055,
-    "wof:lastmodified":1537665310,
+    "wof:lastmodified":1566608347,
     "wof:name":"Wan Pu-hsin",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

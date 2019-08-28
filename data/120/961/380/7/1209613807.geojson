@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.1086,17.24036,98.1486,17.28036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1309733
     },
     "wof:country":"MM",
-    "wof:geomhash":"b3731e7e061576c9792dd0648cc8b30c",
+    "wof:geomhash":"f34ea0ae3f615c623c881a9c600e6884",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209613807,
-    "wof:lastmodified":1536281759,
+    "wof:lastmodified":1566609282,
     "wof:name":"Mela-a",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     98.1286,
-    17.260360000000002,
+    17.26036,
     98.1286,
-    17.260360000000002
+    17.26036
 ],
   "geometry": {"coordinates":[98.12860000000001,17.26036],"type":"Point"}
 }

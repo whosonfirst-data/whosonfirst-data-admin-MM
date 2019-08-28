@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.16981,19.26676,94.20981,19.30676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209729151,
-    "wof:lastmodified":1536380528,
+    "wof:lastmodified":1566609460,
     "wof:name":"Wet-ya",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

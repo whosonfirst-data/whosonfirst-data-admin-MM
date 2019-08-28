@@ -11,8 +11,11 @@
     "geom:longitude":96.15611,
     "gn:country":"MM",
     "gn:fcode":"PPLA",
-    "gn:pop":4477638,
+    "gn:population":4477638,
     "iso:country":"MM",
+    "lbl:bbox":"96.13611,16.78528,96.17611,16.82528",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":4.0,
@@ -367,7 +370,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0433\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dagon"
     ],
     "name:urd_x_preferred":[
@@ -502,7 +505,7 @@
     "wof:concordances":{
         "gn:id":1298824,
         "gp:id":1015662,
-        "qs:id":1031319,
+        "qs_pg:id":1031319,
         "wd:id":"Q37995",
         "wk:page":"Yangon"
     },
@@ -519,7 +522,7 @@
         }
     ],
     "wof:id":890443751,
-    "wof:lastmodified":1563269054,
+    "wof:lastmodified":1566610371,
     "wof:name":"Rangoon",
     "wof:parent_id":1092047923,
     "wof:placetype":"locality",

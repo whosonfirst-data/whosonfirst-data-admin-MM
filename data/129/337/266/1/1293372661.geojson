@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.82913,21.32098,94.86913,21.36098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Ku"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293372661,
-    "wof:lastmodified":1564314237,
+    "wof:lastmodified":1566608253,
     "wof:name":"Ku",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

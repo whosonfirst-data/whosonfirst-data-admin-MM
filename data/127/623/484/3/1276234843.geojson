@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.5297,17.30059,95.5697,17.34059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Udo"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276234843,
-    "wof:lastmodified":1564315258,
+    "wof:lastmodified":1566608904,
     "wof:name":"Udo",
     "wof:parent_id":1092046289,
     "wof:placetype":"locality",

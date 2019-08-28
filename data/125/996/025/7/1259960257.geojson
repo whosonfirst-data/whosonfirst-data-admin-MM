@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.65915,22.86052,98.69915,22.90052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nawnghket",
         "M\u0101n Nawnghket"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259960257,
-    "wof:lastmodified":1537665448,
+    "wof:lastmodified":1566610872,
     "wof:name":"Man Nawnghket",
     "wof:parent_id":1092046245,
     "wof:placetype":"locality",

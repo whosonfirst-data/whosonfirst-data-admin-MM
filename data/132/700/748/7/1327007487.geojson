@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.08428,21.19546,97.12428,21.23546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327007487,
-    "wof:lastmodified":1536796697,
+    "wof:lastmodified":1566607441,
     "wof:name":"Long Hsiae",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

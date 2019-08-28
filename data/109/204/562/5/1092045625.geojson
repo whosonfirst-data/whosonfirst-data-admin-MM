@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.207348,
     "lbl:longitude":98.978746,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u1010\u1014\u1004\u103a\u1039\u101e\u102c\u101b\u102e\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "meso:admin_1":"Tanintharyi",
     "meso:dissme":"KawthoungTanintharyi",
@@ -33,6 +35,7 @@
     "mps:longitude":98.978746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kawthoung"
     ],
@@ -43,9 +46,9 @@
         "\u1000\u1031\u102c\u1037\u101e\u1031\u102c\u1004\u103a\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"9183",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1092045625,
-    "wof:lastmodified":1553718086,
+    "wof:lastmodified":1566610185,
     "wof:name":"Kawthoung",
     "wof:parent_id":85674599,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.1822,27.27504,98.2222,27.31504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1304249
     },
     "wof:country":"MM",
-    "wof:geomhash":"62ef3bd945376a4c50950ac752dbc4bc",
+    "wof:geomhash":"5dade9080bbaa924356c99dc2da89188",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209220385,
-    "wof:lastmodified":1536293982,
+    "wof:lastmodified":1566609261,
     "wof:name":"Ngurwangdam",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     98.2022,
-    27.295040000000004,
+    27.29504,
     98.2022,
-    27.295040000000004
+    27.29504
 ],
   "geometry": {"coordinates":[98.2022,27.29504],"type":"Point"}
 }

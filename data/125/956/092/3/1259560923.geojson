@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.80581,19.54828,96.84581,19.58828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259560923,
-    "wof:lastmodified":1536747198,
+    "wof:lastmodified":1566611085,
     "wof:name":"Sisaung",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

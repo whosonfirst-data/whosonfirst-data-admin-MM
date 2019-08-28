@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.32449,22.59839,98.36449,22.63839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327421635,
-    "wof:lastmodified":1536696558,
+    "wof:lastmodified":1566607649,
     "wof:name":"Na-hung",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.49556,22.60514,96.53556,22.64514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mami"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293178335,
-    "wof:lastmodified":1564314758,
+    "wof:lastmodified":1566608600,
     "wof:name":"Mami",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

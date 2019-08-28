@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.01812,25.52914,96.05812,25.56914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u0101ms\u0101m"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260103711,
-    "wof:lastmodified":1537665420,
+    "wof:lastmodified":1566609706,
     "wof:name":"Namsam",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.07139,20.96139,98.11139,21.00139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225832929,
-    "wof:lastmodified":1537030821,
+    "wof:lastmodified":1566611564,
     "wof:name":"Konghkam",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

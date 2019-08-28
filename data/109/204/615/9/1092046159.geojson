@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.263151,
     "lbl:longitude":95.324866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u1019\u1000\u103d\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "meso:admin_1":"Magway",
     "meso:dissme":"MagwayMagway",
@@ -33,6 +35,7 @@
     "mps:longitude":95.324866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte de Magway"
     ],
@@ -58,16 +61,13 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e30\u0e01\u0e40\u0e27"
     ],
-    "name:und_x_variant":[
-        "\u1019\u1000\u103d\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:zho_x_preferred":[
         "\u99ac\u572d\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"9630",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1092046159,
-    "wof:lastmodified":1563268788,
+    "wof:lastmodified":1566610190,
     "wof:name":"Magway",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

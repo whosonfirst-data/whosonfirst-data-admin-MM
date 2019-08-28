@@ -11,10 +11,14 @@
     "geom:longitude":95.63957,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":40092,
+    "gn:population":40092,
     "iso:country":"MM",
+    "lbl:bbox":"95.61957,17.02459,95.65957,17.06459",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041d\u044f\u0443\u043d\u0433\u0434\u043e\u043d"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Nyaungdon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yandun"
     ],
     "qs:name":"Nyaungdon",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1285871,
         "gp:id":1017982,
-        "qs:id":132624,
+        "qs_pg:id":132624,
         "wd:id":"Q7070939",
         "wk:page":"Nyaungdon"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890415483,
-    "wof:lastmodified":1563269047,
+    "wof:lastmodified":1566610369,
     "wof:name":"Nyaungdon",
     "wof:parent_id":1092046289,
     "wof:placetype":"locality",

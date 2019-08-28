@@ -11,10 +11,14 @@
     "geom:longitude":95.72373,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":52425,
+    "gn:population":52425,
     "iso:country":"MM",
+    "lbl:bbox":"95.70373,16.42502,95.74373,16.46502",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bul_x_preferred":[
         "\u041a\u044f\u0438\u043a\u043b\u0430\u0442"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kyaiklat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keiklat"
     ],
     "qs:name":"Kyaiklat",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1317397,
         "gp:id":1017507,
-        "qs:id":132696,
+        "qs_pg:id":132696,
         "wd:id":"Q6450659",
         "wk:page":"Kyaiklat"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890437803,
-    "wof:lastmodified":1563269048,
+    "wof:lastmodified":1566610369,
     "wof:name":"Kyaiklat",
     "wof:parent_id":1092047167,
     "wof:placetype":"locality",

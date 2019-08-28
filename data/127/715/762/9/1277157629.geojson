@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.69842,21.64673,97.73842,21.68673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277157629,
-    "wof:lastmodified":1536659829,
+    "wof:lastmodified":1566608830,
     "wof:name":"Loi-kau",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

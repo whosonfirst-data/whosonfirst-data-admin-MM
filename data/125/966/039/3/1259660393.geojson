@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.69193,12.63695,98.73193,12.67695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mayanbingyaung",
         "Mayanbinehaung",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259660393,
-    "wof:lastmodified":1537665442,
+    "wof:lastmodified":1566611036,
     "wof:name":"Mayanbinchaung",
     "wof:parent_id":1092046951,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.80278,20.70315,96.84278,20.74315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Heho"
     ],
@@ -46,8 +50,7 @@
         "\u0e41\u0e2e\u0e42\u0e2e\u0e48"
     ],
     "name:und_x_variant":[
-        "He-ha",
-        "Heho"
+        "He-ha"
     ],
     "name:zho_x_preferred":[
         "\u9ed1\u6cb3"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1343438509,
-    "wof:lastmodified":1564314143,
+    "wof:lastmodified":1566608165,
     "wof:name":"Heho",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

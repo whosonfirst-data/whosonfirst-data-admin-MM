@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.47145,17.71194,95.51145,17.75194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343543169,
-    "wof:lastmodified":1536624988,
+    "wof:lastmodified":1566607701,
     "wof:name":"Zibyugon",
     "wof:parent_id":1092047665,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":96.72247,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":89626,
+    "gn:population":89626,
     "iso:country":"MM",
+    "lbl:bbox":"96.70247,17.93363,96.74247,17.97363",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Nyaunglebin"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1303406,
         "gp:id":1017737,
-        "qs:id":276524
+        "qs_pg:id":276524
     },
     "wof:country":"MM",
     "wof:created":1469051891,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890431451,
-    "wof:lastmodified":1564317421,
+    "wof:lastmodified":1566610370,
     "wof:name":"Nyaunglebin",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

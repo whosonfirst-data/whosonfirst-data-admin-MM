@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.83585,26.24597,96.87585,26.28597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1315069
     },
     "wof:country":"MM",
-    "wof:geomhash":"0f4d50e7b18191726ace563445df5fb4",
+    "wof:geomhash":"4e48a8593d676631d0f11572e54129b3",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209105933,
-    "wof:lastmodified":1536297571,
+    "wof:lastmodified":1566609444,
     "wof:name":"Lajau Ga",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.85585,
-    26.265970000000006,
+    26.26597000000001,
     96.85585,
-    26.265970000000006
+    26.26597000000001
 ],
   "geometry": {"coordinates":[96.85585,26.26597000000001],"type":"Point"}
 }

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.84166,20.54503,96.88166,20.58503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hputsin",
         "Huptsin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259859939,
-    "wof:lastmodified":1537665515,
+    "wof:lastmodified":1566610978,
     "wof:name":"Huptsin",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

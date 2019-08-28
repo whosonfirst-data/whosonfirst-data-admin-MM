@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.91173,17.31011,94.95173,17.35011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kanni"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1344163925,
-    "wof:lastmodified":1564313957,
+    "wof:lastmodified":1566608033,
     "wof:name":"Kanni",
     "wof:parent_id":1092047083,
     "wof:placetype":"locality",

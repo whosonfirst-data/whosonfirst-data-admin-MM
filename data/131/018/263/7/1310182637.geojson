@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.52988,20.89505,96.56988,20.93505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tatpot",
         "Tatpok"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310182637,
-    "wof:lastmodified":1537665358,
+    "wof:lastmodified":1566609893,
     "wof:name":"Tatpok",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

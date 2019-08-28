@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.6129,22.84282,96.6529,22.88282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1305415
     },
     "wof:country":"MM",
-    "wof:geomhash":"27cfa934283ad049c928a3c3b9da7a2c",
+    "wof:geomhash":"41cf504d3e001fad8b07bb1f6be64521",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209611801,
-    "wof:lastmodified":1536281823,
+    "wof:lastmodified":1566609277,
     "wof:name":"Nawi",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.6329,
-    22.862820000000006,
+    22.86282000000001,
     96.6329,
-    22.862820000000006
+    22.86282000000001
 ],
   "geometry": {"coordinates":[96.63290000000001,22.86282000000001],"type":"Point"}
 }

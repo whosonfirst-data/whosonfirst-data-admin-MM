@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.10685,26.57472,98.14685,26.61472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310405659,
-    "wof:lastmodified":1537058505,
+    "wof:lastmodified":1566609779,
     "wof:name":"Tinga Gahtawng",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

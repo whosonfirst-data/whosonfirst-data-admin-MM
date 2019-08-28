@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"92.21568,21.28862,92.25568,21.32862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242791377,
-    "wof:lastmodified":1536755695,
+    "wof:lastmodified":1566610700,
     "wof:name":"Maungrajapara",
     "wof:parent_id":1092046317,
     "wof:placetype":"locality",

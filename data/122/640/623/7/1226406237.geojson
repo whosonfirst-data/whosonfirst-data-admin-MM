@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.45378,18.25091,96.49378,18.29091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyog\u00f4n",
         "Gyogon"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226406237,
-    "wof:lastmodified":1537665531,
+    "wof:lastmodified":1566611424,
     "wof:name":"Gyogon",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

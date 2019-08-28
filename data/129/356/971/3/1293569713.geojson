@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.98246,20.83106,97.02246,20.87106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myenigen",
         "Myenigon"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293569713,
-    "wof:lastmodified":1537665428,
+    "wof:lastmodified":1566608453,
     "wof:name":"Myenigon",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

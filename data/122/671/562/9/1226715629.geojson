@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.43047,19.58989,96.47047,19.62989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lapettaung",
         "Laphettaung"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226715629,
-    "wof:lastmodified":1537665467,
+    "wof:lastmodified":1566611418,
     "wof:name":"Laphettaung",
     "wof:parent_id":1092045099,
     "wof:placetype":"locality",

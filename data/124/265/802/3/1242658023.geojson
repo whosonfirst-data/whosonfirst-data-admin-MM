@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.69158,22.253,98.73158,22.293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242658023,
-    "wof:lastmodified":1536948355,
+    "wof:lastmodified":1566610743,
     "wof:name":"Man UEkpok",
     "wof:parent_id":1092046245,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.7838,20.71329,95.8238,20.75329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pan ka gon",
         "Pangagon"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243348179,
-    "wof:lastmodified":1537665399,
+    "wof:lastmodified":1566610663,
     "wof:name":"Pangagon",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.29615,11.70826,98.33615,11.74826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyatchaung Ywa",
         "Kyatchaung"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259762829,
-    "wof:lastmodified":1537665482,
+    "wof:lastmodified":1566610999,
     "wof:name":"Kyatchaung",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

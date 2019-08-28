@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.88238,20.4149,97.92238,20.4549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242658027,
-    "wof:lastmodified":1536948348,
+    "wof:lastmodified":1566610743,
     "wof:name":"Kangnahka",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

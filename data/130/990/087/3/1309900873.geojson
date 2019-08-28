@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.46138,22.68152,95.50138,22.72152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309900873,
-    "wof:lastmodified":1536794307,
+    "wof:lastmodified":1566610226,
     "wof:name":"Kyunle",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

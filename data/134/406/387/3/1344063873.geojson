@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.97658,17.55175,95.01658,17.59175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344063873,
-    "wof:lastmodified":1536869446,
+    "wof:lastmodified":1566607826,
     "wof:name":"Mayangon",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

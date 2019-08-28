@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.67229,23.52981,97.71229,23.56981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Man Tingehi",
         "M\u0101n Tingchi"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259967563,
-    "wof:lastmodified":1537665446,
+    "wof:lastmodified":1566610876,
     "wof:name":"Man Tingchi",
     "wof:parent_id":1092046811,
     "wof:placetype":"locality",

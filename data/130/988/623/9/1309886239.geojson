@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.93611,19.82306,97.97611,19.86306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hkonglong",
         "W\u0101n Hkonglong"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309886239,
-    "wof:lastmodified":1537665333,
+    "wof:lastmodified":1566610348,
     "wof:name":"Wan Hkonglong",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

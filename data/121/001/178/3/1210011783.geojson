@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.83779,20.82864,95.87779,20.86864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1210011783,
-    "wof:lastmodified":1536396865,
+    "wof:lastmodified":1566609477,
     "wof:name":"Lugingyi",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.27371,17.9606,95.31371,18.0006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259980891,
-    "wof:lastmodified":1536637784,
+    "wof:lastmodified":1566610861,
     "wof:name":"Singaung-in",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

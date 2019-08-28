@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.79837,17.10387,97.83837,17.14387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u101c\u103e\u102d\u102f\u1004\u103a\u1038\u1018\u103d\u1032\u1037\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309899011,
-    "wof:lastmodified":1564317376,
+    "wof:lastmodified":1566610330,
     "wof:name":"Hlaingbwe",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

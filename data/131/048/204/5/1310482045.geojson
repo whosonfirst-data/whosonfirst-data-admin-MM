@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.56893,21.32307,99.60893,21.36307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yangl\u014dng",
         "W\u0101n Yangl\u014dng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310482045,
-    "wof:lastmodified":1537665306,
+    "wof:lastmodified":1566609752,
     "wof:name":"Wan Yanglong",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",

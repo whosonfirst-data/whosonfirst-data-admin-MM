@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.83625,20.98283,99.87625,21.02283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Mu-hs\u00f6 Hsensawmawng",
         "W\u0101n Hsensawmawng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276214669,
-    "wof:lastmodified":1537665329,
+    "wof:lastmodified":1566608707,
     "wof:name":"Wan Hsensawmawng",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

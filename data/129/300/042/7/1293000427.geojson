@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.15703,25.88543,98.19703,25.92543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laukhaung",
         "Lauhkang"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293000427,
-    "wof:lastmodified":1537665467,
+    "wof:lastmodified":1566608225,
     "wof:name":"Lauhkang",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

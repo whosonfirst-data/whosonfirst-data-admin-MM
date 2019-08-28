@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.16977,27.31887,97.20977,27.35887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343685209,
-    "wof:lastmodified":1536920016,
+    "wof:lastmodified":1566607950,
     "wof:name":"Kyenpalawn",
     "wof:parent_id":1092047123,
     "wof:placetype":"locality",

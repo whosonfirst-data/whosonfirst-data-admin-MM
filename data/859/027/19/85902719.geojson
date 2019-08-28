@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20514088.180473,
+    "geom:area_square_m":0.0,
     "geom:bbox":"96.163398,16.768984,96.163398,16.768984",
     "geom:latitude":16.768984,
     "geom:longitude":96.163398,
-    "gn:gn_country":"MM",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"MM",
+    "gn:fcode":"PPLX",
     "gn:latitude":16.77182,
     "gn:longitude":96.17332,
+    "gn:population":0,
     "iso:country":"MM",
+    "lbl:bbox":"96.158398,16.763984,96.168398,16.773984",
     "lbl:latitude":16.768984,
     "lbl:longitude":96.163398,
+    "lbl:max_zoom":18.0,
     "mps:latitude":16.758537,
     "mps:longitude":96.17001,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:mya_x_preferred":[
         "\u1017\u102d\u102f\u101c\u103a\u1010\u1011\u1031\u102c\u1004\u103a"
-    ],
-    "name:unk_x_variant":[
-        "Botataung"
     ],
     "qs:gn_adm0_cc":"MM",
     "qs:gn_fcode":"PPLX",
@@ -84,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":48,
     "wof:belongsto":[
         85674569,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":1327995,
         "gp:id":982178,
-        "qs:id":240592,
         "qs_pg:id":240592
     },
     "wof:country":"MM",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1566608172,
     "wof:name":"Botataung",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

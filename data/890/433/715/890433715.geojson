@@ -11,10 +11,14 @@
     "geom:longitude":95.54531,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":70094,
+    "gn:population":70094,
     "iso:country":"MM",
+    "lbl:bbox":"95.52531,19.9865,95.56531,20.0265",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Taungdwingyi"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1294041,
         "gp:id":1017884,
-        "qs:id":132634,
+        "qs_pg:id":132634,
         "wd:id":"Q3516145",
         "wk:page":"Taungdwingyi"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890433715,
-    "wof:lastmodified":1563269059,
+    "wof:lastmodified":1566610372,
     "wof:name":"Taungdwingyi",
     "wof:parent_id":1092046159,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.25194,16.7275,96.29194,16.7675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293847297,
-    "wof:lastmodified":1536765988,
+    "wof:lastmodified":1566608340,
     "wof:name":"Padongyaung",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

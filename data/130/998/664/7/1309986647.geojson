@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.51643,22.77488,98.55643,22.81488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Man Namnga",
         "M\u0101n Namngat"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309986647,
-    "wof:lastmodified":1537665449,
+    "wof:lastmodified":1566610212,
     "wof:name":"Man Namngat",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

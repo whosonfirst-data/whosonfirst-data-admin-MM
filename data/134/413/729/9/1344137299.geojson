@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.28179,21.91364,98.32179,21.95364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344137299,
-    "wof:lastmodified":1536765114,
+    "wof:lastmodified":1566607774,
     "wof:name":"Hsonhkawn",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

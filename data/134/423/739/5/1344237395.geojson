@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.51342,23.31009,97.55342,23.35009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344237395,
-    "wof:lastmodified":1536618158,
+    "wof:lastmodified":1566607805,
     "wof:name":"Man Nam-yom",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

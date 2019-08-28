@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.6532,21.70539,94.6932,21.74539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293856649,
-    "wof:lastmodified":1536752026,
+    "wof:lastmodified":1566608344,
     "wof:name":"Bahin",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

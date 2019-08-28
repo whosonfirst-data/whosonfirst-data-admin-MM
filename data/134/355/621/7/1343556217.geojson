@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.52859,19.65874,97.56859,19.69874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wan Hwe-man",
         "W\u0101n Hw\u00e8-maw"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343556217,
-    "wof:lastmodified":1537665327,
+    "wof:lastmodified":1566607720,
     "wof:name":"Wan Hwe-maw",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

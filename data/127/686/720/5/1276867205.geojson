@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.9621,20.98077,96.0021,21.02077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngathetywa",
         "Ngathet"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276867205,
-    "wof:lastmodified":1537665411,
+    "wof:lastmodified":1566608676,
     "wof:name":"Ngathet",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

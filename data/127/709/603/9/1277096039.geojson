@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.70888,21.24232,95.74888,21.28232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277096039,
-    "wof:lastmodified":1536748330,
+    "wof:lastmodified":1566608665,
     "wof:name":"Myogon",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

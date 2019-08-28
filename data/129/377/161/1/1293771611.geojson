@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.07825,22.71097,97.11825,22.75097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293771611,
-    "wof:lastmodified":1536873591,
+    "wof:lastmodified":1566608322,
     "wof:name":"Kaitai",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

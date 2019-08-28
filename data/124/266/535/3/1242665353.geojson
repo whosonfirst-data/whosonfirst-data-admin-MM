@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.95604,20.97637,98.99604,21.01637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mu-hso P\u0101-nong",
         "Pa-n\u00f6ng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242665353,
-    "wof:lastmodified":1537665397,
+    "wof:lastmodified":1566610498,
     "wof:name":"Pa-noeng",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

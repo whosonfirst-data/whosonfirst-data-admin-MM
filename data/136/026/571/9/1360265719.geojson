@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.32039,21.06878,100.36039,21.10878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u016bnghsa",
         "W\u0101n T\u016bnghsa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360265719,
-    "wof:lastmodified":1537665554,
+    "wof:lastmodified":1566610148,
     "wof:name":"Wan Tunghsa",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.84142,26.04645,96.88142,26.08645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2019Nsen Ga",
         "\u2019Nsen Gahtawng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326930329,
-    "wof:lastmodified":1537665407,
+    "wof:lastmodified":1566607478,
     "wof:name":"'Nsen Gahtawng",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.5212,21.63308,94.5612,21.67308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yagamogin",
         "Yegamogin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326903131,
-    "wof:lastmodified":1537665299,
+    "wof:lastmodified":1566607570,
     "wof:name":"Yegamogin",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

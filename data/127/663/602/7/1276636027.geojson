@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.70617,21.02387,96.74617,21.06387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kunda"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1276636027,
-    "wof:lastmodified":1564315379,
+    "wof:lastmodified":1566608982,
     "wof:name":"Kunda",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

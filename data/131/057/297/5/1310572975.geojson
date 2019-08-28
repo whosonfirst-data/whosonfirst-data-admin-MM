@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.63143,18.4651,96.67143,18.5051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Onlinzeik",
         "Aunglaungzein"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310572975,
-    "wof:lastmodified":1537665548,
+    "wof:lastmodified":1566609972,
     "wof:name":"Aunglaungzein",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

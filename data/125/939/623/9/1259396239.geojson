@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.84395,19.57942,93.88395,19.61942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259396239,
-    "wof:lastmodified":1536983133,
+    "wof:lastmodified":1566610884,
     "wof:name":"Dazwe",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

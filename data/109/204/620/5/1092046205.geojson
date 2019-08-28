@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.955095,
     "lbl:longitude":96.161325,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "meso:admin_1":"Mandalay",
     "meso:dissme":"MandalayMandalay",
@@ -33,6 +35,7 @@
     "mps:longitude":96.161325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte de Mandalay"
     ],
@@ -60,16 +63,13 @@
     "name:swe_x_preferred":[
         "Mandalay District"
     ],
-    "name:und_x_variant":[
-        "\u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:zho_x_preferred":[
         "\u66fc\u5fb7\u52d2\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"915",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1092046205,
-    "wof:lastmodified":1563268770,
+    "wof:lastmodified":1566610168,
     "wof:name":"Mandalay",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

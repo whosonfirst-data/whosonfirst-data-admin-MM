@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.91749,22.37485,97.95749,22.41485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326818203,
-    "wof:lastmodified":1537066116,
+    "wof:lastmodified":1566607446,
     "wof:name":"Nawng-pa-keng",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

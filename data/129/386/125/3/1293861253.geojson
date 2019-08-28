@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.90676,21.61093,99.94676,21.65093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0113ng Tung"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293861253,
-    "wof:lastmodified":1537665496,
+    "wof:lastmodified":1566608648,
     "wof:name":"Keng Tung",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",

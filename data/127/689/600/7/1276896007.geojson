@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.01799,18.94746,97.05799,18.98746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buku"
     ],
@@ -34,8 +38,7 @@
         "Buku"
     ],
     "name:und_x_variant":[
-        "Buko-ywa",
-        "Buku"
+        "Buko-ywa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276896007,
-    "wof:lastmodified":1564314965,
+    "wof:lastmodified":1566608727,
     "wof:name":"Buku",
     "wof:parent_id":1092044973,
     "wof:placetype":"locality",

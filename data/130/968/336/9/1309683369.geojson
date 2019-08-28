@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.4159,17.51622,97.4559,17.55622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Htawklohta",
         "Thebyuwa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309683369,
-    "wof:lastmodified":1537665345,
+    "wof:lastmodified":1566610295,
     "wof:name":"Thebyuwa",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

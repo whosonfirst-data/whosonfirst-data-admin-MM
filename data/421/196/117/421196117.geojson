@@ -10,8 +10,12 @@
     "geom:latitude":20.85005,
     "geom:longitude":96.0546,
     "iso:country":"MM",
+    "lbl:bbox":"96.0346,20.83005,96.0746,20.87005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Thazi"
@@ -25,7 +29,7 @@
     "name:shn_x_preferred":[
         "\u1010\u1083\u1087\u1078\u102e\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thali"
     ],
     "qs:gn_country":"MM",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1291932,
         "gp:id":1017908,
-        "qs:id":1167249,
+        "qs_pg:id":1167249,
         "wd:id":"Q7711602"
     },
     "wof:country":"MM",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421196117,
-    "wof:lastmodified":1563269039,
+    "wof:lastmodified":1566610366,
     "wof:name":"Thazi",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

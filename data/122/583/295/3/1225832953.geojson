@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.34648,21.64011,98.38648,21.68011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mongsong",
         "M\u00f6ng Sang"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225832953,
-    "wof:lastmodified":1537665431,
+    "wof:lastmodified":1566611565,
     "wof:name":"Moeng Sang",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

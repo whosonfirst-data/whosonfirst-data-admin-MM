@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.77154,20.83319,99.81154,20.87319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326610549,
-    "wof:lastmodified":1536870080,
+    "wof:lastmodified":1566607487,
     "wof:name":"Wan Namwa",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

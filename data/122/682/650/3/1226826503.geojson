@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.48003,19.91616,97.52003,19.95616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wan Nawng-awng",
         "W\u0101n Nawnglawng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226826503,
-    "wof:lastmodified":1537665313,
+    "wof:lastmodified":1566611408,
     "wof:name":"Wan Nawnglawng",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

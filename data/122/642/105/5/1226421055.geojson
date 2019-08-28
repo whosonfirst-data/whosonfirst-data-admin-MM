@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.82534,24.80483,94.86534,24.84483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u0101n Maw"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226421055,
-    "wof:lastmodified":1537665449,
+    "wof:lastmodified":1566611228,
     "wof:name":"Man Maw",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

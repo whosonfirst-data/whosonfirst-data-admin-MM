@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.08571,22.03458,96.12571,22.07458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nanda"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209096249,
-    "wof:lastmodified":1564315508,
+    "wof:lastmodified":1566609065,
     "wof:name":"Nanda",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

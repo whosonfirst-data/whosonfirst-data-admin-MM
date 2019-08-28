@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.29225,18.69334,94.33225,18.73334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyunpaw",
         "Khu-ywa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309721145,
-    "wof:lastmodified":1537665494,
+    "wof:lastmodified":1566610359,
     "wof:name":"Khu-ywa",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

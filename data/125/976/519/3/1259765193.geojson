@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.61421,17.56312,96.65421,17.60312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259765193,
-    "wof:lastmodified":1536949793,
+    "wof:lastmodified":1566610994,
     "wof:name":"Hpalauk Taung",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

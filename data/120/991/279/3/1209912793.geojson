@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.41731,17.50188,97.45731,17.54188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyatthaungseik",
         "Kyatthaungzeik"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209912793,
-    "wof:lastmodified":1537665482,
+    "wof:lastmodified":1566609089,
     "wof:name":"Kyatthaungzeik",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

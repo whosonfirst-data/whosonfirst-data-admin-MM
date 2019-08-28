@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.19815,19.81842,93.23815,19.85842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276242141,
-    "wof:lastmodified":1536900855,
+    "wof:lastmodified":1566608908,
     "wof:name":"Pyingyi",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

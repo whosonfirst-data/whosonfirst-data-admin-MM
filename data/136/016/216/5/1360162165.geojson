@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.50911,21.16445,100.54911,21.20445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hpya-pangy\u014dk",
         "W\u0101n Hpya-pangy\u014dk"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360162165,
-    "wof:lastmodified":1537665562,
+    "wof:lastmodified":1566610093,
     "wof:name":"Wan Hpya-pangyok",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

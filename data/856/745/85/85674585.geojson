@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":16.793118,
     "lbl:longitude":95.130556,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u1027\u101b\u102c\u101d\u1010\u102e\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "mps:latitude":16.894631,
     "mps:longitude":95.200411,
@@ -206,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0430\u0432\u0430\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irrawaddy Division"
     ],
     "name:urd_x_preferred":[
@@ -296,9 +297,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"35,167",
     "statoids:area_mi":"13,578",
     "statoids:as_of_date":"2003-01-01",
@@ -322,7 +323,7 @@
         "gp:id":2344812,
         "hasc:id":"MM.AY",
         "iso:id":"MM-07",
-        "qs:id":219512,
+        "qs_pg:id":219512,
         "wd:id":"Q47047",
         "wk:page":"Ayeyarwady Region"
     },
@@ -342,11 +343,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727830,
+    "wof:lastmodified":1566608200,
     "wof:name":"Ayeyarwady",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":7183541,
     "wof:population_rank":13,

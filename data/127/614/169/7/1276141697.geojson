@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.09834,21.91495,96.13834,21.95495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u0981\u09a5\u09be"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276141697,
-    "wof:lastmodified":1564315186,
+    "wof:lastmodified":1566608862,
     "wof:name":"Kantha",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",

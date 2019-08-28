@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.49483,22.43015,96.53483,22.47015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hkyawngsha",
         "Hkyawnghsa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259957323,
-    "wof:lastmodified":1537665526,
+    "wof:lastmodified":1566611026,
     "wof:name":"Hkyawnghsa",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

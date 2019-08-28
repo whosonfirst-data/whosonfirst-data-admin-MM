@@ -11,10 +11,14 @@
     "geom:longitude":93.67779,
     "gn:country":"MM",
     "gn:fcode":"PPL",
-    "gn:pop":5404,
+    "gn:population":5404,
     "iso:country":"MM",
+    "lbl:bbox":"93.65779,22.89335,93.69779,22.93335",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Falam"
     ],
@@ -63,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0445\u0430\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palan"
     ],
     "name:urd_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":1326105,
         "gp:id":1017392,
-        "qs:id":132709,
+        "qs_pg:id":132709,
         "wd:id":"Q1208756"
     },
     "wof:country":"MM",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890440433,
-    "wof:lastmodified":1563269045,
+    "wof:lastmodified":1566610368,
     "wof:name":"Falam",
     "wof:parent_id":1092045149,
     "wof:placetype":"locality",

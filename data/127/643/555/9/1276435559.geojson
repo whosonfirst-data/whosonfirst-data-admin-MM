@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.01227,24.80264,95.05227,24.84264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276435559,
-    "wof:lastmodified":1537568463,
+    "wof:lastmodified":1566608689,
     "wof:name":"Satkaya",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

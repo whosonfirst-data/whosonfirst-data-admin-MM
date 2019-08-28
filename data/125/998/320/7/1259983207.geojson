@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"92.67348,20.56784,92.71348,20.60784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sahpogyun",
         "Prinshe"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259983207,
-    "wof:lastmodified":1537665387,
+    "wof:lastmodified":1566610862,
     "wof:name":"Prinshe",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

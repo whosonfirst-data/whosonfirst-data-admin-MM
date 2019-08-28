@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.01336,19.90354,95.05336,19.94354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226315541,
-    "wof:lastmodified":1536832127,
+    "wof:lastmodified":1566611533,
     "wof:name":"Malun",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

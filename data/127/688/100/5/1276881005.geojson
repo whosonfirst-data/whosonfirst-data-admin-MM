@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.53,22.96333,93.57,23.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276881005,
-    "wof:lastmodified":1537037908,
+    "wof:lastmodified":1566608691,
     "wof:name":"Khaute",
     "wof:parent_id":1092045149,
     "wof:placetype":"locality",

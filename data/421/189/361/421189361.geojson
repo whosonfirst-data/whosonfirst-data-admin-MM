@@ -10,8 +10,12 @@
     "geom:latitude":23.3225,
     "geom:longitude":94.3701,
     "iso:country":"MM",
+    "lbl:bbox":"94.3501,23.3025,94.3901,23.3425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kazet"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1319453,
         "gp:id":1017476,
-        "qs:id":43869,
+        "qs_pg:id":43869,
         "wd:id":"Q6381054"
     },
     "wof:country":"MM",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421189361,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1566610365,
     "wof:name":"Kazet",
     "wof:parent_id":1092045503,
     "wof:placetype":"locality",

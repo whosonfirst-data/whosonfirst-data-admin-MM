@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"92.49202,21.06258,92.53202,21.10258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "In-gyaung-ywa",
         "Ingyaung"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243457969,
-    "wof:lastmodified":1537665513,
+    "wof:lastmodified":1566610788,
     "wof:name":"Ingyaung",
     "wof:parent_id":1092046317,
     "wof:placetype":"locality",

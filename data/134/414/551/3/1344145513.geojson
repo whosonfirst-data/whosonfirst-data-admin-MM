@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.54022,22.79906,95.58022,22.83906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344145513,
-    "wof:lastmodified":1536752851,
+    "wof:lastmodified":1566607775,
     "wof:name":"Baukthindon",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

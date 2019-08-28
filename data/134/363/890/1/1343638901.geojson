@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.01982,20.96697,99.05982,21.00697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Punghkun",
         "W\u0101n Pongkun"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343638901,
-    "wof:lastmodified":1537665310,
+    "wof:lastmodified":1566607733,
     "wof:name":"Wan Pongkun",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

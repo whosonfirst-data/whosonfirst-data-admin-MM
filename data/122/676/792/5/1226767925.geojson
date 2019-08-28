@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.48906,22.02009,95.52906,22.06009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226767925,
-    "wof:lastmodified":1536683615,
+    "wof:lastmodified":1566611402,
     "wof:name":"Kanzwe",
     "wof:parent_id":1092047295,
     "wof:placetype":"locality",

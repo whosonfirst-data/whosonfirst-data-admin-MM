@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.13068,16.45069,96.17068,16.49069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Bodin"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309969365,
-    "wof:lastmodified":1564317225,
+    "wof:lastmodified":1566610219,
     "wof:name":"Bodin",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

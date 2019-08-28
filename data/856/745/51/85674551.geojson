@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.255878,
     "lbl:longitude":97.364658,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u1000\u101a\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
     "mps:latitude":19.229513,
     "mps:longitude":97.361374,
@@ -59,7 +60,7 @@
     "name:swe_x_variant":[
         "Kayah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karenni District"
     ],
     "name:vie_x_preferred":[
@@ -137,9 +138,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"11,670",
     "statoids:area_mi":"4,506",
     "statoids:as_of_date":"2003-01-01",
@@ -165,7 +166,7 @@
         "gp:id":2344815,
         "hasc:id":"MM.KH",
         "iso:id":"MM-12",
-        "qs:id":239500,
+        "qs_pg:id":239500,
         "unlc:id":"MM-12"
     },
     "wof:country":"MM",
@@ -184,11 +185,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727827,
+    "wof:lastmodified":1566608193,
     "wof:name":"Kayah",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":284630,
     "wof:population_rank":10,

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.12326,16.52209,96.16326,16.56209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1463319
     },
     "wof:country":"MM",
-    "wof:geomhash":"21225964a7445e3a6aae23106201d53e",
+    "wof:geomhash":"d531012396b765f2a1819b8e831bace8",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209290655,
-    "wof:lastmodified":1536291706,
+    "wof:lastmodified":1566609360,
     "wof:name":"Ma-wun",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.14326,
-    16.542089999999998,
+    16.54209,
     96.14326,
-    16.542089999999998
+    16.54209
 ],
   "geometry": {"coordinates":[96.14326,16.54209],"type":"Point"}
 }

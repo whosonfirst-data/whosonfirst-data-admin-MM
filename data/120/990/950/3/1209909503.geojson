@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.45295,15.89963,98.49295,15.93963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mikwi",
         "L\u00f4nhpado"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209909503,
-    "wof:lastmodified":1537665459,
+    "wof:lastmodified":1566609149,
     "wof:name":"Lonhpado",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.71726,23.93866,95.75726,23.97866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyeingyaug",
         "Kyeingyaung"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310695529,
-    "wof:lastmodified":1537665476,
+    "wof:lastmodified":1566609995,
     "wof:name":"Kyeingyaung",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.56578,20.64709,97.60578,20.68709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343538803,
-    "wof:lastmodified":1536631737,
+    "wof:lastmodified":1566607707,
     "wof:name":"Wan Kang",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

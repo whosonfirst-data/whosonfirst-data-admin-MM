@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.67886,18.90529,96.71886,18.94529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1015\u101c\u1000\u103a\u101d\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209814139,
-    "wof:lastmodified":1564316102,
+    "wof:lastmodified":1566609453,
     "wof:name":"Paletwa",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

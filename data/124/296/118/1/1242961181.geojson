@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.71333,21.36333,100.75333,21.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ta-me-inkiao",
         "W\u0101n Ta-me-inkiao"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242961181,
-    "wof:lastmodified":1537665555,
+    "wof:lastmodified":1566610732,
     "wof:name":"Wan Ta-me-inkiao",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

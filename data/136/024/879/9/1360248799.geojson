@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.91344,19.36589,95.95344,19.40589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360248799,
-    "wof:lastmodified":1536709876,
+    "wof:lastmodified":1566610027,
     "wof:name":"Bogyi Te",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

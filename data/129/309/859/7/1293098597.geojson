@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.15936,26.32868,96.19936,26.36868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Taro"
     ],
@@ -219,8 +223,7 @@
     "name:und_x_variant":[
         "Dalu Ga",
         "Tayo",
-        "Taro Valley",
-        "Taro"
+        "Taro Valley"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0631\u0648"
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":1293098597,
-    "wof:lastmodified":1564314215,
+    "wof:lastmodified":1566608239,
     "wof:name":"Taro",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

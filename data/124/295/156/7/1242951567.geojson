@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.83121,23.95506,95.87121,23.99506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242951567,
-    "wof:lastmodified":1537021171,
+    "wof:lastmodified":1566610510,
     "wof:name":"Tatpyin",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

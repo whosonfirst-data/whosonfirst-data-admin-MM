@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17101563.80397,
+    "geom:area_square_m":0.0,
     "geom:bbox":"92.899166,20.144939,92.899166,20.144939",
     "geom:latitude":20.144939,
     "geom:longitude":92.899166,
     "gn:latitude":20.15136,
     "gn:longitude":92.89635,
     "iso:country":"MM",
+    "lbl:bbox":"92.894166,20.139939,92.904166,20.149939",
     "lbl:latitude":20.144939,
     "lbl:longitude":92.899166,
+    "lbl:max_zoom":18.0,
     "mps:latitude":20.145858,
     "mps:longitude":92.899686,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Shwebya"
-    ],
-    "name:unk_x_variant":[
         "Shwebya"
     ],
     "qs:gn_adm0_cc":"MM",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85674579,
         102191569,
         85632181,
-        1092047375,
-        85674579
+        1092047375
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1296720,
         "gp:id":1006114,
-        "qs:id":1117302
+        "qs_pg:id":1117302
     },
     "wof:country":"MM",
     "wof:geomhash":"a8fd759412bcfd487dbcbac0979ecec7",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935929,
+    "wof:lastmodified":1566608171,
     "wof:name":"Shwebya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

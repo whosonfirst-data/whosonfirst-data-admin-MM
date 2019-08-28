@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.48431,20.09957,97.52431,20.13957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pu-luk",
         "W\u0101n Pu-luk"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343742675,
-    "wof:lastmodified":1537665310,
+    "wof:lastmodified":1566608102,
     "wof:name":"Wan Pu-luk",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

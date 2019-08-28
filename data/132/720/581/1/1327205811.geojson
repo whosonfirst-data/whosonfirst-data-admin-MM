@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.4727,16.99602,96.5127,17.03602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kana"
     ],
@@ -212,7 +216,7 @@
         }
     ],
     "wof:id":1327205811,
-    "wof:lastmodified":1564313447,
+    "wof:lastmodified":1566607670,
     "wof:name":"Kana",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.87317,21.04101,95.91317,21.08101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309707941,
-    "wof:lastmodified":1537069224,
+    "wof:lastmodified":1566610252,
     "wof:name":"Yeaung",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

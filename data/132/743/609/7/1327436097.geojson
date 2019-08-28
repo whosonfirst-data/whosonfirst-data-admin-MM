@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.18523,17.61388,97.22523,17.65388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tipado",
         "Htiphado"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327436097,
-    "wof:lastmodified":1537665516,
+    "wof:lastmodified":1566607619,
     "wof:name":"Htiphado",
     "wof:parent_id":1092045467,
     "wof:placetype":"locality",

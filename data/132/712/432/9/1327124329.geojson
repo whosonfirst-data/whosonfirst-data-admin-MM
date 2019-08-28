@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.55434,22.01097,96.59434,22.05097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naunglaung",
         "Naungleung"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327124329,
-    "wof:lastmodified":1537665416,
+    "wof:lastmodified":1566607512,
     "wof:name":"Naungleung",
     "wof:parent_id":1092047259,
     "wof:placetype":"locality",

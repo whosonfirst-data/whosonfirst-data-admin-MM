@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.34023,25.63429,96.38023,25.67429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00f4ngin",
         "Lonkin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277109127,
-    "wof:lastmodified":1537665459,
+    "wof:lastmodified":1566609053,
     "wof:name":"Lonkin",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.22619,21.61241,95.26619,21.65241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u101b\u1031\u1005\u1000\u103c\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -37,8 +41,7 @@
         "Yesagyo"
     ],
     "name:und_x_variant":[
-        "Yezagyo",
-        "Yesagyo"
+        "Yezagyo"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0633\u06af\u06cc\u0648"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1242660235,
-    "wof:lastmodified":1564317591,
+    "wof:lastmodified":1566610500,
     "wof:name":"Yesagyo",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

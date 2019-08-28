@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.55626,23.80455,97.59626,23.84455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma Mawn",
         "M\u0101n Mawn"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242683413,
-    "wof:lastmodified":1537665449,
+    "wof:lastmodified":1566610493,
     "wof:name":"Man Mawn",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.81408,22.96245,97.85408,23.00245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293764105,
-    "wof:lastmodified":1536884853,
+    "wof:lastmodified":1566608357,
     "wof:name":"Mawng-ka-sai",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

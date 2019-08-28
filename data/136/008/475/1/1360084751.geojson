@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.84641,24.90824,96.88641,24.94824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wari"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1360084751,
-    "wof:lastmodified":1564317054,
+    "wof:lastmodified":1566610055,
     "wof:name":"Wari",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

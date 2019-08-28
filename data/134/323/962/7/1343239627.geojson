@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.22813,21.41369,100.26813,21.45369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hpya-hkamsao",
         "W\u0101n Hpya-hkamsao"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343239627,
-    "wof:lastmodified":1537665563,
+    "wof:lastmodified":1566607886,
     "wof:name":"Wan Hpya-hkamsao",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

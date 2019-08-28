@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.9665,24.58885,97.0065,24.62885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293594915,
-    "wof:lastmodified":1536630606,
+    "wof:lastmodified":1566608400,
     "wof:name":"Pyilonbum",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

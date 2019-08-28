@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.43444,20.45444,99.47444,20.49444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Muhs\u00f6",
         "W\u0101n-M\u00f5-hs\u00f6"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343438481,
-    "wof:lastmodified":1537665318,
+    "wof:lastmodified":1566608168,
     "wof:name":"Wan-Mo-hsoe",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

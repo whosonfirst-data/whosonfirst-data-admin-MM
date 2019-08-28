@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.8528,22.66786,97.8928,22.70786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ho-hko Namhpoklun",
         "Ho-hko-nam-hpak-l\u00fcn"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259560939,
-    "wof:lastmodified":1537665524,
+    "wof:lastmodified":1566611086,
     "wof:name":"Ho-hko-nam-hpak-luen",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

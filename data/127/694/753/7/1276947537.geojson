@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.0748,21.42232,95.1148,21.46232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276947537,
-    "wof:lastmodified":1536950943,
+    "wof:lastmodified":1566608785,
     "wof:name":"Kunthigan",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

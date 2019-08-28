@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.90027,18.37557,96.94027,18.41557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1285185
     },
     "wof:country":"MM",
-    "wof:geomhash":"808711d8e9e50a3e73e7442eef17add9",
+    "wof:geomhash":"4c365781ea25ad77002d7014ba427f16",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209178027,
-    "wof:lastmodified":1536295355,
+    "wof:lastmodified":1566609439,
     "wof:name":"Yemyogan",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.92027,
-    18.395570000000006,
+    18.39557000000001,
     96.92027,
-    18.395570000000006
+    18.39557000000001
 ],
   "geometry": {"coordinates":[96.92027,18.39557000000001],"type":"Point"}
 }

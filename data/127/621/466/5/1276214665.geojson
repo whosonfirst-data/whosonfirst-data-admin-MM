@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.63142,23.91888,98.67142,23.95888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276214665,
-    "wof:lastmodified":1536938844,
+    "wof:lastmodified":1566608707,
     "wof:name":"Hpinho",
     "wof:parent_id":1092046035,
     "wof:placetype":"locality",

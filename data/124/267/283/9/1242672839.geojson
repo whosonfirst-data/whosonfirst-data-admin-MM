@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.51593,21.49454,95.55593,21.53454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242672839,
-    "wof:lastmodified":1536927325,
+    "wof:lastmodified":1566610529,
     "wof:name":"Pyogan",
     "wof:parent_id":1092046999,
     "wof:placetype":"locality",

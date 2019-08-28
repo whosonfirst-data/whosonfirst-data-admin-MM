@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.30527,21.06991,100.34527,21.10991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1192998649,
-    "wof:lastmodified":1536373075,
+    "wof:lastmodified":1566609553,
     "wof:name":"Wan Yanghkam",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":24.25256,
     "geom:longitude":97.23357,
     "iso:country":"MM",
+    "lbl:bbox":"97.21357,24.23256,97.25357,24.27256",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0411\u0445\u0430\u043c\u043e"
@@ -73,7 +77,7 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e30\u0e42\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsinkai"
     ],
     "name:zho_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1328218,
         "gp:id":1017360,
-        "qs:id":182460,
+        "qs_pg:id":182460,
         "wd:id":"Q854791",
         "wk:page":"Bhamo"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421198379,
-    "wof:lastmodified":1563269038,
+    "wof:lastmodified":1566610366,
     "wof:name":"Bhamo",
     "wof:parent_id":1092045031,
     "wof:placetype":"locality",

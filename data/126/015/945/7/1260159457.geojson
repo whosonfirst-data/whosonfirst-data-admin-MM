@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.05569,22.66962,95.09569,22.70962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260159457,
-    "wof:lastmodified":1536880238,
+    "wof:lastmodified":1566609600,
     "wof:name":"Taungni Taung",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.71759,20.79154,98.75759,20.83154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326510509,
-    "wof:lastmodified":1537014665,
+    "wof:lastmodified":1566607466,
     "wof:name":"Wan Loi-mun",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

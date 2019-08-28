@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.13631,21.13797,97.17631,21.17797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293764075,
-    "wof:lastmodified":1536884898,
+    "wof:lastmodified":1566608351,
     "wof:name":"Hai Hkai",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

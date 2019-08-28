@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.32111,19.70444,98.36111,19.74444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wan Pu-hpya-mao",
         "W\u0101n Pu-hpya-ma\u00fc"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259760611,
-    "wof:lastmodified":1537665310,
+    "wof:lastmodified":1566611000,
     "wof:name":"Wan Pu-hpya-maue",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

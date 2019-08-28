@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.84051,20.67598,99.88051,20.71598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293761065,
-    "wof:lastmodified":1536889390,
+    "wof:lastmodified":1566608355,
     "wof:name":"Wan Pawhpu",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.38092,18.54621,96.42092,18.58621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Onhne",
         "Okhne"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310187165,
-    "wof:lastmodified":1537665404,
+    "wof:lastmodified":1566609895,
     "wof:name":"Okhne",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

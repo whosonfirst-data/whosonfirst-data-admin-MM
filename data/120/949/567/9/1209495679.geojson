@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.9233,20.75592,96.9633,20.79592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1318255
     },
     "wof:country":"MM",
-    "wof:geomhash":"8d1310264cc0d67f6e09b2c12d41451c",
+    "wof:geomhash":"ca716c9e22e9119e059e8ad082507f93",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209495679,
-    "wof:lastmodified":1536285344,
+    "wof:lastmodified":1566609237,
     "wof:name":"Konlin",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     96.9433,
-    20.775920000000006,
+    20.77592000000001,
     96.9433,
-    20.775920000000006
+    20.77592000000001
 ],
   "geometry": {"coordinates":[96.94329999999999,20.77592000000001],"type":"Point"}
 }

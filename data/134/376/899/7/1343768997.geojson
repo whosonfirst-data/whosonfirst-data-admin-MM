@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.63769,17.49862,95.67769,17.53862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343768997,
-    "wof:lastmodified":1536798676,
+    "wof:lastmodified":1566607908,
     "wof:name":"Kyongyaik",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.3255,24.31209,96.3655,24.35209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u0627"
     ],
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":1209803981,
-    "wof:lastmodified":1564316009,
+    "wof:lastmodified":1566609394,
     "wof:name":"Kaka",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

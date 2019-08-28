@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.81756,20.48795,99.85756,20.52795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276751657,
-    "wof:lastmodified":1536715725,
+    "wof:lastmodified":1566608682,
     "wof:name":"Wan Hpya-sau",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

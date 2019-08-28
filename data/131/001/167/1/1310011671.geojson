@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.21729,25.19635,97.25729,25.23635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ningtum",
         "Ninglum"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310011671,
-    "wof:lastmodified":1537665408,
+    "wof:lastmodified":1566609854,
     "wof:name":"Ninglum",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

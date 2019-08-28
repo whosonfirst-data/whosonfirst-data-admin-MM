@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.71341,11.74487,98.75341,11.78487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260067247,
-    "wof:lastmodified":1537010743,
+    "wof:lastmodified":1566609653,
     "wof:name":"Kyaukpeik",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

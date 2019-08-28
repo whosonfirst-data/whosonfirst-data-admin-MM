@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.89641,19.62772,96.93641,19.66772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sulaya",
         "Loi-yein"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344045187,
-    "wof:lastmodified":1537665459,
+    "wof:lastmodified":1566608070,
     "wof:name":"Loi-yein",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

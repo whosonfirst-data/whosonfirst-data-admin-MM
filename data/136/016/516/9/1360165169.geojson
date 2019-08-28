@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.99586,23.10515,98.03586,23.14515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360165169,
-    "wof:lastmodified":1536829200,
+    "wof:lastmodified":1566610101,
     "wof:name":"Loi-hseng",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

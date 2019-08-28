@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.65098,20.85365,99.69098,20.89365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Muhs\u016b M\u016bnhkamsao",
         "Wan Mu-hs\u00f6 M\u00fcnhkamsao",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243048485,
-    "wof:lastmodified":1537665318,
+    "wof:lastmodified":1566610636,
     "wof:name":"Wan Muenhkamsao",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.28114,26.48261,98.32114,26.52261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kangh\u0101i"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343785391,
-    "wof:lastmodified":1537665506,
+    "wof:lastmodified":1566607919,
     "wof:name":"Kanghai",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

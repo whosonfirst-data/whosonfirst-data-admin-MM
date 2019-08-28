@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.051331,
     "lbl:longitude":96.106676,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u101b\u1014\u103a\u1000\u102f\u1014\u103a\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "mps:latitude":17.032171,
     "mps:longitude":96.125977,
@@ -168,7 +169,7 @@
         "Yangonregionen"
     ],
     "name:tam_x_preferred":[
-        "\u0baf\u0b99\u0bcd\u0b95\u0bca\u0ba3\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0baf\u0b99\u0bcd\u0b95\u0bca\u0ba3\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c3e\u0c02\u0c17\u0c4b\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -182,7 +183,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0433\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rangoon Division"
     ],
     "name:urd_x_preferred":[
@@ -269,9 +270,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"521",
     "statoids:area_mi":"201",
     "statoids:as_of_date":"2003-01-01",
@@ -297,7 +298,7 @@
         "gp:id":2344823,
         "hasc:id":"MM.YA",
         "iso:id":"MM-06",
-        "qs:id":219514,
+        "qs_pg:id":219514,
         "unlc:id":"MM-06",
         "wd:id":"Q856781",
         "wk:page":"Yangon Region"
@@ -318,11 +319,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727827,
+    "wof:lastmodified":1566608192,
     "wof:name":"Yangon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":5930728,
     "wof:population_rank":13,

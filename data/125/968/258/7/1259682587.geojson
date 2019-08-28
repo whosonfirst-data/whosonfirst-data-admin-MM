@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.44188,17.92396,97.48188,17.96396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259682587,
-    "wof:lastmodified":1537065444,
+    "wof:lastmodified":1566611015,
     "wof:name":"Htihkekhi",
     "wof:parent_id":1092045467,
     "wof:placetype":"locality",

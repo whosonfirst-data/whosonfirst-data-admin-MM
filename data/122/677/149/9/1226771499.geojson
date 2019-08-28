@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.70167,19.43333,97.74167,19.47333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hw\u00e8-yao",
         "W\u0101n Hw\u00e8-yao"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226771499,
-    "wof:lastmodified":1537665326,
+    "wof:lastmodified":1566611465,
     "wof:name":"Wan Hwe-yao",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

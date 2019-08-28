@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.76837,21.20302,98.80837,21.24302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343938213,
-    "wof:lastmodified":1537050077,
+    "wof:lastmodified":1566607975,
     "wof:name":"Hwe-yang",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

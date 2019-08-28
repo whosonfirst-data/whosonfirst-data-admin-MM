@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.64601,16.74065,94.68601,16.78065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242977699,
-    "wof:lastmodified":1536983514,
+    "wof:lastmodified":1566610761,
     "wof:name":"Thabyebin",
     "wof:parent_id":1092047083,
     "wof:placetype":"locality",

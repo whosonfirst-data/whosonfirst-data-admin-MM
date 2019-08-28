@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.04576,17.34212,95.08576,17.38212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326636817,
-    "wof:lastmodified":1536832117,
+    "wof:lastmodified":1566607575,
     "wof:name":"Thitphyubin",
     "wof:parent_id":1092047083,
     "wof:placetype":"locality",

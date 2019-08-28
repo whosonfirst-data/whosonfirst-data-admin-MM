@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.41256,21.03609,97.45256,21.07609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310482021,
-    "wof:lastmodified":1536951026,
+    "wof:lastmodified":1566609753,
     "wof:name":"Kyi-pong",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

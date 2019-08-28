@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.98527,16.98372,98.02527,17.02372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Atet Paingkyon",
         "Paingkyon Atet"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193130305,
-    "wof:lastmodified":1537665401,
+    "wof:lastmodified":1566609510,
     "wof:name":"Paingkyon Atet",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",

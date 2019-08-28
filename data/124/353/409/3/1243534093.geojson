@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.60641,10.33828,98.64641,10.37828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kamou",
         "B\u0101n Kamou"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243534093,
-    "wof:lastmodified":1537665546,
+    "wof:lastmodified":1566610406,
     "wof:name":"Ban Kamou",
     "wof:parent_id":1092045625,
     "wof:placetype":"locality",

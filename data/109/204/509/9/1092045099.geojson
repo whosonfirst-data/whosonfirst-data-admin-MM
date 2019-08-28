@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.611517,
     "lbl:longitude":96.073024,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a",
     "meso:admin_1":"Naypyitaw  Council",
     "meso:dissme":"Det Khi NaNaypyitaw  Council",
@@ -33,6 +35,7 @@
     "mps:longitude":96.073024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Det Khi Na"
     ],
@@ -43,7 +46,7 @@
         "\u1012\u1000\u1039\u1001\u102d\u100f\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632181,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1092045099,
-    "wof:lastmodified":1555220361,
+    "wof:lastmodified":1566610182,
     "wof:name":"Det Khi Na",
     "wof:parent_id":1108804897,
     "wof:placetype":"county",

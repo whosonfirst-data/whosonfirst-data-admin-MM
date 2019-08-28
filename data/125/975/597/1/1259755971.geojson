@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.71218,19.391,94.75218,19.431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259755971,
-    "wof:lastmodified":1536962682,
+    "wof:lastmodified":1566611123,
     "wof:name":"Pandaw",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.17638,18.97543,94.21638,19.01543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0430\u043b\u0430\u0431\u0430"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343574893,
-    "wof:lastmodified":1564313848,
+    "wof:lastmodified":1566607951,
     "wof:name":"Dalaba",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

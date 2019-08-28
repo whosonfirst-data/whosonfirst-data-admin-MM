@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.86258,21.37147,100.90258,21.41147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276428919,
-    "wof:lastmodified":1536650364,
+    "wof:lastmodified":1566608723,
     "wof:name":"Wan Haw",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":16.3772,
     "geom:longitude":95.26488,
     "iso:country":"MM",
+    "lbl:bbox":"95.24488,16.3572,95.28488,16.3972",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Mawlamyinegyun"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "Mawlamyinegyun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moulmeingyu"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1308464,
         "gp:id":56120923,
-        "qs:id":79000,
+        "qs_pg:id":79000,
         "wd:id":"Q6794429"
     },
     "wof:country":"MM",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421203625,
-    "wof:lastmodified":1561843798,
+    "wof:lastmodified":1566610363,
     "wof:name":"Mawlamyinegyunn",
     "wof:parent_id":1092045903,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.51035,20.92698,97.55035,20.96698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293370557,
-    "wof:lastmodified":1536955716,
+    "wof:lastmodified":1566608256,
     "wof:name":"Nawnghu",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

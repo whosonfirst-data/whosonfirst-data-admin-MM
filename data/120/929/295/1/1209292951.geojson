@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.70927,24.6588,95.74927,24.6988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mansi",
         "Magyigon"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209292951,
-    "wof:lastmodified":1537665456,
+    "wof:lastmodified":1566609360,
     "wof:name":"Magyigon",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

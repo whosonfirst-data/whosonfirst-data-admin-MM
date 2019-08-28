@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.06249,24.59706,96.10249,24.63706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293089659,
-    "wof:lastmodified":1536862211,
+    "wof:lastmodified":1566608266,
     "wof:name":"Namakyaing",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

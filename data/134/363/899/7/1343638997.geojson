@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.49061,21.26247,97.53061,21.30247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343638997,
-    "wof:lastmodified":1536985253,
+    "wof:lastmodified":1566607732,
     "wof:name":"Kangtong",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

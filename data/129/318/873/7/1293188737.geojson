@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.05156,21.18438,100.09156,21.22438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293188737,
-    "wof:lastmodified":1536721167,
+    "wof:lastmodified":1566608530,
     "wof:name":"Wan Ta-hke",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

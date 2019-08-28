@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.17006,20.83592,99.21006,20.87592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Kao-m\u00f6ng-hkaml\u00fc",
         "W\u0101n M\u00f6ng-hkaml\u00fc"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226623553,
-    "wof:lastmodified":1537665319,
+    "wof:lastmodified":1566611502,
     "wof:name":"Wan Moeng-hkamlue",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

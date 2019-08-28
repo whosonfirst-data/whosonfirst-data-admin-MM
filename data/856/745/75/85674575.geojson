@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.276303,
     "lbl:longitude":97.981655,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u1019\u103d\u1014\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
     "mps:latitude":15.276491,
     "mps:longitude":97.978709,
@@ -170,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Mon State"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646 \u0631\u06cc\u0627\u0633\u062a"
     ],
@@ -254,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"11,831",
     "statoids:area_mi":"4,568",
     "statoids:as_of_date":"2003-01-01",
@@ -270,7 +268,6 @@
     "statoids:timezone":"+6:30",
     "statoids:type":"state",
     "unlc:subdivision":"MM-15",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632181
@@ -282,7 +279,7 @@
         "gp:id":2344822,
         "hasc:id":"MM.MO",
         "iso:id":"MM-15",
-        "qs:id":235566,
+        "qs_pg:id":235566,
         "unlc:id":"MM-15",
         "wd:id":"Q818742",
         "wk:page":"Mon State"
@@ -303,11 +300,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727828,
+    "wof:lastmodified":1566608195,
     "wof:name":"Mon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2671396,
     "wof:population_rank":12,

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.89402,21.38487,99.93402,21.42487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1306795
     },
     "wof:country":"MM",
-    "wof:geomhash":"e96630f2ad58ecf5be23b4f6c188b498",
+    "wof:geomhash":"5b15a00ba3366966429f205cfe3b2ddc",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209603027,
-    "wof:lastmodified":1536282103,
+    "wof:lastmodified":1566609320,
     "wof:name":"Namlin",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     99.91402,
-    21.404870000000006,
+    21.40487000000001,
     99.91402,
-    21.404870000000006
+    21.40487000000001
 ],
   "geometry": {"coordinates":[99.91401999999999,21.40487000000001],"type":"Point"}
 }

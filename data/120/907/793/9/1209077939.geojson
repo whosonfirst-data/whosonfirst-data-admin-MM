@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.70053,18.22747,96.74053,18.26747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyathe",
         "Kyathe Atet"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209077939,
-    "wof:lastmodified":1537665482,
+    "wof:lastmodified":1566609075,
     "wof:name":"Kyathe Atet",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

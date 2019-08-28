@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.59003,16.52246,97.63003,16.56246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1464335
     },
     "wof:country":"MM",
-    "wof:geomhash":"38e84d768332d76706d12e0623c86564",
+    "wof:geomhash":"f0e0d63db6766327380d5341c66eed8c",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209601381,
-    "wof:lastmodified":1536282155,
+    "wof:lastmodified":1566609319,
     "wof:name":"Sinpyu Aya",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     97.61003,
-    16.542460000000002,
+    16.54246,
     97.61003,
-    16.542460000000002
+    16.54246
 ],
   "geometry": {"coordinates":[97.61002999999999,16.54246],"type":"Point"}
 }

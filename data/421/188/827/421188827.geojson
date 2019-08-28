@@ -10,8 +10,12 @@
     "geom:latitude":14.074583,
     "geom:longitude":98.190472,
     "iso:country":"MM",
+    "lbl:bbox":"98.1704725,14.054583,98.2104725,14.094583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1017891,
-        "qs:id":1104769
+        "qs_pg:id":1104769
     },
     "wof:country":"MM",
     "wof:created":1459009581,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421188827,
-    "wof:lastmodified":1500016924,
+    "wof:lastmodified":1566610365,
     "wof:name":"Tavoy",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

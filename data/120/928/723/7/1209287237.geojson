@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.56457,19.38418,94.60457,19.42418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0632\u064a\u0646"
     ],
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":1209287237,
-    "wof:lastmodified":1564316083,
+    "wof:lastmodified":1566609442,
     "wof:name":"Pazin",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

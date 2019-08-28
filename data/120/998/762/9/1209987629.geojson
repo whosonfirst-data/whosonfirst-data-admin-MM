@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.47461,16.29473,97.51461,16.33473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209987629,
-    "wof:lastmodified":1536387877,
+    "wof:lastmodified":1566609080,
     "wof:name":"Htabingon",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

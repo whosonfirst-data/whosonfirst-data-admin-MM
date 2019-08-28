@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.67042,20.55679,99.71042,20.59679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Mu-hs\u00f6 M\u00fcnhkamsai",
         "W\u0101n M\u00fcnhkamsai"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309786307,
-    "wof:lastmodified":1537665318,
+    "wof:lastmodified":1566610279,
     "wof:name":"Wan Muenhkamsai",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",

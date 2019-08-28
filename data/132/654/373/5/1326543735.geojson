@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.11762,20.81427,93.15762,20.85427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326543735,
-    "wof:lastmodified":1536967087,
+    "wof:lastmodified":1566607611,
     "wof:name":"Thandada",
     "wof:parent_id":1092046765,
     "wof:placetype":"locality",

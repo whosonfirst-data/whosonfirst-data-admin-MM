@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.13279,18.70374,94.17279,18.74374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Natkaw",
         "Natkan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277088013,
-    "wof:lastmodified":1537665417,
+    "wof:lastmodified":1566608663,
     "wof:name":"Natkan",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

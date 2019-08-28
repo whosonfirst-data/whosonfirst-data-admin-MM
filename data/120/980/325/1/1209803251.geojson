@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.34375,21.12864,100.38375,21.16864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u0101-man",
         "W\u0101n P\u0101-man"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209803251,
-    "wof:lastmodified":1537665558,
+    "wof:lastmodified":1566609398,
     "wof:name":"Wan Pa-man",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

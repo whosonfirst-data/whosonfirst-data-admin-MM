@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.57611,18.06861,97.61611,18.10861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1014\u1010\u103a\u1010\u1031\u102c\u1004\u103a"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209909513,
-    "wof:lastmodified":1564315635,
+    "wof:lastmodified":1566609150,
     "wof:name":"Nattaung",
     "wof:parent_id":1092045467,
     "wof:placetype":"locality",

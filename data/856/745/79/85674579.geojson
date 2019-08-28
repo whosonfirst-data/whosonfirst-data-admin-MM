@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":20.268362,
     "lbl:longitude":93.727177,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u101b\u1001\u102d\u102f\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
     "mps:latitude":20.286275,
     "mps:longitude":93.724054,
@@ -177,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u0445\u0430\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yagaing Taing"
     ],
     "name:urd_x_preferred":[
@@ -261,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"36,762",
     "statoids:area_mi":"14,194",
     "statoids:as_of_date":"2003-01-01",
@@ -288,7 +289,7 @@
         "gp:id":2344810,
         "hasc:id":"MM.RA",
         "iso:id":"MM-16",
-        "qs:id":219511,
+        "qs_pg:id":219511,
         "unlc:id":"MM-16",
         "wd:id":"Q233838",
         "wk:page":"Rakhine State"
@@ -309,11 +310,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727830,
+    "wof:lastmodified":1566608199,
     "wof:name":"Rakhine",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2618392,
     "wof:population_rank":12,

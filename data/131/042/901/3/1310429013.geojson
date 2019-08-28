@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.5344,26.37028,96.5744,26.41028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310429013,
-    "wof:lastmodified":1537026141,
+    "wof:lastmodified":1566609872,
     "wof:name":"Mungwan",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

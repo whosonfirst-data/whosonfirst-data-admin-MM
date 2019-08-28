@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.91711,26.8361,97.95711,26.8761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310011661,
-    "wof:lastmodified":1536632978,
+    "wof:lastmodified":1566609854,
     "wof:name":"Sala Gahtawng",
     "wof:parent_id":1092047123,
     "wof:placetype":"locality",

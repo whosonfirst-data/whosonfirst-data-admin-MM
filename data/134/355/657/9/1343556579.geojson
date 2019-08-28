@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.77685,23.94816,95.81685,23.98816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mawhaing",
         "Maw-naing"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343556579,
-    "wof:lastmodified":1537665443,
+    "wof:lastmodified":1566607721,
     "wof:name":"Maw-naing",
     "wof:parent_id":1092045543,
     "wof:placetype":"locality",

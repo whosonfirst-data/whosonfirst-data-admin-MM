@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.65063,19.06922,93.69063,19.10922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ywagyr",
         "Ywagyi"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344070705,
-    "wof:lastmodified":1537665296,
+    "wof:lastmodified":1566607829,
     "wof:name":"Ywagyi",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",

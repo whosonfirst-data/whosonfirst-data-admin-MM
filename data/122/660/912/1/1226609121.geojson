@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.65141,18.27422,96.69141,18.31422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wettu",
         "Wettu Ashebetkan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226609121,
-    "wof:lastmodified":1537665303,
+    "wof:lastmodified":1566611316,
     "wof:name":"Wettu Ashebetkan",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

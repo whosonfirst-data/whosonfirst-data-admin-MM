@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.92415,20.05106,98.96415,20.09106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326710785,
-    "wof:lastmodified":1536727090,
+    "wof:lastmodified":1566607549,
     "wof:name":"Wan Hangna",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",

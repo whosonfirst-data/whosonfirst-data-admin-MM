@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.91977,24.82974,96.95977,24.86974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293789647,
-    "wof:lastmodified":1536847395,
+    "wof:lastmodified":1566608385,
     "wof:name":"Namya",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

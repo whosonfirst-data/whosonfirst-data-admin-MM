@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":24.059352,
     "lbl:longitude":95.217495,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u1005\u1005\u103a\u1000\u102d\u102f\u1004\u103a\u1038\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "mps:latitude":24.051774,
     "mps:longitude":95.222983,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043a\u0430\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sagain"
     ],
     "name:urd_x_preferred":[
@@ -248,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"99,150",
     "statoids:area_mi":"38,282",
     "statoids:as_of_date":"2003-01-01",
@@ -275,7 +276,7 @@
         "gp:id":2344819,
         "hasc:id":"MM.SA",
         "iso:id":"MM-01",
-        "qs:id":900663,
+        "qs_pg:id":900663,
         "unlc:id":"MM-01",
         "wd:id":"Q847289"
     },
@@ -295,11 +296,10 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1565727819,
+    "wof:lastmodified":1566608174,
     "wof:name":"Sagaing",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":5535035,
     "wof:population_rank":13,

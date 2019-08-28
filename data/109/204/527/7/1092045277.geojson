@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.871988,
     "lbl:longitude":95.183128,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u1027\u101b\u102c\u101d\u1010\u102e\u1010\u102d\u102f\u1004\u103a\u1038\u1012\u1031\u101e\u1000\u103c\u102e\u1038",
     "meso:admin_1":"Ayeyarwady",
     "meso:dissme":"HinthadaAyeyarwady",
@@ -33,6 +35,7 @@
     "mps:longitude":95.183128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Districte d'Hinthada"
     ],
@@ -52,16 +55,13 @@
     "name:swe_x_preferred":[
         "Hinthada District"
     ],
-    "name:und_x_variant":[
-        "\u101f\u1004\u103a\u1039\u101e\u102c\u1010\u1001\u101b\u102d\u102f\u1004\u103a"
-    ],
     "name:zho_x_preferred":[
         "\u8208\u5be6\u9054\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"6986",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1092045277,
-    "wof:lastmodified":1561843790,
+    "wof:lastmodified":1566610176,
     "wof:name":"Hinthada",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

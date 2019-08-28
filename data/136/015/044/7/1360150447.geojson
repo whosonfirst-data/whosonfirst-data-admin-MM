@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.29047,19.56312,96.33047,19.60312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360150447,
-    "wof:lastmodified":1536850401,
+    "wof:lastmodified":1566610030,
     "wof:name":"Kyauk-o",
     "wof:parent_id":1092045099,
     "wof:placetype":"locality",

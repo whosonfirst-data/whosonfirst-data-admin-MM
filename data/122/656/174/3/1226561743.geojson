@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.85437,21.39992,95.89437,21.43992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tada",
         "Tada-u"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226561743,
-    "wof:lastmodified":1537665364,
+    "wof:lastmodified":1566611313,
     "wof:name":"Tada-u",
     "wof:parent_id":1092046999,
     "wof:placetype":"locality",

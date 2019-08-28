@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.19006,20.7974,97.23006,20.8374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101npun",
         "W\u0101n Pa-pan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243542457,
-    "wof:lastmodified":1537665311,
+    "wof:lastmodified":1566610388,
     "wof:name":"Wan Pa-pan",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

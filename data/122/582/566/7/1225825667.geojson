@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.64668,22.33407,98.68668,22.37407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225825667,
-    "wof:lastmodified":1537040936,
+    "wof:lastmodified":1566611537,
     "wof:name":"Man Maue",
     "wof:parent_id":1092046245,
     "wof:placetype":"locality",

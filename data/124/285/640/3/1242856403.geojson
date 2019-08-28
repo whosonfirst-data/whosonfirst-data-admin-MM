@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.58372,18.20159,96.62372,18.24159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Thebyugale",
         "Th\u00e8byu"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242856403,
-    "wof:lastmodified":1537665346,
+    "wof:lastmodified":1566610722,
     "wof:name":"Thebyu",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

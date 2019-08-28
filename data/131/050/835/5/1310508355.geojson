@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.59265,17.31134,95.63265,17.35134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sagaywama",
         "Sagagyi"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310508355,
-    "wof:lastmodified":1537665381,
+    "wof:lastmodified":1566609960,
     "wof:name":"Sagagyi",
     "wof:parent_id":1092046289,
     "wof:placetype":"locality",

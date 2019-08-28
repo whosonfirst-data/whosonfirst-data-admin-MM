@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.80928,25.50959,96.84928,25.54959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u06cc\u06be\u06a9\u0648"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226042471,
-    "wof:lastmodified":1564319081,
+    "wof:lastmodified":1566611321,
     "wof:name":"Yihku",
     "wof:parent_id":1092046579,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.08507,16.47765,96.12507,16.51765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326606155,
-    "wof:lastmodified":1536876679,
+    "wof:lastmodified":1566607476,
     "wof:name":"Kalaukkame",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

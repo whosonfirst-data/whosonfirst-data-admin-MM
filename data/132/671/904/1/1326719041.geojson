@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.31885,26.6108,95.35885,26.6508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326719041,
-    "wof:lastmodified":1536715114,
+    "wof:lastmodified":1566607550,
     "wof:name":"Kaiyaw Langkai",
     "wof:parent_id":1092045327,
     "wof:placetype":"locality",

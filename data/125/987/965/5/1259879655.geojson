@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.11094,25.93418,98.15094,25.97418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259879655,
-    "wof:lastmodified":1537568489,
+    "wof:lastmodified":1566611097,
     "wof:name":"Launggyaung",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

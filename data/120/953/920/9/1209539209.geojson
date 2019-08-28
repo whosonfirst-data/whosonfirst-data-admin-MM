@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.53578,24.64105,97.57578,24.68105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209539209,
-    "wof:lastmodified":1536284039,
+    "wof:lastmodified":1566609078,
     "wof:name":"N'baw Marawn",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

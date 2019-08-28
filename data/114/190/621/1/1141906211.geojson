@@ -10,10 +10,14 @@
     "geom:latitude":22.650003,
     "geom:longitude":93.616705,
     "iso:country":"MM",
+    "lbl:bbox":"93.5967045958,22.6300031019,93.6367045958,22.6700031019",
     "lbl:latitude":22.650003,
     "lbl:longitude":93.616705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hakha"
     ],
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":1141906211,
-    "wof:lastmodified":1564319451,
+    "wof:lastmodified":1566611570,
     "wof:name":"Hakha",
     "wof:parent_id":1092045227,
     "wof:placetype":"locality",

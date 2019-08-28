@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.28982,16.287,98.32982,16.327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1314934
     },
     "wof:country":"MM",
-    "wof:geomhash":"6397f2f5f6668a5888bb34703fe8dabe",
+    "wof:geomhash":"2ead9cdfd6fa2090e5bc7d2188635de5",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209419547,
-    "wof:lastmodified":1536287577,
+    "wof:lastmodified":1566609210,
     "wof:name":"Lampha",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     98.30982,
-    16.307000000000002,
+    16.307,
     98.30982,
-    16.307000000000002
+    16.307
 ],
   "geometry": {"coordinates":[98.30982,16.307],"type":"Point"}
 }

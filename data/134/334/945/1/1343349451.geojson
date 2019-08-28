@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.38489,21.73146,98.42489,21.77146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ho-lao",
         "W\u0101n Ho-lao"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343349451,
-    "wof:lastmodified":1537665332,
+    "wof:lastmodified":1566608010,
     "wof:name":"Wan Ho-lao",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",

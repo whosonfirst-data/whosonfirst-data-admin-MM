@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.89667,22.73,98.93667,22.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310393221,
-    "wof:lastmodified":1537075855,
+    "wof:lastmodified":1566609864,
     "wof:name":"Motlei",
     "wof:parent_id":1092045367,
     "wof:placetype":"locality",

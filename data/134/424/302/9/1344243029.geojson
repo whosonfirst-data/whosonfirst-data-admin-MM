@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.76074,15.40433,97.80074,15.44433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u101e\u1004\u103a\u1039\u1018\u1031\u102c\u1006\u102d\u1015\u103a\u101b\u103d\u102c\u104a \u101b\u1031\u1038\u1019\u103c\u102d\u102f\u1037\u1014\u101a\u103a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344243029,
-    "wof:lastmodified":1564313649,
+    "wof:lastmodified":1566607802,
     "wof:name":"Thinbawzeik",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.98975,21.87789,95.02975,21.91789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226437523,
-    "wof:lastmodified":1536657487,
+    "wof:lastmodified":1566611195,
     "wof:name":"Yemein",
     "wof:parent_id":1092047961,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.7465,23.75655,98.7865,23.79655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276203695,
-    "wof:lastmodified":1536952906,
+    "wof:lastmodified":1566608758,
     "wof:name":"Hsiao-lu-chang",
     "wof:parent_id":1092046035,
     "wof:placetype":"locality",

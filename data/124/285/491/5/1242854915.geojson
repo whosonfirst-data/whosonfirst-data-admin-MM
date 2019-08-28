@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.8219,19.68981,97.8619,19.72981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiu-neng",
         "W\u0101n Kiu-neng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242854915,
-    "wof:lastmodified":1537665324,
+    "wof:lastmodified":1566610717,
     "wof:name":"Wan Kiu-neng",
     "wof:parent_id":1092045947,
     "wof:placetype":"locality",

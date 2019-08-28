@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.09911,19.85855,97.13911,19.89855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260367599,
-    "wof:lastmodified":1537092994,
+    "wof:lastmodified":1566609626,
     "wof:name":"Wan Ho-li",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

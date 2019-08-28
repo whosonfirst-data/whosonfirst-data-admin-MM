@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.15621,16.74803,98.19621,16.78803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327230175,
-    "wof:lastmodified":1536972414,
+    "wof:lastmodified":1566607516,
     "wof:name":"Nopobi",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

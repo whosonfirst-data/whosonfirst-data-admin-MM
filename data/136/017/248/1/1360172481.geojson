@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.77444,22.39045,97.81444,22.43045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Lenti"
     ],
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":1360172481,
-    "wof:lastmodified":1564317139,
+    "wof:lastmodified":1566610120,
     "wof:name":"Lenti",
     "wof:parent_id":1092045765,
     "wof:placetype":"locality",

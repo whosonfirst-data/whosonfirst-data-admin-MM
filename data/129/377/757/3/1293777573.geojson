@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.63687,22.87029,95.67687,22.91029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293777573,
-    "wof:lastmodified":1536864630,
+    "wof:lastmodified":1566608330,
     "wof:name":"Yathamyoma",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

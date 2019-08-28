@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.41856,23.11694,98.45856,23.15694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259460431,
-    "wof:lastmodified":1536891635,
+    "wof:lastmodified":1566610945,
     "wof:name":"Pangpu",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

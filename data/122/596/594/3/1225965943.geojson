@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.30184,19.80692,97.34184,19.84692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225965943,
-    "wof:lastmodified":1536839172,
+    "wof:lastmodified":1566611364,
     "wof:name":"Nam Pa-mong",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

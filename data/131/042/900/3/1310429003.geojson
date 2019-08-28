@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.36429,27.06856,98.40429,27.10856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310429003,
-    "wof:lastmodified":1537026152,
+    "wof:lastmodified":1566609871,
     "wof:name":"Surgusong",
     "wof:parent_id":1092047123,
     "wof:placetype":"locality",

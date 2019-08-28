@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.21055,25.85082,97.25055,25.89082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sana",
         "Kundukawng"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292903395,
-    "wof:lastmodified":1537665488,
+    "wof:lastmodified":1566608503,
     "wof:name":"Kundukawng",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

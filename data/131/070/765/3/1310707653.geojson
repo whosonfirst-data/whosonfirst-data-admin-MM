@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.17959,25.87331,98.21959,25.91331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310707653,
-    "wof:lastmodified":1537568475,
+    "wof:lastmodified":1566609763,
     "wof:name":"Napok",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

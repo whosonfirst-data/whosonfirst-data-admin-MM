@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.93014,15.81677,97.97014,15.85677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mya_x_preferred":[
         "\u1016\u102c\u1038\u1015\u103c"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243453051,
-    "wof:lastmodified":1564317991,
+    "wof:lastmodified":1566610791,
     "wof:name":"Phabya",
     "wof:parent_id":1092045583,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"100.08216,20.96335,100.12216,21.00335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u016bnghka",
         "W\u0101n P\u016bnghka"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344038007,
-    "wof:lastmodified":1537665557,
+    "wof:lastmodified":1566608058,
     "wof:name":"Wan Punghka",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

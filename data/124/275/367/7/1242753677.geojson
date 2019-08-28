@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.21711,19.88345,96.25711,19.92345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242753677,
-    "wof:lastmodified":1536809697,
+    "wof:lastmodified":1566610478,
     "wof:name":"Sindetkyi",
     "wof:parent_id":1092047063,
     "wof:placetype":"locality",

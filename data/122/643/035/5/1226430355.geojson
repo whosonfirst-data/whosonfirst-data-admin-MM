@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.54623,23.80072,98.58623,23.84072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226430355,
-    "wof:lastmodified":1536667696,
+    "wof:lastmodified":1566611203,
     "wof:name":"Hsintzu",
     "wof:parent_id":1092046035,
     "wof:placetype":"locality",

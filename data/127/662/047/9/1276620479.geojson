@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.53236,16.86818,96.57236,16.90818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276620479,
-    "wof:lastmodified":1536890992,
+    "wof:lastmodified":1566608996,
     "wof:name":"Paukkon",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

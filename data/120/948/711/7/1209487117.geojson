@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.57901,18.17677,96.61901,18.21677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinyokin",
         "Sinyogin"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209487117,
-    "wof:lastmodified":1537665367,
+    "wof:lastmodified":1566609180,
     "wof:name":"Sinyogin",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",

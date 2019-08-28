@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"93.79667,22.23,93.83667,22.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Kanua"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326537903,
-    "wof:lastmodified":1564313339,
+    "wof:lastmodified":1566607605,
     "wof:name":"Kanva",
     "wof:parent_id":1092045227,
     "wof:placetype":"locality",

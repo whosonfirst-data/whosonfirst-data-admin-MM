@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.30819,17.9895,95.34819,18.0295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanyatkon",
         "Kanyutkon"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327238393,
-    "wof:lastmodified":1537665503,
+    "wof:lastmodified":1566607516,
     "wof:name":"Kanyutkon",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",

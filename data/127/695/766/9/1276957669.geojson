@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.49519,16.38727,97.53519,16.42727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276957669,
-    "wof:lastmodified":1536937879,
+    "wof:lastmodified":1566608816,
     "wof:name":"Hnimok",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

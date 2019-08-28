@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.84447,22.37289,95.88447,22.41289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343650141,
-    "wof:lastmodified":1536969624,
+    "wof:lastmodified":1566607682,
     "wof:name":"Mingon",
     "wof:parent_id":1092047331,
     "wof:placetype":"locality",

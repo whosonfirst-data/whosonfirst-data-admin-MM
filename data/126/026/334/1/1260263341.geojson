@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"99.89918,21.04302,99.93918,21.08302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u0101n Mu-hs\u00f6 M\u00fcnhk\u00fcn",
         "W\u0101n M\u00fcnhk\u00fcn"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260263341,
-    "wof:lastmodified":1537665317,
+    "wof:lastmodified":1566609717,
     "wof:name":"Wan Muenhkuen",
     "wof:parent_id":1092046623,
     "wof:placetype":"locality",

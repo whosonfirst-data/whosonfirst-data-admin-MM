@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.23602,18.85858,94.27602,18.89858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226451655,
-    "wof:lastmodified":1536635612,
+    "wof:lastmodified":1566611226,
     "wof:name":"Sinsegaing",
     "wof:parent_id":1092047569,
     "wof:placetype":"locality",

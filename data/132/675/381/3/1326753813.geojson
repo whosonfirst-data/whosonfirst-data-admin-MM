@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"98.01502,25.82998,98.05502,25.86998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0627\u0624\u06a9\u0646\u0627\u0648"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326753813,
-    "wof:lastmodified":1564312898,
+    "wof:lastmodified":1566607446,
     "wof:name":"Myauknaw",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"94.55512,21.43466,94.59512,21.47466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sape"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1226027427,
-    "wof:lastmodified":1564319053,
+    "wof:lastmodified":1566611302,
     "wof:name":"Sape",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

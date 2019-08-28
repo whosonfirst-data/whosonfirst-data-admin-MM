@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.99165,23.49865,98.03165,23.53865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226737625,
-    "wof:lastmodified":1536727630,
+    "wof:lastmodified":1566611245,
     "wof:name":"Man Ping",
     "wof:parent_id":1092046811,
     "wof:placetype":"locality",

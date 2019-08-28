@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"96.94097,18.2295,96.98097,18.2695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kolo"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1293855663,
-    "wof:lastmodified":1564314374,
+    "wof:lastmodified":1566608342,
     "wof:name":"Kolo",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"97.79498,22.42993,97.83498,22.46993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344144731,
-    "wof:lastmodified":1536754042,
+    "wof:lastmodified":1566607783,
     "wof:name":"Na-hsai",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

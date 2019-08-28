@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yangon",
     "iso:country":"MM",
+    "lbl:bbox":"95.79257,17.47808,95.83257,17.51808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632181
@@ -36,7 +40,7 @@
         "gn:id":1285158
     },
     "wof:country":"MM",
-    "wof:geomhash":"3e6dddc8549ce82438645842f090bb20",
+    "wof:geomhash":"1f5ecbe7e427047e19118f52ee6e71a0",
     "wof:hierarchy":[
         {
             "country_id":85632181,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209692179,
-    "wof:lastmodified":1536279202,
+    "wof:lastmodified":1566609325,
     "wof:name":"Yenetlanwin",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     95.81257,
-    17.498079999999998,
+    17.49808,
     95.81257,
-    17.498079999999998
+    17.49808
 ],
   "geometry": {"coordinates":[95.81256999999999,17.49808],"type":"Point"}
 }
