@@ -292,6 +292,9 @@
         "wk:page":"Bago Region"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13362a1aceef357c3e8a000a54edd915",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608196,
+    "wof:lastmodified":1582380819,
     "wof:name":"Bago",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

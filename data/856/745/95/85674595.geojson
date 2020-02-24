@@ -295,6 +295,9 @@
         "wk:page":"Shan State"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"80d97b189f05b88f2b914c53d90e46d5",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608188,
+    "wof:lastmodified":1582380814,
     "wof:name":"Shan",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

@@ -272,6 +272,7 @@
     "qs:woe_id":1017865,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wd:latitude":20.144444,
@@ -293,6 +294,10 @@
     },
     "wof:country":"MM",
     "wof:created":1459009586,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8d4196ce13cb5ecb69d5f9f46fa2633",
     "wof:hierarchy":[
         {
@@ -304,7 +309,7 @@
         }
     ],
     "wof:id":421188865,
-    "wof:lastmodified":1561843799,
+    "wof:lastmodified":1582380869,
     "wof:name":"Sittwe",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",

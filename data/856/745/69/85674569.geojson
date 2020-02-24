@@ -304,6 +304,9 @@
         "wk:page":"Yangon Region"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f4f59a6396a4e1abd1f7a18d396dae1b",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608192,
+    "wof:lastmodified":1582380817,
     "wof:name":"Yangon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

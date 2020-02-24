@@ -285,6 +285,9 @@
         "wk:page":"Mon State"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dad3ad506daf13d7f75ceabbeaf0610b",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608195,
+    "wof:lastmodified":1582380818,
     "wof:name":"Mon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

@@ -262,6 +262,9 @@
     },
     "wof:country":"MM",
     "wof:created":1469052259,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5dbf9b7b632e151fe130f88bd383e47",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":890440013,
-    "wof:lastmodified":1566610368,
+    "wof:lastmodified":1582380869,
     "wof:name":"Monywa",
     "wof:parent_id":1092046719,
     "wof:placetype":"locality",

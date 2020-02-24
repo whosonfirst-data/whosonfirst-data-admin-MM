@@ -92,6 +92,9 @@
         "qs_pg:id":1083504
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00de97a5544aeb09adc8b83a7d9b6bc1",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566608172,
+    "wof:lastmodified":1582380804,
     "wof:name":"Tamwe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

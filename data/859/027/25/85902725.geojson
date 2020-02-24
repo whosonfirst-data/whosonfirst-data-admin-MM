@@ -74,6 +74,9 @@
         "qs:id":478668
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"826d3058c25a8934e7dc11e040175dbb",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1582380804,
     "wof:name":"Kemmendine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

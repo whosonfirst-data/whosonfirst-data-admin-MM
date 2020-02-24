@@ -98,6 +98,9 @@
         "qs_pg:id":240592
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6b041ed7ca49fa2eb56cc4db77d5793",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566608172,
+    "wof:lastmodified":1582380802,
     "wof:name":"Botataung",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

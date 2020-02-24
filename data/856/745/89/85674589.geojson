@@ -285,6 +285,9 @@
         "wk:page":"Magway Region"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"145620b27a8a85304e013d3bac62fccf",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608194,
+    "wof:lastmodified":1582380818,
     "wof:name":"Magway",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

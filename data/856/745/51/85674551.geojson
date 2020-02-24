@@ -170,6 +170,9 @@
         "unlc:id":"MM-12"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fcad8cbfbec0b03bb7bc93c4c85de69f",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608193,
+    "wof:lastmodified":1582380818,
     "wof:name":"Kayah",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
