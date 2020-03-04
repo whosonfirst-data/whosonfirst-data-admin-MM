@@ -294,6 +294,9 @@
         "wk:page":"Mandalay Region"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a8af8b000bc79b9ee63dcee6b275f637",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608190,
+    "wof:lastmodified":1582380816,
     "wof:name":"Mandalay",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

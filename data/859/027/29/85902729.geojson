@@ -70,6 +70,9 @@
         "qs_pg:id":1117302
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a8fd759412bcfd487dbcbac0979ecec7",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566608171,
+    "wof:lastmodified":1582380802,
     "wof:name":"Shwebya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

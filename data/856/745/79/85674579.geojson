@@ -295,6 +295,9 @@
         "wk:page":"Rakhine State"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7c2baeaa54a0f77b117466fd4c6f650",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608199,
+    "wof:lastmodified":1582380821,
     "wof:name":"Rakhine",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

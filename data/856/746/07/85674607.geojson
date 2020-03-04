@@ -281,6 +281,9 @@
         "wd:id":"Q847289"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9513e8af51630c86709a90723b774727",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608174,
+    "wof:lastmodified":1582380805,
     "wof:name":"Sagaing",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

@@ -214,6 +214,9 @@
     },
     "wof:country":"MM",
     "wof:created":1459009586,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d19bc83d21d975e1b9bf756b0195422",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421188861,
-    "wof:lastmodified":1566610365,
+    "wof:lastmodified":1582380868,
     "wof:name":"Pegu",
     "wof:parent_id":1092044937,
     "wof:placetype":"locality",

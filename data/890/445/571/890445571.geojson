@@ -538,6 +538,9 @@
     },
     "wof:country":"MM",
     "wof:created":1469052515,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"f4abbbc3c1cfb13ae80033faab3b48f2",
     "wof:hierarchy":[
         {
@@ -556,7 +559,7 @@
         }
     ],
     "wof:id":890445571,
-    "wof:lastmodified":1566610371,
+    "wof:lastmodified":1582380869,
     "wof:name":"Nay Pyi Taw",
     "wof:parent_id":1092045099,
     "wof:placetype":"locality",

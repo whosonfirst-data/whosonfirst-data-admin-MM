@@ -297,6 +297,9 @@
         "wk:page":"Chin State"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c85275991ccab0e418aa052e53924aa",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608195,
+    "wof:lastmodified":1582380819,
     "wof:name":"Chin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

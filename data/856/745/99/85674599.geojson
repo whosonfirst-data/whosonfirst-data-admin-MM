@@ -292,6 +292,9 @@
         "wd:id":"Q843954"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f43dbc1580ea8c6391ed655cf70d3168",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608196,
+    "wof:lastmodified":1582380819,
     "wof:name":"Tanintharyi",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

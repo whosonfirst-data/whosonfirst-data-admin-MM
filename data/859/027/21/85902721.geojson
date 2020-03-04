@@ -80,6 +80,9 @@
         "qs:id":316360
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9efe27819b99423507c65ab14a23a790",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1582380803,
     "wof:name":"Fort Dufferin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -78,6 +78,9 @@
         "qs:id":1167810
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b27536ed60101515d7e8f1695a1a886",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379380,
+    "wof:lastmodified":1582380802,
     "wof:name":"Pazundaung",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

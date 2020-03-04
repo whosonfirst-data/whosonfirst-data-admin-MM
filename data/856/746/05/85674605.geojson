@@ -303,6 +303,9 @@
         "wk:page":"Kachin State"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"726ceafeca7050dd6bd61510c2a2b096",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608172,
+    "wof:lastmodified":1582380805,
     "wof:name":"Kachin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

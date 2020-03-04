@@ -288,6 +288,9 @@
         "wk:page":"Kayin State"
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a8891181cb593d1fb3f2d64af5a71bef",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608191,
+    "wof:lastmodified":1582380816,
     "wof:name":"Kayin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

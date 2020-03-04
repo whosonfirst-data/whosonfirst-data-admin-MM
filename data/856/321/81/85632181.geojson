@@ -1138,6 +1138,11 @@
     },
     "wof:country":"MM",
     "wof:country_alpha3":"MMR",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"b1fe253073ebe20f8a039778eae15bc7",
     "wof:hierarchy":[
         {
@@ -1152,7 +1157,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1566608176,
+    "wof:lastmodified":1582380808,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

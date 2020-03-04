@@ -93,6 +93,9 @@
         "qs_pg:id":238637
     },
     "wof:country":"MM",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"016b2c46d079a64ba423c171d7f467cc",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566608172,
+    "wof:lastmodified":1582380804,
     "wof:name":"Ashebyin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

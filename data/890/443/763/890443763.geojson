@@ -346,6 +346,9 @@
     },
     "wof:country":"MM",
     "wof:created":1469052437,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44cb839de93f182f0f226b2e3370cad0",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
         }
     ],
     "wof:id":890443763,
-    "wof:lastmodified":1566610370,
+    "wof:lastmodified":1582380869,
     "wof:name":"Mandalay",
     "wof:parent_id":1092046205,
     "wof:placetype":"locality",
