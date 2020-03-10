@@ -1115,9 +1115,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Burma",
-        "digitalenvoy:country_code":[
-            104
-        ],
+        "digitalenvoy:country_code":104,
         "fb:id":"en.myanmar",
         "fifa:id":"MYA",
         "fips:code":"BM",
@@ -1160,7 +1158,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1583529183,
+    "wof:lastmodified":1583797390,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
