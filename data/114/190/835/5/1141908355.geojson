@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"97.8678657623,15.2532666208,97.8678657623,15.2532666208",
+    "geom:bbox":"97.867866,15.253267,97.867866,15.253267",
     "geom:latitude":15.253267,
     "geom:longitude":97.867866,
     "iso:country":"MM",
@@ -37,7 +37,7 @@
         "\u092f\u0947"
     ],
     "name:hin_x_variant":[
-        "\u092f\u0947 "
+        "\u092f\u0947"
     ],
     "name:ita_x_preferred":[
         "Ye"
@@ -183,8 +183,8 @@
     "wof:belongsto":[
         102191569,
         85632181,
-        85674575,
-        1092046407
+        1092046407,
+        85674575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,7 +192,7 @@
     },
     "wof:country":"MM",
     "wof:created":1499130884,
-    "wof:geomhash":"c3ac2a65d9bd930dc96542d42e96705e",
+    "wof:geomhash":"f42d7895c45ab32bd0136dd9112d9656",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":1141908355,
-    "wof:lastmodified":1566611571,
+    "wof:lastmodified":1587163114,
     "wof:name":"Ye",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",
@@ -213,10 +213,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    97.86786576232322,
-    15.25326662084575,
-    97.86786576232322,
-    15.25326662084575
+    97.867866,
+    15.253267,
+    97.867866,
+    15.253267
 ],
-  "geometry": {"coordinates":[97.86786576232322,15.25326662084575],"type":"Point"}
+  "geometry": {"coordinates":[97.86786600000001,15.253267],"type":"Point"}
 }
