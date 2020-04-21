@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":58.266674,
-    "geom:area_square_m":670769667999.376099,
+    "geom:area_square_m":670769673664.417236,
     "geom:bbox":"92.171808,9.592889,101.170272,28.547835",
     "geom:latitude":21.113608,
     "geom:longitude":96.50564,
@@ -62,6 +62,9 @@
     "name:arg_x_preferred":[
         "Myanmar"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u064a\u0631\u0645\u0627\u0646\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u0627\u0646\u0645\u0627\u0631"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:bam_x_preferred":[
         "Myanimari"
+    ],
+    "name:ban_x_preferred":[
+        "Myanmar"
     ],
     "name:bar_x_preferred":[
         "Myanmar"
@@ -192,6 +198,12 @@
     "name:dan_x_variant":[
         "Myanmar"
     ],
+    "name:deu_at_x_preferred":[
+        "Myanmar"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Myanmar"
+    ],
     "name:deu_x_preferred":[
         "Myanmar"
     ],
@@ -221,6 +233,12 @@
     ],
     "name:ell_x_variant":[
         "\u039c\u03c5\u03b1\u03bd\u03bc\u03ac\u03c1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Burma"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Myanmar"
     ],
     "name:eng_x_preferred":[
         "Myanmar"
@@ -305,6 +323,9 @@
     ],
     "name:gan_x_preferred":[
         "\u7dec\u7538"
+    ],
+    "name:gcr_x_preferred":[
+        "Birmani"
     ],
     "name:ger_x_variant":[
         "Union Myanmar"
@@ -403,6 +424,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0575\u0561\u0576\u0574\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u056b\u0561\u0576\u0574\u0561"
     ],
     "name:ido_x_preferred":[
         "Myanmar"
@@ -602,6 +626,9 @@
     "name:mon_x_preferred":[
         "\u041c\u044c\u044f\u043d\u043c\u0430\u0440"
     ],
+    "name:mri_x_preferred":[
+        "P\u0113ma"
+    ],
     "name:msa_x_preferred":[
         "Myanmar"
     ],
@@ -719,6 +746,9 @@
     "name:pol_x_variant":[
         "Myanmar"
     ],
+    "name:por_br_x_preferred":[
+        "Myanmar"
+    ],
     "name:por_x_preferred":[
         "Myanmar"
     ],
@@ -766,6 +796,9 @@
         "\u092c\u094d\u0930\u0939\u094d\u092e\u0926\u0947\u0936",
         "\u092e\u094d\u092f\u0928\u094d\u092e\u093e\u0930"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c64\u1c6d\u1c5f\u1c71\u1c62\u1c5f\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Myanmar"
     ],
@@ -777,6 +810,9 @@
     ],
     "name:sgs_x_preferred":[
         "Mianmars"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u1062\u107c\u103a\u1088"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd4\u0dbb\u0dd4\u0db8\u0dba"
@@ -833,6 +869,12 @@
     "name:srd_x_variant":[
         "Birmania"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u0458\u0430\u043d\u043c\u0430\u0440"
+    ],
+    "name:srp_el_x_preferred":[
+        "Mjanmar"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0458\u0430\u043d\u043c\u0430\u0440"
     ],
@@ -859,6 +901,9 @@
     ],
     "name:szl_x_preferred":[
         "Birma"
+    ],
+    "name:szy_x_preferred":[
+        "Burma"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0baf\u0bbe\u0ba9\u0bcd\u0bae\u0bb0\u0bcd"
@@ -1158,7 +1203,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1583797390,
+    "wof:lastmodified":1587428720,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
