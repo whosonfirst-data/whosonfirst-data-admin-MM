@@ -103,10 +103,10 @@
         "\u039d\u03ad\u03c0\u03b9\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Naypyitaw"
+        "Naypyidaw"
     ],
     "name:eng_x_variant":[
-        "Naypyidaw"
+        "Naypyitaw"
     ],
     "name:epo_x_preferred":[
         "Pjinmano"
@@ -311,10 +311,10 @@
         "Naypyidaw"
     ],
     "name:por_x_preferred":[
-        "Naipidau"
+        "Naypyidaw"
     ],
     "name:por_x_variant":[
-        "Naypyidaw"
+        "Naipidau"
     ],
     "name:pus_x_preferred":[
         "\u0646\u0627\u06cc\u067e\u06cc\u062f\u0627\u0648"
@@ -534,6 +534,7 @@
     "wof:concordances":{
         "gn:id":6611854,
         "gp:id":1017797,
+        "ne:id":1159151179,
         "qs_pg:id":642708,
         "wd:id":"Q37400",
         "wk:page":"Naypyidaw"
@@ -561,9 +562,9 @@
         }
     ],
     "wof:id":890445571,
-    "wof:lastmodified":1608675981,
+    "wof:lastmodified":1608677541,
     "wof:megacity":1,
-    "wof:name":"Nay Pyi Taw",
+    "wof:name":"Naypyidaw",
     "wof:parent_id":1092045099,
     "wof:placetype":"locality",
     "wof:population":925000,

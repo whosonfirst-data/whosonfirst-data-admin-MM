@@ -19,7 +19,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Yangon"
@@ -551,7 +551,7 @@
         }
     ],
     "wof:id":890443751,
-    "wof:lastmodified":1608675984,
+    "wof:lastmodified":1608678404,
     "wof:megacity":1,
     "wof:name":"Yangon",
     "wof:parent_id":1092047923,
