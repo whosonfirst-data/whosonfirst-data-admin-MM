@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":4477638,
     "iso:country":"MM",
-    "lbl:bbox":"96.13611,16.78528,96.17611,16.82528",
     "lbl:latitude":16.774104,
     "lbl:longitude":96.167159,
     "lbl:max_zoom":13.0,
@@ -553,7 +552,7 @@
         }
     ],
     "wof:id":890443751,
-    "wof:lastmodified":1608689811,
+    "wof:lastmodified":1610159190,
     "wof:megacity":1,
     "wof:name":"Rangoon",
     "wof:parent_id":1092047923,

@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":1208099,
     "iso:country":"MM",
-    "lbl:bbox":"96.06359,21.95473,96.10359,21.99473",
     "lbl:latitude":21.969134,
     "lbl:longitude":96.086408,
     "lbl:max_zoom":13.0,
@@ -372,7 +371,7 @@
         }
     ],
     "wof:id":890443763,
-    "wof:lastmodified":1608696100,
+    "wof:lastmodified":1610159190,
     "wof:megacity":1,
     "wof:name":"Mandalay",
     "wof:parent_id":1092046205,
