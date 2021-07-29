@@ -45,6 +45,9 @@
     "name:eng_x_variant":[
         "Mandalay District"
     ],
+    "name:fra_x_preferred":[
+        "Mandalay"
+    ],
     "name:ind_x_preferred":[
         "Distrik Mandalay"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1092046205,
-    "wof:lastmodified":1608696100,
+    "wof:lastmodified":1627522356,
     "wof:name":"Mandalay",
     "wof:parent_id":85674559,
     "wof:placetype":"county",
