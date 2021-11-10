@@ -50,7 +50,13 @@
         "Mon"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d0\u05dc\u05d0\u05e0\u05d5\u05e0\u05d2"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Mon"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1343829689,
-    "wof:lastmodified":1566607911,
+    "wof:lastmodified":1636504959,
     "wof:name":"Mon",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"93.6167045958,22.6500031019,93.6167045958,22.6500031019",
+    "geom:bbox":"93.616705,22.650003,93.616705,22.650003",
     "geom:latitude":22.650003,
     "geom:longitude":93.616705,
     "iso:country":"MM",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0643\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Hakha"
     ],
@@ -27,11 +30,23 @@
     "name:deu_x_preferred":[
         "Hakha"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u062e\u0627"
+    ],
     "name:fra_x_preferred":[
         "Hakha"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05e7\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u093e\u0916\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Hakha"
     ],
     "name:ita_x_preferred":[
         "Hakha"
@@ -71,6 +86,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e48\u0e32\u0e04\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Hakha"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043a\u0445\u0430"
@@ -190,7 +208,7 @@
     "wof:concordances":{},
     "wof:country":"MM",
     "wof:created":1499130556,
-    "wof:geomhash":"787b1eeeb86bddee66f2ad17b9a39e72",
+    "wof:geomhash":"b399800e8692b7a4dc12ff8ced1a5094",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -201,7 +219,7 @@
         }
     ],
     "wof:id":1141906211,
-    "wof:lastmodified":1566611570,
+    "wof:lastmodified":1636504995,
     "wof:name":"Hakha",
     "wof:parent_id":1092045227,
     "wof:placetype":"locality",
@@ -211,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    93.61670459579614,
-    22.65000310189339,
-    93.61670459579614,
-    22.65000310189339
+    93.616705,
+    22.650003,
+    93.616705,
+    22.650003
 ],
-  "geometry": {"coordinates":[93.61670459579614,22.65000310189339],"type":"Point"}
+  "geometry": {"coordinates":[93.616705,22.650003],"type":"Point"}
 }

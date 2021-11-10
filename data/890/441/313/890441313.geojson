@@ -161,6 +161,9 @@
         "Pugan"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Pagan"
+    ],
+    "name:vie_x_variant":[
         "Bagan"
     ],
     "name:war_x_preferred":[
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":890441313,
-    "wof:lastmodified":1566610368,
+    "wof:lastmodified":1636504985,
     "wof:name":"Pagan",
     "wof:parent_id":1092047061,
     "wof:placetype":"locality",

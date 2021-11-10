@@ -48,6 +48,12 @@
     "name:fra_x_preferred":[
         "Myitkyina"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d8\u05e7\u05d9\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Myitkyina"
+    ],
     "name:jpn_x_preferred":[
         "\u30df\u30c3\u30c1\u30fc\u30ca\u30fc\u770c"
     ],
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1092047037,
-    "wof:lastmodified":1627522359,
+    "wof:lastmodified":1636504980,
     "wof:name":"Myitkyina",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

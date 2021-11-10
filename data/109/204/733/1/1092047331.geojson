@@ -36,8 +36,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u0628\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09cb\u09df\u09c7\u09ac\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Districte de Shwebo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03ad\u03bc\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Shwebo"
@@ -46,17 +55,47 @@
         "Shwebo",
         "Shwebo District"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Shwebo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05d5\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u094d\u0935\u0947\u092c\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Shwebo"
+    ],
+    "name:ind_x_preferred":[
+        "Shwebo"
+    ],
+    "name:ita_x_preferred":[
         "Shwebo"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30a6\u30a7\u30dc\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uc288\uc6e8\ubcf4"
     ],
     "name:mya_x_preferred":[
         "\u101b\u103d\u103e\u1031\u1018\u102d\u102f\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
     "name:swe_x_preferred":[
         "Shwebo District"
+    ],
+    "name:tur_x_preferred":[
+        "Shwebo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648\u0626\u06cc\u0628\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Shwebo"
     ],
     "name:zho_x_preferred":[
         "\u745e\u6ce2\u7e23"
@@ -97,7 +136,7 @@
         }
     ],
     "wof:id":1092047331,
-    "wof:lastmodified":1627522360,
+    "wof:lastmodified":1636504980,
     "wof:name":"Shwebo",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

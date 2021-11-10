@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0643\u0648\u0643\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043a\u043e\u043a\u0443"
     ],
@@ -29,10 +32,31 @@
     "name:deu_x_preferred":[
         "Pakokku"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03ba\u03cc\u03ba\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Pakokku"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0648\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Pakokku"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e7\u05d5\u05e7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0915\u094b\u0915\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Pakokku"
+    ],
+    "name:ind_x_preferred":[
+        "Pakokku"
+    ],
+    "name:ita_x_preferred":[
         "Pakokku"
     ],
     "name:jpn_x_preferred":[
@@ -59,6 +83,9 @@
     "name:pol_x_preferred":[
         "Pakokku"
     ],
+    "name:por_x_preferred":[
+        "Pakokku"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043a\u0445\u043e\u0443\u043a\u0443"
     ],
@@ -74,8 +101,20 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e30\u0e42\u0e04\u0e30\u0e01\u0e39"
     ],
+    "name:tur_x_preferred":[
+        "Pakokku"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043a\u043e\u043a\u043a\u0443"
+    ],
     "name:und_x_variant":[
         "Pagukku"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u06a9\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Pakokku"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Myanmar",
@@ -217,7 +256,7 @@
         }
     ],
     "wof:id":421201157,
-    "wof:lastmodified":1566610366,
+    "wof:lastmodified":1636504984,
     "wof:name":"Pakokku",
     "wof:parent_id":1092047065,
     "wof:placetype":"locality",

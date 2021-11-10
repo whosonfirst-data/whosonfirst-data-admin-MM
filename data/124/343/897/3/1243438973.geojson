@@ -32,7 +32,34 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
+        "\u8cc7\u6c5f"
+    ],
+    "name:jpn_x_variant":[
         "\u5b57"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790"
+    ],
+    "name:nld_x_preferred":[
+        "Zi"
+    ],
+    "name:pol_x_preferred":[
+        "Zi"
+    ],
+    "name:por_x_preferred":[
+        "Zi"
+    ],
+    "name:tur_x_preferred":[
+        "Zi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Zi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1243438973,
-    "wof:lastmodified":1566610828,
+    "wof:lastmodified":1636504990,
     "wof:name":"Zi",
     "wof:parent_id":1092046999,
     "wof:placetype":"locality",

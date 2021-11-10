@@ -55,6 +55,9 @@
     "name:epo_x_preferred":[
         "Mjejk"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Myeik"
     ],
@@ -64,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aaf\u0ac7\u0a95"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d9\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u090f\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Myeik"
     ],
     "name:ind_x_preferred":[
         "Mergui"
@@ -273,7 +282,7 @@
         }
     ],
     "wof:id":890439905,
-    "wof:lastmodified":1566610369,
+    "wof:lastmodified":1636504985,
     "wof:name":"Myeik",
     "wof:parent_id":1092046951,
     "wof:placetype":"locality",

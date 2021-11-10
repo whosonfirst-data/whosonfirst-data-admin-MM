@@ -31,11 +31,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062a\u0628\u0627\u062f\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u09a4\u09aa\u09be\u09a6\u09be\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Letpadan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c4\u03c0\u03b1\u03bd\u03c4\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u067e\u0627\u062f\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Letpadan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e4\u05d8\u05d3\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947\u0924\u094d\u092a\u093e\u0921\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Letpadan"
+    ],
+    "name:ind_x_preferred":[
+        "Letpadan"
+    ],
+    "name:ita_x_preferred":[
+        "Letpadan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30c8\u30d1\u30c0\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ud30c\ub2e8"
+    ],
     "name:mya_x_preferred":[
         "\u101c\u1000\u103a\u1015\u1036\u1010\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:pol_x_preferred":[
+        "Letpadan"
+    ],
+    "name:por_x_preferred":[
+        "Letpadan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0442\u043f\u0430\u0434\u0430\u043d"
+    ],
     "name:shn_x_preferred":[
         "\u101c\u1085\u1010\u103a\u1089\u1015\u1010\u1062\u107c\u103a\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
+    "name:spa_x_preferred":[
+        "Letpadan"
+    ],
+    "name:swe_x_preferred":[
+        "Letpadan"
+    ],
+    "name:tur_x_preferred":[
+        "Letpadan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0442\u043f\u0430\u0434\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0679\u067e\u0627\u062f\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Letpadan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u793c\u52c3\u5766"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u79ae\u52c3\u5766"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +132,7 @@
         }
     ],
     "wof:id":1344033769,
-    "wof:lastmodified":1566608056,
+    "wof:lastmodified":1636504959,
     "wof:name":"Letpadan",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

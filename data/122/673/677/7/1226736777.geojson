@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Tanintharyi"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e0\u05d9\u05e0\u05d8\u05d0\u05e8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Tanintharyi"
+    ],
     "name:mya_x_preferred":[
         "\u1010\u1014\u1004\u103a\u1039\u101e\u102c\u101b\u102e\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1226736777,
-    "wof:lastmodified":1566611256,
+    "wof:lastmodified":1636504992,
     "wof:name":"Tanintharyi",
     "wof:parent_id":1092046951,
     "wof:placetype":"locality",

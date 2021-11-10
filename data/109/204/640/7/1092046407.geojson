@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Moulmein"
     ],
+    "name:hun_x_preferred":[
+        "Mawlamyine"
+    ],
     "name:jpn_x_preferred":[
         "\u30e2\u30fc\u30e9\u30df\u30e3\u30a4\u30f3\u770c"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1092046407,
-    "wof:lastmodified":1627522358,
+    "wof:lastmodified":1636504981,
     "wof:name":"Mawlamyine",
     "wof:parent_id":85674575,
     "wof:placetype":"county",

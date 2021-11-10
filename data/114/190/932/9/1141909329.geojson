@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"92.8800048411,20.1399967641,92.8800048411,20.1399967641",
+    "geom:bbox":"92.880005,20.139997,92.880005,20.139997",
     "geom:latitude":20.139997,
     "geom:longitude":92.880005,
     "iso:country":"MM",
@@ -65,6 +65,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0924\u0935\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Sittwe"
     ],
     "name:ind_x_preferred":[
         "Sittwe"
@@ -288,7 +291,7 @@
     },
     "wof:country":"MM",
     "wof:created":1499131065,
-    "wof:geomhash":"22d10097215f7fd2cf07dbdd6a71cc39",
+    "wof:geomhash":"92eeb794fb39c419b9ee9281d5f94157",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":1141909329,
-    "wof:lastmodified":1566611571,
+    "wof:lastmodified":1636504996,
     "wof:name":"Sittwe",
     "wof:parent_id":1092047375,
     "wof:placetype":"locality",
@@ -311,10 +314,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    92.88000484107937,
-    20.13999676409446,
-    92.88000484107937,
-    20.13999676409446
+    92.880005,
+    20.139997,
+    92.880005,
+    20.139997
 ],
-  "geometry": {"coordinates":[92.88000484107937,20.13999676409446],"type":"Point"}
+  "geometry": {"coordinates":[92.880005,20.139997],"type":"Point"}
 }

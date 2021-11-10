@@ -36,11 +36,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u064a"
+    ],
     "name:cat_x_preferred":[
         "Districte de Prome"
     ],
     "name:deu_x_preferred":[
         "Pyay District"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03b1\u03ca"
     ],
     "name:eng_x_preferred":[
         "Pyay"
@@ -49,8 +55,23 @@
         "Pyay",
         "Pyay District"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Prome"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d0\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u092f\u093e\u092f"
+    ],
+    "name:hun_x_preferred":[
+        "Pyay"
+    ],
+    "name:ind_x_preferred":[
+        "Pyay"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30a4\u770c"
@@ -60,6 +81,12 @@
     ],
     "name:swe_x_preferred":[
         "Pyay District"
+    ],
+    "name:tur_x_preferred":[
+        "Pyay"
+    ],
+    "name:vie_x_preferred":[
+        "Pyay"
     ],
     "name:zho_x_preferred":[
         "\u5351\u8b2c\u7e23"
@@ -100,7 +127,7 @@
         }
     ],
     "wof:id":1092047213,
-    "wof:lastmodified":1627522360,
+    "wof:lastmodified":1636504982,
     "wof:name":"Pyay",
     "wof:parent_id":85674565,
     "wof:placetype":"county",

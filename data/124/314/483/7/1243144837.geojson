@@ -34,16 +34,40 @@
     "name:aze_x_preferred":[
         "Zeya"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09af\u09bc\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Zeya"
     ],
     "name:dan_x_preferred":[
         "Zeya"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ad\u03b9\u03b1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0947\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Zeya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bc\u30e4"
+    ],
+    "name:por_x_preferred":[
+        "Zeya"
+    ],
     "name:spa_x_preferred":[
         "Zeya"
     ],
     "name:swe_x_preferred":[
+        "Zeya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06d2 \u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Zeya"
     ],
     "src:geom":"geonames",
@@ -69,7 +93,7 @@
         }
     ],
     "wof:id":1243144837,
-    "wof:lastmodified":1566610597,
+    "wof:lastmodified":1636504988,
     "wof:name":"Zeya",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

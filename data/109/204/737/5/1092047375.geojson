@@ -48,6 +48,9 @@
     "name:fra_x_preferred":[
         "Sittwe"
     ],
+    "name:hun_x_preferred":[
+        "Sittwe"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30c3\u30c8\u30a6\u30a7\u770c"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1092047375,
-    "wof:lastmodified":1627522360,
+    "wof:lastmodified":1636504978,
     "wof:name":"Sittwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

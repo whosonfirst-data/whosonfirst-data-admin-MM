@@ -70,6 +70,9 @@
     "name:hin_x_preferred":[
         "\u092e\u094c\u0932\u093e\u092e\u094d\u092f\u093e\u0907\u0928"
     ],
+    "name:hun_x_preferred":[
+        "Mawlamyine"
+    ],
     "name:ind_x_preferred":[
         "Mawlamyine"
     ],
@@ -299,7 +302,7 @@
         }
     ],
     "wof:id":890433723,
-    "wof:lastmodified":1566610372,
+    "wof:lastmodified":1636504987,
     "wof:name":"Mawlamyine",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

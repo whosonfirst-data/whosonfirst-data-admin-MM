@@ -35,11 +35,17 @@
     "name:dan_x_preferred":[
         "Myingyan"
     ],
+    "name:deu_x_preferred":[
+        "Myingyan"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b3\u03b9\u03bd\u03b3\u03ba\u03b3\u03b9\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Myingyan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06cc\u0646\u06af\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Myingyan"
@@ -50,8 +56,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a87\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0abe\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05d2\u05d9\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u093f\u0928\u091c\u094d\u091e\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Myingyan"
     ],
     "name:ind_x_preferred":[
         "Myingyan"
@@ -90,6 +102,9 @@
         "Myringyan"
     ],
     "name:pol_x_preferred":[
+        "Myingyan"
+    ],
+    "name:por_x_preferred":[
         "Myingyan"
     ],
     "name:rus_x_preferred":[
@@ -277,7 +292,7 @@
         }
     ],
     "wof:id":421168845,
-    "wof:lastmodified":1566610361,
+    "wof:lastmodified":1636504983,
     "wof:name":"Myingyan",
     "wof:parent_id":1092046999,
     "wof:placetype":"locality",

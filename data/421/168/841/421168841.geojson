@@ -17,20 +17,86 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062b\u0648\u0646\u063a\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a5\u09cb\u0999\u09cd\u0997\u09cb\u09df\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Thongwa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03cc\u03bd\u03b3\u03ba\u03bf\u03c5\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Thongwa Township"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u06af\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Thongwa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8'\u05d5\u05e0\u05d2\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0925\u094b\u0902\u0917\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Thongwa"
+    ],
+    "name:ind_x_preferred":[
+        "Thongwa"
+    ],
+    "name:ita_x_preferred":[
+        "Thongwa"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30f3\u30b0\u30ef\u90e1\u533a"
     ],
+    "name:kor_x_preferred":[
+        "\ud1b5\uc640"
+    ],
     "name:mya_x_preferred":[
         "\u101e\u102f\u1036\u1038\u1001\u103d\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Thongwa"
+    ],
+    "name:pol_x_preferred":[
+        "Thongwa"
+    ],
+    "name:por_x_preferred":[
+        "Thongwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043d\u0433\u0432\u0430"
     ],
     "name:shn_x_preferred":[
         "\u1010\u1030\u1004\u103a\u1038\u1076\u1082\u1083\u1089\u104a \u1078\u1084\u1088\u101d\u1035\u1004\u103a\u1038"
     ],
+    "name:spa_x_preferred":[
+        "Thongwa"
+    ],
+    "name:swe_x_preferred":[
+        "Thongwa"
+    ],
+    "name:tur_x_preferred":[
+        "Thongwa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0445\u043e\u043d\u0433\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Thon-Khwa"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0648\u0646\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Thongwa"
     ],
     "name:zho_x_preferred":[
         "\u5b8b\u5272\u93ae"
@@ -174,7 +240,7 @@
         }
     ],
     "wof:id":421168841,
-    "wof:lastmodified":1566610361,
+    "wof:lastmodified":1636504984,
     "wof:name":"Thongwa",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

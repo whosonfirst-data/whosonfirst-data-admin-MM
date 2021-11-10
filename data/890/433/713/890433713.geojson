@@ -37,6 +37,9 @@
     "name:dan_x_preferred":[
         "Taungoo"
     ],
+    "name:deu_x_preferred":[
+        "Taungoo"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03cc\u03b3\u03ba\u03bf\u03c5"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:epo_x_preferred":[
         "Taungu"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0648\u0646\u06af\u0648"
     ],
     "name:fin_x_preferred":[
         "Taungoo"
@@ -55,8 +61,14 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0acc\u0aa8\u0a97\u0acd\u0aaf\u0ac2"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d5\u05e0\u05d2\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0902\u0917\u091f\u0949\u0915\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Taungoo"
     ],
     "name:ind_x_preferred":[
         "Taungoo"
@@ -276,7 +288,7 @@
         }
     ],
     "wof:id":890433713,
-    "wof:lastmodified":1566610372,
+    "wof:lastmodified":1636504986,
     "wof:name":"Taungoo",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

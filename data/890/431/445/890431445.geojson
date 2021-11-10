@@ -64,8 +64,14 @@
     "name:guj_x_preferred":[
         "\u0aa6\u0abe\u0ab5\u0ac7\u0a88"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d5\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0921\u0935\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Dawei"
     ],
     "name:ind_x_preferred":[
         "Dawei"
@@ -278,7 +284,7 @@
         }
     ],
     "wof:id":890431445,
-    "wof:lastmodified":1566610370,
+    "wof:lastmodified":1636504986,
     "wof:name":"Dawei",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

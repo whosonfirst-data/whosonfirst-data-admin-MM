@@ -50,7 +50,13 @@
         "Vesipiippu"
     ],
     "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e0\u05d2"
+    ],
+    "name:heb_x_variant":[
         "\u05d1\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Bong"
     ],
     "name:ita_x_preferred":[
         "Bong"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1326542651,
-    "wof:lastmodified":1566607611,
+    "wof:lastmodified":1636504958,
     "wof:name":"Bong",
     "wof:parent_id":1092046531,
     "wof:placetype":"locality",

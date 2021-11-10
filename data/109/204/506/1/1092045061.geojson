@@ -49,6 +49,12 @@
     "name:fra_x_preferred":[
         "Tavoy"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d5\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Dawei"
+    ],
     "name:jpn_x_preferred":[
         "\u30c0\u30a6\u30a7\u30a4\u770c"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1092045061,
-    "wof:lastmodified":1627522361,
+    "wof:lastmodified":1636504980,
     "wof:name":"Dawei",
     "wof:parent_id":85674599,
     "wof:placetype":"county",

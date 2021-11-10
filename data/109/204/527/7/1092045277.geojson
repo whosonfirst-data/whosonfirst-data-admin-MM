@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Districte d'Hinthada"
     ],
+    "name:deu_x_preferred":[
+        "Hinthada"
+    ],
     "name:eng_x_preferred":[
         "Hinthada"
     ],
@@ -46,8 +49,17 @@
         "Hinthada",
         "Hinthada District"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u062a\u0627\u062f\u0627"
+    ],
     "name:fra_x_preferred":[
         "Henzada"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05e0\u05d8'\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Hinthada"
     ],
     "name:jpn_x_preferred":[
         "\u30d2\u30f3\u30bf\u30c0\u770c"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1092045277,
-    "wof:lastmodified":1627522352,
+    "wof:lastmodified":1636504979,
     "wof:name":"Hinthada",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

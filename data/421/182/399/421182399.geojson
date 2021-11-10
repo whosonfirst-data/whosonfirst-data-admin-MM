@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u044f\u0439"
     ],
@@ -29,6 +32,9 @@
     "name:deu_x_preferred":[
         "Pyay"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03b1\u03ca"
+    ],
     "name:eng_x_preferred":[
         "Prome"
     ],
@@ -38,8 +44,23 @@
     "name:epo_x_preferred":[
         "Pji"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Prome"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d0\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u092f\u093e\u092f"
+    ],
+    "name:hun_x_preferred":[
+        "Pyay"
+    ],
+    "name:ind_x_preferred":[
+        "Pyay"
     ],
     "name:ita_x_preferred":[
         "Prome"
@@ -89,6 +110,9 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e1b\u0e23"
     ],
+    "name:tur_x_preferred":[
+        "Pyay"
+    ],
     "name:ukr_x_preferred":[
         "\u041f'\u0457"
     ],
@@ -97,6 +121,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0627\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Pyay"
     ],
     "name:zho_x_preferred":[
         "\u5351\u8b2c\u5e02"
@@ -241,7 +268,7 @@
         }
     ],
     "wof:id":421182399,
-    "wof:lastmodified":1566610367,
+    "wof:lastmodified":1636504985,
     "wof:name":"Pyay",
     "wof:parent_id":1092047213,
     "wof:placetype":"locality",

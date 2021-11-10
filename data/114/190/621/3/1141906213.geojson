@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"97.0380006452,20.7819990652,97.0380006452,20.7819990652",
+    "geom:bbox":"97.038001,20.781999,97.038001,20.781999",
     "geom:latitude":20.781999,
     "geom:longitude":97.038001,
     "gn:country":"MM",
@@ -54,8 +54,14 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0acc\u0a97\u0aaf\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d5\u05e0\u05d2\u05d2\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u094c\u0928\u094d\u0917\u092f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Taunggyi"
     ],
     "name:hye_x_preferred":[
         "\u0539\u0561\u0578\u0582\u0576\u057b\u056b"
@@ -275,7 +281,7 @@
     },
     "wof:country":"MM",
     "wof:created":1499130557,
-    "wof:geomhash":"d212ffd66cb2464033ad0b739317dab7",
+    "wof:geomhash":"7a5eba9b125f7922fcbcd02c188fe209",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -286,7 +292,7 @@
         }
     ],
     "wof:id":1141906213,
-    "wof:lastmodified":1566611570,
+    "wof:lastmodified":1636504995,
     "wof:name":"Taunggyi",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",
@@ -300,10 +306,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    97.03800064516406,
-    20.78199906518256,
-    97.03800064516406,
-    20.78199906518256
+    97.038001,
+    20.781999,
+    97.038001,
+    20.781999
 ],
-  "geometry": {"coordinates":[97.03800064516406,20.78199906518256],"type":"Point"}
+  "geometry": {"coordinates":[97.03800099999999,20.781999],"type":"Point"}
 }

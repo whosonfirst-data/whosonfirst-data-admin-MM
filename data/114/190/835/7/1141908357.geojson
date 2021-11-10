@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"93.5494035597,19.4290131548,93.5494035597,19.4290131548",
+    "geom:bbox":"93.549404,19.429013,93.549404,19.429013",
     "geom:latitude":19.429013,
     "geom:longitude":93.549404,
     "iso:country":"MM",
@@ -21,23 +21,47 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0627\u0648\u0643\u0628\u064a\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09df\u09be\u0989\u0995\u09ab\u09c1"
+    ],
     "name:cat_x_preferred":[
         "Kyaukpyu"
     ],
     "name:deu_x_preferred":[
         "Kyaukpyu"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b1\u03bf\u03c5\u03ba\u03c6\u03af\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Kyaukpyu"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0648\u06a9\u0641\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "Kyaukpyu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d0\u05d5\u05e7\u05e4\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u090a\u092b\u093c\u094d\u092f\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Kyaukphyu"
+    ],
+    "name:ind_x_preferred":[
+        "Kyaukphyu"
     ],
     "name:ita_x_preferred":[
         "Kyaukpyu"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a6\u30c3\u30d4\u30e5\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uceac\uc6b1\ud4e8"
     ],
     "name:mya_x_preferred":[
         "\u1000\u103b\u1031\u102c\u1000\u103a\u1016\u103c\u1030\u1019\u103c\u102d\u102f\u1037"
@@ -48,8 +72,14 @@
     "name:nob_x_preferred":[
         "Kyaukpyu"
     ],
+    "name:pol_x_preferred":[
+        "Kyaukphyu"
+    ],
     "name:por_x_preferred":[
         "Kyaukpyu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044c\u044f\u0443\u043a\u043f\u044c\u044e"
     ],
     "name:shn_x_preferred":[
         "\u1075\u103b\u103d\u1075\u103a\u1089\u107d\u103b\u1030\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
@@ -57,8 +87,23 @@
     "name:spa_x_preferred":[
         "Kyaukpyu"
     ],
+    "name:swe_x_preferred":[
+        "Kyaukphyu"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e32\u0e30\u0e1e\u0e22\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Kyaukphyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u2019\u044f\u0443\u043a\u043f\u2019\u044e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0627\u06a9\u0641\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Kyaukphyu"
     ],
     "name:zho_x_preferred":[
         "\u768e\u6f02"
@@ -171,7 +216,7 @@
     },
     "wof:country":"MM",
     "wof:created":1499130885,
-    "wof:geomhash":"ece919c5a6cae1846f57833a9c80f724",
+    "wof:geomhash":"7940fbc66e36b31dbf75355356e33857",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +227,7 @@
         }
     ],
     "wof:id":1141908357,
-    "wof:lastmodified":1566611570,
+    "wof:lastmodified":1636504996,
     "wof:name":"Kyaukphyu",
     "wof:parent_id":1092045819,
     "wof:placetype":"locality",
@@ -192,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    93.5494035596613,
-    19.4290131548214,
-    93.5494035596613,
-    19.4290131548214
+    93.549404,
+    19.429013,
+    93.549404,
+    19.429013
 ],
-  "geometry": {"coordinates":[93.5494035596613,19.4290131548214],"type":"Point"}
+  "geometry": {"coordinates":[93.549404,19.429013],"type":"Point"}
 }

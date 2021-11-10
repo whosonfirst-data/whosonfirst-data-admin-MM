@@ -17,13 +17,46 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u0989"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u044e"
     ],
     "name:ceb_x_preferred":[
         "Pyu"
     ],
+    "name:deu_x_preferred":[
+        "Pyu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
+        "Pyu"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Phyu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u092f\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Pyu"
+    ],
+    "name:ind_x_preferred":[
+        "Pyu"
+    ],
+    "name:ita_x_preferred":[
         "Pyu"
     ],
     "name:jpn_x_preferred":[
@@ -31,6 +64,9 @@
     ],
     "name:kjp_x_preferred":[
         "\u100d\u102f\u1036\u1016\u103b\u1030\u108b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud4e8"
     ],
     "name:mya_x_preferred":[
         "\u1016\u103c\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
@@ -41,6 +77,12 @@
     "name:pol_x_preferred":[
         "Pyu"
     ],
+    "name:por_x_preferred":[
+        "Pyu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044c\u044e"
+    ],
     "name:shn_x_preferred":[
         "\u107d\u103b\u1030\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
@@ -49,6 +91,24 @@
     ],
     "name:swe_x_preferred":[
         "Pyu"
+    ],
+    "name:tur_x_preferred":[
+        "Pyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u2019\u044e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Pyu"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5f6a\u5173"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9a43"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Myanmar",
@@ -190,7 +250,7 @@
         }
     ],
     "wof:id":421176835,
-    "wof:lastmodified":1566610367,
+    "wof:lastmodified":1636504985,
     "wof:name":"Pyu",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

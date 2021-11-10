@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Kayin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,7 +49,7 @@
         "gn:id":1319518
     },
     "wof:country":"MM",
-    "wof:geomhash":"fbae1bb14e5844631bc85d82f46a9a4a",
+    "wof:geomhash":"4927846e9f8555b9aacce78aa2d0b3c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226831033,
-    "wof:lastmodified":1566611463,
+    "wof:lastmodified":1636504994,
     "wof:name":"Kayin",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",
@@ -65,9 +71,9 @@
 },
   "bbox": [
     96.4,
-    18.61667000000001,
+    18.61667,
     96.4,
-    18.61667000000001
+    18.61667
 ],
-  "geometry": {"coordinates":[96.40000000000001,18.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[96.40000000000001,18.61667],"type":"Point"}
 }

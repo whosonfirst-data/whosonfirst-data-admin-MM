@@ -37,6 +37,9 @@
     "name:dan_x_preferred":[
         "Hinthada"
     ],
+    "name:deu_x_preferred":[
+        "Hinthada"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03b9\u03bd\u03b8\u03ac\u03bd\u03c4\u03b1"
     ],
@@ -49,6 +52,9 @@
     "name:eng_x_variant":[
         "Henzada"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u062a\u0627\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hinthada"
     ],
@@ -58,8 +64,14 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0abf\u0aa8\u0acd\u0aa5\u0abe\u0aa1\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05e0\u05d8'\u05d3\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u093f\u0902\u0925\u093e\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Hinthada"
     ],
     "name:ind_x_preferred":[
         "Hinthada"
@@ -267,7 +279,7 @@
         }
     ],
     "wof:id":890443775,
-    "wof:lastmodified":1566610371,
+    "wof:lastmodified":1636504986,
     "wof:name":"Hinthada",
     "wof:parent_id":1092045277,
     "wof:placetype":"locality",
