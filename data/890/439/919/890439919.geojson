@@ -22,8 +22,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062c\u0648\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u063a\u0627\u0648\u0627\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Magway"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u0997\u0993\u09af\u09bc\u09c7"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u0997\u0993\u09af\u09bc\u09c7"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1019\u1000\u103d\u1031\u1038"
     ],
     "name:bre_x_preferred":[
         "Magway"
@@ -60,6 +72,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d4\u05d4 \u05e1\u05d0\u05e8\u05d0\u05d7\u05d0\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d2\u05d5\u05d5\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0917\u0935\u0947"
@@ -135,6 +150,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e40\u0e01\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e30\u0e01\u0e40\u0e27"
     ],
     "name:tur_x_preferred":[
         "Magway"
@@ -273,7 +291,7 @@
         }
     ],
     "wof:id":890439919,
-    "wof:lastmodified":1636504986,
+    "wof:lastmodified":1690939676,
     "wof:name":"Magway",
     "wof:parent_id":1092046159,
     "wof:placetype":"locality",

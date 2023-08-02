@@ -43,8 +43,10 @@
         "Monywa"
     ],
     "name:eng_x_variant":[
-        "Monywa",
         "Monywa District"
+    ],
+    "name:eus_x_preferred":[
+        "Monywa"
     ],
     "name:fra_x_preferred":[
         "Monywa"
@@ -57,6 +59,12 @@
     ],
     "name:mya_x_preferred":[
         "\u1019\u102f\u1036\u101b\u103d\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:pol_x_preferred":[
+        "Munywa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0443\u043d\u044a\u044e\u0430"
     ],
     "name:zho_x_preferred":[
         "\u8499\u80b2\u74e6\u7e23"
@@ -97,7 +105,7 @@
         }
     ],
     "wof:id":1092046719,
-    "wof:lastmodified":1636504981,
+    "wof:lastmodified":1690939661,
     "wof:name":"Monywa",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

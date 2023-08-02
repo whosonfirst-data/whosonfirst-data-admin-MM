@@ -36,13 +36,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Kale District"
+    ],
     "name:eng_x_preferred":[
         "Kalemyo"
     ],
     "name:eng_x_variant":[
         "Kale",
-        "Kalemyo",
         "Kale District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u0644\u0647"
     ],
     "name:fra_x_preferred":[
         "Kale"
@@ -52,6 +57,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1000\u101c\u1031\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u1062\u1010\u103a\u1087\u101c\u102d\u102f\u101d\u103a\u1038\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Kale District"
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":1092045503,
-    "wof:lastmodified":1627522353,
+    "wof:lastmodified":1690939653,
     "wof:name":"Kale",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

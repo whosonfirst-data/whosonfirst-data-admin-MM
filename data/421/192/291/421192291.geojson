@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1019\u103b\u101d\u1010\u102e\u108f"
+    ],
     "name:deu_x_preferred":[
         "Myawaddy"
     ],
@@ -38,6 +41,9 @@
     "name:kor_x_preferred":[
         "\ubbf8\uc57c\uc640\ub514"
     ],
+    "name:msa_x_preferred":[
+        "Myawaddy"
+    ],
     "name:mya_x_preferred":[
         "\u1019\u103c\u101d\u1010\u102e\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -56,14 +62,23 @@
     "name:shn_x_preferred":[
         "\u1019\u103b\u1083\u1089\u101d\u1010\u102e\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
+    "name:spa_x_preferred":[
+        "Myawaddy"
+    ],
     "name:swe_x_preferred":[
         "Myawaddy"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e35\u0e22\u0e27\u0e14\u0e35"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c'\u044f\u0432\u0430\u0434\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0627\u0648\u0688\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Myawaddy"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u4e9e\u74e6\u8fea"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":421192291,
-    "wof:lastmodified":1566610362,
+    "wof:lastmodified":1690939668,
     "wof:name":"Myawadi",
     "wof:parent_id":1092046901,
     "wof:placetype":"locality",

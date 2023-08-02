@@ -39,6 +39,12 @@
     "name:bel_x_preferred":[
         "\u0427\u0436\u0430\u045e\u0441\u0445\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0989\u0995\u09b8\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:blk_x_preferred":[
+        "\u1000\u103b\u1031\u102c\u1000\u103a\u101e\u101a\u103a\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:cat_x_preferred":[
         "Districte de Kyaukse"
     ],
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1092045867,
-    "wof:lastmodified":1627522355,
+    "wof:lastmodified":1690939656,
     "wof:name":"Kyaukse",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

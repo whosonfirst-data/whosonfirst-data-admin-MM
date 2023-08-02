@@ -39,6 +39,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0648\u0643\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u0995\u0995\u09cd\u0995\u09c1 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:blk_x_preferred":[
+        "\u1015\u1001\u102f\u1000\u1039\u1000\u1030\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:cat_x_preferred":[
         "Districte de Pakokku"
     ],
@@ -49,7 +55,6 @@
         "Pakokku"
     ],
     "name:eng_x_variant":[
-        "Pakokku",
         "Pakokku District"
     ],
     "name:fas_x_preferred":[
@@ -81,6 +86,9 @@
     ],
     "name:por_x_preferred":[
         "Pakokku"
+    ],
+    "name:shn_x_preferred":[
+        "\u1015\u1076\u1030\u1075\u103a\u1089\u1075\u1030\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Pakokku District"
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":1092047065,
-    "wof:lastmodified":1636504978,
+    "wof:lastmodified":1690939652,
     "wof:name":"Pakokku",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

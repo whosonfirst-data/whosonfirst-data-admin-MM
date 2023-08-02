@@ -45,6 +45,12 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09cd\u09a1\u09be\u09b2\u09be\u09af\u09bc \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u09a8\u09cd\u09a6\u09be\u09b2\u09af\u09bc \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:blk_x_preferred":[
+        "\u1019\u1014\u103a\u108f\u1010\u101c\u1031\uaa7b\u1010\u103d\u102d\u102f\u1004\u103a\uaa7b\u1012\u1031\u108f\u101e\u1010\u1014\u103a"
+    ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Mandalay"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:ces_x_preferred":[
         "Mandalajsk\u00e1 oblast"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u0627\u0648\u0686\u06d5\u06cc \u0645\u0627\u0646\u062f\u0627\u0644\u0627\u06cc"
     ],
     "name:dan_x_preferred":[
         "Mandalay Region"
@@ -71,6 +80,9 @@
     ],
     "name:est_x_preferred":[
         "Mandalay piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Mandalay"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0645\u0627\u0646\u062f\u0644\u06cc"
@@ -96,6 +108,9 @@
     "name:hun_x_preferred":[
         "Mandalay"
     ],
+    "name:ido_x_preferred":[
+        "Regiono Mandalay"
+    ],
     "name:ind_x_preferred":[
         "Region Mandalay"
     ],
@@ -107,6 +122,15 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0cb2\u0cc6 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d3\u10d0\u10da\u10d0\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u178f\u17c6\u1794\u1793\u17cb\u1798\u17c9\u17b6\u1793\u17cb\u178a\u17b6\u17a1\u17b6\u1799"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439"
     ],
     "name:kor_x_preferred":[
         "\ub9cc\ub2ec\ub808\uc774 \uad6c"
@@ -147,8 +171,14 @@
     "name:por_x_preferred":[
         "Mandalay"
     ],
+    "name:ron_x_preferred":[
+        "Regiunea Mandalay"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0430\u0439"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5f\u1c71\u1c70\u1c5f\u1c5e\u1c5f\u1c6d \u1c74\u1c5a\u1c74\u1c77\u1c5f"
     ],
     "name:sco_x_preferred":[
         "Mandalay Region"
@@ -174,6 +204,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e21\u0e31\u0e13\u0e11\u0e30\u0e40\u0e25\u0e22\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e20\u0e32\u0e04\u0e21\u0e31\u0e13\u0e11\u0e30\u0e40\u0e25\u0e22\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Mandalay B\u00f6lgesi"
     ],
@@ -191,6 +224,15 @@
     ],
     "name:vie_x_preferred":[
         "V\u00f9ng Mandalay"
+    ],
+    "name:wuu_x_preferred":[
+        "\u66fc\u5fb7\u52d2\u7701"
+    ],
+    "name:yid_x_preferred":[
+        "\u05de\u05d0\u05b7\u05e0\u05d3\u05e2\u05dc\u05f2"
+    ],
+    "name:yue_x_preferred":[
+        "\u66fc\u5fb7\u62c9\u7701"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u5fb7\u52d2\u7701"
@@ -318,7 +360,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1636504962,
+    "wof:lastmodified":1690939637,
     "wof:name":"Mandalay",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

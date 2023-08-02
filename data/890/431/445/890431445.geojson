@@ -25,8 +25,20 @@
     "name:ara_x_variant":[
         "\u062f\u0627\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Dawei"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u0993\u09af\u09bc\u09c7"
+    ],
+    "name:ben_x_variant":[
+        "\u09a6\u09be\u0989\u0987"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1011\u102c\u101d\u101a\u103a"
     ],
     "name:cat_x_preferred":[
         "Dawei"
@@ -61,11 +73,17 @@
     "name:fra_x_preferred":[
         "Tavoy"
     ],
+    "name:gle_x_preferred":[
+        "Dawei"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0abe\u0ab5\u0ac7\u0a88"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d5\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d8\u05d0\u05d5\u05d5\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0921\u0935\u0947"
@@ -93,6 +111,9 @@
     ],
     "name:lit_x_preferred":[
         "Dav\u0117jus"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d26\u0d3e\u0d35\u0d46\u0d2f\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0921\u093e\u0945\u0935\u093f\u092f\u093e"
@@ -130,6 +151,9 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dc0\u0dda"
     ],
+    "name:spa_x_preferred":[
+        "Dawei"
+    ],
     "name:swe_x_preferred":[
         "Dawei"
     ],
@@ -138,6 +162,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c35\u0c3e\u0c2f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0430\u0432\u043e\u0439"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e27\u0e32\u0e22"
@@ -150,6 +177,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u0648\u0626\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Tavoy"
     ],
     "name:vie_x_preferred":[
         "Dawei"
@@ -284,7 +314,7 @@
         }
     ],
     "wof:id":890431445,
-    "wof:lastmodified":1636504986,
+    "wof:lastmodified":1690939677,
     "wof:name":"Dawei",
     "wof:parent_id":1092045061,
     "wof:placetype":"locality",

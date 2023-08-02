@@ -17,7 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1010\u102c\u101e\u102e"
+    ],
+    "name:deu_x_preferred":[
+        "Thazi"
+    ],
     "name:eng_x_preferred":[
+        "Thazi"
+    ],
+    "name:ita_x_preferred":[
         "Thazi"
     ],
     "name:mya_x_preferred":[
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":421196117,
-    "wof:lastmodified":1566610366,
+    "wof:lastmodified":1690939672,
     "wof:name":"Thazi",
     "wof:parent_id":1092046443,
     "wof:placetype":"locality",

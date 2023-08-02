@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1010\u101a\u1032\u1010\u103a"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0445\u0430\u0439\u0435\u0442\u043c\u0439\u043e"
     ],
@@ -26,11 +29,20 @@
     "name:ceb_x_preferred":[
         "Thayetmyo"
     ],
+    "name:deu_x_preferred":[
+        "Thayet"
+    ],
     "name:eng_x_preferred":[
         "Thayetmyo"
     ],
+    "name:eng_x_variant":[
+        "Thayet"
+    ],
     "name:fra_x_preferred":[
         "Thayetmyo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30a4\u30a7\u30c3"
     ],
     "name:mya_x_preferred":[
         "\u101e\u101b\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":421176837,
-    "wof:lastmodified":1566610367,
+    "wof:lastmodified":1690939674,
     "wof:name":"Thayetmyo",
     "wof:parent_id":1092047713,
     "wof:placetype":"locality",

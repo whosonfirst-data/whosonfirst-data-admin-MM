@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0634\u064a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Lashio"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b8\u09bf\u0993"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be\u09b6\u09bf\u0993"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u101c\u102c\u1038\u101e\u103b\u102d\u102f\u1038"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0448\u0438\u043e"
@@ -36,6 +45,9 @@
     ],
     "name:ceb_x_preferred":[
         "Lashio"
+    ],
+    "name:ces_x_preferred":[
+        "La\u0161io"
     ],
     "name:dan_x_preferred":[
         "Lashio"
@@ -51,6 +63,12 @@
     ],
     "name:epo_x_preferred":[
         "La\u015dio"
+    ],
+    "name:eus_x_preferred":[
+        "Lashio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0634\u06cc\u0626\u0648"
     ],
     "name:fin_x_preferred":[
         "Lashio"
@@ -190,7 +208,7 @@
         }
     ],
     "wof:id":1125820393,
-    "wof:lastmodified":1566610374,
+    "wof:lastmodified":1690939681,
     "wof:name":"Lashio",
     "wof:parent_id":1092046001,
     "wof:placetype":"locality",

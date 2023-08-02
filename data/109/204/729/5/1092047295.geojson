@@ -52,7 +52,6 @@
         "Sagaing"
     ],
     "name:eng_x_variant":[
-        "Sagaing",
         "Sagaing District"
     ],
     "name:fra_x_preferred":[
@@ -70,11 +69,20 @@
     "name:mya_x_preferred":[
         "\u1005\u1005\u103a\u1000\u102d\u102f\u1004\u103a\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
     ],
+    "name:pol_x_preferred":[
+        "Sikong"
+    ],
+    "name:shn_x_preferred":[
+        "\u1078\u1084\u1088\u1075\u1085\u1004\u103a\u1038\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Sagaing District"
     ],
     "name:tur_x_preferred":[
         "Sagaing"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043a\u0430\u0439\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06af\u06cc\u0646\u06af \u0636\u0644\u0639"
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1092047295,
-    "wof:lastmodified":1636504983,
+    "wof:lastmodified":1690939666,
     "wof:name":"Sagaing",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

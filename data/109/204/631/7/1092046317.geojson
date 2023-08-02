@@ -36,6 +36,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:asm_x_preferred":[
+        "\u09ae\u09be\u0989\u0982\u09a6\u09be\u0993 \u099c\u09bf\u09b2\u09be"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u0982\u09a1\u09c1 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Maungdaw District"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:fra_x_preferred":[
         "Maungdaw"
+    ],
+    "name:ido_x_preferred":[
+        "Distrikto Maungdaw"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c9\u30a6\u770c"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1092046317,
-    "wof:lastmodified":1627522356,
+    "wof:lastmodified":1690939663,
     "wof:name":"Maungdaw",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

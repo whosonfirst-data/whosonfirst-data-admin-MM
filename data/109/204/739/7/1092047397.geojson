@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Tachileik"
     ],
+    "name:ido_x_preferred":[
+        "Distrikto Tachileik"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30c1\u30ec\u30af\u770c"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1092047397,
-    "wof:lastmodified":1627522361,
+    "wof:lastmodified":1690939652,
     "wof:name":"Tachileik",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

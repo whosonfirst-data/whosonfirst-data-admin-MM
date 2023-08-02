@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u101e\u102c\u108f\u101a\u102c\u108f\u101d\u1010\u102e\u108f"
+    ],
     "name:cat_x_preferred":[
         "Tharyarwady"
     ],
@@ -28,6 +31,12 @@
     ],
     "name:fra_x_preferred":[
         "Thayawady"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30e4\u30fc\u30ef\u30c7\u30a3\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc57c\uc640\ub514"
     ],
     "name:mya_x_preferred":[
         "\u101e\u102c\u101a\u102c\u101d\u1010\u102e\u1019\u103c\u102d\u102f\u1037"
@@ -46,6 +55,9 @@
     ],
     "name:und_x_variant":[
         "Thayawadi"
+    ],
+    "name:uzb_x_preferred":[
+        "Tharrawaddy"
     ],
     "qs:gn_country":"MM",
     "qs:gn_fcode":"PPL",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":421203623,
-    "wof:lastmodified":1566610363,
+    "wof:lastmodified":1690939670,
     "wof:name":"Tharyarwady",
     "wof:parent_id":1092047665,
     "wof:placetype":"locality",

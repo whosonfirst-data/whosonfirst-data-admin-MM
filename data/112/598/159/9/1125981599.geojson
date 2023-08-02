@@ -25,8 +25,20 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u064a\u0643\u0627\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u064a\u0643\u0627\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Loikaw"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u0987\u0995\u09be"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u101c\u103d\u101a\u103a\u1000\u1031\u102c\u108f"
+    ],
+    "name:cat_x_preferred":[
+        "Loi-kaw"
     ],
     "name:ceb_x_preferred":[
         "Loikaw"
@@ -57,6 +69,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d0\u05d9\u05e7\u05d0\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d5\u05d9\u05e7\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0932\u094d\u0935\u093e\u0907\u0915\u094c"
@@ -120,6 +135,9 @@
     ],
     "name:swe_x_preferred":[
         "Loikaw"
+    ],
+    "name:szl_x_preferred":[
+        "Lwaingkaw"
     ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bcb\u0baf\u0bbf\u0b95\u0bbe"
@@ -190,7 +208,7 @@
         }
     ],
     "wof:id":1125981599,
-    "wof:lastmodified":1636504987,
+    "wof:lastmodified":1690939681,
     "wof:name":"Loikaw",
     "wof:parent_id":1092046067,
     "wof:placetype":"locality",

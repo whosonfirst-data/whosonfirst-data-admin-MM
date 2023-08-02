@@ -42,6 +42,12 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a8\u09bf\u09a8\u09a4\u09be\u09b0\u09be\u09b0\u09bf \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09a8\u09bf\u09a8\u09cd\u09a5\u09be\u09b0\u09bf \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:blk_x_preferred":[
+        "\u1010\u1014\u1004\u103a\u1039\u101e\u102c\u101b\u102e\u1010\u103d\u102d\u102f\u1004\u103a\uaa7b\u1012\u1031\u108f\u101e\u1010\u1014\u103a"
+    ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 de Tanintharyi"
     ],
@@ -96,6 +102,9 @@
     "name:hun_x_preferred":[
         "Tanintharyi"
     ],
+    "name:ido_x_preferred":[
+        "Regiono Tanintharyi"
+    ],
     "name:ind_x_preferred":[
         "Region Tanintharyi"
     ],
@@ -105,8 +114,17 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30cb\u30f3\u30c0\u30fc\u30ea\u7ba1\u533a"
     ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30cb\u30f3\u30c0\u30fc\u30a4\u30fc\u7ba1\u533a"
+    ],
     "name:kan_x_preferred":[
         "\u0ca4\u0ca8\u0cbf\u0c82\u0ca5\u0cb0\u0ccd\u0caf\u0ccd\u0c88 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:khm_x_preferred":[
+        "\u178f\u17c6\u1794\u1793\u17cb\u178f\u17b6\u1793\u17b8\u1793\u1790\u17b6\u179a\u17b8"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u043d\u0438\u043d\u0442\u0430\u0439\u0438"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ub2cc\ud0c0\ub9ac \uad6c"
@@ -153,6 +171,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043d\u0438\u043d\u0442\u0430\u0439\u0438"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c5f\u1c71\u1c64\u1c71\u1c5b\u1c77\u1c5f\u1c6d\u1c68\u1c64 \u1c74\u1c5a\u1c74\u1c77\u1c5f"
+    ],
     "name:shn_x_preferred":[
         "\u1010\u107c\u102d\u107c\u103a\u1038\u1010\u1083\u1087\u101a\u102e\u1087\u104a \u1078\u1084\u1088\u1010\u102d\u1030\u1004\u103a\u1038"
     ],
@@ -175,7 +196,8 @@
         "\u0e15\u0e30\u0e19\u0e32\u0e27\u0e28\u0e23\u0e35"
     ],
     "name:tha_x_variant":[
-        "\u0e40\u0e02\u0e15\u0e15\u0e30\u0e19\u0e32\u0e27\u0e28\u0e23\u0e35"
+        "\u0e40\u0e02\u0e15\u0e15\u0e30\u0e19\u0e32\u0e27\u0e28\u0e23\u0e35",
+        "\u0e20\u0e32\u0e04\u0e15\u0e30\u0e19\u0e32\u0e27\u0e28\u0e23\u0e35"
     ],
     "name:tur_x_preferred":[
         "Tanintharyi Region"
@@ -191,6 +213,12 @@
     ],
     "name:vie_x_preferred":[
         "V\u00f9ng Tanintharyi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5fb7\u6797\u8fbe\u4f9d\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5fb7\u9023\u9054\u4f9d\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u6797\u8fbe\u4f9d"
@@ -316,7 +344,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1636504964,
+    "wof:lastmodified":1690939640,
     "wof:name":"Tanintharyi",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

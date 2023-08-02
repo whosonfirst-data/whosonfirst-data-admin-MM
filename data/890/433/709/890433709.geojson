@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09df\u09be\u0995\u09c7\u09ae\u09be"
     ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u101d\u102b\u1038\u1001\u101a\u103a\u1019"
+    ],
     "name:ceb_x_preferred":[
         "Wakema"
     ],
@@ -75,6 +78,12 @@
     ],
     "name:por_x_preferred":[
         "Wakema"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043a\u0435\u043c\u0430"
+    ],
+    "name:shn_x_preferred":[
+        "\u101d\u1083\u1038\u1076\u1084\u1087\u1019\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:spa_x_preferred":[
         "Wakema"
@@ -225,7 +234,7 @@
         }
     ],
     "wof:id":890433709,
-    "wof:lastmodified":1636504986,
+    "wof:lastmodified":1690939679,
     "wof:name":"Wakema",
     "wof:parent_id":1092046857,
     "wof:placetype":"locality",

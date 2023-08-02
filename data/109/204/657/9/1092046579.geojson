@@ -58,6 +58,12 @@
     "name:pol_x_preferred":[
         "Mohnyin"
     ],
+    "name:por_x_preferred":[
+        "Mohnyin"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101a\u1062\u1004\u103a\u1038\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Mohnyin Distrikt"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1092046579,
-    "wof:lastmodified":1627522357,
+    "wof:lastmodified":1690939656,
     "wof:name":"Mohnyin",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

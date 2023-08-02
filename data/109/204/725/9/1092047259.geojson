@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u1015\u102d\u1009\u103a\u1021\u1030\u1038\u101c\u103d\u102e\u1004\u103a\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:eng_x_preferred":[
         "Pyin-Oo-Lwin"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1092047259,
-    "wof:lastmodified":1627522360,
+    "wof:lastmodified":1690939656,
     "wof:name":"Pyinoolwin",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

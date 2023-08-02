@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1021\u1031\u102c\u1004\u103a\u108f\u1017\u1014\u103a\u1038"
+    ],
     "name:eng_x_preferred":[
         "Aungban"
+    ],
+    "name:eng_x_variant":[
+        "Aungpan"
     ],
     "name:mya_x_preferred":[
         "\u1021\u1031\u102c\u1004\u103a\u1015\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421173141,
-    "wof:lastmodified":1566610364,
+    "wof:lastmodified":1690939671,
     "wof:name":"Aungban",
     "wof:parent_id":1092047487,
     "wof:placetype":"locality",

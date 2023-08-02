@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Districte de Mawlamyaing"
     ],
+    "name:ceb_x_preferred":[
+        "Mawlamyine District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Mawlamyine"
     ],
@@ -46,8 +49,10 @@
         "Mawlamyine"
     ],
     "name:eng_x_variant":[
-        "Mawlamyine",
         "Mawlamyine District"
+    ],
+    "name:eus_x_preferred":[
+        "Mawlamyine"
     ],
     "name:fra_x_preferred":[
         "Moulmein"
@@ -55,8 +60,14 @@
     "name:hun_x_preferred":[
         "Mawlamyine"
     ],
+    "name:ido_x_preferred":[
+        "Distrikto Mawlamyine"
+    ],
     "name:jpn_x_preferred":[
         "\u30e2\u30fc\u30e9\u30df\u30e3\u30a4\u30f3\u770c"
+    ],
+    "name:mnw_x_preferred":[
+        "\u1001\u101b\u102d\u102f\u1004\u103a\u1019\u1010\u103a\u1019\u101c\u102e\u102f"
     ],
     "name:mya_x_preferred":[
         "\u1019\u1031\u102c\u103a\u101c\u1019\u103c\u102d\u102f\u1004\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
@@ -103,7 +114,7 @@
         }
     ],
     "wof:id":1092046407,
-    "wof:lastmodified":1636504981,
+    "wof:lastmodified":1690939661,
     "wof:name":"Mawlamyine",
     "wof:parent_id":85674575,
     "wof:placetype":"county",

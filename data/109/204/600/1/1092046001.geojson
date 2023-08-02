@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u101c\u102c\u1038\u101e\u103b\u102d\u102f\u1038\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:ceb_x_preferred":[
         "Lashio District"
     ],
@@ -52,11 +55,17 @@
     "name:fra_x_preferred":[
         "Lashio"
     ],
+    "name:ido_x_preferred":[
+        "Distrikto Lashio"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fc\u30b7\u30e7\u30fc\u770c"
     ],
     "name:mya_x_preferred":[
         "\u101c\u102c\u1038\u101b\u103e\u102d\u102f\u1038\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0448\u043e"
     ],
     "name:shn_x_preferred":[
         "\u101c\u1083\u1088\u101e\u1035\u101d\u103a\u1088\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1092046001,
-    "wof:lastmodified":1627522355,
+    "wof:lastmodified":1690939663,
     "wof:name":"Lashio",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

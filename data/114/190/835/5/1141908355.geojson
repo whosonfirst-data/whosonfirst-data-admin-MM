@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u064a\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Ye"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u101a\u1031\u1038"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03b1\u03bf\u03c5\u03ba\u03c6\u03af\u03bf\u03c5"
     ],
@@ -46,7 +52,7 @@
         "\u092f\u0947"
     ],
     "name:hin_x_variant":[
-        "\u092f\u0947"
+        "\u092f\u0947 "
     ],
     "name:hun_x_preferred":[
         "Ye"
@@ -65,6 +71,9 @@
     ],
     "name:lit_x_preferred":[
         "Je"
+    ],
+    "name:mnw_x_preferred":[
+        "\u100d\u102f\u105a\u103a\u101b\u1031\u101d\u103a"
     ],
     "name:mya_x_preferred":[
         "\u101b\u1031\u1038\u1019\u103c\u102d\u102f\u1037"
@@ -233,7 +242,7 @@
         }
     ],
     "wof:id":1141908355,
-    "wof:lastmodified":1636504996,
+    "wof:lastmodified":1690939688,
     "wof:name":"Ye",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

@@ -36,11 +36,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u101c\u1031\u102c\u1000\u103a\u1000\u102f\u1032\u1004\u103a\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:eng_x_preferred":[
         "Laukkaing"
     ],
     "name:eng_x_variant":[
-        "Laukkaing",
         "Kunlong",
         "Laukkaing District"
     ],
@@ -50,11 +52,17 @@
     "name:fra_x_preferred":[
         "Laukkaing"
     ],
+    "name:ido_x_preferred":[
+        "Distrikto Laukkaing"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30a6\u30ab\u30a4\u770c"
     ],
     "name:mya_x_preferred":[
         "\u101c\u1031\u102c\u1000\u103a\u1000\u102d\u102f\u1004\u103a\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u101c\u101d\u103a\u1089\u1075\u1086\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:zho_x_preferred":[
         "\u8001\u8857\u7e23"
@@ -95,7 +103,7 @@
         }
     ],
     "wof:id":1092046035,
-    "wof:lastmodified":1627522355,
+    "wof:lastmodified":1690939655,
     "wof:name":"Laukkaing",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

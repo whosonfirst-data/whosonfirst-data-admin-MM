@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09a8 \u09b0\u09be\u099c\u09cd\u09af"
     ],
+    "name:blk_x_preferred":[
+        "\u1019\u1032\u1004\u103a\uaa7b\u1001\u1019\u103a\u1038\u1014\u101a\u103a\u108f"
+    ],
     "name:cat_x_preferred":[
         "Mon"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:ces_x_preferred":[
         "Monsk\u00fd st\u00e1t"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627\u06cc\u06d5\u062a\u06cc \u0645\u06c6\u0646"
     ],
     "name:dan_x_preferred":[
         "Mon State"
@@ -62,6 +68,9 @@
     ],
     "name:est_x_preferred":[
         "Moni osariik"
+    ],
+    "name:eus_x_preferred":[
+        "Mon"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0645\u0648\u0646"
@@ -90,6 +99,9 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Stato Mon"
+    ],
     "name:ind_x_preferred":[
         "Mon State"
     ],
@@ -102,8 +114,20 @@
     "name:kan_x_preferred":[
         "\u0cae\u0ccb\u0ca8\u0ccd \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u179a\u178a\u17d2\u178b\u1798\u1793"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u043e\u043d"
+    ],
     "name:kor_x_preferred":[
         "\ubaac\uc8fc"
+    ],
+    "name:krj_x_preferred":[
+        "Estado Muwang"
     ],
     "name:lav_x_preferred":[
         "Monas pavalsts"
@@ -116,6 +140,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043d"
+    ],
+    "name:mnw_x_preferred":[
+        "\u1010\u103d\u1035\u102f\u101b\u1038\u100d\u102f\u1004\u103a\u1019\u1014\u103a"
     ],
     "name:msa_x_preferred":[
         "Mon State"
@@ -143,6 +170,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c73\u1c71 \u1c6f\u1c5a\u1c71\u1c5a\u1c5b"
     ],
     "name:shn_x_preferred":[
         "\u1019\u103d\u107c\u103a\u1038\u104a \u1078\u1084\u1088\u1019\u102d\u1030\u1004\u103a\u1038"
@@ -182,6 +212,9 @@
     ],
     "name:vie_x_preferred":[
         "Mon"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e9\u05d8\u05d0\u05b7\u05d8 \u05de\u05d5\u05df"
     ],
     "name:zho_x_preferred":[
         "\u5b5f\u90a6"
@@ -309,7 +342,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1636504963,
+    "wof:lastmodified":1690939638,
     "wof:name":"Mon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
