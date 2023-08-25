@@ -43,8 +43,8 @@
         "Katha"
     ],
     "name:eng_x_variant":[
-        "Katha",
-        "Katha District"
+        "Katha District",
+        "Kahta District"
     ],
     "name:fra_x_preferred":[
         "K\u00e2tha"
@@ -54,6 +54,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1000\u101e\u102c\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u1062\u1010\u103a\u1087\u101e\u1083\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Katha District"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092045543,
-    "wof:lastmodified":1627522353,
+    "wof:lastmodified":1690939660,
     "wof:name":"Katha",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

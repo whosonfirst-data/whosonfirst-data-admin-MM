@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:asm_x_preferred":[
+        "\u099b\u09bf\u099f\u09cd\u099f\u09f1\u09c7 \u099c\u09bf\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Sittwe"
     ],
@@ -51,6 +54,9 @@
     "name:hun_x_preferred":[
         "Sittwe"
     ],
+    "name:ido_x_preferred":[
+        "Distrikto Sittwe"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30c3\u30c8\u30a6\u30a7\u770c"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e34\u0e15\u0e40\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e34\u0e15\u0e15\u0e40\u0e27"
     ],
     "name:zho_x_preferred":[
         "\u5be6\u514c\u7e23"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1092047375,
-    "wof:lastmodified":1636504978,
+    "wof:lastmodified":1690939653,
     "wof:name":"Sittwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

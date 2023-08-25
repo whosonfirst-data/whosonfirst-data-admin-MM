@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1000\u103b\u102d\u102f\u1000\u103a\u1001\u1019\u102e"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u044f\u0438\u043a\u0430\u043c\u0438"
     ],
@@ -35,10 +38,19 @@
     "name:fra_x_preferred":[
         "Kyaikkami"
     ],
+    "name:ita_x_preferred":[
+        "Kyaikkhami"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30a4\u30c3\u30ab\u30df"
+    ],
     "name:mya_x_preferred":[
         "\u1000\u103b\u102d\u102f\u1000\u1039\u1001\u1019\u102e\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nld_x_preferred":[
+        "Kyaikkami"
+    ],
+    "name:por_x_preferred":[
         "Kyaikkami"
     ],
     "name:shn_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":421167337,
-    "wof:lastmodified":1566610363,
+    "wof:lastmodified":1690939669,
     "wof:name":"Kyaikkami",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",

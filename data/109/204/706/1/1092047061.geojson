@@ -36,11 +36,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u100a\u1031\u102c\u1004\u103a\u1026\u1038\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:ceb_x_preferred":[
         "Nyaung-U District"
     ],
     "name:deu_x_preferred":[
         "Nyaung U"
+    ],
+    "name:deu_x_variant":[
+        "Nyaung"
     ],
     "name:eng_x_preferred":[
         "Nyaung-u"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1092047061,
-    "wof:lastmodified":1627522359,
+    "wof:lastmodified":1690939652,
     "wof:name":"Nyaung-U",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

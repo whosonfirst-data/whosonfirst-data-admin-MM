@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u0989"
     ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1016\u103b\u1030\u1038"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u044e"
     ],
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":421176835,
-    "wof:lastmodified":1636504985,
+    "wof:lastmodified":1690939674,
     "wof:name":"Pyu",
     "wof:parent_id":1092047523,
     "wof:placetype":"locality",

@@ -36,6 +36,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:asm_x_preferred":[
+        "\u0995\u09bf\u09af\u09bc\u09be\u0989\u0995\u09aa\u09bf\u0989 \u099c\u09bf\u09b2\u09be"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09af\u09bc\u09be\u0989\u0995\u09ab\u09bf\u0989 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Kyaukpyu"
     ],
@@ -44,17 +50,22 @@
     ],
     "name:eng_x_variant":[
         "Kyaukpyu",
-        "Kyaunkpyu",
         "Kyaukpyu District"
     ],
     "name:fra_x_preferred":[
         "Kyaukpyu"
+    ],
+    "name:ido_x_preferred":[
+        "Distrikto Kyaukpyu"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a6\u30c3\u30d4\u30e5\u30fc\u770c"
     ],
     "name:mya_x_preferred":[
         "\u1000\u103b\u1031\u102c\u1000\u103a\u1016\u103c\u1030\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u103b\u103d\u1075\u103a\u1089\u107d\u103b\u1030\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Kyaunkpyu District"
@@ -98,7 +109,7 @@
         }
     ],
     "wof:id":1092045819,
-    "wof:lastmodified":1627522355,
+    "wof:lastmodified":1690939657,
     "wof:name":"Kyaukpyu",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

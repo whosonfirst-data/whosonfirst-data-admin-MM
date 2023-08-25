@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1017\u102d\u102f\u1000\u101c\u1031\u1038"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0430\u043b\u0435"
     ],
@@ -46,8 +49,14 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0433\u0430\u043b\u0435"
     ],
+    "name:shn_x_preferred":[
+        "\u1015\u1030\u101d\u103a\u1087\u1075\u101c\u1031\u1038\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "name:swe_x_preferred":[
         "Bogale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0430\u043b\u0435"
     ],
     "qs_pg:aaroncc":"MM",
     "qs_pg:gn_country":"MM",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1125866413,
-    "wof:lastmodified":1566610373,
+    "wof:lastmodified":1690939680,
     "wof:name":"Bogale",
     "wof:parent_id":1092047167,
     "wof:placetype":"locality",

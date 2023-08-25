@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u1016\u103b\u102c\u1015\u102f\u1036\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:cat_x_preferred":[
         "Districte de Pyapon"
     ],
@@ -43,7 +46,6 @@
         "Pyapon"
     ],
     "name:eng_x_variant":[
-        "Pyapon",
         "Pharpon",
         "Pyapon District"
     ],
@@ -55,6 +57,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1016\u103b\u102c\u1015\u102f\u1036\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u107d\u103b\u1083\u1087\u1015\u1030\u1004\u103a\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Pyapon District"
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1092047167,
-    "wof:lastmodified":1627522360,
+    "wof:lastmodified":1690939665,
     "wof:name":"Pyapon",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

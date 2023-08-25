@@ -57,6 +57,9 @@
     "name:pol_x_preferred":[
         "Tamu"
     ],
+    "name:shn_x_preferred":[
+        "\u1010\u1030\u1015\u103a\u1038\u1019\u102d\u102f\u101d\u103a\u1038\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
     "name:swe_x_preferred":[
         "Tamu District"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1092047447,
-    "wof:lastmodified":1627522361,
+    "wof:lastmodified":1690939664,
     "wof:name":"Tamu",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

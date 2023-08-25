@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a8\u09cd\u09a6\u09be\u09b2\u09af\u09bc \u099c\u09c7\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Mandalay"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:eng_x_variant":[
         "Mandalay District"
+    ],
+    "name:eus_x_preferred":[
+        "Mandalay"
     ],
     "name:fra_x_preferred":[
         "Mandalay"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1092046205,
-    "wof:lastmodified":1636504978,
+    "wof:lastmodified":1690939655,
     "wof:name":"Mandalay",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

@@ -45,6 +45,9 @@
     "name:eng_x_variant":[
         "Myitkyina District"
     ],
+    "name:eus_x_preferred":[
+        "Myitkyina"
+    ],
     "name:fra_x_preferred":[
         "Myitkyina"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1092047037,
-    "wof:lastmodified":1636504980,
+    "wof:lastmodified":1690939659,
     "wof:name":"Myitkyina",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

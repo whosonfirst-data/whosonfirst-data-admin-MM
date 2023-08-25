@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1000\u103b\u102d\u102f\u1000\u103a\u1011\u102d\u102f"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u044f\u0438\u043a\u0442\u043e"
     ],
@@ -39,6 +42,9 @@
         "\u1075\u103b\u1085\u1075\u103a\u1089\u1011\u1030\u101d\u103a\u1087\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:slv_x_preferred":[
+        "Kyaikto"
+    ],
+    "name:spa_x_preferred":[
         "Kyaikto"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421202435,
-    "wof:lastmodified":1566610364,
+    "wof:lastmodified":1690939670,
     "wof:name":"Kyaikto",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

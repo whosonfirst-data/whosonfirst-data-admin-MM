@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0628\u062f \u0634\u0648\u064a\u062f\u0627\u063a\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Shwedagon"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0428\u0432\u0435\u0434\u0430\u0433\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Shwedagon Pagoda"
     ],
     "name:ces_x_preferred":[
         "\u0160weitigoumsk\u00e1 pagoda"
@@ -70,11 +76,26 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30a8\u30c0\u30b4\u30f3\u30fb\u30d1\u30b4\u30c0"
     ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0430\u0433\u043e\u043d"
+    ],
+    "name:khm_x_preferred":[
+        "\u179c\u178f\u17d2\u178f \u179f\u17d2\u179c\u17c1\u178a\u17b6\u17a0\u17d2\u1782\u17bb\u1793"
+    ],
     "name:kor_x_preferred":[
         "\uc288\uc6e8\ub2e4\uace4 \ud30c\uace0\ub2e4"
     ],
+    "name:kor_x_variant":[
+        "\uc250\ub2e4\uace4 \ud30c\uace0\ub2e4"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160vedagonas pagoda"
+    ],
     "name:mal_x_preferred":[
         "\u0d36\u0d4d\u0d35\u0d46\u0d26\u0d17\u0d4a\u0d7a \u0d2a\u0d17\u0d4b\u0d21"
+    ],
+    "name:mnw_x_preferred":[
+        "\u1012\u1002\u102f\u105a\u103a\u104a\u1000\u103b\u102c\u103a"
     ],
     "name:mya_x_preferred":[
         "\u101b\u103d\u103e\u1031\u1010\u102d\u1002\u102f\u1036\u1005\u1031\u1010\u102e\u1010\u1031\u102c\u103a"
@@ -112,6 +133,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bb5\u0bc7\u0b9f\u0b95\u0ba9\u0bcd \u0b85\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bc2\u0baa\u0bbf"
     ],
+    "name:tgl_x_preferred":[
+        "Pagodang Shwedagon"
+    ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e23\u0e30\u0e21\u0e2b\u0e32\u0e18\u0e32\u0e15\u0e38\u0e40\u0e08\u0e14\u0e35\u0e22\u0e4c\u0e0a\u0e40\u0e27\u0e14\u0e32\u0e01\u0e2d\u0e07"
     ],
@@ -129,6 +153,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u4ef0\u5149\u5927\u91d1\u5bfa"
+    ],
+    "name:yue_x_preferred":[
+        "\u5927\u91d1\u5bfa"
     ],
     "name:zho_x_preferred":[
         "\u4ef0\u5149\u5927\u91d1\u5bfa"
@@ -166,7 +193,7 @@
         }
     ],
     "wof:id":890438111,
-    "wof:lastmodified":1566610370,
+    "wof:lastmodified":1690939677,
     "wof:name":"Shwedagon Pagoda",
     "wof:parent_id":1092047923,
     "wof:placetype":"locality",

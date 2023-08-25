@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:asm_x_preferred":[
+        "\u09a5\u09be\u09a3\u09cd\u09a1\u09f1\u09c7 \u099c\u09bf\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Thandwe"
     ],
@@ -46,17 +49,22 @@
         "Thandwe"
     ],
     "name:eng_x_variant":[
-        "Thandwe",
         "Thandwe District"
     ],
     "name:fra_x_preferred":[
         "Thandwe"
+    ],
+    "name:ido_x_preferred":[
+        "Distrikto Thandwe"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30c9\u30a6\u30a7\u770c"
     ],
     "name:mya_x_preferred":[
         "\u101e\u1036\u1010\u103d\u1032\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u1062\u107c\u103a\u1087\u1010\u103d\u1086\u1038\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Thandwe District"
@@ -100,7 +108,7 @@
         }
     ],
     "wof:id":1092047569,
-    "wof:lastmodified":1627522361,
+    "wof:lastmodified":1690939659,
     "wof:name":"Thandwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

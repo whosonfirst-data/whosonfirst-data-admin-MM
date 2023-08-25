@@ -22,16 +22,34 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0643\u064a\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062a\u0643\u064a\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Myitkyina"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09af\u09bc\u09bf\u09a4\u0995\u09bf\u09a8\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09cd\u09af\u09bf\u09a4\u0995\u09cd\u09af\u09c0\u09a8\u09be"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1019\u1005\u103a\u1005\u102e\u1038\u1014\u102c\u1038"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0439\u0442\u043a\u0438\u0439\u043d\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u041c\u0438\u0447\u0438\u043d\u0430"
     ],
     "name:cat_x_preferred":[
         "Myitkyina"
     ],
     "name:ceb_x_preferred":[
+        "Myitkyina"
+    ],
+    "name:ces_x_preferred":[
         "Myitkyina"
     ],
     "name:dan_x_preferred":[
@@ -49,17 +67,32 @@
     "name:epo_x_preferred":[
         "Mji\u0109ina"
     ],
+    "name:eus_x_preferred":[
+        "Myitkyina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u06cc\u062a\u06a9\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Myitkyina"
     ],
     "name:fra_x_preferred":[
         "Myitkyina"
     ],
+    "name:gle_x_preferred":[
+        "Myitkyina"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acd\u0aaf\u0abf\u0a9f\u0a95\u0acd\u0aaf\u0abf\u0aa8\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d9\u05d8\u05e7\u05d9\u05d9\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094d\u092f\u093f\u0924\u094d\u091a\u0940\u0928\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0575\u056b\u0579\u056b\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Myitkyina"
@@ -72,6 +105,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc8\u0caf\u0cbf\u0c9f\u0ccd\u0c95\u0cc8\u0ca8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10d8\u10e9\u10d8\u10dc\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ubbf8\uce58\ub098"
@@ -127,6 +163,9 @@
     "name:swe_x_preferred":[
         "Myitkyina"
     ],
+    "name:szl_x_preferred":[
+        "Myitkyina"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bbe"
     ],
@@ -154,7 +193,13 @@
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0626\u062a\u06a9\u06cc\u0626\u0646\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Myitkyina"
+    ],
     "name:vie_x_preferred":[
+        "Myitkyina"
+    ],
+    "name:war_x_preferred":[
         "Myitkyina"
     ],
     "name:zho_x_preferred":[
@@ -285,7 +330,7 @@
         }
     ],
     "wof:id":890443759,
-    "wof:lastmodified":1566610371,
+    "wof:lastmodified":1690939678,
     "wof:name":"Myitkyin\u0101",
     "wof:parent_id":1092047037,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Mottama"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1019\u102f\u1010\u1039\u1010\u1019"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0430\u0431\u0430\u043d"
     ],
@@ -34,7 +40,13 @@
     "name:deu_x_preferred":[
         "Mottama"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c4\u03ac\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Mottama"
+    ],
+    "name:eus_x_preferred":[
         "Mottama"
     ],
     "name:fra_x_preferred":[
@@ -58,6 +70,9 @@
     "name:lit_x_preferred":[
         "Motama"
     ],
+    "name:mnw_x_preferred":[
+        "\u1019\u1010\u1039\u1010\u1019\u104a \u100d\u102f\u105a\u103a"
+    ],
     "name:mya_x_preferred":[
         "\u1019\u102f\u1010\u1039\u1010\u1019\u1019\u103c\u102d\u102f\u1037"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0430\u0431\u0430\u043d"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1030\u1075\u103a\u1089\u1010\u1019\u104a \u101d\u1035\u1004\u103a\u1038"
     ],
     "name:swe_x_preferred":[
         "Mottama"
@@ -124,7 +142,7 @@
         }
     ],
     "wof:id":1125866395,
-    "wof:lastmodified":1566610373,
+    "wof:lastmodified":1690939680,
     "wof:name":"Martaban",
     "wof:parent_id":1092047619,
     "wof:placetype":"locality",

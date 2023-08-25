@@ -36,8 +36,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u101f\u102d\u1009\u103a\u1038\u1010\u102c\u1012\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:cat_x_preferred":[
         "Districte d'Hinthada"
+    ],
+    "name:cat_x_variant":[
+        "districte d'Hinthada"
     ],
     "name:deu_x_preferred":[
         "Hinthada"
@@ -46,7 +52,6 @@
         "Hinthada"
     ],
     "name:eng_x_variant":[
-        "Hinthada",
         "Hinthada District"
     ],
     "name:fas_x_preferred":[
@@ -66,6 +71,9 @@
     ],
     "name:mya_x_preferred":[
         "\u101f\u1004\u103a\u1039\u101e\u102c\u1010\u1001\u101b\u102d\u102f\u1004\u103a"
+    ],
+    "name:shn_x_preferred":[
+        "\u1081\u102d\u107c\u103a\u1038\u1010\u1010\u1083\u1089\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
     ],
     "name:swe_x_preferred":[
         "Hinthada District"
@@ -109,7 +117,7 @@
         }
     ],
     "wof:id":1092045277,
-    "wof:lastmodified":1636504979,
+    "wof:lastmodified":1690939658,
     "wof:name":"Hinthada",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

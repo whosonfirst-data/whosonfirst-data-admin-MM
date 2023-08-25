@@ -23,6 +23,12 @@
     "name:ben_x_preferred":[
         "\u09a5\u09cb\u0999\u09cd\u0997\u09cb\u09df\u09be"
     ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1014\u101a\u103a\u108f\u1010\u102f\u1036\u1038\u1001\u103d"
+    ],
+    "name:ceb_x_preferred":[
+        "Thongwa"
+    ],
     "name:deu_x_preferred":[
         "Thongwa"
     ],
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":421168841,
-    "wof:lastmodified":1636504984,
+    "wof:lastmodified":1690939667,
     "wof:name":"Thongwa",
     "wof:parent_id":1092047879,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u1019\u103d\u102d\u102f\u1004\u103a\uaa7b\u101e\u1010\u103a\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:eng_x_preferred":[
         "Mong Hsat"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092046683,
-    "wof:lastmodified":1627522357,
+    "wof:lastmodified":1690939656,
     "wof:name":"Monghsat",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

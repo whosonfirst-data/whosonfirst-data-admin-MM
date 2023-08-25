@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:blk_x_preferred":[
+        "\u101f\u102d\u102f\u1015\u1014\u103a\u1001\u101b\u1032\u1004\u103a\u108f"
+    ],
     "name:eng_x_preferred":[
         "Hopang"
     ],
@@ -50,6 +53,9 @@
     "name:fra_x_preferred":[
         "Hopang"
     ],
+    "name:ido_x_preferred":[
+        "Distrikto Hopang"
+    ],
     "name:jpn_x_preferred":[
         "\u30db\u30d1\u30f3\u770c"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:shn_x_preferred":[
         "\u1081\u1030\u101d\u103a\u1015\u1062\u1004\u103a\u1087\u104a \u1078\u1084\u1088\u1010\u103d\u107c\u103a\u1088"
+    ],
+    "name:zho_x_preferred":[
+        "\u6237\u677f\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1092045367,
-    "wof:lastmodified":1627522353,
+    "wof:lastmodified":1690939660,
     "wof:name":"Hopang",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

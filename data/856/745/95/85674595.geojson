@@ -36,8 +36,14 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0634\u0627\u0646"
     ],
+    "name:aze_x_preferred":[
+        "\u015ean"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09be\u09a8 \u09b0\u09be\u099c\u09cd\u09af"
+    ],
+    "name:blk_x_preferred":[
+        "\u1016\u103c\u101d\u103a\uaa7b\u1001\u1019\u103a\u1038\u1014\u101a\u103a\u108f"
     ],
     "name:cat_x_preferred":[
         "Estat Shan"
@@ -47,6 +53,9 @@
     ],
     "name:ces_x_preferred":[
         "\u0160ansk\u00fd st\u00e1t"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627\u06cc\u06d5\u062a\u06cc \u0634\u0627\u0646"
     ],
     "name:dan_x_preferred":[
         "Shan State"
@@ -59,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Shan State"
+    ],
+    "name:epo_x_preferred":[
+        "\u015canio"
     ],
     "name:est_x_preferred":[
         "\u0160ani osariik"
@@ -93,6 +105,9 @@
     "name:hye_x_preferred":[
         "\u0547\u0561\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Stato Shan"
+    ],
     "name:ita_x_preferred":[
         "Stato Shan"
     ],
@@ -101,6 +116,15 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb6\u0ca8\u0ccd \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10dc\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u179a\u178a\u17d2\u178b\u179f\u17b6\u1793"
+    ],
+    "name:kir_x_preferred":[
+        "\u0428\u0430\u043d"
     ],
     "name:kor_x_preferred":[
         "\uc0e8\uc8fc"
@@ -150,6 +174,9 @@
     "name:rus_x_preferred":[
         "\u0428\u0430\u043d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c5f\u1c71 \u1c6f\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
     "name:sco_x_preferred":[
         "Shan State"
     ],
@@ -168,6 +195,9 @@
     "name:swe_x_preferred":[
         "Shanstaten"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb7\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c37\u0c3e\u0c28\u0c4d \u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c02"
     ],
@@ -184,6 +214,9 @@
         "\u0631\u06cc\u0627\u0633\u062a \u0634\u0627\u0646"
     ],
     "name:vie_x_preferred":[
+        "Shan"
+    ],
+    "name:war_x_preferred":[
         "Shan"
     ],
     "name:wuu_x_preferred":[
@@ -319,7 +352,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1636504961,
+    "wof:lastmodified":1690939636,
     "wof:name":"Shan",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

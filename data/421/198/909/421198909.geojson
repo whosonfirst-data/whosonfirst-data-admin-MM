@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u099a\u09be\u0989\u0995"
     ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1001\u103b\u1031\u102c\u1000\u103a"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u0443\u043a"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:ita_x_preferred":[
         "Chauk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30a6"
     ],
     "name:kor_x_preferred":[
         "\ucc28\uc6b1"
@@ -256,7 +262,7 @@
         }
     ],
     "wof:id":421198909,
-    "wof:lastmodified":1636504984,
+    "wof:lastmodified":1690939672,
     "wof:name":"Chauk",
     "wof:parent_id":1092046159,
     "wof:placetype":"locality",
