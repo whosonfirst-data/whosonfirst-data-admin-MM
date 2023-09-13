@@ -1301,7 +1301,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"95",
     "statoids:ds":"BUR",
     "statoids:fifa":"MYA",
@@ -1373,7 +1373,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1694492114,
+    "wof:lastmodified":1694639568,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
