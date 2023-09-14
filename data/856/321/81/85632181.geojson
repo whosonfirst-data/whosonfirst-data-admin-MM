@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":58.266674,
-    "geom:area_square_m":670769673664.417236,
+    "geom:area_square_m":670769673664.282715,
     "geom:bbox":"92.171808,9.592889,101.170272,28.547835",
     "geom:latitude":21.113608,
     "geom:longitude":96.50564,
@@ -14,6 +14,9 @@
     "iso:country":"MM",
     "itu:country_code":[
         "95"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "MM"
@@ -1297,7 +1300,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"95",
     "statoids:ds":"BUR",
     "statoids:fifa":"MYA",
@@ -1355,7 +1359,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"6d5ac4c8eb628317ca2154edcc7a20fd",
+    "wof:geomhash":"5d0c3795d064c98042f3e224d9ed7744",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1369,12 +1373,12 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939633,
+    "wof:lastmodified":1694639568,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":53259018,
-    "wof:population_rank":16,
+    "wof:population":54045420,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:shortcode":"MM",
     "wof:superseded_by":[],
