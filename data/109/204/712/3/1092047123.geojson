@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.519611,
-    "geom:area_square_m":27690283348.458027,
+    "geom:area_square_m":27690284275.934837,
     "geom:bbox":"96.898355,25.967749,98.767608,28.547835",
     "geom:latitude":27.274923,
     "geom:longitude":97.784736,
@@ -90,9 +90,10 @@
         "hasc:id":"MM.KC.PU",
         "wd:id":"Q7262178"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898401,
-    "wof:geomhash":"b01e3c431c40245bf5392ebe67c5e060",
+    "wof:geomhash":"65a35f431b2290a037f9230b95c74a85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1092047123,
-    "wof:lastmodified":1627522360,
+    "wof:lastmodified":1695886805,
     "wof:name":"Puta-O",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

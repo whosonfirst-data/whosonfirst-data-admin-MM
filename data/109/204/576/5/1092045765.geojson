@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.270292,
-    "geom:area_square_m":25858475390.987396,
+    "geom:area_square_m":25858476008.978085,
     "geom:bbox":"96.150842,21.937808,98.021809,24.161715",
     "geom:latitude":22.902731,
     "geom:longitude":97.006283,
@@ -93,9 +93,10 @@
         "hasc:id":"MM.SH.KY",
         "wd:id":"Q6450766"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898346,
-    "wof:geomhash":"01f8fc413595fbdc0c6705adbfa7958c",
+    "wof:geomhash":"703adc685afe4791735a35f55d5927b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1092045765,
-    "wof:lastmodified":1690939664,
+    "wof:lastmodified":1695886801,
     "wof:name":"Kyaukme",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

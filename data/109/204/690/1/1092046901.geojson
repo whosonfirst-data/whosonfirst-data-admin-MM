@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265462,
-    "geom:area_square_m":3146486556.260675,
+    "geom:area_square_m":3146487362.852489,
     "geom:bbox":"98.162841,16.039818,98.931778,17.089249",
     "geom:latitude":16.548571,
     "geom:longitude":98.520874,
@@ -94,9 +94,10 @@
         "hasc:id":"MM.KN.MY",
         "wd:id":"Q6946819"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898388,
-    "wof:geomhash":"22fc89d3855e31cc93035fa4439b28db",
+    "wof:geomhash":"5c3d60b7239d6bc590a33cce8777a0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092046901,
-    "wof:lastmodified":1627522358,
+    "wof:lastmodified":1695886804,
     "wof:name":"Myawaddy",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.925038,
-    "geom:area_square_m":10891849130.478069,
+    "geom:area_square_m":10891851061.638561,
     "geom:bbox":"96.394527,16.51416,98.322761,19.505371",
     "geom:latitude":17.756581,
     "geom:longitude":97.451018,
@@ -94,9 +94,10 @@
         "hasc:id":"MM.KN.HP",
         "wd:id":"Q5923224"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898333,
-    "wof:geomhash":"0aeddde94b8d869ed340244282d87c3f",
+    "wof:geomhash":"4de0201e9468ea5a32e7fbb1eaecfec4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092045417,
-    "wof:lastmodified":1627522359,
+    "wof:lastmodified":1695886804,
     "wof:name":"Hpa-An",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

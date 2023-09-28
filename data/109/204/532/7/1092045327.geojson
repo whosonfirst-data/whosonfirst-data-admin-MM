@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.886808,
-    "geom:area_square_m":32137257843.940948,
+    "geom:area_square_m":32137258095.070881,
     "geom:bbox":"94.536054,24.296945,97.069332,27.376638",
     "geom:latitude":25.790724,
     "geom:longitude":95.551231,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"MM.SA.HK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898330,
-    "wof:geomhash":"c2e866463a3c1f69d1d6d0d38205d4d5",
+    "wof:geomhash":"21fd24f8e35135db8409ec175e2206bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092045327,
-    "wof:lastmodified":1627522352,
+    "wof:lastmodified":1695886799,
     "wof:name":"Hkamti",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

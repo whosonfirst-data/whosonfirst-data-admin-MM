@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306183,
-    "geom:area_square_m":3556594773.236063,
+    "geom:area_square_m":3556594384.776591,
     "geom:bbox":"95.739496,19.743893,96.504427,20.330936",
     "geom:latitude":20.047909,
     "geom:longitude":96.138321,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"MM.MD.YM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898397,
-    "wof:geomhash":"886c982098ed2435ab139144138e9508",
+    "wof:geomhash":"43a6fa23c8f98549847177c7173380b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1092047063,
-    "wof:lastmodified":1627522359,
+    "wof:lastmodified":1695886804,
     "wof:name":"Oke Ta Ra",
     "wof:parent_id":1108804897,
     "wof:placetype":"county",

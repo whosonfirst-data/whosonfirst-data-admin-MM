@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.443857,
-    "geom:area_square_m":5191999148.010966,
+    "geom:area_square_m":5191999375.729624,
     "geom:bbox":"96.943864,18.491094,97.845314,19.34247",
     "geom:latitude":18.914236,
     "geom:longitude":97.428445,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"MM.KH.BW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898318,
-    "wof:geomhash":"9a5bade2ed21acb5a0838d93c392e5e6",
+    "wof:geomhash":"a005b10d48008cb0d7822510648d2677",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1092044973,
-    "wof:lastmodified":1627522351,
+    "wof:lastmodified":1695886799,
     "wof:name":"Bawlake",
     "wof:parent_id":85674551,
     "wof:placetype":"county",

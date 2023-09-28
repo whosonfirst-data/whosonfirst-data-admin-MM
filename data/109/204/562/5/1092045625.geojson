@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.003764,
-    "geom:area_square_m":12169017661.090353,
+    "geom:area_square_m":12169018539.194548,
     "geom:bbox":"97.442108,9.59875,99.325884,12.822889",
     "geom:latitude":11.331427,
     "geom:longitude":98.687404,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"MM.TN.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898341,
-    "wof:geomhash":"4b67e811cb2246b6936ed57703c6275c",
+    "wof:geomhash":"306f53779c2fbe1fda3538909806f1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1092045625,
-    "wof:lastmodified":1627522353,
+    "wof:lastmodified":1695886800,
     "wof:name":"Kawthoung",
     "wof:parent_id":85674599,
     "wof:placetype":"county",

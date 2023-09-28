@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.409218,
-    "geom:area_square_m":4835315044.494717,
+    "geom:area_square_m":4835314755.346167,
     "geom:bbox":"96.866742,16.501194,97.633999,17.713224",
     "geom:latitude":17.138066,
     "geom:longitude":97.27942,
@@ -93,9 +93,10 @@
         "hasc:id":"MM.MO.TT",
         "wd:id":"Q11917410"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898420,
-    "wof:geomhash":"c7026d34b55250f5501f8cd6ef855e83",
+    "wof:geomhash":"4fc707a301d86f9fa90a0a25983ebd97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1092047619,
-    "wof:lastmodified":1690939660,
+    "wof:lastmodified":1695886805,
     "wof:name":"Thaton",
     "wof:parent_id":85674575,
     "wof:placetype":"county",

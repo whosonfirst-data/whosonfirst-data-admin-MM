@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162467,
-    "geom:area_square_m":1837609619.423687,
+    "geom:area_square_m":1837609668.219922,
     "geom:bbox":"98.400034,23.462235,98.897954,24.155806",
     "geom:latitude":23.833986,
     "geom:longitude":98.652903,
@@ -91,9 +91,10 @@
         "hasc:id":"MM.SH.LU",
         "wd:id":"Q6498281"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898356,
-    "wof:geomhash":"ea2d36d38c7f313c71bb6e24a7382503",
+    "wof:geomhash":"64dcf8e3b76c847c17f31b8674ae802f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1092046035,
-    "wof:lastmodified":1690939655,
+    "wof:lastmodified":1695886802,
     "wof:name":"Laukkaing",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

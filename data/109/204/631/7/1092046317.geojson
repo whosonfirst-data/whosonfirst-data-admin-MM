@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319232,
-    "geom:area_square_m":3684421311.708239,
+    "geom:area_square_m":3684421089.453894,
     "geom:bbox":"92.171808,20.448535,92.749499,21.47971",
     "geom:latitude":21.029761,
     "geom:longitude":92.482533,
@@ -103,9 +103,10 @@
         "hasc:id":"MM.RA.MX",
         "wd:id":"Q6792575"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898367,
-    "wof:geomhash":"96bc720cd5556d304f61cc865baff34b",
+    "wof:geomhash":"e738969cf1cf694f9cb8809170062eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1092046317,
-    "wof:lastmodified":1690939663,
+    "wof:lastmodified":1695886802,
     "wof:name":"Maungdaw",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

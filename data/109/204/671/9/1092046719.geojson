@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305686,
-    "geom:area_square_m":3498221978.137742,
+    "geom:area_square_m":3498222225.09205,
     "geom:bbox":"94.936243,21.791157,95.649167,22.632515",
     "geom:latitude":22.257342,
     "geom:longitude":95.264317,
@@ -93,9 +93,10 @@
         "hasc:id":"MM.SA.MO",
         "wd:id":"Q11013398"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898381,
-    "wof:geomhash":"b93eb56c14c94cc348461e5eabf20431",
+    "wof:geomhash":"9dfdb4e78affa1819bf5d65d573457cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1092046719,
-    "wof:lastmodified":1690939661,
+    "wof:lastmodified":1695886166,
     "wof:name":"Monywa",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

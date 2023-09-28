@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.652793,
-    "geom:area_square_m":7642998619.955599,
+    "geom:area_square_m":7642999627.286325,
     "geom:bbox":"94.687132,18.357675,95.863159,19.191073",
     "geom:latitude":18.760834,
     "geom:longitude":95.301802,
@@ -120,9 +120,10 @@
         "hasc:id":"MM.BA.PY",
         "wd:id":"Q7262887"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898404,
-    "wof:geomhash":"a7277ad58b5aad5b2753bec46fdb37ec",
+    "wof:geomhash":"595f4c8302cccb98c28d3f1cbf09b1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1092047213,
-    "wof:lastmodified":1690939664,
+    "wof:lastmodified":1695886167,
     "wof:name":"Pyay",
     "wof:parent_id":85674565,
     "wof:placetype":"county",

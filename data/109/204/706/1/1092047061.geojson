@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127005,
-    "geom:area_square_m":1465291747.107945,
+    "geom:area_square_m":1465292046.760436,
     "geom:bbox":"94.828847,20.859534,95.230983,21.316327",
     "geom:latitude":21.085321,
     "geom:longitude":95.020606,
@@ -98,9 +98,10 @@
         "hasc:id":"MM.ML.NY",
         "wd:id":"Q959083"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898395,
-    "wof:geomhash":"8e9f2aa5b3953f4249cb8fe38ef207e0",
+    "wof:geomhash":"27a9e84eb792a57632b03eef8201ee9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092047061,
-    "wof:lastmodified":1690939652,
+    "wof:lastmodified":1695886804,
     "wof:name":"Nyaung-U",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

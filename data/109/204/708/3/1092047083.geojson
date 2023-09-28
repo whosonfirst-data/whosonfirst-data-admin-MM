@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.895128,
-    "geom:area_square_m":10592585734.199362,
+    "geom:area_square_m":10592586820.595163,
     "geom:bbox":"94.190414,15.829583,95.431987,17.569033",
     "geom:latitude":16.856456,
     "geom:longitude":94.739553,
@@ -100,9 +100,10 @@
         "hasc:id":"MM.AY.PT",
         "wd:id":"Q7144735"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898400,
-    "wof:geomhash":"b5847b24382d7397101030e4d3129786",
+    "wof:geomhash":"a8af78ff8c6d72f3f6c55e8112cf85aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1092047083,
-    "wof:lastmodified":1690939652,
+    "wof:lastmodified":1695886804,
     "wof:name":"Pathein",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

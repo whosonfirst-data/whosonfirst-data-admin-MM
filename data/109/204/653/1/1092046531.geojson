@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.719172,
-    "geom:area_square_m":19780397972.999916,
+    "geom:area_square_m":19780397546.957371,
     "geom:bbox":"92.600934,20.641404,94.120247,22.227111",
     "geom:latitude":21.484555,
     "geom:longitude":93.398295,
@@ -93,9 +93,10 @@
         "hasc:id":"MM.CH.MI",
         "wd:id":"Q6863716"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898374,
-    "wof:geomhash":"609f072a26fa6a3d271b0b26dc4d4cb9",
+    "wof:geomhash":"4592339b756131febe614870df270b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1092046531,
-    "wof:lastmodified":1690939663,
+    "wof:lastmodified":1695886803,
     "wof:name":"Mindat",
     "wof:parent_id":85674581,
     "wof:placetype":"county",

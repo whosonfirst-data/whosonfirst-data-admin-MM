@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.262492,
-    "geom:area_square_m":3110391309.384337,
+    "geom:area_square_m":3110391547.517456,
     "geom:bbox":"94.684792,16.27527,95.480999,16.96705",
     "geom:latitude":16.605651,
     "geom:longitude":95.07155,
@@ -94,9 +94,10 @@
         "hasc:id":"MM.AY.MM",
         "wd:id":"Q6946820"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898386,
-    "wof:geomhash":"902e1ab02fcc51a035bdd93cbbe8b360",
+    "wof:geomhash":"43989dfd0803ba0f324ad33d20ab41f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092046857,
-    "wof:lastmodified":1690939661,
+    "wof:lastmodified":1695886804,
     "wof:name":"Myaungmya",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

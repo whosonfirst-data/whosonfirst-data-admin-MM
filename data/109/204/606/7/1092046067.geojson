@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.565874,
-    "geom:area_square_m":6596344561.412569,
+    "geom:area_square_m":6596344604.276705,
     "geom:bbox":"96.819841,19.02014,97.888151,19.996601",
     "geom:latitude":19.485406,
     "geom:longitude":97.332638,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"MM.KH.LK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898358,
-    "wof:geomhash":"bf17ced5008eee6d3e91376384703189",
+    "wof:geomhash":"9edaae59318d413262afd40e6439077a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092046067,
-    "wof:lastmodified":1636504982,
+    "wof:lastmodified":1695886167,
     "wof:name":"Loikaw",
     "wof:parent_id":85674551,
     "wof:placetype":"county",

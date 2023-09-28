@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.155713,
-    "geom:area_square_m":35066556187.60379,
+    "geom:area_square_m":35066554905.205124,
     "geom:bbox":"95.996952,24.549872,98.782209,27.106833",
     "geom:latitude":26.011617,
     "geom:longitude":97.418485,
@@ -105,9 +105,10 @@
         "hasc:id":"MM.KC.MT",
         "wd:id":"Q11917400"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898393,
-    "wof:geomhash":"e39188cdad0203f43db8805a411004fb",
+    "wof:geomhash":"68469449261f0da4fa710baf7670a0e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1092047037,
-    "wof:lastmodified":1690939659,
+    "wof:lastmodified":1695886165,
     "wof:name":"Myitkyina",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

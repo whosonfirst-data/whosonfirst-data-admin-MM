@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.39431,
-    "geom:area_square_m":4655899913.954018,
+    "geom:area_square_m":4655899725.571488,
     "geom:bbox":"95.618777,16.824899,96.404866,17.791967",
     "geom:latitude":17.269198,
     "geom:longitude":96.030574,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"MM.YA.YN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898427,
-    "wof:geomhash":"20e2e6b639df3b3f851c0cd9c480af03",
+    "wof:geomhash":"b8e09a8f91b26b228a7262ca6d353a2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092047835,
-    "wof:lastmodified":1627522362,
+    "wof:lastmodified":1695886008,
     "wof:name":"Yangon (North)",
     "wof:parent_id":85674569,
     "wof:placetype":"county",

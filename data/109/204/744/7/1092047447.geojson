@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174403,
-    "geom:area_square_m":1967304782.528761,
+    "geom:area_square_m":1967304824.471221,
     "geom:bbox":"94.127894,23.645468,94.640098,24.73164",
     "geom:latitude":24.179532,
     "geom:longitude":94.387604,
@@ -90,9 +90,10 @@
         "hasc:id":"MM.SA.TM",
         "wd:id":"Q7681885"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898414,
-    "wof:geomhash":"f2351383c81fadd6f694f4ec3174b174",
+    "wof:geomhash":"76b1cccb2016642b3fda7b7545b95429",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1092047447,
-    "wof:lastmodified":1690939664,
+    "wof:lastmodified":1695886805,
     "wof:name":"Tamu",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398503,
-    "geom:area_square_m":4720645907.736637,
+    "geom:area_square_m":4720645960.553173,
     "geom:bbox":"93.230392,13.969584,96.802179,16.998923",
     "geom:latitude":16.661029,
     "geom:longitude":96.27096,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"MM.YA.YS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898429,
-    "wof:geomhash":"30cd5011f5da5443c373697cd05243de",
+    "wof:geomhash":"79dbde6f06b7e6b0e88d9a728f72160a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092047879,
-    "wof:lastmodified":1627522362,
+    "wof:lastmodified":1695886008,
     "wof:name":"Yangon (South)",
     "wof:parent_id":85674569,
     "wof:placetype":"county",

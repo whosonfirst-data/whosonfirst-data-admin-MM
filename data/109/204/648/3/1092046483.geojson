@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.80544,
-    "geom:area_square_m":9335708342.397705,
+    "geom:area_square_m":9335708107.762005,
     "geom:bbox":"93.847579,19.710919,95.004662,20.982505",
     "geom:latitude":20.382652,
     "geom:longitude":94.457513,
@@ -96,9 +96,10 @@
         "hasc:id":"MM.MG.MB",
         "wd:id":"Q6863305"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898373,
-    "wof:geomhash":"ae760469874a863cf0bfbe7354a3fa58",
+    "wof:geomhash":"46a24c4d627d8d4218f313a8d4774c87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1092046483,
-    "wof:lastmodified":1690939662,
+    "wof:lastmodified":1695886803,
     "wof:name":"Minbu",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

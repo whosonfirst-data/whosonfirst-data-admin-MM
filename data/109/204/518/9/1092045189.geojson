@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.488078,
-    "geom:area_square_m":5603250279.064137,
+    "geom:area_square_m":5603250710.725607,
     "geom:bbox":"93.979953,20.821524,94.439307,22.763971",
     "geom:latitude":21.803029,
     "geom:longitude":94.182138,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"MM.MG.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898326,
-    "wof:geomhash":"a4a26260479686866cad10079739cd27",
+    "wof:geomhash":"62d4ebd8a023983d6be305ef1fdbd17d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092045189,
-    "wof:lastmodified":1627522352,
+    "wof:lastmodified":1695886799,
     "wof:name":"Gangaw",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

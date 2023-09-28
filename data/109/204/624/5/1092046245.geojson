@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.684817,
-    "geom:area_square_m":7836377352.622858,
+    "geom:area_square_m":7836377333.634034,
     "geom:bbox":"98.517254,21.484096,99.385624,22.891775",
     "geom:latitude":22.265348,
     "geom:longitude":98.896223,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"MM.SH.LS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898364,
-    "wof:geomhash":"575b733748588eec22ce7f04ee73acdc",
+    "wof:geomhash":"05e06af36c91e4265ac0b9f092692e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092046245,
-    "wof:lastmodified":1627522356,
+    "wof:lastmodified":1695886802,
     "wof:name":"Matman",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

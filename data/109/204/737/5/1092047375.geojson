@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.274146,
-    "geom:area_square_m":3177236928.395621,
+    "geom:area_square_m":3177236463.378932,
     "geom:bbox":"92.59962,19.787889,93.25042,21.015191",
     "geom:latitude":20.400182,
     "geom:longitude":92.907048,
@@ -102,9 +102,10 @@
         "hasc:id":"MM.RA.SI",
         "wd:id":"Q11917411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898411,
-    "wof:geomhash":"2edde4cd3aee860a3f39ba8e638ed691",
+    "wof:geomhash":"10b2c6eabb8cc86297766f183d33527c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092047375,
-    "wof:lastmodified":1690939653,
+    "wof:lastmodified":1695886162,
     "wof:name":"Sittwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

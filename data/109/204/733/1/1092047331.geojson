@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.308671,
-    "geom:area_square_m":14893902733.856239,
+    "geom:area_square_m":14893902536.604376,
     "geom:bbox":"94.771681,22.176311,96.010956,23.863354",
     "geom:latitude":23.012291,
     "geom:longitude":95.448087,
@@ -124,9 +124,10 @@
         "hasc:id":"MM.SA.SH",
         "wd:id":"Q7505842"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898409,
-    "wof:geomhash":"a9736142fef91f2e47f9399e492aa093",
+    "wof:geomhash":"cf7c48ec73f3229d67ffbb0b20997218",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1092047331,
-    "wof:lastmodified":1636504980,
+    "wof:lastmodified":1695886165,
     "wof:name":"Shwebo",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

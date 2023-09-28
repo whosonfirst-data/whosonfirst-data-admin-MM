@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.150787,
-    "geom:area_square_m":13801214569.853203,
+    "geom:area_square_m":13801216714.98173,
     "geom:bbox":"97.779556,13.277472,99.21033,15.10223",
     "geom:latitude":14.089461,
     "geom:longitude":98.470103,
@@ -91,9 +91,10 @@
         "hasc:id":"MM.TN.DW",
         "wd:id":"Q5242297"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898321,
-    "wof:geomhash":"cc914f655e9adde95b7480e739cd2374",
+    "wof:geomhash":"8ae941b4f63b3c9819f573be7334aff6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1092045061,
-    "wof:lastmodified":1636504980,
+    "wof:lastmodified":1695886163,
     "wof:name":"Dawei",
     "wof:parent_id":85674599,
     "wof:placetype":"county",

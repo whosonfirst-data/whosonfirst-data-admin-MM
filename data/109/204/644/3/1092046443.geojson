@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.502168,
-    "geom:area_square_m":5798524749.593464,
+    "geom:area_square_m":5798524678.504692,
     "geom:bbox":"95.465795,20.507925,96.577376,21.409867",
     "geom:latitude":20.959266,
     "geom:longitude":95.973485,
@@ -97,9 +97,10 @@
         "hasc:id":"MM.ML.ME",
         "wd:id":"Q6810080"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898371,
-    "wof:geomhash":"34fb5bedd4fb2ef11990c45f75854fa6",
+    "wof:geomhash":"ca63062f90a8e36c93f1489d25e9d8be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1092046443,
-    "wof:lastmodified":1690939654,
+    "wof:lastmodified":1695886803,
     "wof:name":"Meiktila",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

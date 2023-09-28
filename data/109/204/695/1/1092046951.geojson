@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.241484,
-    "geom:area_square_m":14989679077.735212,
+    "geom:area_square_m":14989679491.511539,
     "geom:bbox":"98.234558,11.316073,99.664822,13.52223",
     "geom:latitude":12.447217,
     "geom:longitude":99.059747,
@@ -100,9 +100,10 @@
         "hasc:id":"MM.TN.MK",
         "wd:id":"Q6947286"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898389,
-    "wof:geomhash":"69d54cdc6459d7aac2ff41ea9737bf99",
+    "wof:geomhash":"5585faaed152edd8f3a97815adbefdca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1092046951,
-    "wof:lastmodified":1636504979,
+    "wof:lastmodified":1695886162,
     "wof:name":"Myeik",
     "wof:parent_id":85674599,
     "wof:placetype":"county",
