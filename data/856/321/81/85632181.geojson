@@ -1339,6 +1339,7 @@
         "hasc:id":"MM",
         "icao:code":"XY",
         "ioc:id":"MYA",
+        "iso:code":"MM",
         "itu:id":"MYA",
         "m49:code":"104",
         "marc:id":"br",
@@ -1352,6 +1353,7 @@
         "wk:page":"Myanmar",
         "wmo:id":"BM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:country_alpha3":"MMR",
     "wof:geom_alt":[
@@ -1373,7 +1375,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1694639568,
+    "wof:lastmodified":1695881227,
     "wof:name":"Myanmar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
