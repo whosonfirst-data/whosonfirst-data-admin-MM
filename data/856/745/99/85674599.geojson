@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.396034,
-    "geom:area_square_m":40959911308.62574,
+    "geom:area_square_m":40959911694.529732,
     "geom:bbox":"97.442108,9.59875,99.664822,15.10223",
     "geom:latitude":12.673917,
     "geom:longitude":98.749886,
@@ -321,15 +321,17 @@
         "gn:id":1293118,
         "gp:id":2344821,
         "hasc:id":"MM.TN",
+        "iso:code":"MM-05",
         "iso:id":"MM-05",
         "qs_pg:id":239499,
         "wd:id":"Q843954"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"169f6fdcd1b78954864118ae4346a658",
+    "wof:geomhash":"bf4381c445e943d36261f0b954887fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -344,7 +346,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939640,
+    "wof:lastmodified":1695884961,
     "wof:name":"Tanintharyi",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

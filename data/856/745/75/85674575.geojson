@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.920488,
-    "geom:area_square_m":10918537221.819695,
+    "geom:area_square_m":10918536731.047215,
     "geom:bbox":"96.866742,14.8799,98.231354,17.713224",
     "geom:latitude":16.388352,
     "geom:longitude":97.59432,
@@ -317,17 +317,19 @@
         "gn:id":1308528,
         "gp:id":2344822,
         "hasc:id":"MM.MO",
+        "iso:code":"MM-15",
         "iso:id":"MM-15",
         "qs_pg:id":235566,
         "unlc:id":"MM-15",
         "wd:id":"Q818742",
         "wk:page":"Mon State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b8e73aeea9f48fab5e0893442417f688",
+    "wof:geomhash":"66622d84241b544b36c9b2d98c82a06f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -342,7 +344,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939638,
+    "wof:lastmodified":1695884960,
     "wof:name":"Mon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

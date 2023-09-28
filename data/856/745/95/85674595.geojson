@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.591264,
-    "geom:area_square_m":156092332510.069977,
+    "geom:area_square_m":156092332567.62326,
     "geom:bbox":"96.150842,19.306594,101.170272,24.161715",
     "geom:latitude":21.722872,
     "geom:longitude":98.122079,
@@ -327,17 +327,19 @@
         "gn:id":1297099,
         "gp:id":2344820,
         "hasc:id":"MM.SH",
+        "iso:code":"MM-17",
         "iso:id":"MM-17",
         "qs_pg:id":894849,
         "unlc:id":"MM-17",
         "wd:id":"Q456847",
         "wk:page":"Shan State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee8275d43ceeb232de3c3f0c32b4fc36",
+    "wof:geomhash":"b816bc675063c8698781776d83f9cdaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -352,7 +354,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939636,
+    "wof:lastmodified":1695884958,
     "wof:name":"Shan",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

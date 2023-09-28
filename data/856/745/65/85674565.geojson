@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.314804,
-    "geom:area_square_m":38913380358.655296,
+    "geom:area_square_m":38913383057.979836,
     "geom:bbox":"94.687132,16.817888,97.222453,19.492925",
     "geom:latitude":18.299358,
     "geom:longitude":96.113901,
@@ -322,17 +322,19 @@
         "gn:id":1300463,
         "gp:id":2344818,
         "hasc:id":"MM.BA",
+        "iso:code":"MM-02",
         "iso:id":"MM-02",
         "qs_pg:id":235565,
         "unlc:id":"MM-02",
         "wd:id":"Q800124",
         "wk:page":"Bago Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9bd00c806b6f98299982a17d01021310",
+    "wof:geomhash":"aec56d8aba9f8b8c3eb92f8431da3a60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -347,7 +349,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939639,
+    "wof:lastmodified":1695884960,
     "wof:name":"Bago",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
