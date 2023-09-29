@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609547,
-    "geom:area_square_m":7089504130.096615,
+    "geom:area_square_m":7089504003.975142,
     "geom:bbox":"95.711838,19.418204,96.673356,20.330936",
     "geom:latitude":19.844967,
     "geom:longitude":96.153635,
@@ -122,12 +122,14 @@
     "wof:concordances":{
         "fips:code":"BM18",
         "hasc:id":"MM.NY",
+        "iso:code":"MM-18",
         "iso:id":"MM-18",
         "wd:id":"Q4796"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:created":1485470526,
-    "wof:geomhash":"80fe5ab3f66d16be6c71d986c75512a9",
+    "wof:geomhash":"72c0616ade1792ce9db4b57da84a829f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -142,7 +144,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939649,
+    "wof:lastmodified":1695884325,
     "wof:name":"Naypyitaw",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

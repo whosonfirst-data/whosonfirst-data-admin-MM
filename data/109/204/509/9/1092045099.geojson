@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303364,
-    "geom:area_square_m":3532909356.860439,
+    "geom:area_square_m":3532909619.199129,
     "geom:bbox":"95.711838,19.418204,96.673356,19.939303",
     "geom:latitude":19.640138,
     "geom:longitude":96.169091,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"MM.MD.YM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898323,
-    "wof:geomhash":"08861384958c13ad1082f3a63a122de1",
+    "wof:geomhash":"671048ccd7a0dfbe596d254c7938cefb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1092045099,
-    "wof:lastmodified":1627522352,
+    "wof:lastmodified":1695886799,
     "wof:name":"Det Khi Na",
     "wof:parent_id":1108804897,
     "wof:placetype":"county",

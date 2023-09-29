@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.962113,
-    "geom:area_square_m":10846149630.115837,
+    "geom:area_square_m":10846148819.001999,
     "geom:bbox":"96.549987,23.634138,97.768675,24.901395",
     "geom:latitude":24.258093,
     "geom:longitude":97.162048,
@@ -99,9 +99,10 @@
         "hasc:id":"MM.KC.BM",
         "wd:id":"Q4900952"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898320,
-    "wof:geomhash":"7f9f0a7d5a564775a90285ffc2df9515",
+    "wof:geomhash":"2ce6e216eb34151fa7827f8819b382a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1092045031,
-    "wof:lastmodified":1690939653,
+    "wof:lastmodified":1695886843,
     "wof:name":"Bhamo",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

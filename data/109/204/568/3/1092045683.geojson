@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.93393,
-    "geom:area_square_m":10737902296.868568,
+    "geom:area_square_m":10737902210.690414,
     "geom:bbox":"98.912966,20.967226,100.233521,22.160172",
     "geom:latitude":21.589477,
     "geom:longitude":99.583235,
@@ -99,9 +99,10 @@
         "hasc:id":"MM.SH.KT",
         "wd:id":"Q6389198"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898343,
-    "wof:geomhash":"8687696ce8f16104bf13d95c21403e0f",
+    "wof:geomhash":"d3c58456f3c57e3118894eaf0586fbfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1092045683,
-    "wof:lastmodified":1690939653,
+    "wof:lastmodified":1695886801,
     "wof:name":"Kengtung",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

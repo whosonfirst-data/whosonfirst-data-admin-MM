@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.716452,
-    "geom:area_square_m":19761323118.138626,
+    "geom:area_square_m":19761322869.058113,
     "geom:bbox":"97.130117,20.438429,98.803675,22.141095",
     "geom:latitude":21.39402,
     "geom:longitude":97.927078,
@@ -97,9 +97,10 @@
         "hasc:id":"MM.SH.LL",
         "wd:id":"Q6668104"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898359,
-    "wof:geomhash":"c472315c8efdefaaeb0c7e773933e999",
+    "wof:geomhash":"70c57b85648bb878ade69aa109a6f9bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1092046115,
-    "wof:lastmodified":1690939655,
+    "wof:lastmodified":1695886802,
     "wof:name":"Loilen",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

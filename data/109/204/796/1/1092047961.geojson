@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.576501,
-    "geom:area_square_m":6597758396.769076,
+    "geom:area_square_m":6597758209.023662,
     "geom:bbox":"94.246725,21.784768,95.161834,22.832414",
     "geom:latitude":22.2488,
     "geom:longitude":94.715571,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"MM.SA.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898431,
-    "wof:geomhash":"05a1719851388c1c9e598e2816f492af",
+    "wof:geomhash":"8da5e12ab64c51051ec2da4681565ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092047961,
-    "wof:lastmodified":1627522362,
+    "wof:lastmodified":1695886009,
     "wof:name":"Yinmabin",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

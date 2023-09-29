@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.621139,
-    "geom:area_square_m":7300347627.199968,
+    "geom:area_square_m":7300347508.881645,
     "geom:bbox":"95.258284,17.466939,96.201992,18.794011",
     "geom:latitude":18.100099,
     "geom:longitude":95.751579,
@@ -94,9 +94,10 @@
         "hasc:id":"MM.BA.TW",
         "wd:id":"Q7710822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898421,
-    "wof:geomhash":"4c5bcab131e1dc5bd1ccaf0ffc2f7d49",
+    "wof:geomhash":"6674fca1ea6f8082779520a11d1ca5bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092047665,
-    "wof:lastmodified":1690939660,
+    "wof:lastmodified":1695886008,
     "wof:name":"Thayarwady",
     "wof:parent_id":85674565,
     "wof:placetype":"county",

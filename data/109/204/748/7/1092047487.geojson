@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.093857,
-    "geom:area_square_m":24205754460.55938,
+    "geom:area_square_m":24205754752.716866,
     "geom:bbox":"96.20779,19.306594,97.473403,22.269783",
     "geom:latitude":20.776029,
     "geom:longitude":96.906387,
@@ -107,9 +107,10 @@
         "hasc:id":"MM.SH.TG",
         "wd:id":"Q7688742"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898415,
-    "wof:geomhash":"cd1c7b35c66cda7e0ce0fef027a766f1",
+    "wof:geomhash":"2f306e26950350bc32e5a1835c37bb2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092047487,
-    "wof:lastmodified":1690939658,
+    "wof:lastmodified":1695886163,
     "wof:name":"Taunggyi",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.678884,
-    "geom:area_square_m":7754772557.424623,
+    "geom:area_square_m":7754773212.61702,
     "geom:bbox":"93.091917,22.007873,94.052108,23.077209",
     "geom:latitude":22.51249,
     "geom:longitude":93.563641,
@@ -95,9 +95,10 @@
         "hasc:id":"MM.CH.FL",
         "wd:id":"Q5640446"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898328,
-    "wof:geomhash":"23a66d02e9560fd553feb7e58f9455c9",
+    "wof:geomhash":"3972af5346c3530f67d77f3c2b5fa680",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092045227,
-    "wof:lastmodified":1690939664,
+    "wof:lastmodified":1695886166,
     "wof:name":"Hakha",
     "wof:parent_id":85674581,
     "wof:placetype":"county",

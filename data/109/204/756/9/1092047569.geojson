@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.898679,
-    "geom:area_square_m":10535685901.073311,
+    "geom:area_square_m":10535684994.180456,
     "geom:bbox":"94.024559,17.337262,94.899796,19.54",
     "geom:latitude":18.531654,
     "geom:longitude":94.501257,
@@ -96,9 +96,10 @@
         "hasc:id":"MM.RA.TD",
         "wd:id":"Q3826754"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898418,
-    "wof:geomhash":"27e206e68b3ec146f6e2d47e663d1b4d",
+    "wof:geomhash":"e454fa75f593687b05f17c958101aac5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1092047569,
-    "wof:lastmodified":1690939659,
+    "wof:lastmodified":1695886805,
     "wof:name":"Thandwe",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

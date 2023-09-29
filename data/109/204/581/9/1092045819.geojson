@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.775916,
-    "geom:area_square_m":9033732965.88603,
+    "geom:area_square_m":9033733464.91671,
     "geom:bbox":"93.469582,18.599556,94.381471,20.57123",
     "geom:latitude":19.678307,
     "geom:longitude":93.926211,
@@ -97,9 +97,10 @@
         "hasc:id":"MM.RA.KP",
         "wd:id":"Q11917391"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898348,
-    "wof:geomhash":"9a6d2f5aae7ad369b6bbbda3019c78c4",
+    "wof:geomhash":"420db004b1420f23a51d15ea207b8c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1092045819,
-    "wof:lastmodified":1690939657,
+    "wof:lastmodified":1695886801,
     "wof:name":"Kyaukpyu",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

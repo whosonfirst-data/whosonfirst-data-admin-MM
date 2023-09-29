@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.597046,
-    "geom:area_square_m":7026130400.54504,
+    "geom:area_square_m":7026129394.129354,
     "geom:bbox":"94.780717,17.338409,95.736495,18.510625",
     "geom:latitude":17.875244,
     "geom:longitude":95.19033,
@@ -105,9 +105,10 @@
         "hasc:id":"MM.AY.HD",
         "wd:id":"Q11917372"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898329,
-    "wof:geomhash":"0be286f09f98aaf53626a9ed26607b78",
+    "wof:geomhash":"bd9ad57ccc28f3098a4551c96a321e2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1092045277,
-    "wof:lastmodified":1690939658,
+    "wof:lastmodified":1695886162,
     "wof:name":"Hinthada",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

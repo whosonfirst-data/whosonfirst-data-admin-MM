@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005995,
-    "geom:area_square_m":70947933.923603,
+    "geom:area_square_m":70947838.37105,
     "geom:bbox":"96.098775,16.766462,96.17413,16.904838",
     "geom:latitude":16.832915,
     "geom:longitude":96.138177,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"MM.YA.YW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898430,
-    "wof:geomhash":"d3fa60e54fee284f09652f9cc46a9175",
+    "wof:geomhash":"5ff67b3b5b4fb0c93f468e7b08131d80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092047923,
-    "wof:lastmodified":1627522362,
+    "wof:lastmodified":1695886009,
     "wof:name":"Yangon (West)",
     "wof:parent_id":85674569,
     "wof:placetype":"county",

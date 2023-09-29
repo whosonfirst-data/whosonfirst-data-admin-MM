@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.368567,
-    "geom:area_square_m":15832037279.364277,
+    "geom:area_square_m":15832037094.49044,
     "geom:bbox":"98.484859,19.718147,99.68133,21.656084",
     "geom:latitude":20.676555,
     "geom:longitude":99.011993,
@@ -89,9 +89,10 @@
         "hasc:id":"MM.SH.MH",
         "wd:id":"Q15255093"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898380,
-    "wof:geomhash":"ea88175f2452b990c6a1661f9d56f6ce",
+    "wof:geomhash":"9111c580005a1793cf7f3e7413267354",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1092046683,
-    "wof:lastmodified":1690939656,
+    "wof:lastmodified":1695886803,
     "wof:name":"Monghsat",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07687,
-    "geom:area_square_m":872114713.296837,
+    "geom:area_square_m":872115226.882155,
     "geom:bbox":"98.422608,23.216467,98.81792,23.691595",
     "geom:latitude":23.434157,
     "geom:longitude":98.607256,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"MM.SH.KL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898345,
-    "wof:geomhash":"20627088b7f946a16fd98ce43b74b811",
+    "wof:geomhash":"8014913a603ec6987a70b544c5629500",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1092045729,
-    "wof:lastmodified":1627522354,
+    "wof:lastmodified":1695886801,
     "wof:name":"Kunlong",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

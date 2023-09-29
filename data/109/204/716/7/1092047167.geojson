@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.429302,
-    "geom:area_square_m":5098463969.061194,
+    "geom:area_square_m":5098463449.589849,
     "geom:bbox":"95.090385,15.707889,96.079559,16.633263",
     "geom:latitude":16.166169,
     "geom:longitude":95.535355,
@@ -91,9 +91,10 @@
         "hasc:id":"MM.AY.PP",
         "wd:id":"Q7262856"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898403,
-    "wof:geomhash":"abe05100b145e09c4c5dd6816f672b28",
+    "wof:geomhash":"08cf65539d714a1a8b86ba65808d1ebb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1092047167,
-    "wof:lastmodified":1690939665,
+    "wof:lastmodified":1695886805,
     "wof:name":"Pyapon",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

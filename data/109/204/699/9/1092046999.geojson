@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.565645,
-    "geom:area_square_m":6517158766.899927,
+    "geom:area_square_m":6517159132.910126,
     "geom:bbox":"94.992319,20.544574,95.980553,21.928803",
     "geom:latitude":21.283221,
     "geom:longitude":95.461253,
@@ -105,9 +105,10 @@
         "hasc:id":"MM.ML.MN",
         "wd:id":"Q13651432"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898391,
-    "wof:geomhash":"6c1ba95014369338774259523ee64f43",
+    "wof:geomhash":"dcecac2cc8eb027f2cfbd62d4ca8581c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1092046999,
-    "wof:lastmodified":1690939662,
+    "wof:lastmodified":1695886167,
     "wof:name":"Myingyan",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.830276,
-    "geom:area_square_m":9819804896.031736,
+    "geom:area_square_m":9819804638.332859,
     "geom:bbox":"93.230392,13.969584,96.802179,17.791967",
     "geom:latitude":16.960018,
     "geom:longitude":96.154935,
@@ -342,17 +342,19 @@
         "gn:id":1298822,
         "gp:id":2344823,
         "hasc:id":"MM.YA",
+        "iso:code":"MM-06",
         "iso:id":"MM-06",
         "qs_pg:id":219514,
         "unlc:id":"MM-06",
         "wd:id":"Q856781",
         "wk:page":"Yangon Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"82e8cce1ebbf365e3a1db8f042012949",
+    "wof:geomhash":"8c857a330f942deceddaea07d7d05821",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -367,7 +369,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939638,
+    "wof:lastmodified":1695884960,
     "wof:name":"Yangon",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

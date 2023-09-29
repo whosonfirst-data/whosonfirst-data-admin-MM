@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.656061,
-    "geom:area_square_m":7428216254.112294,
+    "geom:area_square_m":7428216022.553525,
     "geom:bbox":"97.341832,23.296411,98.593335,24.131124",
     "geom:latitude":23.698032,
     "geom:longitude":98.019612,
@@ -91,9 +91,10 @@
         "hasc:id":"MM.SH.MS",
         "wd:id":"Q15260159"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898385,
-    "wof:geomhash":"5071ac12339e924344f5dab89939f552",
+    "wof:geomhash":"676d0aa361602ddb716d18dedd027a30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1092046811,
-    "wof:lastmodified":1690939654,
+    "wof:lastmodified":1695886804,
     "wof:name":"Muse",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

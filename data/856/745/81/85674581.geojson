@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.153062,
-    "geom:area_square_m":36101572203.893524,
+    "geom:area_square_m":36101572414.716339,
     "geom:bbox":"92.600934,20.641404,94.151813,24.106396",
     "geom:latitude":22.169771,
     "geom:longitude":93.509674,
@@ -332,17 +332,19 @@
         "gn:id":1327132,
         "gp:id":2344811,
         "hasc:id":"MM.CH",
+        "iso:code":"MM-14",
         "iso:id":"MM-14",
         "qs_pg:id":229363,
         "unlc:id":"MM-14",
         "wd:id":"Q46910",
         "wk:page":"Chin State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05fa77e6f40a3a8c5ef1580d16e2effa",
+    "wof:geomhash":"b770538520babf20397feb36c6c2f4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -357,7 +359,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939639,
+    "wof:lastmodified":1695884961,
     "wof:name":"Chin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

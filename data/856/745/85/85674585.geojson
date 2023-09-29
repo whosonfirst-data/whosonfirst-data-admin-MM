@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.898422,
-    "geom:area_square_m":34294826118.46236,
+    "geom:area_square_m":34294825716.527328,
     "geom:bbox":"94.190414,15.707889,96.079559,18.510625",
     "geom:latitude":16.870585,
     "geom:longitude":95.115773,
@@ -349,16 +349,18 @@
         "gn:id":1321850,
         "gp:id":2344812,
         "hasc:id":"MM.AY",
+        "iso:code":"MM-07",
         "iso:id":"MM-07",
         "qs_pg:id":219512,
         "wd:id":"Q47047",
         "wk:page":"Ayeyarwady Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61e3a7fedb35cf72dae8a51a449c1c4f",
+    "wof:geomhash":"fd7a87a09e8c52c53996522b1dcdc58b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -373,7 +375,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939641,
+    "wof:lastmodified":1695884962,
     "wof:name":"Ayeyarwady",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

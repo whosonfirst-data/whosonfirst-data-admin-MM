@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.755006,
-    "geom:area_square_m":8566401673.48539,
+    "geom:area_square_m":8566401655.150648,
     "geom:bbox":"93.324205,22.786867,94.151813,24.106396",
     "geom:latitude":23.421865,
     "geom:longitude":93.714763,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"MM.CH.FL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898324,
-    "wof:geomhash":"8d922b40ba6608de8a12c01699f373ab",
+    "wof:geomhash":"eacb93a82bd1b009fee59552f0b09c87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092045149,
-    "wof:lastmodified":1627522352,
+    "wof:lastmodified":1695886799,
     "wof:name":"Falam",
     "wof:parent_id":85674581,
     "wof:placetype":"county",

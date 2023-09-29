@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.574392,
-    "geom:area_square_m":6751801725.281112,
+    "geom:area_square_m":6751801041.772289,
     "geom:bbox":"96.932938,17.328946,97.767417,18.812884",
     "geom:latitude":18.076301,
     "geom:longitude":97.368628,
@@ -60,9 +60,10 @@
     "wof:concordances":{
         "hasc:id":"MM.KN.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898335,
-    "wof:geomhash":"767c809e87d7dc91412ba63e952a0007",
+    "wof:geomhash":"d14ec1bfd4d719e5f55e13fb583ea70e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1092045467,
-    "wof:lastmodified":1627522353,
+    "wof:lastmodified":1695886799,
     "wof:name":"Hpapun",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

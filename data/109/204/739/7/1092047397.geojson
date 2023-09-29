@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.34107,
-    "geom:area_square_m":3945224052.963682,
+    "geom:area_square_m":3945224116.990748,
     "geom:bbox":"99.441859,20.31624,100.649297,21.047316",
     "geom:latitude":20.696107,
     "geom:longitude":99.994299,
@@ -94,9 +94,10 @@
         "hasc:id":"MM.SH.TC",
         "wd:id":"Q7673734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898412,
-    "wof:geomhash":"fe7f4eee32c4fb05b3d04ec8c431c429",
+    "wof:geomhash":"2774e99d31251a02dd7884df9a17c89e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092047397,
-    "wof:lastmodified":1690939652,
+    "wof:lastmodified":1695886805,
     "wof:name":"Tachileik",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

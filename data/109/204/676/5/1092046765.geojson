@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.726511,
-    "geom:area_square_m":8415766431.079873,
+    "geom:area_square_m":8415765990.372975,
     "geom:bbox":"92.717528,19.647028,93.866716,21.211385",
     "geom:latitude":20.474829,
     "geom:longitude":93.356179,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"MM.RA.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898383,
-    "wof:geomhash":"8e5c65c0d79c6e884a05a47b87dbff79",
+    "wof:geomhash":"ced99c9d0b05f948b8b88b874164cfbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1092046765,
-    "wof:lastmodified":1627522358,
+    "wof:lastmodified":1695886803,
     "wof:name":"Mrauk-U",
     "wof:parent_id":85674579,
     "wof:placetype":"county",

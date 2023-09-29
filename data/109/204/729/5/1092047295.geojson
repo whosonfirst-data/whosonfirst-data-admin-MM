@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214358,
-    "geom:area_square_m":2457777282.880638,
+    "geom:area_square_m":2457777053.13628,
     "geom:bbox":"95.177674,21.578638,96.024242,22.250667",
     "geom:latitude":21.987577,
     "geom:longitude":95.644428,
@@ -114,9 +114,10 @@
         "hasc:id":"MM.SA.SA",
         "wd:id":"Q7398942"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898408,
-    "wof:geomhash":"808448942b805f350a0cf1ef78d3643c",
+    "wof:geomhash":"30c984b7c49b0d3abe2331261fcfd1c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1092047295,
-    "wof:lastmodified":1690939666,
+    "wof:lastmodified":1695886167,
     "wof:name":"Sagaing",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

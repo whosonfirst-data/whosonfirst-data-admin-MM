@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.51127,
-    "geom:area_square_m":6083222177.324924,
+    "geom:area_square_m":6083221975.700961,
     "geom:bbox":"97.445389,14.8799,98.231354,16.601928",
     "geom:latitude":15.788284,
     "geom:longitude":97.846364,
@@ -102,9 +102,10 @@
         "hasc:id":"MM.MO.ML",
         "wd:id":"Q6794425"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898370,
-    "wof:geomhash":"2d6e7c2fa8b8c4e332c2a7fdb1b3bdd0",
+    "wof:geomhash":"d0b88d8c68424d4d2e8306b2edd71716",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1092046407,
-    "wof:lastmodified":1690939661,
+    "wof:lastmodified":1695886166,
     "wof:name":"Mawlamyine",
     "wof:parent_id":85674575,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.130973,
-    "geom:area_square_m":12897916006.705627,
+    "geom:area_square_m":12897915149.963779,
     "geom:bbox":"97.517122,21.838542,98.766623,23.401321",
     "geom:latitude":22.734178,
     "geom:longitude":98.159242,
@@ -103,9 +103,10 @@
         "hasc:id":"MM.SH.LS",
         "wd:id":"Q15241752"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898354,
-    "wof:geomhash":"4c14d7518f68ccde48d18d335dcdc9a8",
+    "wof:geomhash":"cfa8d669f389d9c363a2d623e1eb9673",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1092046001,
-    "wof:lastmodified":1690939663,
+    "wof:lastmodified":1695886802,
     "wof:name":"Lashio",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

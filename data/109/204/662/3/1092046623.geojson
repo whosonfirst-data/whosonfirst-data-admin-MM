@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.577711,
-    "geom:area_square_m":6658954663.61256,
+    "geom:area_square_m":6658954376.053506,
     "geom:bbox":"99.455414,20.735371,101.170272,21.77776",
     "geom:latitude":21.223261,
     "geom:longitude":100.347154,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"MM.SH.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898378,
-    "wof:geomhash":"9eb592678b277798ab98529322f68e74",
+    "wof:geomhash":"c18d6b8278481f6eb0c1386ae21b93d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092046623,
-    "wof:lastmodified":1627522357,
+    "wof:lastmodified":1695886803,
     "wof:name":"Monghpyak",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

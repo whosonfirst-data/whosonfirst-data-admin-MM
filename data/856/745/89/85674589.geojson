@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.882804,
-    "geom:area_square_m":44971620583.43325,
+    "geom:area_square_m":44971619817.929237,
     "geom:bbox":"93.847579,18.835211,95.859612,22.763971",
     "geom:latitude":20.480113,
     "geom:longitude":94.816186,
@@ -315,17 +315,19 @@
         "gn:id":1312604,
         "gp:id":2344816,
         "hasc:id":"MM.MG",
+        "iso:code":"MM-03",
         "iso:id":"MM-03",
         "qs_pg:id":901861,
         "unlc:id":"MM-03",
         "wd:id":"Q833013",
         "wk:page":"Magway Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b303d8bb30f06358f30bebfab2c084f6",
+    "wof:geomhash":"3cc9695eb2a1940e26175c4aad148cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -340,7 +342,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939638,
+    "wof:lastmodified":1695884960,
     "wof:name":"Magway",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

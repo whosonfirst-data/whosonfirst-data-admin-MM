@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.031617,
-    "geom:area_square_m":12029033401.166702,
+    "geom:area_square_m":12029033241.655293,
     "geom:bbox":"94.317548,18.835211,95.859612,20.000136",
     "geom:latitude":19.437126,
     "geom:longitude":95.051923,
@@ -91,9 +91,10 @@
         "hasc:id":"MM.MG.TY",
         "wd:id":"Q7711561"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898423,
-    "wof:geomhash":"cdd9393dd2ad5748b9d3d231515d67e1",
+    "wof:geomhash":"41f50ea4b4ffc48a84f496c012e11774",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1092047713,
-    "wof:lastmodified":1690939657,
+    "wof:lastmodified":1695886008,
     "wof:name":"Thayet",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

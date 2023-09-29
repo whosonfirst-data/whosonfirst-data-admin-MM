@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.019351,
-    "geom:area_square_m":89050954397.192947,
+    "geom:area_square_m":89050953826.202759,
     "geom:bbox":"95.814369,23.634138,98.782209,28.547835",
     "geom:latitude":26.075926,
     "geom:longitude":97.344157,
@@ -338,17 +338,19 @@
         "gn:id":1321702,
         "gp:id":2344813,
         "hasc:id":"MM.KC",
+        "iso:code":"MM-11",
         "iso:id":"MM-11",
         "qs_pg:id":219513,
         "unlc:id":"MM-11",
         "wd:id":"Q140646",
         "wk:page":"Kachin State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"440067f085f8feca3b30f9a7fa390020",
+    "wof:geomhash":"4fe8317fa2265a915d4d41f8e73d2d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -363,7 +365,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939631,
+    "wof:lastmodified":1695884958,
     "wof:name":"Kachin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

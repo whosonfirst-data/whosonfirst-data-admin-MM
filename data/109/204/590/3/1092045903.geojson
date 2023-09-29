@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.341787,
-    "geom:area_square_m":4059326515.95379,
+    "geom:area_square_m":4059326657.949305,
     "geom:bbox":"94.547058,15.712889,95.531549,16.587844",
     "geom:latitude":16.156622,
     "geom:longitude":94.982946,
@@ -128,9 +128,10 @@
         "hasc:id":"MM.AY.MM",
         "wd:id":"Q6467701"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898351,
-    "wof:geomhash":"4952ca67c2f28c5fd8ad99a6bf29e8e8",
+    "wof:geomhash":"741723aa2c7f4e37476c0c5101862863",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092045903,
-    "wof:lastmodified":1690939659,
+    "wof:lastmodified":1695886164,
     "wof:name":"Labutta",
     "wof:parent_id":85674585,
     "wof:placetype":"county",

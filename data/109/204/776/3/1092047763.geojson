@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328404,
-    "geom:area_square_m":3803802753.750889,
+    "geom:area_square_m":3803802286.889975,
     "geom:bbox":"95.568573,20.194937,96.544702,20.77572",
     "geom:latitude":20.492026,
     "geom:longitude":96.063177,
@@ -93,9 +93,10 @@
         "hasc:id":"MM.ML.YM",
         "wd:id":"Q8048034"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898424,
-    "wof:geomhash":"3cc492b23d280f92863eee4f8cab6623",
+    "wof:geomhash":"06e8bd570fabcdc3eb268e4068cdc7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1092047763,
-    "wof:lastmodified":1690939657,
+    "wof:lastmodified":1695886008,
     "wof:name":"Yamethin",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

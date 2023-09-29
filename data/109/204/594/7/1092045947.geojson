@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.170452,
-    "geom:area_square_m":13580317915.227003,
+    "geom:area_square_m":13580318244.828014,
     "geom:bbox":"97.388175,19.575771,98.697867,20.961995",
     "geom:latitude":20.224875,
     "geom:longitude":98.065092,
@@ -60,9 +60,10 @@
     "wof:concordances":{
         "hasc:id":"MM.SH.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898353,
-    "wof:geomhash":"fa3a641c6e3c9e33acf3d5d7aa4e7bc7",
+    "wof:geomhash":"aa71b14e7dbaa9243139ea1302409856",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1092045947,
-    "wof:lastmodified":1627522355,
+    "wof:lastmodified":1695886802,
     "wof:name":"Langkho",
     "wof:parent_id":85674595,
     "wof:placetype":"county",

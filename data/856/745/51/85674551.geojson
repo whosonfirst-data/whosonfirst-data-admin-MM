@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.00973,
-    "geom:area_square_m":11788343709.424423,
+    "geom:area_square_m":11788343979.999567,
     "geom:bbox":"96.819841,18.491094,97.888151,19.996601",
     "geom:latitude":19.234331,
     "geom:longitude":97.374753,
@@ -171,15 +171,17 @@
         "gn:id":1319539,
         "gp:id":2344815,
         "hasc:id":"MM.KH",
+        "iso:code":"MM-12",
         "iso:id":"MM-12",
         "qs_pg:id":239500,
         "unlc:id":"MM-12"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe319144ff10bc97537b94d759c7c6ca",
+    "wof:geomhash":"967d9826a916e7e6b36addb6292edade",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +196,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1636504963,
+    "wof:lastmodified":1695884960,
     "wof:name":"Kayah",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

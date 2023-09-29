@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.575553,
-    "geom:area_square_m":30425414155.345978,
+    "geom:area_square_m":30425413767.528473,
     "geom:bbox":"96.394527,15.220098,98.931777,19.505371",
     "geom:latitude":17.151535,
     "geom:longitude":97.786922,
@@ -329,17 +329,19 @@
         "gn:id":1320233,
         "gp:id":2344814,
         "hasc:id":"MM.KN",
+        "iso:code":"MM-13",
         "iso:id":"MM-13",
         "qs_pg:id":235564,
         "unlc:id":"MM-13",
         "wd:id":"Q495342",
         "wk:page":"Kayin State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b53addbc7d544d2f5fb856d97f181fd",
+    "wof:geomhash":"76d31c8c81e7153b8244b6b5b5065313",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -354,7 +356,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939637,
+    "wof:lastmodified":1695884959,
     "wof:name":"Kayin",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

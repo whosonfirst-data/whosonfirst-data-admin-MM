@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.83423,
-    "geom:area_square_m":9676755237.496754,
+    "geom:area_square_m":9676755116.682688,
     "geom:bbox":"94.686277,19.627765,95.833738,20.939025",
     "geom:latitude":20.265235,
     "geom:longitude":95.316115,
@@ -109,9 +109,10 @@
         "hasc:id":"MM.MG.MG",
         "wd:id":"Q6732567"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898361,
-    "wof:geomhash":"0c707eb3a41d304c8488ae0166ec2cb6",
+    "wof:geomhash":"912bef3bf313619b861f69cf40076b14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1092046159,
-    "wof:lastmodified":1690939661,
+    "wof:lastmodified":1695886166,
     "wof:name":"Magway",
     "wof:parent_id":85674589,
     "wof:placetype":"county",

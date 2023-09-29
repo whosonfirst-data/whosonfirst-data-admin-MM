@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36232,
-    "geom:area_square_m":4165063378.952079,
+    "geom:area_square_m":4165063946.879248,
     "geom:bbox":"95.748624,21.143908,96.893695,22.024229",
     "geom:latitude":21.615993,
     "geom:longitude":96.227,
@@ -108,9 +108,10 @@
         "hasc:id":"MM.ML.KS",
         "wd:id":"Q6450781"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898350,
-    "wof:geomhash":"b3797ca8b5edce9bfd9577017d200483",
+    "wof:geomhash":"433e3f1124a0b0fc4360388e9baa376d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092045867,
-    "wof:lastmodified":1690939656,
+    "wof:lastmodified":1695886801,
     "wof:name":"Kyaukse",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

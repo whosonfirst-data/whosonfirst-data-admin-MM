@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080114,
-    "geom:area_square_m":918724253.208148,
+    "geom:area_square_m":918724253.208183,
     "geom:bbox":"95.984136,21.771705,96.361765,22.167299",
     "geom:latitude":21.963493,
     "geom:longitude":96.164179,
@@ -105,12 +105,13 @@
         "hasc:id":"MM.ML.MA",
         "wd:id":"Q3825102"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         890443763
     ],
     "wof:country":"MM",
     "wof:created":1473898363,
-    "wof:geomhash":"9207e5d5628444e9a6971de397e8f34c",
+    "wof:geomhash":"fd100ea927d53ea33561fa320cc9b5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092046205,
-    "wof:lastmodified":1690939655,
+    "wof:lastmodified":1695886161,
     "wof:name":"Mandalay",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

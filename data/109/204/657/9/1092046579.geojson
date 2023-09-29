@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.381913,
-    "geom:area_square_m":15447965231.007257,
+    "geom:area_square_m":15447965826.052698,
     "geom:bbox":"95.814369,24.479844,97.200314,26.133939",
     "geom:latitude":25.302289,
     "geom:longitude":96.497911,
@@ -85,9 +85,10 @@
         "hasc:id":"MM.KC.MT",
         "wd:id":"Q6894270"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898376,
-    "wof:geomhash":"000bd02910915b47ca395c093754b523",
+    "wof:geomhash":"89fa6d31be6c525a0a87e513574374c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092046579,
-    "wof:lastmodified":1690939656,
+    "wof:lastmodified":1695886803,
     "wof:name":"Mohnyin",
     "wof:parent_id":85674605,
     "wof:placetype":"county",

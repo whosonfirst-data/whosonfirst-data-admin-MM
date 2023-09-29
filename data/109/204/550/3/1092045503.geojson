@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.759978,
-    "geom:area_square_m":8644982409.369211,
+    "geom:area_square_m":8644982159.632187,
     "geom:bbox":"93.948932,22.252364,94.949569,23.655453",
     "geom:latitude":23.080194,
     "geom:longitude":94.409478,
@@ -91,9 +91,10 @@
         "hasc:id":"MM.SA.KM",
         "wd:id":"Q6351853"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898337,
-    "wof:geomhash":"6073bfd0233e6cc92b4eb65e98e2e374",
+    "wof:geomhash":"2b0f9eea283a5763c7988b32314b500b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1092045503,
-    "wof:lastmodified":1690939653,
+    "wof:lastmodified":1695886800,
     "wof:name":"Kale",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

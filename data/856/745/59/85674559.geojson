@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.699185,
-    "geom:area_square_m":31040244768.227646,
+    "geom:area_square_m":31040245209.357033,
     "geom:bbox":"94.828847,20.194937,96.893695,23.682283",
     "geom:latitude":21.547719,
     "geom:longitude":95.947138,
@@ -335,17 +335,19 @@
         "gn:id":1311871,
         "gp:id":2344817,
         "hasc:id":"MM.ML",
+        "iso:code":"MM-04",
         "iso:id":"MM-04",
         "qs_pg:id":901859,
         "unlc:id":"MM-04",
         "wd:id":"Q119494",
         "wk:page":"Mandalay Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"697198e14c6da4f4ec3873bb0d6e157d",
+    "wof:geomhash":"e3f73ae0140c8da44b1de825a9034bca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +362,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939637,
+    "wof:lastmodified":1695884960,
     "wof:name":"Mandalay",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.810654,
-    "geom:area_square_m":9635200567.853384,
+    "geom:area_square_m":9635200431.585739,
     "geom:bbox":"97.81497,15.220098,98.610764,16.857501",
     "geom:latitude":16.003322,
     "geom:longitude":98.226259,
@@ -91,9 +91,10 @@
         "hasc:id":"MM.KN.KK",
         "wd:id":"Q6380015"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898339,
-    "wof:geomhash":"c114ba8ec3ac92429de0432fe5a40bc3",
+    "wof:geomhash":"10d0e96f6d41bf5deeabead175b90895",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1092045583,
-    "wof:lastmodified":1627522353,
+    "wof:lastmodified":1695886800,
     "wof:name":"Kawkareik",
     "wof:parent_id":85674557,
     "wof:placetype":"county",

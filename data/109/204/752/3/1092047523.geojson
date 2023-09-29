@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.912903,
-    "geom:area_square_m":10685011690.840172,
+    "geom:area_square_m":10685012434.072151,
     "geom:bbox":"95.79929,18.127984,97.139353,19.492925",
     "geom:latitude":18.812197,
     "geom:longitude":96.347248,
@@ -108,9 +108,10 @@
         "hasc:id":"MM.BA.TA",
         "wd:id":"Q7688753"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898417,
-    "wof:geomhash":"25e59953394ba6b796074e1228007953",
+    "wof:geomhash":"aed31028585f916477a5912c4a4a46a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092047523,
-    "wof:lastmodified":1636504978,
+    "wof:lastmodified":1695886162,
     "wof:name":"Taungoo",
     "wof:parent_id":85674565,
     "wof:placetype":"county",

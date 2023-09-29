@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.73353,
-    "geom:area_square_m":8371678947.755641,
+    "geom:area_square_m":8371678864.201945,
     "geom:bbox":"95.900028,21.66883,96.763457,23.682283",
     "geom:latitude":22.628094,
     "geom:longitude":96.25031,
@@ -88,9 +88,10 @@
         "hasc:id":"MM.ML.PL",
         "wd:id":"Q7263053"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898406,
-    "wof:geomhash":"d14e3bf01e653e107233a13238356d76",
+    "wof:geomhash":"f39ecf6ff8db44bee526fb20b3f0083b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1092047259,
-    "wof:lastmodified":1690939656,
+    "wof:lastmodified":1695886805,
     "wof:name":"Pyinoolwin",
     "wof:parent_id":85674559,
     "wof:placetype":"county",

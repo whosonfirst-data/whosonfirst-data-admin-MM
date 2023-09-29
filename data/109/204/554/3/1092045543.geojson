@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.408313,
-    "geom:area_square_m":15892802262.578384,
+    "geom:area_square_m":15892802867.882843,
     "geom:bbox":"95.017996,23.483836,96.663963,24.962426",
     "geom:latitude":24.125067,
     "geom:longitude":95.84501,
@@ -85,9 +85,10 @@
         "hasc:id":"MM.SA.KA",
         "wd:id":"Q6376075"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MM",
     "wof:created":1473898338,
-    "wof:geomhash":"94bca95726db9f858dde4e3a995a7f77",
+    "wof:geomhash":"521975cf9b5ec802b5d4e7b84dfac077",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092045543,
-    "wof:lastmodified":1690939660,
+    "wof:lastmodified":1695886800,
     "wof:name":"Katha",
     "wof:parent_id":85674607,
     "wof:placetype":"county",

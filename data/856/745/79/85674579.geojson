@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.994484,
-    "geom:area_square_m":34846843538.133957,
+    "geom:area_square_m":34846841987.314804,
     "geom:bbox":"92.171808,17.337262,94.899796,21.47971",
     "geom:latitude":19.737594,
     "geom:longitude":93.713279,
@@ -333,17 +333,19 @@
         "gn:id":1298852,
         "gp:id":2344810,
         "hasc:id":"MM.RA",
+        "iso:code":"MM-16",
         "iso:id":"MM-16",
         "qs_pg:id":219511,
         "unlc:id":"MM-16",
         "wd:id":"Q233838",
         "wk:page":"Rakhine State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75ab170da6f3c38a5f02d5a3eb3b55f3",
+    "wof:geomhash":"1c45e3e58b3be6e2bab95ed2b19be8e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -358,7 +360,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939641,
+    "wof:lastmodified":1695884962,
     "wof:name":"Rakhine",
     "wof:parent_id":85632181,
     "wof:placetype":"region",

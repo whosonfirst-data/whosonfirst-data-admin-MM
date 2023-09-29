@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.315191,
-    "geom:area_square_m":93778459429.731049,
+    "geom:area_square_m":93778459843.882172,
     "geom:bbox":"93.948932,21.578638,97.069332,27.376638",
     "geom:latitude":24.167274,
     "geom:longitude":95.324061,
@@ -309,16 +309,18 @@
         "gn:id":1298480,
         "gp:id":2344819,
         "hasc:id":"MM.SA",
+        "iso:code":"MM-01",
         "iso:id":"MM-01",
         "qs_pg:id":900663,
         "unlc:id":"MM-01",
         "wd:id":"Q847289"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MM",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0a9ca362c1c99d3c327fdce38bc86b3",
+    "wof:geomhash":"c615661501520105f193c305fc5678d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "mya"
     ],
-    "wof:lastmodified":1690939631,
+    "wof:lastmodified":1695884959,
     "wof:name":"Sagaing",
     "wof:parent_id":85632181,
     "wof:placetype":"region",
