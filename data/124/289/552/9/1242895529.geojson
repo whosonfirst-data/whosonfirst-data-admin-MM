@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1479466
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1479467
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"9815ae771555cc001f2492fc4b070879",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1242895529,
-    "wof:lastmodified":1566610451,
+    "wof:lastmodified":1706240353,
     "wof:name":"Zayat",
     "wof:parent_id":1092044973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293093169
+    ],
     "wof:tags":[]
 },
   "bbox": [

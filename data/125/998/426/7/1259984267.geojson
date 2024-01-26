@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1286199
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1286200
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"21c031ae727aa0ab52fe8bf7686a22f3",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259984267,
-    "wof:lastmodified":1566610861,
+    "wof:lastmodified":1706240353,
     "wof:name":"Whemon",
     "wof:parent_id":1092045467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276220171
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":1314897
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1479851
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"cf8c56261a7acbfd66e8365b1805215e",
     "wof:hierarchy":[
@@ -48,13 +53,15 @@
         }
     ],
     "wof:id":1209191833,
-    "wof:lastmodified":1566609432,
+    "wof:lastmodified":1706240352,
     "wof:name":"La-ne",
     "wof:parent_id":85632181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310589035
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1325577
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1481696
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"47a63370b8871a57d0fc8cd88a2e4930",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1243230199,
-    "wof:lastmodified":1566610578,
+    "wof:lastmodified":1706240353,
     "wof:name":"Gyogon",
     "wof:parent_id":1092047923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327110649
+    ],
     "wof:tags":[]
 },
   "bbox": [

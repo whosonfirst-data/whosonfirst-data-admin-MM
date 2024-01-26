@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1289671
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1479551
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"fc5fab10b84873710b6ad0c1c5d2d3d2",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1276321485,
-    "wof:lastmodified":1566608797,
+    "wof:lastmodified":1706240354,
     "wof:name":"Wan Hai-oi",
     "wof:parent_id":1092046115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293764053
+    ],
     "wof:tags":[]
 },
   "bbox": [

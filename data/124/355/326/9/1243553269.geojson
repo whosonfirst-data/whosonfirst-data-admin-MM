@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1319843
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1464358
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"9048e9fa3cf989237eb839db3e60767f",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1243553269,
-    "wof:lastmodified":1566610436,
+    "wof:lastmodified":1706240353,
     "wof:name":"Kawmatke",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277073111
+    ],
     "wof:tags":[]
 },
   "bbox": [

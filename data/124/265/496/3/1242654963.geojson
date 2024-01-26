@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1479371
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1289460
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"d05b17fa44e9cfb786f1b79de0035ad6",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1242654963,
-    "wof:lastmodified":1566610745,
+    "wof:lastmodified":1706240353,
     "wof:name":"Wan Ho-na",
     "wof:parent_id":1092046683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259856961
+    ],
     "wof:tags":[]
 },
   "bbox": [

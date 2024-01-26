@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1987771
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1847171
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"fb9e5d3ea4c66d629792f838640898f1",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1226419931,
-    "wof:lastmodified":1566611459,
+    "wof:lastmodified":1706240353,
     "wof:name":"Wan Sa-hse",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243542489
+    ],
     "wof:tags":[]
 },
   "bbox": [
