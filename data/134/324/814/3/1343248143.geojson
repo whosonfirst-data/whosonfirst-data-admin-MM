@@ -69,6 +69,11 @@
     "wof:concordances":{
         "gn:id":1328033
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1464320
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"7d47d0a0777a57d9708beceec2147acc",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1343248143,
-    "wof:lastmodified":1566607879,
+    "wof:lastmodified":1706240354,
     "wof:name":"Bonet",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343943919
+    ],
     "wof:tags":[]
 },
   "bbox": [

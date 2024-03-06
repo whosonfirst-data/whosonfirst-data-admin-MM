@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1464321
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1294990
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"9e21b8e8fc3da8e129cdbce1253d1170",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1276311993,
-    "wof:lastmodified":1566609046,
+    "wof:lastmodified":1706240354,
     "wof:name":"Takuka",
     "wof:parent_id":1092046407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309891783
+    ],
     "wof:tags":[]
 },
   "bbox": [

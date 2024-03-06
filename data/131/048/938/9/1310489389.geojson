@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1907092
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1478635
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"87072c84b344accc3a92c9beedeca6b9",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1310489389,
-    "wof:lastmodified":1566609749,
+    "wof:lastmodified":1706240354,
     "wof:name":"Wan Ra-sa-kiao",
     "wof:parent_id":1092047397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326918135
+    ],
     "wof:tags":[]
 },
   "bbox": [

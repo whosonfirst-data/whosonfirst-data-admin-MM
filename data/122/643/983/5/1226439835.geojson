@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1482951
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1284445
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"364391e9c5c28191246b00b60189ab68",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1226439835,
-    "wof:lastmodified":1566611198,
+    "wof:lastmodified":1706240353,
     "wof:name":"Ywathit",
     "wof:parent_id":1092044973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260072221
+    ],
     "wof:tags":[]
 },
   "bbox": [

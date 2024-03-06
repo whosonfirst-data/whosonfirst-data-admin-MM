@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1289210
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1479348
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"59dfa4a871bca086a8d8932b604b35ff",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1192995799,
-    "wof:lastmodified":1566609554,
+    "wof:lastmodified":1706240352,
     "wof:name":"Wan Hsenglao",
     "wof:parent_id":1092045683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310578739
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1464366
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1301705
+        ]
+    },
     "wof:country":"MM",
     "wof:geomhash":"d8d7dee39447c2f6e58d48b3f885f437",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209708847,
-    "wof:lastmodified":1566609192,
+    "wof:lastmodified":1706240353,
     "wof:name":"Pangon",
     "wof:parent_id":1092045417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326523307
+    ],
     "wof:tags":[]
 },
   "bbox": [
